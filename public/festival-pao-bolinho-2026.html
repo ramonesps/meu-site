@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>24° Festival de Pão com Bolinho – Curitiba 2026</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css"/>
+<style>
+*{box-sizing:border-box;margin:0;padding:0;}
+:root{--amb:#E8A020;--dark:#1A1208;--rust:#C4410C;}
+body{font-family:system-ui,sans-serif;height:100vh;display:flex;flex-direction:column;overflow:hidden;}
+header{background:var(--dark);padding:10px 16px;display:flex;align-items:center;justify-content:space-between;gap:12px;border-bottom:3px solid var(--amb);flex-shrink:0;}
+header h1{font-size:15px;font-weight:500;color:var(--amb);line-height:1.2;}
+header p{font-size:11px;color:rgba(255,255,255,.55);margin-top:2px;}
+.badge{background:var(--amb);color:var(--dark);font-weight:700;font-size:12px;padding:4px 12px;border-radius:100px;white-space:nowrap;flex-shrink:0;}
+.searchbar{background:var(--dark);padding:6px 16px 8px;flex-shrink:0;}
+.searchbar input{width:100%;max-width:440px;background:rgba(255,255,255,.09);border:1px solid rgba(255,255,255,.15);border-radius:6px;padding:6px 12px;color:#fff;font-size:12px;outline:none;}
+.searchbar input::placeholder{color:rgba(255,255,255,.38);}
+.searchbar input:focus{border-color:var(--amb);}
+.layout{display:flex;flex:1;overflow:hidden;}
+.sidebar{width:270px;flex-shrink:0;background:#fff;border-right:1px solid #e8e0d0;display:flex;flex-direction:column;overflow:hidden;}
+.sbh{padding:8px 12px;border-bottom:1px solid #e8e0d0;font-size:10px;font-weight:600;letter-spacing:.07em;text-transform:uppercase;color:#9a7c50;}
+.list{overflow-y:auto;flex:1;}
+.list::-webkit-scrollbar{width:3px;}
+.list::-webkit-scrollbar-thumb{background:#d4c5a8;border-radius:3px;}
+.item{padding:8px 12px;border-bottom:1px solid #f5ede0;cursor:pointer;display:flex;align-items:flex-start;gap:8px;transition:background .15s;}
+.item:hover,.item.on{background:rgba(232,160,32,.12);}
+.num{background:var(--amb);color:var(--dark);font-size:9px;font-weight:700;width:18px;height:18px;border-radius:50%;display:flex;align-items:center;justify-content:center;flex-shrink:0;margin-top:1px;}
+.iname{font-size:12px;font-weight:600;color:#1a1208;line-height:1.3;}
+.imeta{font-size:10px;color:#8a6f48;margin-top:1px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}
+#map{flex:1;}
+.pin{width:26px;height:26px;background:var(--amb);border:2px solid var(--dark);border-radius:50% 50% 50% 0;transform:rotate(-45deg);display:flex;align-items:center;justify-content:center;box-shadow:0 2px 5px rgba(0,0,0,.3);}
+.pin span{transform:rotate(45deg);font-size:8px;font-weight:800;color:var(--dark);line-height:1;}
+.pin.act{background:var(--rust);border-color:var(--rust);}
+.pin.act span{color:#fff;}
+.leaflet-popup-content-wrapper{border-radius:8px;box-shadow:0 4px 20px rgba(0,0,0,.16);border:1.5px solid var(--amb);padding:0;overflow:hidden;}
+.leaflet-popup-content{margin:0;width:220px!important;}
+.leaflet-popup-tip{background:var(--amb);}
+.ph{background:var(--dark);color:var(--amb);padding:9px 11px 7px;}
+.pn{font-size:9px;font-weight:700;opacity:.55;text-transform:uppercase;letter-spacing:.06em;}
+.pt{font-size:13px;font-weight:500;line-height:1.2;margin-top:2px;}
+.pb{padding:9px 11px;background:#fff;}
+.pr{display:flex;gap:5px;align-items:flex-start;margin-bottom:4px;font-size:11px;color:#3d2b0a;}
+.pr a{color:var(--rust);text-decoration:none;font-weight:500;font-size:10px;}
+footer{background:var(--dark);color:rgba(255,255,255,.35);font-size:10px;text-align:center;padding:5px;flex-shrink:0;}
+@media(max-width:580px){.sidebar{display:none;}}
+</style>
+</head>
+<body>
+<header>
+  <div><h1>24° Festival de Pão com Bolinho de Curitiba</h1><p>18 mar – 12 abr 2026 · R$ 27,00 preço único</p></div>
+  <div class="badge">36 locais</div>
+</header>
+<div class="searchbar"><input id="q" type="text" placeholder="🔍  Buscar por nome ou bairro…"></div>
+<div class="layout">
+  <aside class="sidebar"><div class="sbh">Participantes</div><div class="list" id="lst"></div></aside>
+  <div id="map"></div>
+</div>
+<footer>curitibahonesta.com.br · coordenadas via Google Places</footer>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+<script>
+const P=[
+  {n:1, name:"Al Sultan – Água Verde",            b:"Água Verde",        a:"R. Murilo do Amaral Ferreira, 620", h:"Seg-Dom 11h-23h",                        lat:-25.4605953,lng:-49.2830217},
+  {n:2, name:"Bom Scotch",                         b:"Água Verde",        a:"R. Morretes, 347",                  h:"Ter-Sex 17h-01h · Sáb 12h-01h",          lat:-25.4688306,lng:-49.2898881},
+  {n:3, name:"Burger Beast – Arena",               b:"Água Verde",        a:"R. Brasílio Itiberê, 3175",         h:"Seg-Sex 11h-13h45",                       lat:-25.4493659,lng:-49.2746678},
+  {n:4, name:"O Botequim do Veio",                b:"Água Verde",        a:"R. Castro, 888",                    h:"Ter-Sex 18h-23h · Sáb 12h-22h",          lat:-25.4613182,lng:-49.2805089},
+  {n:5, name:"Ukra Bar",                           b:"Água Verde",        a:"R. Pará, 1079",                     h:"Ter-Sex 18h30-00h · Sáb 12h-00h",        lat:-25.4681091,lng:-49.2842918},
+  {n:6, name:"Masc Beer",                          b:"Alto da XV",        a:"R. Sete de Abril, 835 (Loja 3)",   h:"Ter-Sex 17h-23h · Sáb 11h-23h",          lat:-25.4240217,lng:-49.2559638},
+  {n:7, name:"Panificadora Aquarius",              b:"Bacacheri",         a:"Av. Pref. Erasto Gaertner, 363",   h:"24 horas todos os dias",                  lat:-25.4030644,lng:-49.2430061},
+  {n:8, name:"Al Sultan – Bairro Alto",            b:"Bairro Alto",       a:"R. José de Oliveira Franco, 200",  h:"Seg-Dom 11h-23h",                        lat:-25.4158483,lng:-49.2049393},
+  {n:9, name:"Boteco do Bolacha",                  b:"Bairro Alto",       a:"R. Rio Japurá, 1462",               h:"Ter-Sáb 17h30-23h",                      lat:-25.40191,  lng:-49.1997312},
+  {n:10,name:"Barbarella Bakery",                  b:"Batel",             a:"R. Comendador Araújo, 795",         h:"Todos os dias 8h-22h",                   lat:-25.4389206,lng:-49.2819325},
+  {n:11,name:"Mavy Gastrobar",                     b:"Bigorrilho",        a:"Al. Princesa Izabel, 1399",         h:"Seg-Sáb 17h30-23h",                      lat:-25.433138, lng:-49.2906246},
+  {n:12,name:"Nosso Boteco",                       b:"Boa Vista",         a:"R. Vicente Ciccarino, 699",         h:"Ter-Sex 16h-22h · Sáb 11h30-18h",        lat:-25.3941055,lng:-49.2477739},
+  {n:13,name:"Mercearia Fantinato",                b:"Bom Retiro",        a:"R. Mateus Leme, 2553",              h:"Seg-Sáb 16h-20h",                        lat:-25.4049842,lng:-49.2712754},
+  {n:14,name:"Quermesse – Bom Retiro",             b:"Bom Retiro",        a:"R. Carlos Pioli, 513",              h:"Ter-Sex 17h-01h · Sáb 11h30-01h",        lat:-25.410648, lng:-49.2764496},
+  {n:15,name:"Sede Zero Gastrobar",                b:"Boqueirão",         a:"Av. Paulo Setúbal, 4317",           h:"Qua-Sex 18h30-22h30",                    lat:-25.5138773,lng:-49.2438735},
+  {n:16,name:"A Ostra Bêbada",                    b:"Centro",            a:"R. Ermelino de Leão, 95",           h:"Qua-Sáb 18h-22h",                        lat:-25.4315054,lng:-49.2751979},
+  {n:17,name:"Barbaran",                           b:"Centro",            a:"Al. Augusto Stellfeld, 799",        h:"Ter-Qua 18h-23h30",                      lat:-25.4311463,lng:-49.281556 },
+  {n:18,name:"Cartolas Sports Bar",                b:"Centro",            a:"R. Emiliano Perneta, 880",          h:"Seg-Sex 11h-15h e 17h-00h",              lat:-25.438388, lng:-49.279161 },
+  {n:19,name:"Restaurante Imperial",               b:"Centro",            a:"R. José Loureiro, 111 (Sobreloja)", h:"Ter-Sex 18h-22h30",                      lat:-25.4329926,lng:-49.2716419},
+  {n:20,name:"Ninki Pastelaria – Merc. Municipal", b:"Centro",            a:"Av. Sete de Setembro, 1865",        h:"Ter-Sáb 8h-18h · Dom 8h-14h",           lat:-25.4348279,lng:-49.2569791},
+  {n:21,name:"Essen Biergarten",                   b:"Centro Cívico",     a:"R. José Sabóia Cortes, 358",       h:"Ter-Sex 16h-23h · Sáb 11h30-23h",        lat:-25.4069792,lng:-49.2705564},
+  {n:22,name:"Al Sultan – Ecoville",               b:"Ecoville",          a:"R. Prof. João Falarz, 630",         h:"Seg-Dom 11h-22h",                        lat:-25.4354347,lng:-49.3503496},
+  {n:23,name:"Quermesse – Ecoville",               b:"Ecoville",          a:"R. João Falarz, 1251",              h:"Ter-Sex 17h-00h · Sáb 11h30-01h",        lat:-25.439533, lng:-49.3460987},
+  {n:24,name:"Velhas Caveiras Rock Bar",           b:"Guabirotuba",       a:"Av. Sen. Salgado Filho, 2385",     h:"Ter-Dom 17h30-23h30",                    lat:-25.470087, lng:-49.2394775},
+  {n:25,name:"Vou Pro Bar",                        b:"Jd. das Américas",  a:"Av. Nossa Sra. de Lourdes, 426",   h:"Qua-Sex 16h-23h · Sáb 14h-23h",          lat:-25.4541979,lng:-49.2270845},
+  {n:26,name:"Al Sultan – Juvevê",                 b:"Juvevê",            a:"R. Marcondes, 913",                 h:"Seg-Dom 11h-23h",                        lat:-25.4112752,lng:-49.2623199},
+  {n:27,name:"Baroneza",                           b:"Juvevê",            a:"R. Conselheiro Carrão, 279",        h:"Seg-Sáb 17h-23h",                        lat:-25.420597, lng:-49.2553099},
+  {n:28,name:"Burguer Bar – Juvevê",               b:"Juvevê",            a:"R. Constantino Marochi, 554",      h:"Seg-Sáb 18h-23h",                        lat:-25.4160634,lng:-49.2603911},
+  {n:29,name:"Charles Burguer",                    b:"Mercês",            a:"Av. Cândido Hartmann, 392",        h:"Todos os dias 17h-00h",                  lat:-25.4313263,lng:-49.2905481},
+  {n:30,name:"Ushuaia Piano Bar",                  b:"Mossunguê",         a:"R. Paulo Gorski, 826",              h:"Ter-Sex 17h30-00h",                      lat:-25.4380313,lng:-49.3224005},
+  {n:31,name:"Burger Beast – Tork n'roll",         b:"Rebouças",          a:"Av. Mal. Floriano, 1695",           h:"Sex-Sáb 20h-03h",                        lat:-25.4444423,lng:-49.2651547},
+  {n:32,name:"Silzeus Bar",                        b:"Santa Felicidade",  a:"R. Via Veneto, 500",                h:"Seg-Sex 17h-23h30 · Sáb-Dom 12h-23h30",  lat:-25.4053437,lng:-49.3240223},
+  {n:33,name:"Trattoria Dallarmi",                 b:"Santa Felicidade",  a:"R. Margarida Dallarmi, 120",       h:"Ter-Sáb 18h-22h",                        lat:-25.4152815,lng:-49.3341363},
+  {n:34,name:"Sirène – Trajano",                   b:"São Francisco",     a:"R. Trajano Reis, 144",              h:"Ter-Qui 17h-23h30 · Sex-Sáb até 01h30",  lat:-25.4259994,lng:-49.2737459},
+  {n:35,name:"Burguer Bar – Xaxim",                b:"Xaxim",             a:"R. Francisco Derosso, 1095",       h:"Seg-Sáb 18h-23h",                        lat:-25.4999163,lng:-49.266746 },
+  {n:36,name:"Quintal 68 – Xaxim",                 b:"Xaxim",             a:"R. Hedwirges S. Walesko, 68",      h:"Ter-Sáb 18h30-23h",                      lat:-25.523513, lng:-49.261795 },
+];
+const lst=document.getElementById('lst');
+P.forEach((p,i)=>{
+  const d=document.createElement('div');d.className='item';
+  d.innerHTML=`<div class="num">${p.n}</div><div style="flex:1;min-width:0"><div class="iname">${p.name}</div><div class="imeta">${p.b} · ${p.a}</div></div>`;
+  lst.appendChild(d);
+});
+const map=L.map('map').setView([-25.448,-49.29],13);
+L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png',{attribution:'&copy; CARTO',maxZoom:19}).addTo(map);
+function ico(n,act){return L.divIcon({className:'',html:`<div class="pin${act?' act':''}"><span>${n}</span></div>`,iconSize:[26,26],iconAnchor:[13,26],popupAnchor:[0,-28]});}
+const MK=[],IT=[...lst.querySelectorAll('.item')];let cur=null;
+function activate(i){if(cur!==null){MK[cur].setIcon(ico(P[cur].n,false));IT[cur].classList.remove('on');}MK[i].setIcon(ico(P[i].n,true));IT[i].classList.add('on');IT[i].scrollIntoView({behavior:'smooth',block:'nearest'});cur=i;}
+P.forEach((p,i)=>{
+  const pop=`<div class="ph"><div class="pn">Local #${p.n}</div><div class="pt">${p.name}</div></div><div class="pb"><div class="pr">📍 ${p.a} – ${p.b}</div><div class="pr">🕐 ${p.h}</div><div class="pr">💰 R$ 27,00</div><div class="pr">🔗 <a href="https://maps.google.com/?q=${encodeURIComponent(p.a+', '+p.b+', Curitiba')}" target="_blank">Abrir no Google Maps ↗</a></div></div>`;
+  const mk=L.marker([p.lat,p.lng],{icon:ico(p.n,false)}).addTo(map).bindPopup(pop,{maxWidth:240});
+  MK.push(mk);
+  IT[i].addEventListener('click',()=>{activate(i);map.setView([p.lat,p.lng],16,{animate:true});mk.openPopup();});
+  mk.on('click',()=>activate(i));
+});
+document.getElementById('q').addEventListener('input',function(){
+  const q=this.value.toLowerCase().trim();
+  P.forEach((p,i)=>{const ok=!q||p.name.toLowerCase().includes(q)||p.b.toLowerCase().includes(q)||p.a.toLowerCase().includes(q);IT[i].style.display=ok?'':'none';if(ok)MK[i].addTo(map);else MK[i].remove();});
+});
+</script>
+</body>
+</html>
