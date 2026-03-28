@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(node -e \"require\\(''gray-matter''\\); require\\(''next-mdx-remote/rsc''\\); console.log\\(''ok''\\)\")",
+      "Bash(cmd /c \"dir C:\\\\Users\\\\ramon\\\\meu-site\\\\node_modules\\\\gray-matter 2>&1\")",
+      "Bash(cmd /c \"npm install gray-matter next-mdx-remote 2>&1\")",
+      "Bash(powershell -Command \"Set-Location ''C:\\\\Users\\\\ramon\\\\meu-site''; npm install gray-matter next-mdx-remote; Write-Host ''Done''\")",
+      "Bash(powershell -Command \"Set-Location ''C:\\\\Users\\\\ramon\\\\meu-site''; npm install gray-matter next-mdx-remote 2>&1 | Out-String\")",
+      "Bash(echo \"EXIT: $?\")"
+    ]
+  }
+}
