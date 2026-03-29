@@ -8,6 +8,13 @@ export type Project = {
 
 export const projects: Project[] = [
   {
+    title: 'Claude Agenda',
+    description:
+      'Agenda semanal dos shows e eventos dos bares de rock de Curitiba. Posts do Instagram analisados por IA (Gemini 2.5 Flash) via Apify, atualização diária automática.',
+    tags: ['Curitiba', 'Rock', 'IA', 'Agenda'],
+    liveUrl: '/agenda_rock.html',
+  },
+  {
     title: 'Guia Rock Curitiba',
     description: 'O guia dos bares e casas de rock de Curitiba.',
     tags: ['Curitiba', 'Música', 'Rock', 'Mapa'],
