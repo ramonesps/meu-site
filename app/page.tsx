@@ -22,9 +22,6 @@ export default function Home() {
             <h1 className="text-5xl font-bold text-gray-900 mb-3 leading-tight">
               Ramon Sarchi
             </h1>
-            <p className="text-xl text-gray-600 max-w-xl leading-relaxed">
-              Product Manager · Engenheiro Eletrônico · Co-fundador da Concierge Bitcoin
-            </p>
           </div>
         </div>
         <div className="flex flex-wrap gap-4 mt-8">
