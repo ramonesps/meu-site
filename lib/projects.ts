@@ -8,11 +8,10 @@ export type Project = {
 
 export const projects: Project[] = [
   {
-    title: 'Concierge Bitcoin',
-    description:
-      'Serviço de educação e assessoria em Bitcoin co-fundado com Paulo Fuchs. Ajuda clientes a comprar, transferir e armazenar Bitcoin com segurança, além de oferecer conteúdo educacional e suporte personalizado.',
-    tags: ['Bitcoin', 'Finanças', 'Educação', 'Empreendedorismo'],
-    liveUrl: 'https://conciergebitcoin.com.br',
+    title: 'Guia Rock Curitiba',
+    description: 'O guia dos bares e casas de rock de Curitiba.',
+    tags: ['Curitiba', 'Música', 'Rock', 'Mapa'],
+    liveUrl: '/curitiba_rock_guide.html',
   },
   {
     title: 'Pão com Bolinho 2026',
