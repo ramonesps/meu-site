@@ -1,0 +1,594 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Curitiba Rock Guide 🤘</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css"/>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+<style>
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --bg-dark:    #1a0d00;
+  --bg-header:  #120900;
+  --accent:     #cc2200;
+  --accent2:    #e03a00;
+  --text-light: #f5e8d0;
+  --text-sub:   #b09070;
+  --border:     #cc2200;
+  --sidebar-bg: #0f0a06;
+  --item-hover: #1e1008;
+  --item-active:#231208;
+  --search-bg:  #1e1208;
+  --search-brd: #3a2010;
+
+  /* category colours */
+  --c-gourmet:  #c07000;
+  --c-palco:    #cc2200;
+  --c-raiz:     #555555;
+  --c-alt:      #7700bb;
+}
+
+html, body { height: 100%; overflow: hidden; font-family: 'Segoe UI', Arial, sans-serif; background: var(--bg-dark); color: var(--text-light); }
+
+/* ── HEADER ─────────────────────────────────────────── */
+#header {
+  background: var(--bg-header);
+  border-bottom: 2px solid var(--border);
+  padding: 14px 20px 12px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  flex-shrink: 0;
+}
+
+#header h1 {
+  font-size: 1.25rem;
+  font-weight: 900;
+  color: var(--accent2);
+  line-height: 1.1;
+  letter-spacing: 0.5px;
+}
+
+#header .sub {
+  font-size: 0.75rem;
+  color: var(--text-sub);
+  margin-top: 2px;
+}
+
+#badge-total {
+  background: var(--accent);
+  color: #fff;
+  font-size: 0.8rem;
+  font-weight: 700;
+  padding: 6px 14px;
+  border-radius: 20px;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+/* ── SEARCH + FILTERS ────────────────────────────────── */
+#controls {
+  background: var(--bg-dark);
+  border-bottom: 1px solid #2a1505;
+  padding: 10px 14px;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 9px;
+}
+
+#search-wrap {
+  position: relative;
+}
+
+#search-wrap svg {
+  position: absolute;
+  left: 11px;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 15px; height: 15px;
+  fill: #665040;
+  pointer-events: none;
+}
+
+#search {
+  width: 100%;
+  background: var(--search-bg);
+  border: 1.5px solid var(--search-brd);
+  border-radius: 8px;
+  color: var(--text-light);
+  font-size: 0.85rem;
+  padding: 8px 12px 8px 34px;
+  outline: none;
+  transition: border-color 0.2s;
+}
+#search::placeholder { color: #665040; }
+#search:focus { border-color: var(--accent); }
+
+/* filter chips */
+.chip-row {
+  display: flex;
+  gap: 6px;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.chip-label {
+  font-size: 0.65rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: #665040;
+  margin-right: 2px;
+}
+
+.chip {
+  border-radius: 14px;
+  border: 1.5px solid #3a2010;
+  background: #1e1208;
+  color: #b09070;
+  font-size: 0.72rem;
+  font-weight: 600;
+  padding: 3px 11px;
+  cursor: pointer;
+  transition: all 0.15s;
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+.chip:hover { border-color: #885030; color: #e8c090; }
+
+.chip.active-all    { background: #2e1a08; border-color: #885030; color: #e8c090; }
+.chip[data-cat="Gourmet"].active      { background: #3a2200; border-color: var(--c-gourmet); color: var(--c-gourmet); }
+.chip[data-cat="Palco e Show"].active { background: #2e0800; border-color: var(--c-palco);   color: #ff6644; }
+.chip[data-cat="Raiz"].active         { background: #1e1e1e; border-color: #888;             color: #ccc; }
+.chip[data-cat="Alternativo"].active  { background: #200030; border-color: var(--c-alt);     color: #cc66ff; }
+.chip[data-kids].active               { background: #002210; border-color: #00aa44;          color: #00ee66; }
+
+/* ── OPEN-ALL BUTTON ─────────────────────────────────── */
+#btn-open-all {
+  width: 100%;
+  background: linear-gradient(135deg, #8B0000, #cc2200);
+  color: #fff;
+  border: none;
+  border-radius: 7px;
+  padding: 8px 14px;
+  font-size: 0.8rem;
+  font-weight: 700;
+  cursor: pointer;
+  letter-spacing: 0.5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 7px;
+  transition: opacity 0.2s, transform 0.15s;
+  flex-shrink: 0;
+}
+#btn-open-all:hover { opacity: 0.9; transform: translateY(-1px); }
+#btn-open-all svg { width: 14px; height: 14px; fill: currentColor; }
+
+/* ── LAYOUT ──────────────────────────────────────────── */
+#app {
+  display: flex;
+  height: calc(100vh - var(--hh, 140px));
+}
+
+#sidebar {
+  width: 280px;
+  flex-shrink: 0;
+  background: var(--sidebar-bg);
+  border-right: 1px solid #2a1505;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+#list-header {
+  font-size: 0.65rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+  color: #665040;
+  padding: 10px 14px 6px;
+  flex-shrink: 0;
+}
+
+#list {
+  overflow-y: auto;
+  flex: 1;
+}
+#list::-webkit-scrollbar { width: 4px; }
+#list::-webkit-scrollbar-track { background: transparent; }
+#list::-webkit-scrollbar-thumb { background: #3a2010; border-radius: 2px; }
+
+/* ── LIST ITEM ───────────────────────────────────────── */
+.item {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  padding: 10px 14px;
+  border-bottom: 1px solid #1e1005;
+  cursor: pointer;
+  transition: background 0.15s;
+}
+.item:hover   { background: var(--item-hover); }
+.item.focused { background: var(--item-active); }
+.item.hidden  { display: none; }
+
+.item-num {
+  width: 26px; height: 26px;
+  border-radius: 50%;
+  display: flex; align-items: center; justify-content: center;
+  font-size: 0.72rem;
+  font-weight: 800;
+  color: #fff;
+  flex-shrink: 0;
+  margin-top: 1px;
+}
+
+.item-body { flex: 1; min-width: 0; }
+
+.item-name {
+  font-size: 0.88rem;
+  font-weight: 700;
+  color: #f0e0cc;
+  line-height: 1.2;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.item-meta {
+  font-size: 0.72rem;
+  color: #887060;
+  margin-top: 2px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.item-tags {
+  display: flex;
+  gap: 5px;
+  margin-top: 5px;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.item-ig {
+  display: inline-flex;
+  align-items: center;
+  gap: 3px;
+  font-size: 0.68rem;
+  font-weight: 600;
+  color: #e1306c;
+  text-decoration: none;
+}
+.item-ig:hover { color: #ff6699; }
+.item-ig svg { width: 11px; height: 11px; fill: currentColor; }
+
+.item-kids {
+  font-size: 0.65rem;
+  background: #002210;
+  color: #00cc55;
+  border: 1px solid #005522;
+  border-radius: 8px;
+  padding: 1px 6px;
+  font-weight: 700;
+}
+
+/* ── MAP ─────────────────────────────────────────────── */
+#map { flex: 1; }
+
+/* ── POPUP ───────────────────────────────────────────── */
+.leaflet-popup-content-wrapper {
+  background: #fff !important;
+  color: #222 !important;
+  border-radius: 10px !important;
+  box-shadow: 0 3px 16px rgba(0,0,0,0.25) !important;
+  border: none !important;
+}
+.leaflet-popup-tip { background: #fff !important; }
+.leaflet-popup-content { margin: 14px 16px !important; min-width: 200px; }
+
+.pop-num {
+  font-size: 0.65rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-bottom: 3px;
+}
+
+.pop-name { font-size: 1rem; font-weight: 800; color: #111; margin-bottom: 3px; }
+.pop-addr { font-size: 0.78rem; color: #666; margin-bottom: 2px; }
+.pop-bairro { font-size: 0.72rem; color: #999; margin-bottom: 10px; }
+
+.pop-ig {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: linear-gradient(135deg, #833ab4, #fd1d1d, #fcb045);
+  color: #fff !important;
+  text-decoration: none;
+  font-size: 0.78rem;
+  font-weight: 700;
+  padding: 6px 12px;
+  border-radius: 6px;
+}
+.pop-ig svg { width: 13px; height: 13px; fill: #fff; }
+.pop-ig:hover { opacity: 0.85; }
+.pop-kids { font-size: 0.72rem; color: #008833; margin-top: 8px; font-weight: 600; }
+
+/* ── LEGEND ──────────────────────────────────────────── */
+#legend {
+  position: absolute;
+  bottom: 28px;
+  right: 12px;
+  z-index: 1000;
+  background: rgba(255,255,255,0.93);
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 9px 13px;
+  font-size: 0.72rem;
+  pointer-events: none;
+  backdrop-filter: blur(4px);
+  box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+}
+#legend .leg-title { font-weight: 800; color: #444; text-transform: uppercase; letter-spacing: 1px; font-size: 0.62rem; margin-bottom: 7px; }
+.leg-item { display: flex; align-items: center; gap: 7px; color: #333; margin-bottom: 4px; }
+.leg-dot { width: 11px; height: 11px; border-radius: 50%; flex-shrink: 0; }
+
+/* ── RESPONSIVE ──────────────────────────────────────── */
+@media (max-width: 640px) {
+  #app { flex-direction: column; height: auto; }
+  #sidebar { width: 100%; height: 40vh; border-right: none; border-bottom: 1px solid #2a1505; }
+  #map { height: 55vh; }
+}
+</style>
+</head>
+<body>
+
+<!-- HEADER -->
+<div id="header">
+  <div>
+    <h1>Curitiba Rock Guide 🤘</h1>
+    <div class="sub">O guia dos bares e casas de rock de Curitiba</div>
+  </div>
+  <div id="badge-total">22 locais</div>
+</div>
+
+<!-- CONTROLS -->
+<div id="controls">
+  <!-- search -->
+  <div id="search-wrap">
+    <svg viewBox="0 0 24 24"><path d="M15.5 14h-.79l-.28-.27A6.471 6.471 0 0 0 16 9.5 6.5 6.5 0 1 0 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/></svg>
+    <input id="search" type="text" placeholder="Buscar por nome ou bairro…" oninput="applyFilters()">
+  </div>
+
+  <!-- category chips -->
+  <div class="chip-row">
+    <span class="chip-label">Estilo</span>
+    <button class="chip active-all" data-cat="all" onclick="setCat(this)">Todos</button>
+    <button class="chip" data-cat="Gourmet" onclick="setCat(this)">🍺 Gourmet</button>
+    <button class="chip" data-cat="Palco e Show" onclick="setCat(this)">🎸 Palco &amp; Show</button>
+    <button class="chip" data-cat="Raiz" onclick="setCat(this)">⚡ Raiz</button>
+    <button class="chip" data-cat="Alternativo" onclick="setCat(this)">🌀 Alternativo</button>
+  </div>
+
+  <!-- kids chips -->
+  <div class="chip-row">
+    <span class="chip-label">Kids</span>
+    <button class="chip active-all" data-kids="all" onclick="setKids(this)">Todos</button>
+    <button class="chip" data-kids="yes" onclick="setKids(this)">👶 Kids OK</button>
+  </div>
+
+  <!-- open all -->
+  <button id="btn-open-all" onclick="openAll()">
+    <svg viewBox="0 0 24 24"><path d="M19 3H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V5a2 2 0 0 0-2-2zm-5 14H7v-2h7v2zm3-4H7v-2h10v2zm0-4H7V7h10v2z"/></svg>
+    Abrir agendas no Instagram (locais visíveis)
+  </button>
+</div>
+
+<!-- APP LAYOUT -->
+<div id="app">
+  <div id="sidebar">
+    <div id="list-header">PARTICIPANTES</div>
+    <div id="list"></div>
+  </div>
+  <div id="map"></div>
+</div>
+
+<!-- LEGEND -->
+<div id="legend">
+  <div class="leg-title">Legenda</div>
+  <div class="leg-item"><div class="leg-dot" style="background:#c07000"></div>Gourmet</div>
+  <div class="leg-item"><div class="leg-dot" style="background:#cc2200"></div>Palco &amp; Show</div>
+  <div class="leg-item"><div class="leg-dot" style="background:#666"></div>Raiz</div>
+  <div class="leg-item"><div class="leg-dot" style="background:#7700bb"></div>Alternativo</div>
+</div>
+
+<script>
+// ── DATA ────────────────────────────────────────────────────────────────────
+const LOCAIS = [
+  { nome:"Bastards Pub",      ig:"https://www.instagram.com/wearebastardspub/",       end:"Av. Iguaçu, 2300",                          bairro:"Água Verde",    cat:"Gourmet",      kids:false, lat:-25.4420, lng:-49.2818 },
+  { nome:"Cross Roads",       ig:"https://www.instagram.com/barcrossroads/",          end:"Av. Iguaçu, 2310",                          bairro:"Água Verde",    cat:"Gourmet",      kids:false, lat:-25.4418, lng:-49.2816 },
+  { nome:"Hard Rock",         ig:"https://www.instagram.com/hrccuritiba/",            end:"Rua Buenos Aires, 50",                      bairro:"Batel",         cat:"Gourmet",      kids:true,  kidsLabel:"Menu Infantil", lat:-25.4330, lng:-49.2780 },
+  { nome:"Sheridans",         ig:"https://www.instagram.com/sheridansirishpub/",      end:"R. Bispo Dom José, 2293",                   bairro:"Batel",         cat:"Gourmet",      kids:false, lat:-25.4350, lng:-49.2800 },
+  { nome:"Bastards Fábrica",  ig:"https://www.instagram.com/bardafabricabastards/",  end:"Rua Mateus Leme, 1875",                     bairro:"Bom Retiro",    cat:"Gourmet",      kids:true,  kidsLabel:"Área Kids",    lat:-25.4082, lng:-49.2520 },
+  { nome:"Maniacs",           ig:"https://www.instagram.com/bardamaniacs/",           end:"Av. Munhoz da Rocha, 1049",                 bairro:"Cabral",        cat:"Gourmet",      kids:false, lat:-25.3930, lng:-49.2620 },
+  { nome:"Rock Pizza",        ig:"https://www.instagram.com/rockpizzaroll.bar/",      end:"Rua Chile, 1651",                           bairro:"Rebouças",      cat:"Gourmet",      kids:null,  lat:-25.4470, lng:-49.2680 },
+  { nome:"Distrito 1340",     ig:"https://www.instagram.com/distrito.1340/",          end:"R. Maj. Heitor Guimarães, 1130",            bairro:"Seminário",     cat:"Gourmet",      kids:null,  lat:-25.4600, lng:-49.2950 },
+  { nome:"Barbarium",         ig:"https://www.instagram.com/barbariumpub/",           end:"Rua Chile, 1765",                           bairro:"Rebouças",      cat:"Gourmet",      kids:null,  lat:-25.4475, lng:-49.2672 },
+  { nome:"Dobrucki",          ig:"https://www.instagram.com/dobruckibar/",            end:"Rua Baltazar Carrasco dos Reis, 1090",      bairro:"Rebouças",      cat:"Gourmet",      kids:null,  lat:-25.4482, lng:-49.2665 },
+  { nome:"Jokers",            ig:"https://www.instagram.com/jokerspub/",              end:"R. São Francisco, 164",                     bairro:"Centro",        cat:"Gourmet",      kids:null,  lat:-25.4280, lng:-49.2700 },
+  { nome:"Tork n' Roll",      ig:"https://www.instagram.com/torkandroll/",            end:"Av. Marechal Floriano Peixoto, 1695",       bairro:"Rebouças",      cat:"Palco e Show", kids:false, lat:-25.4490, lng:-49.2660 },
+  { nome:"Blood Rock",        ig:"https://www.instagram.com/bloodrockbar/",           end:"Rua Presidente Carlos Cavalcanti, 1212",    bairro:"São Francisco",  cat:"Palco e Show", kids:false, lat:-25.4225, lng:-49.2680 },
+  { nome:"Seb's Rock Bar",    ig:"https://www.instagram.com/sebas_rock_bar/",         end:"Rua Anne Frank, 3644",                      bairro:"Boqueirão",      cat:"Palco e Show", kids:false, lat:-25.4970, lng:-49.2310 },
+  { nome:"Belvedere",         ig:"https://www.instagram.com/belvederecasadecultura/", end:"Rua Inácio Lustosa, 496",                   bairro:"São Francisco",  cat:"Palco e Show", kids:false, lat:-25.4210, lng:-49.2690 },
+  { nome:"Resistência",       ig:"https://www.instagram.com/resistenciarock/",        end:"Av. da Integração, 935",                    bairro:"Bairro Alto",   cat:"Raiz",         kids:null,  lat:-25.3750, lng:-49.2480 },
+  { nome:"Clay Highway",      ig:"https://www.instagram.com/clayhighway/",            end:"BR-116, Linha Verde, 17253",                bairro:"Capão Raso",    cat:"Raiz",         kids:null,  lat:-25.4940, lng:-49.3010 },
+  { nome:"Armazém Garage",    ig:"https://www.instagram.com/armazemgaragem/",         end:"Rodovia BR-277, 2630",                      bairro:"Santo Inácio",  cat:"Raiz",         kids:null,  lat:-25.4580, lng:-49.3820 },
+  { nome:"Old Jack",          ig:"https://www.instagram.com/oldjackgaragebar/",       end:"Rua Luiz Leopoldo Landal, 117",             bairro:"Novo Mundo",    cat:"Raiz",         kids:null,  lat:-25.4670, lng:-49.3030 },
+  { nome:"Animals Pub",       ig:"https://www.instagram.com/theanimalspub/",          end:"Rua Álvaro Botelho, 39",                    bairro:"Bacacheri",     cat:"Raiz",         kids:null,  lat:-25.3800, lng:-49.2420 },
+  { nome:"92 Graus",          ig:"https://www.instagram.com/92graus/",                end:"Avenida Manoel Ribas, 108",                 bairro:"São Francisco",  cat:"Alternativo",  kids:null,  lat:-25.4235, lng:-49.2705 },
+  { nome:"Olds Pub",          ig:"https://www.instagram.com/oldspuboficial/",         end:"Rua Paula Gomes, 405",                      bairro:"São Francisco",  cat:"Alternativo",  kids:null,  lat:-25.4228, lng:-49.2695 },
+];
+
+const CAT_COLOR = { "Gourmet":"#c07000", "Palco e Show":"#cc2200", "Raiz":"#666666", "Alternativo":"#7700bb" };
+const CAT_ICON  = { "Gourmet":"🍺", "Palco e Show":"🎸", "Raiz":"⚡", "Alternativo":"🌀" };
+
+// ── FILTER STATE ─────────────────────────────────────────────────────────────
+let fCat  = "all";
+let fKids = "all";
+
+// ── MAP ──────────────────────────────────────────────────────────────────────
+const map = L.map('map', { center:[-25.440, -49.270], zoom:13 });
+L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png', {
+  attribution:'© OpenStreetMap © CARTO', subdomains:'abcd', maxZoom:19
+}).addTo(map);
+
+// ── MARKER FACTORY ───────────────────────────────────────────────────────────
+function makeIcon(num, colour) {
+  return L.divIcon({
+    className:'',
+    html:`<div style="
+      position:relative;width:32px;height:38px;
+    ">
+      <svg viewBox="0 0 32 38" width="32" height="38" style="position:absolute;top:0;left:0;filter:drop-shadow(0 2px 4px rgba(0,0,0,0.35))">
+        <path d="M16 0C7.163 0 0 7.163 0 16c0 10.627 14.29 21.389 15.273 22.124a1.146 1.146 0 0 0 1.454 0C17.71 37.389 32 26.627 32 16 32 7.163 24.837 0 16 0z" fill="${colour}"/>
+      </svg>
+      <span style="
+        position:absolute;top:5px;left:0;width:32px;
+        text-align:center;font-size:11px;font-weight:800;
+        color:#fff;line-height:1;
+        text-shadow:0 1px 2px rgba(0,0,0,0.5);
+      ">${num}</span>
+    </div>`,
+    iconSize:[32,38], iconAnchor:[16,38], popupAnchor:[0,-40]
+  });
+}
+
+// ── POPUP FACTORY ─────────────────────────────────────────────────────────────
+const IG_SVG = `<svg viewBox="0 0 24 24" style="width:13px;height:13px;fill:#fff"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/></svg>`;
+
+function makePopup(l) {
+  const colour = CAT_COLOR[l.cat];
+  const kidsHtml = l.kids ? `<div class="pop-kids">👶 ${l.kidsLabel||'Kids OK'}</div>` : '';
+  const handle = l.ig.split('/').filter(Boolean).pop();
+  return `
+    <div class="pop-num" style="color:${colour}">${CAT_ICON[l.cat]} ${l.cat}</div>
+    <div class="pop-name">${l.nome}</div>
+    <div class="pop-addr">${l.end}</div>
+    <div class="pop-bairro">${l.bairro}</div>
+    <a href="${l.ig}" target="_blank" class="pop-ig">${IG_SVG} @${handle}</a>
+    ${kidsHtml}
+  `;
+}
+
+// ── BUILD ─────────────────────────────────────────────────────────────────────
+const markers = [];
+const items   = [];
+
+function igSvgSmall() {
+  return `<svg viewBox="0 0 24 24"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/></svg>`;
+}
+
+LOCAIS.forEach((l, i) => {
+  // marker
+  const colour = CAT_COLOR[l.cat];
+  const m = L.marker([l.lat, l.lng], { icon: makeIcon(i+1, colour) })
+    .bindPopup(makePopup(l), { maxWidth:270 })
+    .addTo(map);
+  m.on('click', () => focusItem(i));
+  markers.push(m);
+
+  // list item
+  const handle = l.ig.split('/').filter(Boolean).pop();
+  const kidsTag = l.kids ? `<span class="item-kids">👶 ${l.kidsLabel||'Kids OK'}</span>` : '';
+  const div = document.createElement('div');
+  div.className = 'item';
+  div.id = `item-${i}`;
+  div.innerHTML = `
+    <div class="item-num" style="background:${colour}">${i+1}</div>
+    <div class="item-body">
+      <div class="item-name">${l.nome}</div>
+      <div class="item-meta">${l.bairro} · ${l.end}</div>
+      <div class="item-tags">
+        <a href="${l.ig}" target="_blank" class="item-ig" onclick="event.stopPropagation()">${igSvgSmall()} @${handle}</a>
+        ${kidsTag}
+      </div>
+    </div>
+  `;
+  div.addEventListener('click', () => {
+    map.setView([l.lat, l.lng], 16);
+    markers[i].openPopup();
+    focusItem(i);
+  });
+  document.getElementById('list').appendChild(div);
+  items.push(div);
+});
+
+function focusItem(i) {
+  items.forEach(it => it.classList.remove('focused'));
+  items[i].classList.add('focused');
+  items[i].scrollIntoView({ block:'nearest', behavior:'smooth' });
+}
+
+// ── FILTER ───────────────────────────────────────────────────────────────────
+function applyFilters() {
+  const q = document.getElementById('search').value.toLowerCase().trim();
+  let count = 0;
+  LOCAIS.forEach((l, i) => {
+    const catOk    = fCat  === 'all' || l.cat === fCat;
+    const kidsOk   = fKids === 'all' || (fKids === 'yes' && l.kids === true);
+    const searchOk = !q || l.nome.toLowerCase().includes(q) || l.bairro.toLowerCase().includes(q);
+    const show     = catOk && kidsOk && searchOk;
+
+    items[i].classList.toggle('hidden', !show);
+    if (show) { markers[i].addTo(map); count++; }
+    else       { map.removeLayer(markers[i]); }
+  });
+  document.getElementById('badge-total').textContent = count + (count === 1 ? ' local' : ' locais');
+}
+
+function setCat(btn) {
+  fCat = btn.dataset.cat;
+  document.querySelectorAll('[data-cat]').forEach(b => {
+    b.classList.remove('active-all', 'active');
+    if (b.dataset.cat === fCat) b.classList.add(fCat === 'all' ? 'active-all' : 'active');
+  });
+  applyFilters();
+}
+
+function setKids(btn) {
+  fKids = btn.dataset.kids;
+  document.querySelectorAll('[data-kids]').forEach(b => {
+    b.classList.remove('active-all', 'active');
+    if (b.dataset.kids === fKids) b.classList.add(fKids === 'all' ? 'active-all' : 'active');
+  });
+  applyFilters();
+}
+
+// ── OPEN ALL ─────────────────────────────────────────────────────────────────
+function openAll() {
+  const visible = LOCAIS.filter((l, i) => !items[i].classList.contains('hidden'));
+  if (!visible.length) return;
+  if (visible.length > 5 && !confirm(`Abrir ${visible.length} abas no Instagram?\n(Apenas locais visíveis com os filtros ativos)`)) return;
+  visible.forEach((l, idx) => setTimeout(() => window.open(l.ig, '_blank'), idx * 200));
+}
+
+// ── FIX HEIGHT ────────────────────────────────────────────────────────────────
+function fixHeight() {
+  const hh = document.getElementById('header').offsetHeight + document.getElementById('controls').offsetHeight;
+  document.getElementById('app').style.height = `calc(100vh - ${hh}px)`;
+  map.invalidateSize();
+}
+window.addEventListener('resize', fixHeight);
+fixHeight();
+</script>
+</body>
+</html>
