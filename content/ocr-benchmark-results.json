@@ -1,0 +1,179 @@
+{
+  "generatedAt": "2026-03-29T14:49:48.936Z",
+  "providers": [
+    "ocr-space",
+    "tesseract-js"
+  ],
+  "cases": [
+    "case-1",
+    "case-2",
+    "case-3",
+    "case-4"
+  ],
+  "results": [
+    {
+      "provider": "ocr-space",
+      "status": "ok",
+      "avgScore": 0.5,
+      "avgLatencyMs": 858,
+      "cases": [
+        {
+          "id": "case-1",
+          "latencyMs": 1528,
+          "score": 1,
+          "matchedKeywords": [
+            "sex",
+            "21h",
+            "banda",
+            "fantasma"
+          ],
+          "expectedKeywords": [
+            "sex",
+            "21h",
+            "banda",
+            "fantasma"
+          ],
+          "text": "SEX 21H BANDA FANTASMA",
+          "status": "ok"
+        },
+        {
+          "id": "case-2",
+          "latencyMs": 1404,
+          "score": 1,
+          "matchedKeywords": [
+            "sab",
+            "22:30",
+            "tributo",
+            "rock"
+          ],
+          "expectedKeywords": [
+            "sab",
+            "22:30",
+            "tributo",
+            "rock"
+          ],
+          "text": "SAB 22:30 TRIBUTO ROCK",
+          "status": "ok"
+        },
+        {
+          "id": "case-3",
+          "latencyMs": 244,
+          "score": 0,
+          "matchedKeywords": [],
+          "expectedKeywords": [
+            "dom",
+            "18h",
+            "jam",
+            "session"
+          ],
+          "text": "",
+          "status": "ok"
+        },
+        {
+          "id": "case-4",
+          "latencyMs": 257,
+          "score": 0,
+          "matchedKeywords": [],
+          "expectedKeywords": [
+            "qua",
+            "20h",
+            "noite",
+            "autoral"
+          ],
+          "text": "",
+          "status": "ok"
+        }
+      ],
+      "totalDurationMs": 3434
+    },
+    {
+      "provider": "tesseract-js",
+      "status": "ok",
+      "avgScore": 1,
+      "avgLatencyMs": 472,
+      "cases": [
+        {
+          "id": "case-1",
+          "latencyMs": 686,
+          "score": 1,
+          "matchedKeywords": [
+            "sex",
+            "21h",
+            "banda",
+            "fantasma"
+          ],
+          "expectedKeywords": [
+            "sex",
+            "21h",
+            "banda",
+            "fantasma"
+          ],
+          "text": "SEX 21H BANDA FANTASMA",
+          "status": "ok"
+        },
+        {
+          "id": "case-2",
+          "latencyMs": 434,
+          "score": 1,
+          "matchedKeywords": [
+            "sab",
+            "22:30",
+            "tributo",
+            "rock"
+          ],
+          "expectedKeywords": [
+            "sab",
+            "22:30",
+            "tributo",
+            "rock"
+          ],
+          "text": "SAB 22:30 TRIBUTO ROCK",
+          "status": "ok"
+        },
+        {
+          "id": "case-3",
+          "latencyMs": 386,
+          "score": 1,
+          "matchedKeywords": [
+            "dom",
+            "18h",
+            "jam",
+            "session"
+          ],
+          "expectedKeywords": [
+            "dom",
+            "18h",
+            "jam",
+            "session"
+          ],
+          "text": "DOM 18H JAM SESSION",
+          "status": "ok"
+        },
+        {
+          "id": "case-4",
+          "latencyMs": 382,
+          "score": 1,
+          "matchedKeywords": [
+            "qua",
+            "20h",
+            "noite",
+            "autoral"
+          ],
+          "expectedKeywords": [
+            "qua",
+            "20h",
+            "noite",
+            "autoral"
+          ],
+          "text": "QUA 20H NOITE AUTORAL",
+          "status": "ok"
+        }
+      ],
+      "totalDurationMs": 1888
+    }
+  ],
+  "recommendation": {
+    "provider": "tesseract-js",
+    "reason": "Highest average keyword score (1) with avg latency 472ms."
+  }
+}

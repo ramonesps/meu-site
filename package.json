@@ -6,14 +6,26 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "agenda:fetch": "node scripts/fetch-instagram-apify-gemini.js",
+    "agenda:fetch:apify": "node scripts/fetch-instagram-apify-gemini.js",
+    "agenda:fetch:playwright": "node scripts/fetch-instagram-playwright.js",
+    "agenda:fetch:api": "node scripts/fetch-instagram-ocr.js",
+    "agenda:preview": "node scripts/generate-agenda-preview.js",
+    "agenda:update": "node scripts/update-agenda.js",
+    "agenda:refresh": "npm run agenda:fetch && npm run agenda:update",
+    "agenda:update:claude": "node scripts/update-agenda-claude.js",
+    "agenda:refresh:claude": "npm run agenda:fetch && npm run agenda:update:claude",
+    "ocr:bench": "node scripts/benchmark-ocr.js"
   },
   "dependencies": {
     "gray-matter": "^4.0.3",
     "next": "16.2.1",
     "next-mdx-remote": "^6.0.0",
+    "playwright": "^1.58.2",
     "react": "19.2.4",
-    "react-dom": "19.2.4"
+    "react-dom": "19.2.4",
+    "tesseract.js": "^7.0.0"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",

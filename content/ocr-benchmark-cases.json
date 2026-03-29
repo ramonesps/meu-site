@@ -1,0 +1,24 @@
+{
+  "cases": [
+    {
+      "id": "case-1",
+      "imageUrl": "https://dummyimage.com/1280x360/ffffff/111111.png&text=SEX+21H+BANDA+FANTASMA",
+      "expectedKeywords": ["sex", "21h", "banda", "fantasma"]
+    },
+    {
+      "id": "case-2",
+      "imageUrl": "https://dummyimage.com/1280x360/ffffff/111111.png&text=SAB+22:30+TRIBUTO+ROCK",
+      "expectedKeywords": ["sab", "22:30", "tributo", "rock"]
+    },
+    {
+      "id": "case-3",
+      "imageUrl": "https://dummyimage.com/1280x360/ffffff/111111.png&text=DOM+18H+JAM+SESSION",
+      "expectedKeywords": ["dom", "18h", "jam", "session"]
+    },
+    {
+      "id": "case-4",
+      "imageUrl": "https://dummyimage.com/1280x360/ffffff/111111.png&text=QUA+20H+NOITE+AUTORAL",
+      "expectedKeywords": ["qua", "20h", "noite", "autoral"]
+    }
+  ]
+}
