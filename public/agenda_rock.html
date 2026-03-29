@@ -78,30 +78,6 @@ html, body {
   white-space: nowrap;
 }
 
-/* ── COUNTDOWN BAR ───────────────────────── */
-#countdown-wrap {
-  background: #0f0a06;
-  border-bottom: 1px solid #2a1505;
-  padding: 4px 20px;
-  display: flex;
-  align-items: center;
-  gap: 10px;
-  font-size: 0.72rem;
-  color: var(--text-sub);
-}
-#countdown-bar-outer {
-  flex: 1;
-  height: 3px;
-  background: #2a1505;
-  border-radius: 2px;
-  overflow: hidden;
-}
-#countdown-bar-inner {
-  height: 100%;
-  background: var(--accent);
-  transition: width .5s linear;
-}
-
 /* ── TOAST ───────────────────────────────── */
 #toast {
   position: fixed;
@@ -280,11 +256,6 @@ tbody tr:hover td.today-col { background: #321600; }
   </div>
 </div>
 
-<!-- COUNTDOWN -->
-<div id="countdown-wrap">
-  <span id="countdown-label">Próximo refresh em <b id="countdown-secs">60</b>s</span>
-  <div id="countdown-bar-outer"><div id="countdown-bar-inner" style="width:100%"></div></div>
-</div>
 
 <!-- FILTERS -->
 <div id="filters">
@@ -319,7 +290,6 @@ tbody tr:hover td.today-col { background: #321600; }
 
 <script>
 /* ── CONFIG ─────────────────────────────── */
-const REFRESH_SECONDS = 60;
 const DATA_URL = '/agenda_rock.json';
 const API_TRIGGER = '/api/trigger-agenda-claude';
 const TZ = 'America/Sao_Paulo';
@@ -506,23 +476,8 @@ document.getElementById('btn-run').addEventListener('click', async () => {
   }
 });
 
-/* ── COUNTDOWN & AUTO-REFRESH ────────────── */
-let remaining = REFRESH_SECONDS;
-
-function tickCountdown() {
-  remaining--;
-  const pct = (remaining / REFRESH_SECONDS) * 100;
-  document.getElementById('countdown-bar-inner').style.width = pct + '%';
-  document.getElementById('countdown-secs').textContent = remaining;
-
-  if (remaining <= 0) {
-    remaining = REFRESH_SECONDS;
-    loadData();
-  }
-}
-
+/* ── INITIAL LOAD ────────────────────────── */
 loadData();
-setInterval(tickCountdown, 1000);
 </script>
 </body>
 </html>

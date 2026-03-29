@@ -1,17 +1,6 @@
 import Link from 'next/link'
 import Image from 'next/image'
 
-const skills = [
-  'Electronic Engineering',
-  'Product Management',
-  'Project Management',
-  'Bitcoin',
-  'Agricultural Technology',
-  'Agile / Scrum',
-  'Business Strategy',
-  'FGV · UTFPR',
-]
-
 export default function Home() {
   return (
     <main className="max-w-4xl mx-auto px-6 py-20 flex-1">
@@ -51,43 +40,6 @@ export default function Home() {
           >
             Entrar em Contato
           </Link>
-        </div>
-      </section>
-
-      {/* About */}
-      <section>
-        <h2 className="text-2xl font-bold text-gray-900 mb-6">Sobre mim</h2>
-        <div className="space-y-4 mb-10">
-          <p className="text-gray-600 leading-relaxed">
-            Natural de Blumenau, sou Engenheiro Eletrônico formado pela UTFPR e possuo
-            especialização em Gerenciamento de Projetos pela FGV. Atuo como gerente de
-            produtos de máquinas agrícolas e sou co-fundador da{' '}
-            <a
-              href="https://conciergebitcoin.com.br"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-indigo-600 hover:text-indigo-700 underline"
-            >
-              Concierge Bitcoin
-            </a>
-            , onde ajudo pessoas a entenderem e utilizarem o Bitcoin de forma segura e consciente.
-          </p>
-          <p className="text-gray-600 leading-relaxed">
-            Acredito na missão de aumentar a riqueza e a liberdade individual através do Bitcoin.
-            Nossos valores fundamentais são Vida, Liberdade e Propriedade.
-          </p>
-        </div>
-
-        <h3 className="text-lg font-semibold text-gray-900 mb-3">Áreas de atuação</h3>
-        <div className="flex flex-wrap gap-2">
-          {skills.map((skill) => (
-            <span
-              key={skill}
-              className="px-3 py-1.5 bg-gray-100 text-gray-700 rounded-full text-sm font-medium"
-            >
-              {skill}
-            </span>
-          ))}
         </div>
       </section>
     </main>
