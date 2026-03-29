@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-03-29T16:18:05.809Z",
+  "generatedAt": "2026-03-29T17:14:46.685Z",
   "providers": {
-    "instagram": "playwright_public_web",
-    "ocr": "tesseract-js"
+    "instagram": "apify/instagram-api-scraper",
+    "ai": "gemini-2.5-flash"
   },
   "venues": {
     "barcrossroads": {
@@ -10,25 +10,2292 @@
       "name": "Cross Roads",
       "instagram": "https://www.instagram.com/barcrossroads/",
       "handle": "barcrossroads",
-      "fetchedAt": "2026-03-29T16:18:11.915Z",
-      "posts": []
+      "fetchedAt": "2026-03-29T17:16:52.434Z",
+      "posts": [
+        {
+          "id": "DWXPNM9Dv4d",
+          "caption": "Antes de virar tradição, já era história sendo escrita.\nCada noite no Cross vira história. Qual é a sua? 🤘\n\n#barcrossroads #since1997",
+          "mediaType": "Video",
+          "timestamp": "2026-03-26T23:04:13.000Z",
+          "permalink": "https://www.instagram.com/p/DWXPNM9Dv4d/",
+          "images": [
+            "https://scontent-ord5-3.cdninstagram.com/v/t51.71878-15/656403150_1364173022138232_5124762584849775795_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-ord5-3.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGdh4V5YL_LOpyCCQbAvU-Oq0CgrS2x_DCauitvZczLyebenQGr4tYZjsoD2-GJOMg&_nc_ohc=AYbN7Z3YKM8Q7kNvwF7w_Ns&_nc_gid=dWsLA-nvNSAnnjxgqhIhNw&edm=APs17CUBAAAA&ccb=7-5&oh=00_Afxgqdss7455yKM4CgTVwMzJHk9rXTp7pvSwy8XjJFrFog&oe=69CF1C64&_nc_sid=10d13b"
+          ],
+          "handle": "barcrossroads",
+          "raw": {
+            "ownerUsername": "barcrossroads",
+            "type": "Video",
+            "shortCode": "DWXPNM9Dv4d"
+          },
+          "analysis": {
+            "relevant": false,
+            "events": []
+          }
+        },
+        {
+          "id": "DWRsOEPlkbm",
+          "caption": "AGENDA DA SEMANA NA ÁREA! Vem conferir todos os detalhes:\n\nQuinta a viagem começa com Pigs & Diamonds (especial Pink Floyd).\n🎟 R$20\n\nSexta é pedrada atrás de pedrada:\nRight Back (especial Sublime) + Let’s Core (90’s Rock, Punk Rock e Hardcore Hits) + Drive True (90’s Rock e Grunge)\n🎟 R$30\n\nSábado a noite é pra cantar alto:\nSyd Vinicius (Classic Rock) + Candyman Club (Post Punk anos 80) + Backstage (especial Aerosmith, Bon Jovi, Queen e Guns N’ Roses)\n🎟 R$30\n\n📍 Av. Iguaçu, 2310\n⏰ Casa aberta de quinta a sábado a partir das 20h",
+          "mediaType": "Sidecar",
+          "timestamp": "2026-03-24T17:58:51.000Z",
+          "permalink": "https://www.instagram.com/p/DWRsOEPlkbm/",
+          "images": [
+            "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/657284367_18579267385003532_9077780587301846027_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gH_Jdd_eCaE0N0uuDB38A7f1hbX11fogDwIs8NY-SeaarIoHHfKIF5FtYth6W_I1x8&_nc_ohc=yQw6o81cLtsQ7kNvwGwknG6&_nc_gid=5LfEDuKO9HV7DvQCX6_SHg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfytFFlqS5Bce5OtBV0-BJTlTiOCSC674qFBIH257aKqeA&oe=69CF1882&_nc_sid=10d13b"
+          ],
+          "handle": "barcrossroads",
+          "raw": {
+            "ownerUsername": "barcrossroads",
+            "type": "Sidecar",
+            "shortCode": "DWRsOEPlkbm"
+          },
+          "analysis": {
+            "relevant": false,
+            "events": []
+          }
+        },
+        {
+          "id": "DWU2nqDjvWw",
+          "caption": "Quem já viveu, sabe. E quem ainda não viveu o convite tá feito 🤘\n\nQuinta a sábado a partir das 20h\n\nA gente se vê no Cross.\nAv. Iguaçu, 2310",
+          "mediaType": "Video",
+          "timestamp": "2026-03-25T23:34:04.000Z",
+          "permalink": "https://www.instagram.com/p/DWU2nqDjvWw/",
+          "images": [
+            "https://scontent-ord5-1.cdninstagram.com/v/t51.71878-15/656507733_1240782974428921_1732726999760854799_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gGTVDL7XJ6mH2HjBhudUj2XmuLoyZthMazT_SbAsYnKSu-QmXXQ_4TIeHNuCqDL4GY&_nc_ohc=Tc7GmSvIVi8Q7kNvwFZfvSA&_nc_gid=LNjasiO-X4W_ugKBsSX2yw&edm=APs17CUBAAAA&ccb=7-5&oh=00_Afxtwl8nP9Txg8WCKMYn9IyzmTDtBczZujp-lIy7l0EdGg&oe=69CF484E&_nc_sid=10d13b"
+          ],
+          "handle": "barcrossroads",
+          "raw": {
+            "ownerUsername": "barcrossroads",
+            "type": "Video",
+            "shortCode": "DWU2nqDjvWw"
+          },
+          "analysis": {
+            "relevant": true,
+            "events": [
+              {
+                "date": "2026-04-02",
+                "title": "Abertura do bar",
+                "start_time": "20:00:00Z",
+                "confidence": "high",
+                "evidence": "Quinta a sábado a partir das 20h"
+              },
+              {
+                "date": "2026-04-03",
+                "title": "Abertura do bar",
+                "start_time": "20:00:00Z",
+                "confidence": "high",
+                "evidence": "Quinta a sábado a partir das 20h"
+              },
+              {
+                "date": "2026-04-04",
+                "title": "Abertura do bar",
+                "start_time": "20:00:00Z",
+                "confidence": "high",
+                "evidence": "Quinta a sábado a partir das 20h"
+              }
+            ]
+          }
+        },
+        {
+          "id": "DWJrff2AOBJ",
+          "caption": "Quando o assunto é rock, a gente sabe reconhecer o que é histórico.\n\nO Crossroads apoia a vinda do In Flames a Curitiba. Um dos nomes mais influentes da história do metal mundial.\n\n🗓️ 26 de abril\n📍 Ópera de Arame\n🎟️ Ingressos disponíveis via Diskingressos\n\nUma apresentação única, de uma banda que ajudou a definir o som de uma era.",
+          "mediaType": "Image",
+          "timestamp": "2026-03-21T15:19:02.000Z",
+          "permalink": "https://www.instagram.com/p/DWJrff2AOBJ/",
+          "images": [
+            "https://scontent-lax3-1.cdninstagram.com/v/t51.82787-15/655479910_18578082469003532_4698547459696525084_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gGl8v5N4Lguq-YlCjLVxv53UUZRFbc4AURQmhC-UnMsA8HhGPG9mYP_0VahekSWpDE&_nc_ohc=lj0cOFljkwoQ7kNvwEKDZfx&_nc_gid=8NwzUTwA202AU4gVorstVQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Afw3YSUI8maxz5It_xMPjyj5dCBVhRUA5YCFZ3KzzmNaFg&oe=69CF168D&_nc_sid=10d13b"
+          ],
+          "handle": "barcrossroads",
+          "raw": {
+            "ownerUsername": "barcrossroads",
+            "type": "Image",
+            "shortCode": "DWJrff2AOBJ"
+          },
+          "analysis": {
+            "relevant": false,
+            "events": []
+          }
+        }
+      ]
     },
     "sheridansirishpub": {
       "venueId": "sheridans",
       "name": "Sheridans",
       "instagram": "https://www.instagram.com/sheridansirishpub/",
       "handle": "sheridansirishpub",
-      "fetchedAt": "2026-03-29T16:18:18.683Z",
-      "posts": []
+      "fetchedAt": "2026-03-29T17:19:11.542Z",
+      "posts": [
+        {
+          "id": "DWW4YraFyy3",
+          "caption": "Já pode #TBT do St. Patrick's? Já estamos com saudades da nossa festa lindaaaa! Já já tem mais coisa boa por aqui!\n\n📸 @otavio.stadler",
+          "mediaType": "Sidecar",
+          "timestamp": "2026-03-26T18:21:22.000Z",
+          "permalink": "https://www.instagram.com/p/DWW4YraFyy3/",
+          "images": [
+            "https://instagram.fmli1-1.fna.fbcdn.net/v/t39.30808-6/656898512_1368006352024597_1470335805417844506_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=instagram.fmli1-1.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2gEIUI7vd8zvoVwglFjRgltsTr68U20iI_r8mLwBL9BG3mMRwe6GrHlrwRUdustbotE&_nc_ohc=51frNdAB_fcQ7kNvwGOdBfC&_nc_gid=K56kUgekpIaaqHzBaLVuow&edm=APs17CUAAAAA&ccb=7-5&oh=00_AfxxSwB8zjWFWBIF4O4lQJkiDSbUQktbOmxPg0fXsflzdw&oe=69CF199E&_nc_sid=10d13b"
+          ],
+          "handle": "sheridansirishpub",
+          "raw": {
+            "ownerUsername": "sheridansirishpub",
+            "type": "Sidecar",
+            "shortCode": "DWW4YraFyy3"
+          },
+          "analysis": {
+            "relevant": false,
+            "events": []
+          }
+        },
+        {
+          "id": "DWd7M0eDcCJ",
+          "caption": "Parabéns, Curitiba! 💚\n\nQue orgulho imenso fazer parte do cartão-postal dessa cidade tão incrível, cheia de história, beleza e, principalmente, de gente maravilhosa como vocês!\n\nCuritiba, você é inspiração! Continua sempre incrível\n\nFeliz 333 anos para nossa ovem guria! ✨",
+          "mediaType": "Image",
+          "timestamp": "2026-03-29T12:00:40.000Z",
+          "permalink": "https://www.instagram.com/p/DWd7M0eDcCJ/",
+          "images": [
+            "https://scontent-mia5-1.cdninstagram.com/v/t39.30808-6/659886409_1369718005186765_5811206734380041517_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-mia5-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gHckl8OguiPUTk-s325YSHMAUJctuhk6qVyoKpzFzkkzuqqES6LlL7_DyEjhykP9Gfeec7hklKP0aYiQY1jlx3R&_nc_ohc=giYPk5sZra0Q7kNvwHZfsKF&_nc_gid=hkKE6Y-ghISnOSfc0OQlOQ&edm=APs17CUAAAAA&ccb=7-5&oh=00_AfzGm3rlukI6aEm6q6xYlByJdrNLrafzG5Fb5kW1jsrc8Q&oe=69CF29B3&_nc_sid=10d13b"
+          ],
+          "handle": "sheridansirishpub",
+          "raw": {
+            "ownerUsername": "sheridansirishpub",
+            "type": "Image",
+            "shortCode": "DWd7M0eDcCJ"
+          },
+          "analysis": {
+            "relevant": false,
+            "events": []
+          }
+        },
+        {
+          "id": "DWeMUlmgh2-",
+          "caption": "Semana com feriado e a animação é ainda maior! Vem pra cá que a programação tá nada menos que imperdível! ☘️",
+          "mediaType": "Sidecar",
+          "timestamp": "2026-03-29T14:30:15.000Z",
+          "permalink": "https://www.instagram.com/p/DWeMUlmgh2-/",
+          "images": [
+            "https://scontent-ord5-1.cdninstagram.com/v/t39.30808-6/656813325_1369651045193461_7836352365249607482_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gGFNkIn0OE11lyCj7HJu0V7U2FQmkiYUt4p8i5wnZfQPWQFx1f4xmf77Ke-m5K8bVI&_nc_ohc=qE-6jDQPqjUQ7kNvwFD-dCw&_nc_gid=9mmFFnH7tSY-qoH9n3giUg&edm=APs17CUAAAAA&ccb=7-5&oh=00_AfxXVPhhvQZ-43Y3SfawZnpq6QlkEYKJ4AaHHqA0vB_irA&oe=69CF1EFA&_nc_sid=10d13b"
+          ],
+          "handle": "sheridansirishpub",
+          "raw": {
+            "ownerUsername": "sheridansirishpub",
+            "type": "Sidecar",
+            "shortCode": "DWeMUlmgh2-"
+          },
+          "analysis": {
+            "relevant": true,
+            "events": [
+              {
+                "date": "2026-03-30",
+                "title": "U2 CWB",
+                "start_time": "20:30:00Z",
+                "confidence": "high",
+                "evidence": "SEG 30.03 U2 CWB"
+              },
+              {
+                "date": "2026-03-31",
+                "title": "Eddie Foster",
+                "start_time": "20:30:00Z",
+                "confidence": "high",
+                "evidence": "TER 31.03 EDDIE FOSTER"
+              },
+              {
+                "date": "2026-04-01",
+                "title": "Minha Banda é Uma Festa",
+                "start_time": "20:30:00Z",
+                "confidence": "high",
+                "evidence": "QUA 01.04 MINHA BANDA É UMA FESTA"
+              },
+              {
+                "date": "2026-04-02",
+                "title": "DJ Set Gui Silvério",
+                "start_time": "20:30:00Z",
+                "confidence": "high",
+                "evidence": "QUI 02.04 DJ SET GUI SILVÉRIO"
+              },
+              {
+                "date": "2026-04-03",
+                "title": "Boogie Gang e República Pine",
+                "start_time": "20:30:00Z",
+                "confidence": "high",
+                "evidence": "SEX 03.04 BOOGIE GANG"
+              },
+              {
+                "date": "2026-04-04",
+                "title": "Lenhadores da Antártida e Backstage",
+                "start_time": "20:30:00Z",
+                "confidence": "high",
+                "evidence": "SÁB 04.04 LENHADORES DA ANTÁRTIDA"
+              }
+            ]
+          }
+        },
+        {
+          "id": "DWR6JsHAer6",
+          "caption": "The Snug é aquele espaço mais reservado dentro do pub, perfeito pra quem curte um clima mais intimista ☘️\n\nNosso lounge leva esse nome justamente por isso: um espaço pra relaxar, aproveitar uma boa companhia e curtir as noites de terça, quarta e quinta com música de qualidade, promo especial e, claro, aquele happy hour que a gente ama.\n\nUm pub irlandês no sul do mundo? É o Sheridan’s. Vem viver isso com a gente ✨",
+          "mediaType": "Image",
+          "timestamp": "2026-03-24T20:00:36.000Z",
+          "permalink": "https://www.instagram.com/p/DWR6JsHAer6/",
+          "images": [
+            "https://scontent-ord5-1.cdninstagram.com/v/t39.30808-6/656363130_1365124378979461_1733179605127690050_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gGj1IiZkqvX8VkjB69w7G5-i56J-VMnT2pFrCg_PDrD4bEUR-q_taFSNTnAtjXEGRU&_nc_ohc=dHBoqB7ewEwQ7kNvwEWxCyp&_nc_gid=EVJc0bYtU_DtdbRIB5XjSA&edm=APs17CUAAAAA&ccb=7-5&oh=00_AfwMckLjn76mDuYtSbEqGpHO9-XeuiP3tgTlP1OkyJi_GQ&oe=69CF3AFD&_nc_sid=10d13b"
+          ],
+          "handle": "sheridansirishpub",
+          "raw": {
+            "ownerUsername": "sheridansirishpub",
+            "type": "Image",
+            "shortCode": "DWR6JsHAer6"
+          },
+          "analysis": {
+            "relevant": true,
+            "events": [
+              {
+                "date": "2026-03-31",
+                "title": "Noite com música, promo e happy hour",
+                "start_time": null,
+                "confidence": "high",
+                "evidence": "noites de terça com música de qualidade, promo especial e happy hour"
+              },
+              {
+                "date": "2026-04-01",
+                "title": "Noite com música, promo e happy hour",
+                "start_time": null,
+                "confidence": "high",
+                "evidence": "noites de quarta com música de qualidade, promo especial e happy hour"
+              },
+              {
+                "date": "2026-04-02",
+                "title": "Noite com música, promo e happy hour",
+                "start_time": null,
+                "confidence": "high",
+                "evidence": "noites de quinta com música de qualidade, promo especial e happy hour"
+              }
+            ]
+          }
+        },
+        {
+          "id": "DWbx8iLlmg7",
+          "caption": "Vem que tem JÄGERDAY pra embalar nosso sábado daquele jeito que a gente gosta!\n\nTem DOUBLE SHOT no intervalo das bandas. Você pede um, leva dois! É pra ter história pra contar! 🔥\n\nVem pra cá curtir com a gente!",
+          "mediaType": "Image",
+          "timestamp": "2026-03-28T16:01:18.000Z",
+          "permalink": "https://www.instagram.com/p/DWbx8iLlmg7/",
+          "images": [
+            "https://scontent-ord5-3.cdninstagram.com/v/t39.30808-6/656809063_1369072131918019_3323250656268882066_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=scontent-ord5-3.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gGAOVhwkzk6kPaFJC9WJGJiMoxKfRx4WFlEGXBJTKKkOi-_j7_GzL_5bxrSWna0nyg&_nc_ohc=HcFIlvvdR6UQ7kNvwECCA7r&_nc_gid=8ZG9XqL7ohtd3RH0YtCjXw&edm=APs17CUAAAAA&ccb=7-5&oh=00_AfwzqglLVs3qIjOC_bDH-uNhmtc1KA5p6Zgex7fsshq4zg&oe=69CF3397&_nc_sid=10d13b"
+          ],
+          "handle": "sheridansirishpub",
+          "raw": {
+            "ownerUsername": "sheridansirishpub",
+            "type": "Image",
+            "shortCode": "DWbx8iLlmg7"
+          },
+          "analysis": {
+            "relevant": true,
+            "events": [
+              {
+                "date": "2026-04-04",
+                "title": "JÄGERDAY com Double Shot",
+                "start_time": null,
+                "confidence": "high",
+                "evidence": "SÓ NESTE SÁBADO"
+              }
+            ]
+          }
+        }
+      ]
     },
     "jokerspub": {
       "venueId": "jokers",
       "name": "Jokers",
       "instagram": "https://www.instagram.com/jokerspub/",
       "handle": "jokerspub",
-      "fetchedAt": "2026-03-29T16:18:25.383Z",
+      "fetchedAt": "2026-03-29T17:24:39.757Z",
+      "posts": [
+        {
+          "id": "DWbK5ZqkVdL",
+          "caption": "Nos sábados, você encontra por aqui uma deliciosa Feijoada! Preparada com os melhores ingredientes nossa feijoada acompanha Arroz Branco, Bisteca, Farofa Crocante, Couve Refogada com Bacon, Banana à Milanesa, e Laranja. E é claro, não pode faltar aquele Caldinho de Feijão delicioso para abrir o apetite! Vem pro Jokers!\n\nTemos delivery!\n* Peça pelo Whatsapp: (41) 3324.2351\n* Ou por iFood\n\nJokers Pub: R. São Francisco, 164 - Centro\nMais infos: jokers.com.br",
+          "mediaType": "Image",
+          "timestamp": "2026-03-28T10:20:05.000Z",
+          "permalink": "https://www.instagram.com/p/DWbK5ZqkVdL/",
+          "images": [
+            "https://scontent-ord5-2.cdninstagram.com/v/t39.30808-6/660537632_1431588982343702_8463180343387332893_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gFFvh29F-dbw0tPRMdaA8BbIQ2lNT_tVoshy1YY-djU3-0KeIh2Mk9QptxWEOHfAHI&_nc_ohc=2srIrE5NrF4Q7kNvwEeqy-0&_nc_gid=xb6eZXkLKW9wwDYSbP6xOw&edm=APs17CUAAAAA&ccb=7-5&oh=00_AfyCfEHklOe2I7V5QPpNslhFAduePj04pYerB4524AQnNw&oe=69CF34BF&_nc_sid=10d13b"
+          ],
+          "handle": "jokerspub",
+          "raw": {
+            "ownerUsername": "jokerspub",
+            "type": "Image",
+            "shortCode": "DWbK5ZqkVdL"
+          },
+          "analysis": {
+            "relevant": false,
+            "events": []
+          }
+        },
+        {
+          "id": "DWZzzeBieDN",
+          "caption": "FREAKY FRIDAY\n\nA nostalgia da adolescência dos anos 2000 toma conta! Pulseiras neon, campeonato de videogame, show de 3 bandas autorais curitibanas e discotecagem dos maiores hits daquela época!\nLine Up\n\nCAMAPU\n\nADEUSATURNO\n\nVAD BIVES\n\nDj Zi\n\n \nENTRADA; r$40\nAbertura da casa 18h\nVem pro Jokers você também\n🌐Rua São Francisco, 164 - Centro\n📲Whats: 41 3324 2351",
+          "mediaType": "Image",
+          "timestamp": "2026-03-27T21:39:03.000Z",
+          "permalink": "https://www.instagram.com/p/DWZzzeBieDN/",
+          "images": [
+            "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/657630421_18455726128096325_4510564972580103109_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGzRsr-OuuLEwOj8shCBUJi_0fcDBr_WtRy_clMZmlA7JuMO7IM8lV5cGlh7C1m2KU&_nc_ohc=kW7NhFTXvjwQ7kNvwHPG-e5&_nc_gid=PRoN847iI2HVIcFsnXlCeg&edm=APs17CUBAAAA&ccb=7-5&oh=00_Afw9LXBqoWf7suCo6w-rII63NOyUZ0vB2HKCdoBZWjCJ6A&oe=69CF34A0&_nc_sid=10d13b"
+          ],
+          "handle": "jokerspub",
+          "raw": {
+            "ownerUsername": "jokerspub",
+            "type": "Image",
+            "shortCode": "DWZzzeBieDN"
+          },
+          "analysis": {
+            "relevant": false,
+            "events": []
+          }
+        },
+        {
+          "id": "DWeftojkVG3",
+          "caption": "333 anos de Curitiba!\nUma alegria enorme para nos do Jokers estarmos presentes aqui no centro histórico dessa nossa linda cidade ha 25 anos. E hoje em festa com o aniversário da nossa amada Terra dos Pinherais\n\n#curitiba333anos",
+          "mediaType": "Image",
+          "timestamp": "2026-03-29T17:19:44.000Z",
+          "permalink": "https://www.instagram.com/p/DWeftojkVG3/",
+          "images": [
+            "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-15/657643602_18456107359096325_5127476425690543866_n.webp?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGJYCuV-MebHHDQzOKdDu3wwTWp4MCxpFPb9xBcLcBRIwtlqz9ve5TdT0jH_ThDy-w&_nc_ohc=Vce6O39aECAQ7kNvwE5GuAM&_nc_gid=8GrfdFIGDv0tQXuF0Ck8vQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Afx2M_M5dpGkpX-HZhB4cO8z_ZMFtAT0llak02sXmCXwhQ&oe=69CF3AB0&_nc_sid=10d13b"
+          ],
+          "handle": "jokerspub",
+          "raw": {
+            "ownerUsername": "jokerspub",
+            "type": "Image",
+            "shortCode": "DWeftojkVG3"
+          },
+          "analysis": {
+            "relevant": false,
+            "events": []
+          }
+        },
+        {
+          "id": "DWczkkHESlW",
+          "caption": "Viagem Terra Média (31/03)\nMarço é o mês que celebra as grandes vitórias das forças do bem contra Sauron em O Senhor dos Anéis, com as batalhas o Abismo de Helm, Minas Tirith e a Destruição do Um Anel. Venha celebrar a obra de Tolkien com o show Viagem Terra Média, pela primeira na terça folk do Jokers\n\nENTRADA FREE\nInformações e Reservas:\n📲3324 2351\n\n#Jokers #terçacelta #tolkien \n@doriaobardo\n@shandacavich\n@viagemterramedia\n@maiko.thomearaujo",
+          "mediaType": "Image",
+          "timestamp": "2026-03-29T01:34:46.000Z",
+          "permalink": "https://www.instagram.com/p/DWczkkHESlW/",
+          "images": [
+            "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/657328695_18455975887096325_4017580155330062202_n.webp?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEQ3sg6nY0fLLWh6Uv1FpYdQg1Lj6roQao6SOdL6hBeh26QG5O0oBXm9_JfUcBtKKc&_nc_ohc=HDpErepcC3EQ7kNvwEoqEMT&_nc_gid=1cUUQ1i9ppprL4AgLjLF0w&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfzSiK1jYMVBEbwE5QLwKUH-ojfG3YfhN1AU0DeYH68XdA&oe=69CF4081&_nc_sid=10d13b"
+          ],
+          "handle": "jokerspub",
+          "raw": {
+            "ownerUsername": "jokerspub",
+            "type": "Image",
+            "shortCode": "DWczkkHESlW"
+          },
+          "analysis": {
+            "relevant": false,
+            "events": []
+          }
+        }
+      ]
+    },
+    "wearebastardspub": {
+      "venueId": "bastards-pub",
+      "name": "Bastards Pub",
+      "instagram": "https://www.instagram.com/wearebastardspub/",
+      "handle": "wearebastardspub",
+      "fetchedAt": "2026-03-29T17:15:48.434Z",
+      "posts": [
+        {
+          "id": "DWPP5sfDKQ-",
+          "caption": "A casinha tá aberta e o som não para. Confere a agenda da semana, chama a matilha e vem pro balcão.\n\nPub aberto de terça a sábado, a partir das 18h",
+          "mediaType": "Image",
+          "timestamp": "2026-03-23T19:13:05.000Z",
+          "permalink": "https://www.instagram.com/p/DWPP5sfDKQ-/",
+          "images": [
+            "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/658215911_18430439155139566_1898380591143287240_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gFXOGzvFhIBokAuw-oNmVS9-dsiVPpr5uYo8zbpjTyCnImMfVPjCxmUljigDRVgVSM&_nc_ohc=sKcaEZxaCsEQ7kNvwEHtpbb&_nc_gid=SLdzhNmy_t7zcOzKFh3DbA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfxDnX3_xf54rNpeMRsZdHNgyMuo0iKEsyLVOeHURt4zcw&oe=69CF2811&_nc_sid=10d13b"
+          ],
+          "handle": "wearebastardspub",
+          "raw": {
+            "ownerUsername": "wearebastardspub",
+            "type": "Image",
+            "shortCode": "DWPP5sfDKQ-"
+          },
+          "analysis": {
+            "relevant": false,
+            "events": []
+          }
+        },
+        {
+          "id": "DWSLcj6jtgY",
+          "caption": "Se a sua Páscoa é igual todo ano, talvez esteja na hora de mudar!\n\nA Bastards e a @larachocolab juntaram o melhor chocolate com:\n🥓 bacon\n🍟 batata chips\n🌾 malte chocolate\n🌾 malte vienna\n\n+ uma Mark the Shadow, nossa oatmeal stout, pra acompanhar.\n\nDois kits. Nenhum óbvio.\n\nDisponível a partir de amanhã nos bares Bastards!",
+          "mediaType": "Image",
+          "timestamp": "2026-03-24T22:32:54.000Z",
+          "permalink": "https://www.instagram.com/p/DWSLcj6jtgY/",
+          "images": [
+            "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/656603994_18430632568139566_1989108398025563155_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gF6wEdyCt0ZI7sglLNIZPfRzCbvyzdcWE5WhqTqhO-fV9mzy0pEzHF5KqgkpWWL2nM&_nc_ohc=MsSSd-Ag93sQ7kNvwHKDYDW&_nc_gid=F95uelQSGtyiaDIywxn_9A&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfzlDvi-CEPpIrsBx1y7N-OfcJkG8AtXMAc9lx3cEZI-FA&oe=69CF15F9&_nc_sid=10d13b"
+          ],
+          "handle": "wearebastardspub",
+          "raw": {
+            "ownerUsername": "wearebastardspub",
+            "type": "Image",
+            "shortCode": "DWSLcj6jtgY"
+          },
+          "analysis": {
+            "relevant": false,
+            "events": []
+          }
+        },
+        {
+          "id": "DWZhunGFAxp",
+          "caption": "Chope verde, casa cheia e a matilha no modo caos. 🍀\nFoi assim que a gente comemorou o St. Patrick’s por aqui. E pelas fotos… deu pra ver que ninguém economizou!\n\nValeu todo mundo que colou e fez essa festa virar história.",
+          "mediaType": "Sidecar",
+          "timestamp": "2026-03-27T19:01:06.000Z",
+          "permalink": "https://www.instagram.com/p/DWZhunGFAxp/",
+          "images": [
+            "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/656788685_18431192599139566_8554405365069480424_n.jpg?stp=dst-jpg_e35_s1080x1080_sh0.08_tt6&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gGHePEQnnlhfM3dIwRlM94WSCA2SEhhfZ5Gfyj0kEl78CNL4kCippUIBIIMMbGsSbc&_nc_ohc=TFrn4gQhO7IQ7kNvwH7Ssc0&_nc_gid=DwsYNB_nyTFGpmdwWeUOag&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfyqciffqQSyvktzDPAEQQZI41AfnUbiOJrgfunoShTk9Q&oe=69CF149F&_nc_sid=10d13b"
+          ],
+          "handle": "wearebastardspub",
+          "raw": {
+            "ownerUsername": "wearebastardspub",
+            "type": "Sidecar",
+            "shortCode": "DWZhunGFAxp"
+          },
+          "analysis": {
+            "relevant": false,
+            "events": []
+          }
+        },
+        {
+          "id": "DWXRIUvkg1K",
+          "caption": "O coelho da Páscoa tentou entregar chocolate, mas passou na Bastards no meio do caminho! Resultado?\nChocolate com batata chips, bacon e malte! + Mark The Shadow pra acompanhar!\n\nKits limitados! Faça já seu pedido",
+          "mediaType": "Video",
+          "timestamp": "2026-03-26T21:58:47.000Z",
+          "permalink": "https://www.instagram.com/p/DWXRIUvkg1K/",
+          "images": [
+            "https://scontent-mia3-1.cdninstagram.com/v/t51.71878-15/656755324_2456878981439586_3272227189063291576_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-mia3-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gHq1q4iTuvDZlZYsvSDVyKzQsuQ6FJGMwUYdA7OHXP-9RAKT5xzDB3g7VrIfIn4AOw&_nc_ohc=UvM2nQ8Afe0Q7kNvwGQYa9-&_nc_gid=WhHvxwcGJgFLokfDIv3B_Q&edm=APs17CUBAAAA&ccb=7-5&oh=00_Afzx3Eq4NV6Z15-gMAOrIGcCFhPMwY4UbmmvVG1w1x-ttQ&oe=69CF20E7&_nc_sid=10d13b"
+          ],
+          "handle": "wearebastardspub",
+          "raw": {
+            "ownerUsername": "wearebastardspub",
+            "type": "Video",
+            "shortCode": "DWXRIUvkg1K"
+          },
+          "analysis": {
+            "relevant": false,
+            "events": []
+          }
+        }
+      ]
+    },
+    "hrccuritiba": {
+      "venueId": "hard-rock",
+      "name": "Hard Rock",
+      "instagram": "https://www.instagram.com/hrccuritiba/",
+      "handle": "hrccuritiba",
+      "fetchedAt": "2026-03-29T17:17:41.013Z",
+      "posts": [
+        {
+          "id": "DWOlQtDEecB",
+          "caption": "A trilha sonora da sua semana já está garantida!\n\nNosso palco recebe shows ao vivo todos os dias! 🎸\nConfira a live music da semana e programe-se para viver momentos inesquecíveis ao som de boa música, gastronomia e aquela atmosfera que só o Hard tem!\nTe esperamos!\n\n⏰ Horários:\nSegunda a Quinta: 11h às 00h\nSexta: 11h à 1h\nSábado: 11h à 1h\nDomingo: 11h às 00h\n\n🎸 Entrada:\nA partir das 11h: R$15,00\nA partir das 18h: R$30,00\n\n📞: +55 41 98799-1178\n🎸: Música ao vivo todos os dias\n📍: R. Buenos Aires, 50 - Batel",
+          "mediaType": "Image",
+          "timestamp": "2026-03-23T13:00:27.000Z",
+          "permalink": "https://www.instagram.com/p/DWOlQtDEecB/",
+          "images": [
+            "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/658540182_18568740787041953_2695534494662883455_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gFdk7eBXSUvzF5bdpEdpRFYHwfcPxRcfPBhCbchW52-7dXtgZR3s0NNLsrzcgBETSY&_nc_ohc=s7lXL8lepe4Q7kNvwEpIfvM&_nc_gid=Uf3MTsSCOltGpJOjl8gPLg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfyuCN3JiTlK3k36Ls_sBlS4fMnEIv-fRNUK0hdHFhifUA&oe=69CF30F9&_nc_sid=10d13b"
+          ],
+          "handle": "hrccuritiba",
+          "raw": {
+            "ownerUsername": "hrccuritiba",
+            "type": "Image",
+            "shortCode": "DWOlQtDEecB"
+          },
+          "analysis": {
+            "relevant": true,
+            "events": [
+              {
+                "date": "2026-03-29",
+                "title": "Gui Vianna",
+                "start_time": "12:30:00Z",
+                "confidence": "high",
+                "evidence": "29. DOMINGO Gui Vianna | 12h30"
+              },
+              {
+                "date": "2026-03-29",
+                "title": "Rádio Vinil",
+                "start_time": "19:30:00Z",
+                "confidence": "high",
+                "evidence": "29. DOMINGO Rádio Vinil | 19h30"
+              }
+            ]
+          }
+        },
+        {
+          "id": "DWPIYbnjb0B",
+          "caption": "Os amistosos estão chegando e você já sabe onde assistir!\n\n📅 Datas: 26 e 31 de Março\n\nTransmissão ao vivo, clima de jogo e tudo que você precisa pra curtir cada lance.\n\nNão deixa pra última hora.\n\nReserve no link da bio.",
+          "mediaType": "Image",
+          "timestamp": "2026-03-23T18:07:25.000Z",
+          "permalink": "https://www.instagram.com/p/DWPIYbnjb0B/",
+          "images": [
+            "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/657083567_18568830766041953_1762978104726057250_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gHkATTwfzEKrh_PhOtzvVC1zc-VfFg4qVQDuQRPZsVXYIyHu9I7IIO47vhMEVPTj9U&_nc_ohc=qcDII4p7tEgQ7kNvwEFus3n&_nc_gid=X0WMdx6tHqyEWXP9KTN5eg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfwQiZHKucU-Rc4kxUv0COJR5NKUZRA9T7Hoku2s9lIpvg&oe=69CF4BEB&_nc_sid=10d13b"
+          ],
+          "handle": "hrccuritiba",
+          "raw": {
+            "ownerUsername": "hrccuritiba",
+            "type": "Image",
+            "shortCode": "DWPIYbnjb0B"
+          },
+          "analysis": {
+            "relevant": true,
+            "events": [
+              {
+                "date": "2026-03-31",
+                "title": "Transmissão de Amistoso",
+                "start_time": "21:00:00Z",
+                "confidence": "high",
+                "evidence": "31 de Março, 21H"
+              }
+            ]
+          }
+        },
+        {
+          "id": "DWePxJTlLOD",
+          "caption": "A Páscoa fica ainda mais especial quando celebrada ao lado de quem importa. 🐰✨\n\nVenha viver esse momento em família, com boa música, pratos marcantes e um ambiente pensado para criar memórias especiais.\n\nNessa Páscoa, sua mesa tem lugar certo no maior Hard Rock Cafe da América Latina.",
+          "mediaType": "Image",
+          "timestamp": "2026-03-29T15:00:00.000Z",
+          "permalink": "https://www.instagram.com/p/DWePxJTlLOD/",
+          "images": [
+            "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/659218232_18569902354041953_4655710280873077885_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGC2c6KBJ5GCVgKcifIn9TZUDJf_e8SSpNb3bSpfOYIPhFOr_DLiWkwZvpEQ1E3zeA&_nc_ohc=8G6PaqTPkxEQ7kNvwHUmsuS&_nc_gid=grrZ7Bu6G-CkUifGVNrf5Q&edm=APs17CUBAAAA&ccb=7-5&oh=00_Afwy5Y39pMzH_C0rnwOUxFSg2q00R6odmtnngNB6mkysyg&oe=69CF420F&_nc_sid=10d13b"
+          ],
+          "handle": "hrccuritiba",
+          "raw": {
+            "ownerUsername": "hrccuritiba",
+            "type": "Image",
+            "shortCode": "DWePxJTlLOD"
+          },
+          "analysis": {
+            "relevant": false,
+            "events": []
+          }
+        }
+      ]
+    },
+    "bardafabricabastards": {
+      "venueId": "bastards-f-brica",
+      "name": "Bastards Fábrica",
+      "instagram": "https://www.instagram.com/bardafabricabastards/",
+      "handle": "bardafabricabastards",
+      "fetchedAt": "2026-03-29T17:19:52.816Z",
+      "posts": [
+        {
+          "id": "DWZjzsLD35u",
+          "caption": "Tá no calendário: outono.\nTá no clima: verão.\nA gente não questiona, só abre mais uma!🍻 Cola aproveitar enquanto o tempo tá desse jeito! \n\nEntrada free!",
+          "mediaType": "Image",
+          "timestamp": "2026-03-27T19:19:43.000Z",
+          "permalink": "https://www.instagram.com/p/DWZjzsLD35u/",
+          "images": [
+            "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/658137541_18102979610502869_119674910550366798_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gFTZzZyBhF6oKt2d6Z0PVEzEUCxCYTXa5T-YzR3WdfmJHya85e3I0SsxU5QhIwxPGs&_nc_ohc=RBscoKjMz9IQ7kNvwEmR6vd&_nc_gid=j9Lu1PjPH_DANFPgUjdZUQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfxJJYGlMV5ys_F6B3pjuhTWPZJjU3wojncNjJXQ-lYaBg&oe=69CF4C84&_nc_sid=10d13b"
+          ],
+          "handle": "bardafabricabastards",
+          "raw": {
+            "ownerUsername": "bardafabricabastards",
+            "type": "Image",
+            "shortCode": "DWZjzsLD35u"
+          },
+          "analysis": {
+            "relevant": false,
+            "events": []
+          }
+        },
+        {
+          "id": "DWPREswjyYZ",
+          "caption": "Se a semana tá longa, a solução é simples: música alta, chope trincando e gente boa no balcão.\nVem. 🐶🍻\n\nCanil aberto de terça a domingo, a partir das 12h\nEntrada free",
+          "mediaType": "Image",
+          "timestamp": "2026-03-23T19:23:16.000Z",
+          "permalink": "https://www.instagram.com/p/DWPREswjyYZ/",
+          "images": [
+            "https://scontent-mia3-2.cdninstagram.com/v/t51.82787-15/656173138_18102421832502869_4699957459677170232_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=scontent-mia3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGZf4b-D2YC-53oTlfvVfhhvSLVzKUpTKR6VPFIzJn5JvxoU8a2xMT9fGQBrQu1i1k&_nc_ohc=rp_HGYZSrt8Q7kNvwGbwu_x&_nc_gid=GbVBEhYBVaWc-Uxy9yCifg&edm=APs17CUBAAAA&ccb=7-5&oh=00_Afzvm3Ki5162bwhVGOvhobcN6TWz8YCq_8uz4tDIEpDlgg&oe=69CF34A8&_nc_sid=10d13b"
+          ],
+          "handle": "bardafabricabastards",
+          "raw": {
+            "ownerUsername": "bardafabricabastards",
+            "type": "Image",
+            "shortCode": "DWPREswjyYZ"
+          },
+          "analysis": {
+            "relevant": true,
+            "events": [
+              {
+                "date": "2026-03-29",
+                "title": "BAD BAX",
+                "start_time": "16:00:00Z",
+                "confidence": "high",
+                "evidence": "29/03 DOMINGO BAD BAX SHOW 16H00"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "bardamaniacs": {
+      "venueId": "maniacs",
+      "name": "Maniacs",
+      "instagram": "https://www.instagram.com/bardamaniacs/",
+      "handle": "bardamaniacs",
+      "fetchedAt": "2026-03-29T17:20:50.787Z",
+      "posts": [
+        {
+          "id": "DWB16WkDnFx",
+          "caption": "Aqui o combo é simples.\nHambúrguer absurdo e Chope Maniacs bem servido no pint. 🍺\nBora resolver essa fome no Bar Maniacs.",
+          "mediaType": "Image",
+          "timestamp": "2026-03-18T14:17:01.000Z",
+          "permalink": "https://www.instagram.com/p/DWB16WkDnFx/",
+          "images": [
+            "https://scontent-dfw6-1.cdninstagram.com/v/t51.82787-15/651505707_18096807206002009_4281199353264589161_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=scontent-dfw6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gF-HB1y__GYrkiobbyMlKgLHTPj3zjNDR8DTzOYAk8-DhHNMIaPDSqljfjtdRZtwbc&_nc_ohc=dHgRiLkftykQ7kNvwEh0QP3&_nc_gid=PHvDznrODg19sBQxsKtpXQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfzHTUIcSIuJSTJOuzxvjuLAeQ0IOUX3JJrC7PCUfvkJ0w&oe=69CF40D3&_nc_sid=10d13b"
+          ],
+          "handle": "bardamaniacs",
+          "raw": {
+            "ownerUsername": "bardamaniacs",
+            "type": "Image",
+            "shortCode": "DWB16WkDnFx"
+          },
+          "analysis": {
+            "relevant": false,
+            "events": []
+          }
+        },
+        {
+          "id": "DWZT6qBDoL8",
+          "caption": "Final de semana sem chope bom é só reunião de sede.\n\nA Tap List do fim de semana tá na pista e o perigo é querer provar todas. 🍺\n\nVem descobrir qual vai ser a sua.",
+          "mediaType": "Sidecar",
+          "timestamp": "2026-03-27T17:00:45.000Z",
+          "permalink": "https://www.instagram.com/p/DWZT6qBDoL8/",
+          "images": [
+            "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/656630042_18097553315002009_6756208955478439566_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gE0FK4ztP2RPn0dz27XlcKulmDJq_oJh0WS0N5mVglcxwg5YeQ0jCmlmrrutyPFGME&_nc_ohc=moWW6ct7mQYQ7kNvwFjU711&_nc_gid=5amUjtL1xyI4FR505DOTig&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfxJjIOTe5arQQd7QLkgfNTw2PFIrKmdpYKbQQmDpB_jCQ&oe=69CF1B17&_nc_sid=10d13b"
+          ],
+          "handle": "bardamaniacs",
+          "raw": {
+            "ownerUsername": "bardamaniacs",
+            "type": "Sidecar",
+            "shortCode": "DWZT6qBDoL8"
+          },
+          "analysis": {
+            "relevant": true,
+            "events": [
+              {
+                "date": "2026-03-29",
+                "title": "Tap List",
+                "start_time": null,
+                "confidence": "high",
+                "evidence": "TAP LIST 27/03 À 09/04"
+              },
+              {
+                "date": "2026-03-30",
+                "title": "Tap List",
+                "start_time": null,
+                "confidence": "high",
+                "evidence": "TAP LIST 27/03 À 09/04"
+              },
+              {
+                "date": "2026-03-31",
+                "title": "Tap List",
+                "start_time": null,
+                "confidence": "high",
+                "evidence": "TAP LIST 27/03 À 09/04"
+              },
+              {
+                "date": "2026-04-01",
+                "title": "Tap List",
+                "start_time": null,
+                "confidence": "high",
+                "evidence": "TAP LIST 27/03 À 09/04"
+              },
+              {
+                "date": "2026-04-02",
+                "title": "Tap List",
+                "start_time": null,
+                "confidence": "high",
+                "evidence": "TAP LIST 27/03 À 09/04"
+              },
+              {
+                "date": "2026-04-03",
+                "title": "Tap List",
+                "start_time": null,
+                "confidence": "high",
+                "evidence": "TAP LIST 27/03 À 09/04"
+              },
+              {
+                "date": "2026-04-04",
+                "title": "Tap List",
+                "start_time": null,
+                "confidence": "high",
+                "evidence": "TAP LIST 27/03 À 09/04"
+              }
+            ]
+          }
+        },
+        {
+          "id": "DWEHIqCDqYC",
+          "caption": "Chef convidada, menu especial e cerveja boa na mesa. Dia 24/03 Gabriela Carvalho comanda com acarajé tradicional e vegano no Bar Maniacs.\nVem viver essa experiência!\n\n@quintanagastronomia @gabrielavcarvalho",
+          "mediaType": "Sidecar",
+          "timestamp": "2026-03-19T11:24:41.000Z",
+          "permalink": "https://www.instagram.com/p/DWEHIqCDqYC/",
+          "images": [
+            "https://scontent-hou1-1.cdninstagram.com/v/t51.82787-15/653874180_18096943244002009_8461672608078559373_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=scontent-hou1-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gFJmGGroINjq97SGll05zlKpj4bAABdGpDg3-PNI7Sg7nr03-RzyztXASQvq5HfewY&_nc_ohc=YnZ6bEGXZfUQ7kNvwEVoU4m&_nc_gid=fjB2k4pmzsOoBkG0kCt_WA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfzMTBPgdj5JIpIWM3xuVrardxHcYXlSGOZHSIM4GOQraw&oe=69CF3DD3&_nc_sid=10d13b"
+          ],
+          "handle": "bardamaniacs",
+          "raw": {
+            "ownerUsername": "bardamaniacs",
+            "type": "Sidecar",
+            "shortCode": "DWEHIqCDqYC"
+          },
+          "analysis": {
+            "relevant": false,
+            "events": []
+          }
+        },
+        {
+          "id": "DWHjjpaEfo-",
+          "caption": "Esse é o som da sexta-feira começando no Bar Maniacs.\nIPA long neck no copo e um bar cheio de outras cervejas pra explorar. 🍺\n Vem brindar com a gente.",
+          "mediaType": "Video",
+          "timestamp": "2026-03-20T19:30:00.000Z",
+          "permalink": "https://www.instagram.com/p/DWHjjpaEfo-/",
+          "images": [
+            "https://scontent-ord5-1.cdninstagram.com/v/t51.71878-15/653097967_1222416736704155_1420950241870562285_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gHk2FjY8JGQ9IepjSD0saewiNPOh3LIx5YWaIvq6RRcBJcl8bV2_uZxBSntLYumJhg&_nc_ohc=7_AwzT7bGE4Q7kNvwGjs5a_&_nc_gid=aSFvTSa-fxkyPH2RULBdjQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfxH_NrXOK5QysU9bEOuxq7mhWDRjkeXKSIWzq7ZahTVQQ&oe=69CF1F17&_nc_sid=10d13b"
+          ],
+          "handle": "bardamaniacs",
+          "raw": {
+            "ownerUsername": "bardamaniacs",
+            "type": "Video",
+            "shortCode": "DWHjjpaEfo-"
+          },
+          "analysis": {
+            "relevant": false,
+            "events": []
+          }
+        }
+      ]
+    },
+    "rockpizzaroll.bar": {
+      "venueId": "rock-pizza",
+      "name": "Rock Pizza",
+      "instagram": "https://www.instagram.com/rockpizzaroll.bar/",
+      "handle": "rockpizzaroll.bar",
+      "fetchedAt": "2026-03-29T17:21:14.434Z",
+      "posts": [
+        {
+          "id": "2684573622",
+          "caption": "",
+          "mediaType": "UNKNOWN",
+          "timestamp": null,
+          "permalink": "https://www.instagram.com/rockpizzaroll.bar",
+          "images": [],
+          "handle": "rockpizzaroll.bar",
+          "raw": {
+            "ownerUsername": null,
+            "type": null,
+            "shortCode": null
+          },
+          "analysis": {
+            "relevant": false,
+            "events": []
+          }
+        }
+      ]
+    },
+    "distrito.1340": {
+      "venueId": "distrito-1340",
+      "name": "Distrito 1340",
+      "instagram": "https://www.instagram.com/distrito.1340/",
+      "handle": "distrito.1340",
+      "fetchedAt": "2026-03-29T17:22:18.349Z",
+      "posts": [
+        {
+          "id": "DWT5NizGZWl",
+          "caption": "🔥QUINTA TEM BRASIL, PROMO E MUITO ROCK NO DISTRITO 1340🎸\n\nJá separa a camisa porque quinta é dia de jogo do Brasil, promoções e palco pegando fogo.\n\n⚽ 17h – Jogo do Brasil x França nas telas\n\nE durante a transmissão tem promo especial das 17h às 19h:\n🍟 Porções do Baari com 30% OFF: Fritas, Frango a passarinho, Peixe.\n\n🍺 E no Buffalo Bar vai rolar chopp por 5cão\n\n🚗 Estacionamento FREE até 18h\n💃 Depois tem OPEN PRA MULHERADA Das 19h às 21h por R$20\n🍺 Chopp • 🍷 Vinho • 🍾 Espumante • 🍸 Gin • 🥂 Moscow Mule liberados pra elas\n\nE claro… rock no palco:\n19h30 – Hawks | Rock 80’s\n22h30 – Candyman Club | Post Punk\n\n👉 Chama a galera, chega cedo pro jogo, aproveita as promos e fica pro rock.\n\n📞 Informações e Reservas: (41) 99222-1340\n📍 R. Maj. Heitor Guimarães, 1130 – Campina do Siqueira, Curitiba/PR\n\n#Distrito1340 #QuintaNoDistrito #JogoDoBrasil #RockCWB #OpenDaMulherada VemProDistrito",
+          "mediaType": "Image",
+          "timestamp": "2026-03-25T14:30:00.000Z",
+          "permalink": "https://www.instagram.com/p/DWT5NizGZWl/",
+          "images": [
+            "https://scontent-ord5-3.cdninstagram.com/v/t51.82787-15/656653709_18319773553251636_4116128612291693581_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=scontent-ord5-3.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGdqU4gIiZORWK_5EuE9LuekLUqjhnS6cAQ5EzaVNSecsJtp_M1QJGDdKsIHZ8fFik&_nc_ohc=PLigS-ttvLgQ7kNvwE7DUGt&_nc_gid=7C_qVb2un_oMKlaFX13frA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfyCpReIsflRq2M_Lo0Es9AVkoUVdwXxDS_BKT9-s6E7NQ&oe=69CF23F9&_nc_sid=10d13b"
+          ],
+          "handle": "distrito.1340",
+          "raw": {
+            "ownerUsername": "distrito.1340",
+            "type": "Image",
+            "shortCode": "DWT5NizGZWl"
+          },
+          "analysis": {
+            "relevant": false,
+            "events": []
+          }
+        },
+        {
+          "id": "DWeKb1QESE_",
+          "caption": "333 anos de história… e a gente segue fazendo barulho. 🔥🤘\n\nCuritiba é fria no clima, mas quente na atitude.\nCidade de quem cria, de quem vive, de quem transforma.\n\nE é aqui que o rolê acontece.\nDo café ao rock, do dia à madrugada.\n\nParabéns, Curitiba. 🖤\nAqui o som não para.",
+          "mediaType": "Image",
+          "timestamp": "2026-03-29T14:14:02.000Z",
+          "permalink": "https://www.instagram.com/p/DWeKb1QESE_/",
+          "images": [
+            "https://instagram.fsac1-1.fna.fbcdn.net/v/t51.82787-15/656279524_18320378692251636_210468474258814393_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=instagram.fsac1-1.fna.fbcdn.net&_nc_cat=100&_nc_oc=Q6cZ2gFodmXr8Ln2Q3QGaKUWfg9fSnl2A_5AcYIahiOLGUQMwrC7okpYNh9j1K9jBN02OiGWGFNYX0pUGsOxobc4luxX&_nc_ohc=EcYx3lk082IQ7kNvwFA5aYI&_nc_gid=TUzvRJZs2F97ntSNkPt4Sw&edm=APs17CUBAAAA&ccb=7-5&oh=00_Afwo8N6dMcKHJIlZB_kHdLIfvNxU9EB-TN9jV1ZZZon29Q&oe=69CF21B0&_nc_sid=10d13b"
+          ],
+          "handle": "distrito.1340",
+          "raw": {
+            "ownerUsername": "distrito.1340",
+            "type": "Image",
+            "shortCode": "DWeKb1QESE_"
+          },
+          "analysis": {
+            "relevant": false,
+            "events": []
+          }
+        },
+        {
+          "id": "DWUYH0-E9wq",
+          "caption": "<4\u0000\u000f CALIFORNIA FEST \u0013 DESPEDIDA DO VER�O 2026 NO DISTRITO 1340 <�\n\nO ver�o t� chega ao fim& mas a despedida vai ser do melhor jeito: clima de praia, som alto, skate & surf nas telas e aquela energia que s� a domingueira do Distrito tem.\n\nNeste domingo 29/03 o Distrito vira Calif�rnia por um dia.\nDecora��o tem�tica, palco externo e interno, pista especial rolando e muita m�sica pra fechar a esta��o.\n\n<� LINE UP\n\n16h \u0013 Vini Moreno e Banda (Palco Garden)\n19h \u0013 DJ Rafael Trucker & convidados (Pista California)\n19h \u0013 Lets Core (Palco Distrito)\n22h \u0013 Djambi (Palco Distrito)\n\n<\n Skate, surf, rock e vibe de sunset pra curtir com a galera.\n\n<�\u000f Entrada R$25 a partir das 18h\n\n=I Chama os amigos, separa o �culos de sol, a cadeira de praia e vem fechar o ver�o no Distrito.\n\n=� Informa��es e Reservas: (41) 99222-1340\n=� R. Maj. Heitor Guimar�es, 1130 \u0013 Campina do Siqueira, Curitiba/PR\n\n#Distrito1340 #CaliforniaFest #DespedidaDoVer�o #RockCWB #CuritibaRock #DomingoNoDistrito #RockAoVivo #VemProDistrito",
+          "mediaType": "Video",
+          "timestamp": "2026-03-25T19:01:21.000Z",
+          "permalink": "https://www.instagram.com/p/DWUYH0-E9wq/",
+          "images": [
+            "https://scontent-ord5-3.cdninstagram.com/v/t51.82787-15/657516970_18319881676251636_3809034883090692780_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-ord5-3.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gG9cpEyDbjIRid8j2_PMWBk_kWfPjqkJjjzrhq20213JByvYiSZ-aADHP35ShSOID4&_nc_ohc=MfHnvs3UNQwQ7kNvwFqZxPL&_nc_gid=7Gdqj1ELB_4Jm3TSN5w5bg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfwBJG89X_q7POnGnh5Sasx5718r5o1p8XGhfJ2D3BR03w&oe=69CF2B42&_nc_sid=10d13b"
+          ],
+          "handle": "distrito.1340",
+          "raw": {
+            "ownerUsername": "distrito.1340",
+            "type": "Video",
+            "shortCode": "DWUYH0-E9wq"
+          },
+          "analysis": {
+            "relevant": true,
+            "events": [
+              {
+                "date": "2026-03-29",
+                "title": "Vini Moreno e Banda",
+                "start_time": "16:00:00Z",
+                "confidence": "high",
+                "evidence": "16h Vini Moreno e Banda"
+              },
+              {
+                "date": "2026-03-29",
+                "title": "DJ Rafael Trucker & convidados",
+                "start_time": "19:00:00Z",
+                "confidence": "high",
+                "evidence": "19h DJ Rafael Trucker & convidados"
+              },
+              {
+                "date": "2026-03-29",
+                "title": "Lets Core",
+                "start_time": "19:00:00Z",
+                "confidence": "high",
+                "evidence": "19h Lets Core"
+              },
+              {
+                "date": "2026-03-29",
+                "title": "Djambi",
+                "start_time": "22:00:00Z",
+                "confidence": "high",
+                "evidence": "22h Djambi"
+              }
+            ]
+          }
+        },
+        {
+          "id": "DWUmFqhj61E",
+          "caption": "🔥 A SEMANA VEM PESADA NO DISTRITO 1340 🎸\n\nSe prepara porque os próximos dias estão com rock no talo, open bar, tributos e uma domingueira pra fechar o verão do jeito certo. Dá o play e confere o que vai rolar:\n\nQUA • 25/03\nDistrito Sport Club — esporte nas telas e resenha garantida.\n\nQUI • 26/03\n🇧🇷 17h – Jogo do Brasil com promos do Baari e Buffallo até 19hs\n💃 19h às 21h – OPEN PRA MULHERADA (R$20)\n19h30 – Hawks | Rock 80’s\n22h30 – Candyman Club | Post Punk\n\nSEXTA 27/03\n19h – Válvula Vapor | Rock Nacional\n22h – Os Caras do CB | Tributo Charlie Brown Jr\n00h30 – Lenhadores da Antártida | Indie / Folk Rock\n\nSÁBADO 28/03\n21h – MTX Mo Fire Band | Tributo ao Rappa\n00h – Esquadrão Flash Hits | Flashback 70s / 80s\n\nDOMINGO 29/03 – CALIFORNIA FEST 🌴☀️\nDespedida do verão com clima de praia, palco externo e muito som.\n16h – Vini Moreno e Banda\n19h – DJ Rafael Trucker & convidados\n19h – Lets Core\n22h – Djambi\n🎟️ Domingo Entrada R$25 a partir das 18h\n\n👉 Marca a galera, escolhe o dia (ou vem todos) e cola no Distrito pra viver mais uma semana de som alto, copo cheio e rock na veia.\n\n📞 Informações e Reservas: (41) 99222-1340\n📍 R. Maj. Heitor Guimarães, 1130 – Campina do Siqueira, Curitiba/PR\n\n#Distrito1340 #AgendaDaSemana #RockCWB #BarDeRock #CuritibaRock VemProDistrito",
+          "mediaType": "Video",
+          "timestamp": "2026-03-25T21:04:00.000Z",
+          "permalink": "https://www.instagram.com/p/DWUmFqhj61E/",
+          "images": [
+            "https://scontent-ord5-2.cdninstagram.com/v/t51.71878-15/654850599_2224041465100774_4032202889234574367_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gGwuIYtwYgEjNM2BLQC_9uGWufnWjSKYUoOBlR1pXMprmkXUTKgauhBM1zSox6Lzt4&_nc_ohc=uNTG-ukINz8Q7kNvwEcBdR2&_nc_gid=LjP9hGz9XKlwb_YMBSox_w&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfxkMCkfCEfh2KY-srU9RCLvME74cLDFL8SrN_hXzEb1uQ&oe=69CF4D75&_nc_sid=10d13b"
+          ],
+          "handle": "distrito.1340",
+          "raw": {
+            "ownerUsername": "distrito.1340",
+            "type": "Video",
+            "shortCode": "DWUmFqhj61E"
+          },
+          "analysis": {
+            "relevant": false,
+            "events": []
+          }
+        },
+        {
+          "id": "DWTypwekcoT",
+          "caption": "🔥 SEMANA CHEIA NO DISTRITO 1340 🎸\n\nJá salva essa agenda porque os próximos dias vai ter muito rock, open bar, futebol, tributos e uma domingueira de despedida do verão. Bora pro que interessa:\n\nQUA • 25/03\nDistrito Sport Club — esportes na TV, cerveja gelada e resenha garantida.\n\nQUI • 26/03\n17h – Jogo do Brasil na tela- Rolando Promo no Barri e no Buffalo até as 19hs\n19h às 21h – OPEN PRA MULHERADA (R$20)\n🍺 Chopp • 🍷 Vinho • 🍾 Espumante • 🍸 Gin • 🥂 Moscow Mule liberados para elas.\n19h30 – Hawks | Rock 80’s\n22h30 – Candyman Club | Post Punk\n\nSEXTA 27/03\n19h – Válvula Vapor | Rock Nacional\n22h – Os Caras do CB | Tributo Charlie Brown Jr\n00h30 – Lenhadores da Antártida | Indie / Folk Rock\n\nSÁBADO 28/03\n21h – MTX Mo Fire Band | Tributo ao Rappa\n00h – Esquadrão Flash Hits | Flashback 70s / 80s\n\nDOMINGO – 29/03 CALIFORNIA FEST ☀️🌴\n🔥 Despedida do Verão 2026\nClima de praia no Distrito: decoração temática, palco externo e interno, surf & skate nas telas e aquela vibe clássica da domingueira.\n16h – Vini Moreno e Banda (Palco Garden)\n19h – DJ Rafael Trucker & convidados (pista)\n19h – Lets Core (Palco Distrito)\n22h – Djambi (Palco Distrito)\n\n🎟️ Entrada Domingo R$25 a partir das 18h e de Quinta a Sábado a partir das 21h\n👉 Marca a galera, salva a agenda e vem viver mais uma semana de som alto, copo cheio e rock na veia.\n\n📞 Informações e Reservas: (41) 99222-1340\n📍 R. Maj. Heitor Guimarães, 1130 – Campina do Siqueira, Curitiba/PR\n\n#Distrito1340 #AgendaDaSemana #RockCWB #CuritibaRock #BarDeRock VemProDistrito",
+          "mediaType": "Sidecar",
+          "timestamp": "2026-03-25T13:33:33.000Z",
+          "permalink": "https://www.instagram.com/p/DWTypwekcoT/",
+          "images": [
+            "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-15/658186045_18319844692251636_4067303424670037647_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gHoT6a-iC9Ppg1NEXxlUL6UlNoL25nOPrdLaGQuN_oNSJMbo8HyGpZLO2_b9cDoNM5ZceAvtFjTRS5z4hH3tamc&_nc_ohc=Sbge7pbZlDQQ7kNvwG4o3Zn&_nc_gid=9dVHHwPbRjElrU4doQ6FLw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfyOhLLNWuiZsumlXBp8jYC1ZYV-ddVlDypu4dTTV7U0bA&oe=69CF475C&_nc_sid=10d13b"
+          ],
+          "handle": "distrito.1340",
+          "raw": {
+            "ownerUsername": "distrito.1340",
+            "type": "Sidecar",
+            "shortCode": "DWTypwekcoT"
+          },
+          "analysis": {
+            "relevant": false,
+            "events": []
+          }
+        }
+      ]
+    },
+    "barbariumpub": {
+      "venueId": "barbarium",
+      "name": "Barbarium",
+      "instagram": "https://www.instagram.com/barbariumpub/",
+      "handle": "barbariumpub",
+      "fetchedAt": "2026-03-29T17:23:11.633Z",
+      "posts": [
+        {
+          "id": "DOdylnMjt3R",
+          "caption": "Desde 2012",
+          "mediaType": "Video",
+          "timestamp": "2025-09-11T14:36:25.000Z",
+          "permalink": "https://www.instagram.com/p/DOdylnMjt3R/",
+          "images": [
+            "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/543742405_18525803137023710_7231100484734564254_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gFBHG1szFGKD2_6xmOkhplFvFBhh1YTd1iFzcUMkYY68rB92zVFCEeJ-oUqGMt08H4&_nc_ohc=ZU63AFBx5RcQ7kNvwFCMaYC&_nc_gid=-uLVb7_Oy5Sf_fxiTEfvsQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfwEIp7feubGA3Jdmo4nbAIjT_USm5SCbhZu-TB5RBFw6w&oe=69CF1B8C&_nc_sid=10d13b"
+          ],
+          "handle": "barbariumpub",
+          "raw": {
+            "ownerUsername": "barbariumpub",
+            "type": "Video",
+            "shortCode": "DOdylnMjt3R"
+          },
+          "analysis": {
+            "relevant": false,
+            "events": []
+          }
+        },
+        {
+          "id": "DWWUU-VDuYG",
+          "caption": "SANDUÍCHE DE PASTRAMI com picles de pepino e mostarda no pão brioche de 15cm. Uma dica, aqui custa menos de 60 reais 🙊",
+          "mediaType": "Sidecar",
+          "timestamp": "2026-03-26T13:06:17.000Z",
+          "permalink": "https://www.instagram.com/p/DWWUU-VDuYG/",
+          "images": [
+            "https://scontent-lga3-3.cdninstagram.com/v/t51.82787-15/657940316_18572783869023710_4725949936092662103_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gHGzhi7hJKUd1exgFg-1kaIzo0fWcQWKjgTdlqzaoDIb8xejC4RsRm58yKJh61ArLc&_nc_ohc=dmRvvfhlU5MQ7kNvwFEWN6r&_nc_gid=-xOrZRr61K75XvMYNHyoug&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfzThY-m0WBBlC2ja-OohfEYGwlJkt2lxZDJOfDk7JZRHw&oe=69CF382D&_nc_sid=10d13b"
+          ],
+          "handle": "barbariumpub",
+          "raw": {
+            "ownerUsername": "barbariumpub",
+            "type": "Sidecar",
+            "shortCode": "DWWUU-VDuYG"
+          },
+          "analysis": {
+            "relevant": false,
+            "events": []
+          }
+        },
+        {
+          "id": "DWXR4PsEYOs",
+          "caption": "Mudamos.\nNosso Moscow Mule tava meia boca, deixando a desejar. Mudamos a receita hoje, pq se for pra fazer coisa meia boca melhor nem fazer. Agora tá bala!\nPra vocês provarem a nova receita, promo de Moscow Mule a noite toda até dia 01/04, 15%OFF. \nColaaaaaa",
+          "mediaType": "Image",
+          "timestamp": "2026-03-26T22:12:08.000Z",
+          "permalink": "https://www.instagram.com/p/DWXR4PsEYOs/",
+          "images": [
+            "https://scontent-phx1-1.cdninstagram.com/v/t51.82787-15/656288952_18572924077023710_5766075804104654148_n.jpg?stp=dst-jpg_e35_s1080x1080_sh0.08_tt6&_nc_ht=scontent-phx1-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gGpwh7IWjzHCxpC-KFZKOfNayAIhL1SfEcdo0_-4MDtMvhB4AsVSvEF4lO8-f-ucOg&_nc_ohc=fqSRh1LvBTEQ7kNvwHnWkiV&_nc_gid=kGHjz036jm3KPwZrtB9b6A&edm=APs17CUBAAAA&ccb=7-5&oh=00_Afxn8XQ2KgtR4MHGXsEtDyTXEEQpcL_52X8uutmEou6fkg&oe=69CF2391&_nc_sid=10d13b"
+          ],
+          "handle": "barbariumpub",
+          "raw": {
+            "ownerUsername": "barbariumpub",
+            "type": "Image",
+            "shortCode": "DWXR4PsEYOs"
+          },
+          "analysis": {
+            "relevant": false,
+            "events": []
+          }
+        },
+        {
+          "id": "DWXMB32EdQZ",
+          "caption": "MIX DE CONSERVAS\nDe acordo com as conservas disponíveis.\nTem milhinho, ovinho de codorna normal e defumado, beterrabinha, cebolinha roxa, batatinha, cenourinha, abobrinha, palmitinho, azeitoninha…",
+          "mediaType": "Image",
+          "timestamp": "2026-03-26T21:14:55.000Z",
+          "permalink": "https://www.instagram.com/p/DWXMB32EdQZ/",
+          "images": [
+            "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/657244910_18572914906023710_2718442652270293005_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gHkhJGuw3NuNa6fxBc_tiqL0D7_rBES3DPj72UDIHwVWMRw3DiCctCX_YSrsUUgdHs&_nc_ohc=TSpOGr2V_mUQ7kNvwERaIzG&_nc_gid=v0Dn7nQ-GQ7n0ESCnOeVCQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfxyoUHEAjUiqFWvdW8RQ7PHw7hn0HPpIEe4LZ7AUW7ceg&oe=69CF2C02&_nc_sid=10d13b"
+          ],
+          "handle": "barbariumpub",
+          "raw": {
+            "ownerUsername": "barbariumpub",
+            "type": "Image",
+            "shortCode": "DWXMB32EdQZ"
+          },
+          "analysis": {
+            "relevant": false,
+            "events": []
+          }
+        },
+        {
+          "id": "DWHVLEYkZ-f",
+          "caption": "Nada melhor que uma botecagem hoje pra animar sua noite. Abrimos 18h. Chega mais",
+          "mediaType": "Sidecar",
+          "timestamp": "2026-03-20T17:25:04.000Z",
+          "permalink": "https://www.instagram.com/p/DWHVLEYkZ-f/",
+          "images": [
+            "https://scontent-dfw6-1.cdninstagram.com/v/t51.82787-15/656001125_18571053340023710_7255922580374375910_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=scontent-dfw6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gEInJet7WuIC6rOrW9u282nvsGfCg1QqLw4WLmwN6lx2OQrON8GNm6ACic80RZLr04&_nc_ohc=adZyKO_hAaIQ7kNvwEVJ08r&_nc_gid=1JnGkPf-cG_dmqAFG5eUkQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Afw6ZjBArVKbfcmOUVG6Rf5g1KMc0JGG5uyZ7eX9LcAu1A&oe=69CF2A35&_nc_sid=10d13b"
+          ],
+          "handle": "barbariumpub",
+          "raw": {
+            "ownerUsername": "barbariumpub",
+            "type": "Sidecar",
+            "shortCode": "DWHVLEYkZ-f"
+          },
+          "analysis": {
+            "relevant": false,
+            "events": []
+          }
+        }
+      ]
+    },
+    "dobruckibar": {
+      "venueId": "dobrucki",
+      "name": "Dobrucki",
+      "instagram": "https://www.instagram.com/dobruckibar/",
+      "handle": "dobruckibar",
+      "fetchedAt": "2026-03-29T17:24:02.961Z",
+      "posts": [
+        {
+          "id": "DUqcwMEjgQu",
+          "caption": "Uma arquitetura incomparável que preserva o charme do tempo em um ambiente autêntico e acolhedor. Um quintal ao ar livre, cercado de verde, onde a música ao vivo, bons drinks e cervejas geladas compõem a atmosfera perfeita. Cada detalhe pensado para transformar suas tardes no quintal — e suas noites no palco interno uma experiência única.\n\nDo começo da tarde até a madrugada, tem Dobrucki todos os sábados.\n\n#dobrucki #dobruckibar #quintal",
+          "mediaType": "Sidecar",
+          "timestamp": "2026-02-12T15:41:56.000Z",
+          "permalink": "https://www.instagram.com/p/DUqcwMEjgQu/",
+          "images": [
+            "https://scontent-mia5-1.cdninstagram.com/v/t51.82787-15/628907013_18557017831000118_5455675279968610679_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-mia5-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gFuDc95TDpead3VMmgP5cpgTwpOl2p3-7c6LyPgLXg8ZnRRRUIk_9H2H1TwjPl3AXw&_nc_ohc=2ULu-8RylysQ7kNvwE0Nvm8&_nc_gid=UqtuMIDUQrVwziR4P9Azog&edm=APs17CUBAAAA&ccb=7-5&oh=00_Afx63zbNgN_G2bJP7dWECEaCaglo8weRFopHHR4zBIlBOQ&oe=69CF236B&_nc_sid=10d13b"
+          ],
+          "handle": "dobruckibar",
+          "raw": {
+            "ownerUsername": "dobruckibar",
+            "type": "Sidecar",
+            "shortCode": "DUqcwMEjgQu"
+          },
+          "analysis": {
+            "relevant": false,
+            "events": []
+          }
+        },
+        {
+          "id": "DU3DOpdjit3",
+          "caption": "Dobrucki é mais do que só música ao vivo — é uma local pensado em cada detalhe. Um ambiente ao ar livre rodeado de verde, palco interno com música ao vivo e uma atmosfera que combina charme, ritmo e boas experiências. Tudo em perfeita harmonia, em um único lugar.\n\nDo começo da tarde até a madrugada, tem Dobrucki todos os sábados.\n#dobrucki #dobruckibar #quintal",
+          "mediaType": "Sidecar",
+          "timestamp": "2026-02-17T13:09:01.000Z",
+          "permalink": "https://www.instagram.com/p/DU3DOpdjit3/",
+          "images": [
+            "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/629217561_18558510928000118_8019458908232669090_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gG4B4kdtPtFFSuH64v868eYPvIXRBfQChGnSa7-cXvGi3py7Q2iOFQIsH6dlZXEITI&_nc_ohc=P0mQuMjJWOkQ7kNvwEbsQLT&_nc_gid=9aPsKZcR1PLJYViVSbHTBA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Afyw3lAsg1iRUPcyo7XOshazVG2bvYLccz04bvoYW9LNfw&oe=69CF16C6&_nc_sid=10d13b"
+          ],
+          "handle": "dobruckibar",
+          "raw": {
+            "ownerUsername": "dobruckibar",
+            "type": "Sidecar",
+            "shortCode": "DU3DOpdjit3"
+          },
+          "analysis": {
+            "relevant": false,
+            "events": []
+          }
+        },
+        {
+          "id": "DUDtRb1jiZN",
+          "caption": "🎧 WALKMAN \nSábado, a partir das 16h, o Dobrucki vira uma máquina do tempo do rock🤘 Uma programação completa para você curtir do começo ao fim.\n\n✨ Música, nostalgia e diversão a tarde e a noite toda.\n\n🎶ATRAÇÕES 🎸\n@candymanclub\n@bandaradiovinil\n@djmauriciao\n@djac_adriano_costa\n@djsantiago_eventos\n\n📅 Sábado 31 de janeiro\n⏰ Início 16h\n📍 Baltazar Carrasco dos Reis, 1090\n📱 Reservas: 41 98860-1714 - Whatsapp\n\n#Dobrucki #FestaAnos80 #Flashback #BoaMúsica Anos80",
+          "mediaType": "Sidecar",
+          "timestamp": "2026-01-28T14:35:54.000Z",
+          "permalink": "https://www.instagram.com/p/DUDtRb1jiZN/",
+          "images": [
+            "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/621996862_18551047372000118_8010022752748582820_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gHn7lGZbKBaZiCjUc2U1RUxdJoGp0yFhPTaLfviGZisAuafzGBpR2FfF4DvQnC3gUs&_nc_ohc=tRIQiN_eTqQQ7kNvwFCDlHL&_nc_gid=GXCIseJ5VD9APTKfThKqyg&edm=APs17CUBAAAA&ccb=7-5&oh=00_Afw0p3rFerAwBVPYzC7bCf-enL2LNuVlpT4f0p_hIKqqzg&oe=69CF4E9A&_nc_sid=10d13b"
+          ],
+          "handle": "dobruckibar",
+          "raw": {
+            "ownerUsername": "dobruckibar",
+            "type": "Sidecar",
+            "shortCode": "DUDtRb1jiZN"
+          },
+          "analysis": {
+            "relevant": false,
+            "events": []
+          }
+        },
+        {
+          "id": "DURYis2CcKP",
+          "caption": "Todos os sábados, o Dobrucki recebe as melhores bandas em uma experiência completa.\nDois ambientes pensados para diferentes momentos do dia e da noite:\n🌿 Palco Quintal - área ao ar livre, um ambiente descontraído com muito verde.\n🎶 Palco Dobrucki - ambiente fechado, som envolvente e energia lá em cima.\n\nMúsica de qualidade, atmosfera única. Vem!\n\n#dobrucki #dobruckibar #musicaaovivo #rock #bar",
+          "mediaType": "Video",
+          "timestamp": "2026-02-02T22:04:34.000Z",
+          "permalink": "https://www.instagram.com/p/DURYis2CcKP/",
+          "images": [
+            "https://scontent-msp1-1.cdninstagram.com/v/t51.71878-15/625376871_2658146927888962_127019388727681972_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-msp1-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gHeC9z0Ulz-DI_HkNo42bC2-H_DNlPDS4151R_30glLYnCpGT1PqzPKJCeqNpraKx4&_nc_ohc=QWxymwJlLPMQ7kNvwF45NR9&_nc_gid=vWLO3aifQQZcc6HR9Flmdg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfzNR9KfRnEycTMhDYf7A2zC0en2-NfaBlDsodooPQhCQg&oe=69CF3DE1&_nc_sid=10d13b"
+          ],
+          "handle": "dobruckibar",
+          "raw": {
+            "ownerUsername": "dobruckibar",
+            "type": "Video",
+            "shortCode": "DURYis2CcKP"
+          },
+          "analysis": {
+            "relevant": false,
+            "events": []
+          }
+        },
+        {
+          "id": "DVhP9BEiR6D",
+          "caption": "Sábado tem @candymanclub trazendo para o palco toda a energia e nostalgia dos anos 80 e 90, em um show vibrante, cheio de clássicos que marcaram gerações e fizeram história nas pistas. Prepare-se para cantar, dançar e reviver os maiores hits de uma década inesquecível.\n\nReúna os amigos e venha curtir uma verdadeira viagem musical pelos anos 80 e 90. 🕺🎶\n\nATRAÇÕES:\n🎸 Candyman Club\n🎤 Minha Banda é uma Festa\n🎶 Hus Cage\n🎧 Abertura com DJ Adriano\n\nABERTURA 15h00\n\n#dobruckibar #dobrucki #anos80 #musicaaovivo #barescuritiba",
+          "mediaType": "Sidecar",
+          "timestamp": "2026-03-05T22:28:19.000Z",
+          "permalink": "https://www.instagram.com/p/DVhP9BEiR6D/",
+          "images": [
+            "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/641759690_18564449611000118_8338346318577898829_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gGKgr3MySIiKYRTxUJ3co9fTqJ9wU9ABKrpzqAsnQfQy9LiTDKmDTtC1iqhIGo44LQ&_nc_ohc=sVluVYpTqB4Q7kNvwFlQZPj&_nc_gid=AVt6ADp6T3XKNUURUyhePw&edm=APs17CUBAAAA&ccb=7-5&oh=00_Afz0zoWrEjBFBO2bNmLlV28UzUQVYWTJQn3Q_1RuFDQlew&oe=69CF185C&_nc_sid=10d13b"
+          ],
+          "handle": "dobruckibar",
+          "raw": {
+            "ownerUsername": "dobruckibar",
+            "type": "Sidecar",
+            "shortCode": "DVhP9BEiR6D"
+          },
+          "analysis": {
+            "relevant": false,
+            "events": []
+          }
+        }
+      ]
+    },
+    "torkandroll": {
+      "venueId": "tork-n-roll",
+      "name": "Tork n' Roll",
+      "instagram": "https://www.instagram.com/torkandroll/",
+      "handle": "torkandroll",
+      "fetchedAt": "2026-03-29T17:26:06.118Z",
+      "posts": [
+        {
+          "id": "DWEbmXwjrSs",
+          "caption": "28.03 S�BADO\nSOMOS T�O JOVENS\n\n<�20h30 ENG HAWAII COVER CTBA\n<�22h30 LEGI�O URBANA COVER / SERGIO RAMOS\n<�00h30 TOPTAPE\n\nValor da entrada\n>>Antecipada DISKINGRESSOS\nR$ 25 reais e ganha um chopp pilsen cortesia\nhttps://www.diskingressos.com.br/evento/2906/2026-03-28/pr/curitiba/somos-tao-jovens (LINK NA BIO)\n\nou\nNa portaria R$ 30 reais e ganha um chopp pilsen cortesia\n\nOs valores acima informado j� s�o de meia entrada\n\n=\u0003TODOS PODEM PAGAR MEIA\nSeguidores instagram @torkandroll, todos que se enquadrem por lei (estudantes, professores, PCD, idosos, policiais&), doa��o de 1kg alimento n�o perec�vel, convidados anivers�rio ..\n\nTork And Roll\nO Maior Bar de Rock da Am�rica Latina #emcuritiba\n=�Av Marechal Floriano Peixoto, 1695\nWhatsapp 41 99807137\n\n*ENTRADA DE MENORES DE 18 ANOS\n\u0013 A entrada de menores de idade s� � permitida se acompanhados do pai ou da m�e (pagante e presente durante o evento), \nambos portando documentos de identifica��o.\n\u0013 Alternativamente, ser� aceita uma carta escrita de pr�prio punho pelo pai ou pela m�e, indicando a responsabilidade de um terceiro maior de idade (pagante e presente durante o evento). Essa carta deve ter firma reconhecida em cart�rio ou gov,br, acompanhada de uma c�pia autenticada do documento de identidade e dos originais do menor e do respons�vel, cartas e xerox dever�o ser aprpesentadas na portaria do evento IMPRESSAS (N�o ser� aceito no celular)\n*Menores pagam meia entrada",
+          "mediaType": "Sidecar",
+          "timestamp": "2026-03-19T14:23:30.000Z",
+          "permalink": "https://www.instagram.com/p/DWEbmXwjrSs/",
+          "images": [
+            "https://scontent-atl3-1.cdninstagram.com/v/t51.82787-15/654051918_18352244530232153_7574088073309737375_n.webp?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEc-cU3vwbRyYFhnxClcmWVn6npo_0kNbVQZaFwG_OVOTUkHRgAYiwNTIpKLsGj-vY&_nc_ohc=or5B2YADqx8Q7kNvwFLX9lp&_nc_gid=W36y0RIlgbYPEDwlO3ilaA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfyQzwl4WwrFAdaNQZizk9uswHHE1h-EzQV1pZ8mXkFeBw&oe=69CF3F9A&_nc_sid=10d13b"
+          ],
+          "handle": "torkandroll",
+          "raw": {
+            "ownerUsername": "torkandroll",
+            "type": "Sidecar",
+            "shortCode": "DWEbmXwjrSs"
+          },
+          "analysis": {
+            "relevant": false,
+            "events": []
+          }
+        },
+        {
+          "id": "DWY1C97jtRw",
+          "caption": "28.03 S�BADO\nSOMOS T�O JOVENS\n\nHomenagem a RENATO RUSSO!\n<�22h30 LEGI�O URBANA COVER / SERGIO RAMOS\n\nValor da entrada\n>>Antecipada DISKINGRESSOS\nR$ 25 reais e ganha um chopp pilsen cortesia\nhttps://www.diskingressos.com.br/evento/2906/2026-03-28/pr/curitiba/somos-tao-jovens\n\nou\nNa portaria R$ 30 reais e ganha um chopp pilsen cortesia\n\nOs valores acima informado j� s�o de meia entrada\n\n=\u0003TODOS PODEM PAGAR MEIA\nSeguidores instagram @torkandroll, todos que se enquadrem por lei (estudantes, professores, PCD, idosos, policiais&), doa��o de 1kg alimento n�o perec�vel, convidados anivers�rio ..\n\nTork And Roll\nO Maior Bar de Rock da Am�rica Latina #emcuritiba\n=�Av Marechal Floriano Peixoto, 1695\nWhatsapp 41 99807137\n\n*ENTRADA DE MENORES DE 18 ANOS\n\u0013 A entrada de menores de idade s� � permitida se acompanhados do pai ou da m�e (pagante e presente durante o evento), \nambos portando documentos de identifica��o.\n\u0013 Alternativamente, ser� aceita uma carta escrita de pr�prio punho pelo pai ou pela m�e, indicando a responsabilidade de um terceiro maior de idade (pagante e presente durante o evento). Essa carta deve ter firma reconhecida em cart�rio ou gov,br, acompanhada de uma c�pia autenticada do documento de identidade e dos originais do menor e do respons�vel, cartas e xerox dever�o ser aprpesentadas na portaria do evento IMPRESSAS (N�o ser� aceito no celular)\n*Menores pagam meia entrada",
+          "mediaType": "Image",
+          "timestamp": "2026-03-27T12:32:36.000Z",
+          "permalink": "https://www.instagram.com/p/DWY1C97jtRw/",
+          "images": [
+            "https://scontent-lax7-1.cdninstagram.com/v/t51.82787-15/656872978_18354222610232153_1287174254077134734_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=scontent-lax7-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gHW3fkYDXb5HLEjX9Xcy8uUeuOuIMa0wVjwswC2uSMLZobKriBIHcT_hg4UPDkBhr0&_nc_ohc=oOtHuVHEd5YQ7kNvwHh0kw9&_nc_gid=Fsl8nj9zxP60xF4UTAC1CQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Afzfx1WbEp5zf19yjhrUonzg3hOEC728ekC-wLpJKd6Jxg&oe=69CF3983&_nc_sid=10d13b"
+          ],
+          "handle": "torkandroll",
+          "raw": {
+            "ownerUsername": "torkandroll",
+            "type": "Image",
+            "shortCode": "DWY1C97jtRw"
+          },
+          "analysis": {
+            "relevant": false,
+            "events": []
+          }
+        },
+        {
+          "id": "DWaDUI7iS-9",
+          "caption": "@weare.onetour no TORK!\n27.03 SOLD OUT",
+          "mediaType": "Video",
+          "timestamp": "2026-03-27T23:54:55.000Z",
+          "permalink": "https://www.instagram.com/p/DWaDUI7iS-9/",
+          "images": [
+            "https://scontent-sea1-1.cdninstagram.com/v/t51.71878-15/657057971_803397496161570_2572519741362160466_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gFu26DrMTlt_kWikV-xL--FRD8i24gJtqjUA0AD4prHdlEusd0SP10KraSo3iXg3sk&_nc_ohc=RwaR8qiYchQQ7kNvwGZeHPG&_nc_gid=pTQc6GsADX96cAkIqVp8hg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfzrVVjH_fk4gRFWmJCn4ZP4abXQWVBcdoExUAqirTyEUg&oe=69CF29FC&_nc_sid=10d13b"
+          ],
+          "handle": "torkandroll",
+          "raw": {
+            "ownerUsername": "torkandroll",
+            "type": "Video",
+            "shortCode": "DWaDUI7iS-9"
+          },
+          "analysis": {
+            "relevant": false,
+            "events": []
+          }
+        }
+      ]
+    },
+    "bloodrockbar": {
+      "venueId": "blood-rock",
+      "name": "Blood Rock",
+      "instagram": "https://www.instagram.com/bloodrockbar/",
+      "handle": "bloodrockbar",
+      "fetchedAt": "2026-03-29T17:26:55.667Z",
+      "posts": [
+        {
+          "id": "DWchmIhCQma",
+          "caption": "Sábado, 4 de abril, o aclamado System of a Down GENOCIDE Cover Brasil! diretamente de São Paulo! 😱 \n\n👉 Abertura da casa 19:00\n👉 Happy hour com double de chopp e promo de burger até 21:00\n👉 Início da banda 21:30\n* Não fazemos reservas, somente ordem de chegada.\n* Entrada R$20",
+          "mediaType": "Image",
+          "timestamp": "2026-03-28T22:57:42.000Z",
+          "permalink": "https://www.instagram.com/p/DWchmIhCQma/",
+          "images": [
+            "https://scontent-ord5-3.cdninstagram.com/v/t51.82787-15/658139842_18582849400014364_4540236917671906710_n.heic?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=scontent-ord5-3.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gGINEbESRgeDdmWwS8-0uQFT3gpah-5jk5wr6reRWy1Ns5nlQ_zLMb8pacHtdDgv_o&_nc_ohc=Q60fP9hUu4sQ7kNvwHxEHZl&_nc_gid=8PLI9pe6xgLv9EbpD-5lkg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfyuZf0xtTHiUVteQPKZnFrWbwLpon0qraSbqny2HM8eng&oe=69CF4058&_nc_sid=10d13b"
+          ],
+          "handle": "bloodrockbar",
+          "raw": {
+            "ownerUsername": "bloodrockbar",
+            "type": "Image",
+            "shortCode": "DWchmIhCQma"
+          },
+          "analysis": {
+            "relevant": false,
+            "events": []
+          }
+        },
+        {
+          "id": "DWZZlPiD6X7",
+          "caption": "NESTE SÁBADO: o maior cover de BLACK SABBATH do Brasil - MASTER OF REALITY em Curitiba‼️🤘🏻🦇\n\nDiretamente de São Paulo para o palco do Blood Rock Bar, vem um show performático, caracterizado e IMPERDÍVEL com todos os clássicos e lados B da fase original dos anos 70, além de várias surpresas em homenagem a Ozzy‼️😱\n\nAbrindo os trabalhos, a super banda STORMGAZER fazendo Tributo a DIO, tanto na carreira solo quanto em seus anos de Black Sabbath 🤘🏻🤘🏻\n\n👉🏻 Abertura da casa 19:00\n👉🏻 HEAVY Hour com double de chopp e promo de burger até 21:00\n👉🏻 Início das bandas 21:30\n\nINGRESSOS ANTECIPADOS PELO SYMPLA‼️ (Na hora, outro valor):\n\nhttps://www.sympla.com.br/evento/sabbath-cover-oficial-em-curitiba/3340511",
+          "mediaType": "Video",
+          "timestamp": "2026-03-27T17:51:43.000Z",
+          "permalink": "https://www.instagram.com/p/DWZZlPiD6X7/",
+          "images": [
+            "https://scontent-ord5-2.cdninstagram.com/v/t51.71878-15/657397842_2179860029416082_2183228070887533266_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gGnDqJ2WAU2tJ2rDRZx8rAyHAygeiYnu6hgVwWV02nQQtpMSuU44N0R5PMNCVxYjfY&_nc_ohc=rBX5wDwuGRsQ7kNvwGJ3i3A&_nc_gid=J2ev4mewahgTyuq3hGHt8g&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfzGQIoFsmfGiDMaOKAWuDj--Bl4jKzuE5ZyoxaU3tzVCw&oe=69CF321F&_nc_sid=10d13b"
+          ],
+          "handle": "bloodrockbar",
+          "raw": {
+            "ownerUsername": "bloodrockbar",
+            "type": "Video",
+            "shortCode": "DWZZlPiD6X7"
+          },
+          "analysis": {
+            "relevant": false,
+            "events": []
+          }
+        },
+        {
+          "id": "DWeXBmvEQcE",
+          "caption": "Nesta Quinta-Feira, Véspera de Feriado com a banda Candyman Club tocando Cure, Smiths, Joy, Pixies, Depeche Mode, New Order!\n\n Abertura da casa 19:00\n👉 Happy hour com double de chopp e promo de burger até 21:00\n👉 Início da banda 22:00\n* Não fazemos reservas, somente ordem de chegada.\n* Entrada R$15",
+          "mediaType": "Image",
+          "timestamp": "2026-03-29T16:03:49.000Z",
+          "permalink": "https://www.instagram.com/p/DWeXBmvEQcE/",
+          "images": [
+            "https://scontent-ord5-3.cdninstagram.com/v/t51.82787-15/657323651_18583019095014364_8505524910766329851_n.heic?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=scontent-ord5-3.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gHpf_efQNlfpnKfrf4HItMM7E_6XLcaIx83SNp3uXI4rF3O_j6oL5_v7fH4pV73bHI&_nc_ohc=nIbIwJz-kSgQ7kNvwHJHD0T&_nc_gid=jYAutFxjNHikfigjFtejXQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfyFMhp-LaBkDzVQZHG6XR3GzijtwMBQHHwRw9_l7SaGbQ&oe=69CF43A3&_nc_sid=10d13b"
+          ],
+          "handle": "bloodrockbar",
+          "raw": {
+            "ownerUsername": "bloodrockbar",
+            "type": "Image",
+            "shortCode": "DWeXBmvEQcE"
+          },
+          "analysis": {
+            "relevant": false,
+            "events": []
+          }
+        },
+        {
+          "id": "DWbkX0UEa9T",
+          "caption": "HOJE! Vem a Curitiba a banda Master of Reality, considerada a maior cover de Black Sabbath do Brasil! Diretamente de São Paulo, para o palco do Blood Rock Bar, um show performático, caracterizado e imperdível! Abrindo os trabalhos, a super banda STORMGAZER Tributo a Dio!\n\nAbertura da casa 19:00\nHappy hour com double de chopp e promo de burger até 21:00\nInício das bandas 21:30\n\nANTECIPADOS NO SYMPLA, Na hora outro valor\nhttps://www.sympla.com.br/evento/sabbath-cover-oficial-em-curitiba/3340511",
+          "mediaType": "Video",
+          "timestamp": "2026-03-28T14:02:58.000Z",
+          "permalink": "https://www.instagram.com/p/DWbkX0UEa9T/",
+          "images": [
+            "https://scontent-atl3-2.cdninstagram.com/v/t51.82787-15/658747451_18582724363014364_9135062680688500984_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gEeOfzMpX-D5PSq5kA8Kgmf4waX5MywUCJodwLX00-qZg270bsHe3KKUVDttyuDZQA&_nc_ohc=tIdLpTkFWosQ7kNvwEw3ahA&_nc_gid=C7epS-0hd-9y3OwcqDSNBg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfxpX3XMTVdAgs2vXV4OZK4O6alLUGgv48YrOQpct-XZ2Q&oe=69CF261D&_nc_sid=10d13b"
+          ],
+          "handle": "bloodrockbar",
+          "raw": {
+            "ownerUsername": "bloodrockbar",
+            "type": "Video",
+            "shortCode": "DWbkX0UEa9T"
+          },
+          "analysis": {
+            "relevant": false,
+            "events": []
+          }
+        },
+        {
+          "id": "DWdB811jVW1",
+          "caption": "O melhor BLACK SABBATH do Brasil no bar mais Black Sabbath de Curitiba, com o público mais fã de Sabbath no sul do mundo: MASTER OF REALITY @sabbathcover honrando o legado dos pais do Heavy Metal e da vida de Ozzy Osbourne com um show legendário, casa cheia e coração, alma e sangue preenchidos com muitos clássicos‼️🤘🏻🦇\n\n“INTO THE VOID” pra vocês conferirem o show enquanto ele ainda está acontecendo 🔥",
+          "mediaType": "Video",
+          "timestamp": "2026-03-29T03:44:17.000Z",
+          "permalink": "https://www.instagram.com/p/DWdB811jVW1/",
+          "images": [
+            "https://scontent-ord5-1.cdninstagram.com/v/t51.71878-15/657553906_930038726405075_1600946198573774050_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gEmrEHi4yKpDq8Aufj1yfQ1osDHOcJU_frscfKGFKZqN8Cl9lqlVY3whWl6_MD4F-w&_nc_ohc=ujPpuOdWT9cQ7kNvwHAZDQa&_nc_gid=39xO4_MuAq8bHW78ZIq4EQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Afz9X48TDvOxe0boWSagm9uiDIq3Idi0F7RUEyt4gQj1Xg&oe=69CF33ED&_nc_sid=10d13b"
+          ],
+          "handle": "bloodrockbar",
+          "raw": {
+            "ownerUsername": "bloodrockbar",
+            "type": "Video",
+            "shortCode": "DWdB811jVW1"
+          },
+          "analysis": {
+            "relevant": false,
+            "events": []
+          }
+        }
+      ]
+    },
+    "sebas_rock_bar": {
+      "venueId": "seb-s-rock-bar",
+      "name": "Seb's Rock Bar",
+      "instagram": "https://www.instagram.com/sebas_rock_bar/",
+      "handle": "sebas_rock_bar",
+      "fetchedAt": "2026-03-29T17:28:01.834Z",
+      "posts": [
+        {
+          "id": "DWbzDbvkf2t",
+          "caption": "🔥 Hoje sábado, dia 28/03, prepare-se para uma noite espetacular no Sebas Rock Bar! 🔥\n\nUma verdadeira viagem no tempo com os maiores flashbacks que marcaram gerações! 🚀\n\n🎸 No palco:\n\n🕘🔥 21h – DeLorean\n🕚🔥 23h – Boogie Night\n🕐🔥 01h – Silver Moon\n\n💰 Entrada: R$ 30,00\n\n📲 Reservas e ingressos antecipados:\nWhatsApp: (41) 99916-1134\n\n📍 Sebas Rock Bar\nRua Anne Frank, 3644 – Boqueirão\nCuritiba/PR\n\n🌐 www.sebasrockbar.com.br",
+          "mediaType": "Video",
+          "timestamp": "2026-03-28T16:14:07.000Z",
+          "permalink": "https://www.instagram.com/p/DWbzDbvkf2t/",
+          "images": [
+            "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/659118386_1506613441184760_1869928297007146411_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gG1X26ByMoUvy5ZCd3ulJwaQ4TMKXdW9yDQu76OBmJJkjiFKqTtSGuL8zB0CMQEX0M&_nc_ohc=2y0ob6DNYsQQ7kNvwGOt5CL&_nc_gid=9gdvWkjHFWEB96GWTUz4oA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfwUGfJ1dyVRRD-mj-sZxOey8uSRQOtqRXQw6q31GKm7aA&oe=69CF3678&_nc_sid=10d13b"
+          ],
+          "handle": "sebas_rock_bar",
+          "raw": {
+            "ownerUsername": "sebas_rock_bar",
+            "type": "Video",
+            "shortCode": "DWbzDbvkf2t"
+          },
+          "analysis": {
+            "relevant": false,
+            "events": []
+          }
+        },
+        {
+          "id": "DWUxAyyEeZ6",
+          "caption": "🔥 EMBALOS DE SEBALDO À NOITE – ANOS 90 & 2000 🔥\n\nPrepare-se para uma noite simplesmente inesquecível! ✨\n\nDiretamente para o Sebas Rock Bar, uma atração internacional histórica:\n🎧 DJ DERO – um dos maiores ícones dos anos 90 e 2000, referência mundial nas pistas, responsável por hits que marcaram gerações e até hoje é presença garantida nas maiores pistas do mundo! 🌍🔥\n\nUm nome que atravessou décadas, dominou clubes internacionais e continua fazendo multidões vibrarem como na melhor época da sua vida!\n\nE junto com ele… 🔥\n🎧 DJ GUTO LOUREIRO – um dos maiores nomes do flashback no Brasil, trazendo aquela energia única que lota a pista do começo ao fim!\n\n💥 Uma verdadeira viagem pelos maiores hits dos anos 90 e 2000!\n\n———\n\n📅 04 de abril (sábado)\n💰 Entrada: R$ 50,00\n\n🎟 Garanta seu ingresso antecipado pelo WhatsApp:\n📲 (41) 99916-1134\n\n📍 Rua Anne Frank, 3644 – Curitiba\n\n🌐 www.sebasrockbar.com.br\n\n———\n\n🔥 Os clássicos que fizeram história\n🔥 As músicas que marcaram sua vida\n🔥 Uma noite pra reviver o melhor da sua época\n\n🔥 Sebas Rock Bar – onde a noite acontece de verdade!",
+          "mediaType": "Video",
+          "timestamp": "2026-03-25T22:39:23.000Z",
+          "permalink": "https://www.instagram.com/p/DWUxAyyEeZ6/",
+          "images": [
+            "https://scontent-lga3-3.cdninstagram.com/v/t51.71878-15/656349193_1601831174611178_8125463357506736455_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gFV_Jr4jFlwSGVgvSdz8BhiykJu2Z1bH4aPQRcsy4Ap7ENUMasKAZ3glF1RDs3FElw&_nc_ohc=xwIcVv9CQSEQ7kNvwEEJOS_&_nc_gid=JMgvd03uvRzYUdLkfn92qA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Afyyk3yxOqTqm5KFK6t3a46uFnitxm-LqLC5-R6PR31sSg&oe=69CF2CB7&_nc_sid=10d13b"
+          ],
+          "handle": "sebas_rock_bar",
+          "raw": {
+            "ownerUsername": "sebas_rock_bar",
+            "type": "Video",
+            "shortCode": "DWUxAyyEeZ6"
+          },
+          "analysis": {
+            "relevant": false,
+            "events": []
+          }
+        },
+        {
+          "id": "DWWDj7nka5r",
+          "caption": "Nesta sexta feira no Sebas Rock Bar tem open food e minha banda é uma festa.\nAbertura Fabinho Oliveira \n\n| Open Food\n💰 R$ 54,90 por pessoa\n⏰ Das 19h às 22h\n👉 Coma à vontade!\n\nCardápio Open Food:\n\n🥩 Carne de onça\n🔥 Coração assado na brasa\n🌭 Linguiça assada na brasa\n🍗 Sobrecoxa assada na brasa, temperada no vinho branco\n🍗 Tulipa frita\n🍟 Batata frita\n🟡 Polenta frita\n🧅 Anel de cebola\n🧄 Pão de alho temperado\n\nInformações e reservas via WhatsApp 41999161134\nEndereço Rua Anne Frank 3644 Curitiba",
+          "mediaType": "Image",
+          "timestamp": "2026-03-26T10:42:52.000Z",
+          "permalink": "https://www.instagram.com/p/DWWDj7nka5r/",
+          "images": [
+            "https://scontent-atl3-1.cdninstagram.com/v/t51.82787-15/657378502_18414634612132997_7188985086221376310_n.jpg?stp=dst-jpg_e35_s1080x1080_sh0.08_tt6&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gFJbn3sWOEru7X9NgTN_xB_Y5E4tH4WhdREeF4viMDcooLu0Ik3BT-gfeIt2Od3vPM&_nc_ohc=PpjMyw3Gg9sQ7kNvwE390Ir&_nc_gid=2s9_tIUL_m7zWR-wbl6UGg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfyEyZGsUZo8eUNWsk7kJ-_tzzkapOK943eCQbhOBeTpPQ&oe=69CF1B4D&_nc_sid=10d13b"
+          ],
+          "handle": "sebas_rock_bar",
+          "raw": {
+            "ownerUsername": "sebas_rock_bar",
+            "type": "Image",
+            "shortCode": "DWWDj7nka5r"
+          },
+          "analysis": {
+            "relevant": false,
+            "events": []
+          }
+        },
+        {
+          "id": "DWPVd0ekUH_",
+          "caption": "🔥 EMBALOS DE SEBALDO À NOITE – ANOS 90 & 2000 🔥\n\nPrepare-se para uma noite simplesmente inesquecível! ✨\n\nDiretamente para o Sebas Rock Bar, uma atração internacional histórica:\n🎧 DJ DERO – um dos maiores ícones dos anos 90 e 2000, referência mundial nas pistas, responsável por hits que marcaram gerações e até hoje é presença garantida nas maiores pistas do mundo! 🌍🔥\n\nUm nome que atravessou décadas, dominou clubes internacionais e continua fazendo multidões vibrarem como na melhor época da sua vida!\n\nE junto com ele… 🔥\n🎧 DJ GUTO LOUREIRO – um dos maiores nomes do flashback no Brasil, trazendo aquela energia única que lota a pista do começo ao fim!\n\n💥 Uma verdadeira viagem pelos maiores hits dos anos 90 e 2000!\n\n⸻\n\n📅 04 de abril (sábado)\n💰 Entrada: R$ 50,00\n\n🎟 Garanta seu ingresso antecipado pelo WhatsApp:\n📲 (41) 99916-1134\n\n📍 Rua Anne Frank, 3644 – Curitiba\n\n⸻\n\n🔥 Os clássicos que fizeram história\n🔥 As músicas que marcaram sua vida\n🔥 Uma noite pra reviver o melhor da sua época\n\n🔥 Sebas Rock Bar – onde a noite acontece de verdade!",
+          "mediaType": "Video",
+          "timestamp": "2026-03-23T20:02:47.000Z",
+          "permalink": "https://www.instagram.com/p/DWPVd0ekUH_/",
+          "images": [
+            "https://scontent-dfw5-2.cdninstagram.com/v/t51.71878-15/657389974_1950964985791747_7954791699126883605_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gEVXMVJjHuTj2phBbUZsuSrd3llu7tX1j9ZQ_TKMTTf2iKlssEJsNfILqselmJVywQ&_nc_ohc=IJi-yQ1BGUMQ7kNvwF5anYy&_nc_gid=zxqwzEhMNEoTVVdbpxOlzA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfwKrPGUXajm4Nm8BGTR04ymtjwG3SPAtwfBsLKhnO3OKw&oe=69CF1960&_nc_sid=10d13b"
+          ],
+          "handle": "sebas_rock_bar",
+          "raw": {
+            "ownerUsername": "sebas_rock_bar",
+            "type": "Video",
+            "shortCode": "DWPVd0ekUH_"
+          },
+          "analysis": {
+            "relevant": false,
+            "events": []
+          }
+        },
+        {
+          "id": "DWeczzOEd0r",
+          "caption": "🔥 EMBALOS DE SEBALDO À NOITE – ANOS 90 & 2000 🔥\n\nPrepare-se para uma noite simplesmente inesquecível! ✨\n\nDiretamente para o Sebas Rock Bar, uma atração internacional histórica:\n🎧 DJ DERO – um dos maiores ícones dos anos 90 e 2000, referência mundial nas pistas, responsável por hits que marcaram gerações e até hoje é presença garantida nas maiores pistas do mundo! 🌍🔥\n\nUm nome que atravessou décadas, dominou clubes internacionais e continua fazendo multidões vibrarem como na melhor época da sua vida!\n\nE junto com ele… 🔥\n🎧 DJ GUTO LOUREIRO – um dos maiores nomes do flashback no Brasil, trazendo aquela energia única que lota a pista do começo ao fim!\n\n💥 Uma verdadeira viagem pelos maiores hits dos anos 90 e 2000!\n\n———\n\n📅 04 de abril (sábado)\n💰 Entrada: R$ 50,00\n\n🎟 Garanta seu ingresso antecipado pelo WhatsApp:\n📲 (41) 99916-1134\n\n📍 Rua Anne Frank, 3644 – Curitiba\n\n🌐 www.sebasrockbar.com.br\n\n———\n\n🔥 Os clássicos que fizeram história\n🔥 As músicas que marcaram sua vida\n🔥 Uma noite pra reviver o melhor da sua época\n\n🔥 Sebas Rock Bar – onde a noite acontece de verdade!",
+          "mediaType": "Video",
+          "timestamp": "2026-03-29T16:55:41.000Z",
+          "permalink": "https://www.instagram.com/p/DWeczzOEd0r/",
+          "images": [
+            "https://scontent-dfw6-1.cdninstagram.com/v/t51.71878-15/658919640_1595390261715326_1355505451463973123_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-dfw6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gESiGWZSC7fB0udBvhR2JverL1L2QgcJbnxkZxhVVosOmUtBgVTOw1juO5HVLNyud0&_nc_ohc=8-DrYFj20DkQ7kNvwF4nCYO&_nc_gid=rWni66Z4q2HX4NWrCkGerg&edm=APs17CUBAAAA&ccb=7-5&oh=00_Afx8P3JbN4BXX2qEL1dlmPlBr49UWctXs1a1vNJ1WDgmPA&oe=69CF4BDB&_nc_sid=10d13b"
+          ],
+          "handle": "sebas_rock_bar",
+          "raw": {
+            "ownerUsername": "sebas_rock_bar",
+            "type": "Video",
+            "shortCode": "DWeczzOEd0r"
+          },
+          "analysis": {
+            "relevant": false,
+            "events": []
+          }
+        }
+      ]
+    },
+    "belvederecasadecultura": {
+      "venueId": "belvedere",
+      "name": "Belvedere",
+      "instagram": "https://www.instagram.com/belvederecasadecultura/",
+      "handle": "belvederecasadecultura",
+      "fetchedAt": "2026-03-29T17:28:50.927Z",
+      "posts": [
+        {
+          "id": "DWPcPgNDBlt",
+          "caption": "Belvedere House of Culture e\nQuero REC Music apresentam:\nBVDR Grava.\n\nNesta quarta edição, o Belvedere vai gravar a banda Garage Fuzz de Santos -SP.\nParticipação especial das bandas Silêncio Drama (CWB) e\nBoogadas (CWB).\nA gravação ocorre no dia 18 de abril, no Belvedere, a partir das 20h (portas).\nIngressos promocionais em meaple.com.br\n*Link na bio, stories e destaques.\n\nClassificação: 18 anos",
+          "mediaType": "Image",
+          "timestamp": "2026-03-23T21:03:19.000Z",
+          "permalink": "https://www.instagram.com/p/DWPcPgNDBlt/",
+          "images": [
+            "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/656056980_18341353264211039_6754889909813665014_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gH62_oga3AJd7OVghs7BVftVc8NcNBBMPL8m0Jgw_CQ6s8F23JvAirTbdugCOFxHcs&_nc_ohc=cSqMJMys8ZAQ7kNvwGWbu5Q&_nc_gid=_c-7bJRnO5e6ErJKanQtkg&edm=APs17CUBAAAA&ccb=7-5&oh=00_Afz1LzACvOyrsFnAfrehu1EFhW7jpSkHxVHH2emee-sdkQ&oe=69CF2356&_nc_sid=10d13b"
+          ],
+          "handle": "belvederecasadecultura",
+          "raw": {
+            "ownerUsername": "belvederecasadecultura",
+            "type": "Image",
+            "shortCode": "DWPcPgNDBlt"
+          },
+          "analysis": {
+            "relevant": false,
+            "events": []
+          }
+        },
+        {
+          "id": "DWZHgamDUOk",
+          "caption": "Hoje!!!!\n*STICKY FINGERS +SUBLIME NIGHT*\n\nDepois de um tempo longe dos palcos da cidade, a vibe *Sublime / Sticky Fingers* volta pra Curitiba em uma noite especial no Belvedere.\nReggae punk, surt rock, classicos pra cantar junto e aquela energia que sempre marcou essa cena na cidade.\nA noite também celebra os *12 anos de Oh My Dogs*, banda que há mais de uma década mantém essa mistura de surf rock, reggae e rock alternativo viva nos palcos.\n→ *Line-up da noite:*\n• *Oh My Dogs*\nEspecial Sticky Fingers\n» *Catnip*\nEspecial Sublime\n*Old Dogs*\nSpecial Guest\n*27/03 — sexta-feira*\n*20h*\n*Belvedere Casa de Cultura*\nRua Inácio Lustosa, 496 - São Francisco\nLink dos ingressos na bio!\n\nMarca aí quem vai colar contigo",
+          "mediaType": "Image",
+          "timestamp": "2026-03-27T15:13:31.000Z",
+          "permalink": "https://www.instagram.com/p/DWZHgamDUOk/",
+          "images": [
+            "https://scontent-atl3-3.cdninstagram.com/v/t51.82787-15/656380792_18341901250211039_6185355456232704415_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gH8-312y26ClAi3yn5HF9ASJ5brs4w2HKxLtDKxaS7fR13d-DHkpMmN6RjmLclwHbs&_nc_ohc=N1kSB4BCk-gQ7kNvwGP8rSr&_nc_gid=O6KXucRMq7TZykV8nk3QiA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Afy8ZtTBBtO24LdR_NnRXMhScvlRa5JW9XNONDIzHOLe8w&oe=69CF191C&_nc_sid=10d13b"
+          ],
+          "handle": "belvederecasadecultura",
+          "raw": {
+            "ownerUsername": "belvederecasadecultura",
+            "type": "Image",
+            "shortCode": "DWZHgamDUOk"
+          },
+          "analysis": {
+            "relevant": false,
+            "events": []
+          }
+        },
+        {
+          "id": "DWT1UgCjemA",
+          "caption": "Se liga na programação do final de semana!\n\n➡️Sexta(27/03)-STICKY FINGERS + SUBLIME NIGHT\n\nDepois de um tempo longe dos palcos da cidade, a vibe*Sublime / Sticky Fingers* volta pra Curitiba em uma noite especial no Belvedere.\nReggae punk, surf rock, clássicos pra cantar junto e aquela energia que sempre marcou essa cena na cidade.\nA noite também celebra os *12 anos de Oh My Dogs*, banda que há mais de uma década mantém essa mistura de surt rock, reggae e rock alternativo viva nos palcos.\n• *Line-up da noite:*\n*Oh My Dogs*\nEspecial Sticky Fingers\n•*Catnip*\nEspecial Sublime\n*Old Dogs*\nSpecial Guest\n* �27/03 - sexta-feira*\n* �20h*\n* �Belvedere Casa de Cultura*\nRua Inácio Lustosa, 496 - São Francisco\nLink dos ingressos na bio!\n\n➡️Sábado(28/03)-Pra você que quer curtir um bom rolê, mas não aguenta mais ficar acordado até tarde\nOu você que acha que a noite é muito curta e quer começar os embalos de sábado mais cedo\nEssa matinê é pra você!!!\n\nAlém da sonzeira da Madame Crüe com o melhor de Mötley Crüe, o evento vai contar com o show incrível da Black Velvet trazendo os clássicos do Guns N’ Roses.\n\nE tem mais! \nA artista tatuadora Paula Watzko vai estar lá com um Flash Tattoo especialíssimo pra deixar sua pele adornada com arte de qualidade. Sempre é um bom dia pra uma nova tattoo, não é?\n\nIngressos: meaple.com.br (*link na bio)\nAbertura: 15:00\n\nQuem chegar ates das 16:00 ganha um welcome shot! Chegue cedo! \n\n➡️Domingo(29/03)- ENSAIO ABERTO\n — PUNK GRRRLS NOT DEAD\nBora conferir o processo desse tributo que reune mais de 30 artistas mulheres e dissidências da cena local\nAs Punk Grrrls Not Dead abrem as portas do ensaio pra quem quiser colar, trocar, somar e vivenciar de perto a construção dessa coletividade linda\nNão é só sobre tocar punk rock, mas ocupar a cena experimentar, criar junto e fazer a arte acontecer!\n\n🤘🏻🤘🏻🤘🏻",
+          "mediaType": "Sidecar",
+          "timestamp": "2026-03-25T13:56:51.000Z",
+          "permalink": "https://www.instagram.com/p/DWT1UgCjemA/",
+          "images": [
+            "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/658065233_18341574145211039_2200892175016128697_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gHguuC2I33_l36790HneEHx3aKPoxvWq9Br4V9Kq41UJxP4VS8MYIkUPFn7coblnA0&_nc_ohc=xvYYoN7sdUEQ7kNvwEzutwY&_nc_gid=yH_yqQ_kn451bd_Euo0GUA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Afyav6fYBA1EMMOweIppQfQ9ZPM7sUSVpd1YCayxpKu5FA&oe=69CF407B&_nc_sid=10d13b"
+          ],
+          "handle": "belvederecasadecultura",
+          "raw": {
+            "ownerUsername": "belvederecasadecultura",
+            "type": "Sidecar",
+            "shortCode": "DWT1UgCjemA"
+          },
+          "analysis": {
+            "relevant": false,
+            "events": []
+          }
+        },
+        {
+          "id": "DWbaD7ODNcc",
+          "caption": "Hoje tem Matinê!\n\nLogo mais, tem muito Hard Rock com @madamecrue e @gunsexperiencebr a partir das 15:00.\nRolezão que começa cedo e termina cedo!\nTem mais flash tattoo, expositores, wellcome shot pra quem chegar até as 16h…\nVocê não pode perder!\n\nCola no link da bio e garanta já o seu ingresso!",
+          "mediaType": "Image",
+          "timestamp": "2026-03-28T12:40:06.000Z",
+          "permalink": "https://www.instagram.com/p/DWbaD7ODNcc/",
+          "images": [
+            "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/659464026_18342044494211039_1807494713576447573_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gGPxtmPpaqbPTC6KmUNjDWBi9MAsBXeH0rEqncvZ3GclT0zaEJtGI_0ael7wrvxI-I&_nc_ohc=NV1zfgjwat0Q7kNvwGLQqwA&_nc_gid=gZoV4EKkCro9ZyLQKtovUg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfzjLxa2Tt3RXOT6BgrZMtoME0XKiwmQSugu2E0cQl9guQ&oe=69CF4FF3&_nc_sid=10d13b"
+          ],
+          "handle": "belvederecasadecultura",
+          "raw": {
+            "ownerUsername": "belvederecasadecultura",
+            "type": "Image",
+            "shortCode": "DWbaD7ODNcc"
+          },
+          "analysis": {
+            "relevant": false,
+            "events": []
+          }
+        }
+      ]
+    },
+    "resistenciarock": {
+      "venueId": "resist-ncia",
+      "name": "Resistência",
+      "instagram": "https://www.instagram.com/resistenciarock/",
+      "handle": "resistenciarock",
+      "fetchedAt": "2026-03-29T17:29:29.077Z",
+      "posts": [
+        {
+          "id": "DWbvi6jERZz",
+          "caption": "Sábado é dia de pista cheia com a banda Gallo Jack Show trazendo um repertório repleto de flashbacks e clássicos do rock 🔥\n@gallojackshow\n🍺chegando até às 21h ganha 1 chope\nShow a partir das 21h30 pra dançar, cantar e fechar a semana no melhor estilo.\n\nEntrada 15 e estacionamento 15.\n\n#sabadonorock #flashback #gallojackshow #rockbar #vemproresistencia",
+          "mediaType": "Image",
+          "timestamp": "2026-03-28T15:40:19.000Z",
+          "permalink": "https://www.instagram.com/p/DWbvi6jERZz/",
+          "images": [
+            "https://scontent-ord5-3.cdninstagram.com/v/t51.82787-15/657188487_18313331011257664_3089674277629958355_n.webp?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-ord5-3.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gFhxbD8Q0sUnke6U9Np5bwq2yrwl8LTbUIRzWc6IZxqRmaS3oW6TeNUpl98K3RQKjs&_nc_ohc=89pi0LODc-8Q7kNvwGlYvr-&_nc_gid=XMA15lBAwGRGx9fd5KjgvQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Afy_s_efHK6azIhmL54OMICjlTkctj-EZWGA4yqFtVouqw&oe=69CF3ACC&_nc_sid=10d13b"
+          ],
+          "handle": "resistenciarock",
+          "raw": {
+            "ownerUsername": "resistenciarock",
+            "type": "Image",
+            "shortCode": "DWbvi6jERZz"
+          },
+          "analysis": {
+            "relevant": false,
+            "events": []
+          }
+        },
+        {
+          "id": "DWZHwiJEVBy",
+          "caption": "Sextou com a banda Geração Coca Cola trazendo um show especial só com clássicos do rock brasileiro 🤘🔥 @geracaococacolahits80\nA partir das 21h30 pra cantar junto e viver uma noite cheia de nostalgia e energia.\n🍺chegando até às 21h ganha 1 chope\nEntrada 15 e estacionamento 15.\n\n#sextoucomrock #rockbrasileiro #geracaococacola #rockcuritiba #resistenciarockbar",
+          "mediaType": "Image",
+          "timestamp": "2026-03-27T15:14:10.000Z",
+          "permalink": "https://www.instagram.com/p/DWZHwiJEVBy/",
+          "images": [
+            "https://scontent-ord5-3.cdninstagram.com/v/t51.82787-15/657222262_18313183900257664_8566532853468461057_n.webp?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-ord5-3.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gEL2e6ypycbMdUOtZ6gFLRLAjRlN6gdRFLHUGtGvLF9cPalmloPOaNP77aNS-u8Y0o&_nc_ohc=BwY3IyHR5XsQ7kNvwGbIz9N&_nc_gid=sTJ-FgnMo3BE1jtvk2L13w&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfyeAoE57QV1wt1rqzkDpsymSvXO_Uzakzipbmpdk00Wpw&oe=69CF4194&_nc_sid=10d13b"
+          ],
+          "handle": "resistenciarock",
+          "raw": {
+            "ownerUsername": "resistenciarock",
+            "type": "Image",
+            "shortCode": "DWZHwiJEVBy"
+          },
+          "analysis": {
+            "relevant": false,
+            "events": []
+          }
+        },
+        {
+          "id": "DWZvupIETpv",
+          "caption": "Sextou com a banda Geração Coca Cola trazendo um show especial só com clássicos do rock brasileiro 🤘🔥 @geracaococacolahits80\nA partir das 21h30 pra cantar junto e viver uma noite cheia de nostalgia e energia.\n🍺chegando até às 21h ganha 1 chope\nEntrada 15 e estacionamento 15.\n\n#sextoucomrock #rockbrasileiro #geracaococacola #rockcuritiba #resistenciarockbar",
+          "mediaType": "Image",
+          "timestamp": "2026-03-27T21:03:26.000Z",
+          "permalink": "https://www.instagram.com/p/DWZvupIETpv/",
+          "images": [
+            "https://scontent-dfw5-2.cdninstagram.com/v/t51.82787-15/657235273_18313221382257664_434028226593410057_n.webp?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gEHe8xkogzrvhfCHMF6emKKnLdajvsdSDys-r20RcELNEZNMP5lHGiMcf_Y3PROwXcsMOoxMwK2XGfA0bdZR0-9&_nc_ohc=aGBDG3G56MEQ7kNvwEy9isY&_nc_gid=JlSRbCcojB1afL07PplkbA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Afy8isGD-eF7BSGF3OiaW7oT49wsBVt1Ont9KHSjhd8YjQ&oe=69CF1E38&_nc_sid=10d13b"
+          ],
+          "handle": "resistenciarock",
+          "raw": {
+            "ownerUsername": "resistenciarock",
+            "type": "Image",
+            "shortCode": "DWZvupIETpv"
+          },
+          "analysis": {
+            "relevant": false,
+            "events": []
+          }
+        },
+        {
+          "id": "DV9FExVEZMY",
+          "caption": "RODÍZIO DE PETISCOS AGORA DE TERÇA A QUINTA!\nTerça também é dia de rock por aqui 🎶\nRodízio de petiscos por apenas R$39,90\n🍺promo de chope 2 por R$15,00\n🍹🍸10% de desconto nas caipiras e coquetéis \n\nClipes no telão a partir das 18h trazendo aquele clima descontraído pra curtir com os amigos ou fazer um happy hour diferente.\n\nEntrada e estacionamento free pra você só se preocupar em aproveitar a noite 🤘\n\n#tercanorock #rocknotelao #barcuritiba #resistencia #rockandroll",
+          "mediaType": "Image",
+          "timestamp": "2026-03-16T17:52:03.000Z",
+          "permalink": "https://www.instagram.com/p/DV9FExVEZMY/",
+          "images": [
+            "https://instagram.fsac1-1.fna.fbcdn.net/v/t51.82787-15/652698746_18311013478257664_7557881405772746435_n.webp?stp=dst-jpg_e15_fr_s1080x1080_tt6&_nc_ht=instagram.fsac1-1.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2gFsfFnGmv8wXcqsVR8fykFa0sqg9D9cePQMaqH9MZ3yOEBgs1Xv9qIiTidAKP-DE-I&_nc_ohc=h_VeSF7RRNMQ7kNvwFTyGKB&_nc_gid=yKwGHvQflP9e10752ihm3Q&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfxPmH0gsPUZN4q5yZd4LP-FvKIA0fBaqIzNx8ui9nPr_g&oe=69CF2CF1&_nc_sid=10d13b"
+          ],
+          "handle": "resistenciarock",
+          "raw": {
+            "ownerUsername": "resistenciarock",
+            "type": "Image",
+            "shortCode": "DV9FExVEZMY"
+          },
+          "analysis": {
+            "relevant": false,
+            "events": []
+          }
+        }
+      ]
+    },
+    "clayhighway": {
+      "venueId": "clay-highway",
+      "name": "Clay Highway",
+      "instagram": "https://www.instagram.com/clayhighway/",
+      "handle": "clayhighway",
+      "fetchedAt": "2026-03-29T17:30:17.368Z",
+      "posts": [
+        {
+          "id": "DWcSkGSEntd",
+          "caption": "DOMINGO 29/03 - Esquenta LYNYRD SKYNYRD\n\n🔥 A semana em que Curitiba respira Lynyrd Skynyrd, e o Clay entra no clima e transforma a noite em um especial dedicado ao Southern Rock que marcou gerações.\nClássicos que não envelhecem.\nRefrões que todo mundo reconhece na primeira nota.\nGuitarras longas, alma livre e pista cheia.\nIsso não é coincidência.\nÉ sintonia com quem vive esse som de verdade.\n\n🎸 Especial Lynyrd Skynyrd com a banda JACK VERMOUTH\n🔥 Domingo 29/03 a partir das 20h\n📍 Clay Highway Bar\n\nEntrada direto na portaria: 20,00 grátis 01 chope\n\nCLAY HIGHWAY BAR 10 anos\nA sua estrada para o rock",
+          "mediaType": "Video",
+          "timestamp": "2026-03-28T20:48:19.000Z",
+          "permalink": "https://www.instagram.com/p/DWcSkGSEntd/",
+          "images": [
+            "https://scontent-ord5-2.cdninstagram.com/v/t51.71878-15/658757628_1459448002490921_8417003407318700353_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGQKZpHqm56Fez4_Mm2tIhrB2NU0zJ1T98gzqRi2ZTlLwCiU5cCgX_r-E2QF9IvmZQ&_nc_ohc=71ZEmaow5KMQ7kNvwHsMKwU&_nc_gid=L2G6xT16acp6FBCGHQmS9Q&edm=APs17CUBAAAA&ccb=7-5&oh=00_Afw_9juM7okuxJlmn1C4FREuGTAwHd2KR9gBFyetgPR9bw&oe=69CF489A&_nc_sid=10d13b"
+          ],
+          "handle": "clayhighway",
+          "raw": {
+            "ownerUsername": "clayhighway",
+            "type": "Video",
+            "shortCode": "DWcSkGSEntd"
+          },
+          "analysis": {
+            "relevant": false,
+            "events": []
+          }
+        },
+        {
+          "id": "DWeb1MyEaxH",
+          "caption": "👉🏻 SABADO 04/04 - A ERA NU METAL\n\nAtenção Curitiba a banda FUCK THE SYSTEM (System of a Down) o maior cover da América Latina chega para uma noite inesquecível \n\n🔥 A noite que quem viveu o Nu Metal não pode perder.\nSexta, o Clay mergulha nos anos 2000 — pesado, intenso e do jeito que você curte.\nSe essas bandas marcaram a sua história… essa noite é compromisso.\n\nBandas:\n🎸 20:30 - LIMP BIZKIT cover\n🎸 22:30 - FUCK THE SYSTEM System of a Down\n🎸 01h00 – LINKIN PARK Brasil Cover\n\n🎟️ INGRESSOS inclui 01 chope grátis\n. R$ 25,00 antecipado Sympla\n. R$ 30,00 Direto na portaria\n\n. Das 20h às 03h\n. Whats: (41) 99677-5930\n\n📍 CLAY HIGHWAY BAR\n10 anos de rock and roll\n\n#soad #limpbizkit #linkinpark #curitiba",
+          "mediaType": "Video",
+          "timestamp": "2026-03-29T16:49:04.000Z",
+          "permalink": "https://www.instagram.com/p/DWeb1MyEaxH/",
+          "images": [
+            "https://scontent-ord5-3.cdninstagram.com/v/t51.71878-15/657375987_2677370265967012_768806441288343447_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-ord5-3.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gEWlUDEmUNfcb-jK3ZBY5QBMPleEvBbiTG_j6nG4GSnTmhRXCACLM6PdyAMWsChJ8g&_nc_ohc=oHsgHncYVD0Q7kNvwETwYdq&_nc_gid=27KQWySNTpf0FJrwFuQMNw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfwttUASBke0RlZSg-BOTjI4Tdq34EyGCaVuBjeaAKQ2eA&oe=69CF1FE2&_nc_sid=10d13b"
+          ],
+          "handle": "clayhighway",
+          "raw": {
+            "ownerUsername": "clayhighway",
+            "type": "Video",
+            "shortCode": "DWeb1MyEaxH"
+          },
+          "analysis": {
+            "relevant": false,
+            "events": []
+          }
+        },
+        {
+          "id": "DWNEwX8ke3w",
+          "caption": "✔️“POV: Vc vai passar o final de semana inteiro no Clay”\n\n◼️ QUI 26/03 - INXS TRIBUTO INTERNACIONAL\n“Se o INXS fez parte da sua vida, essa noite não é opcional.”\nA banda Argentina NEXT INXS com mais de 10 anos de experiencia, apresenta um espetáculo pensado em cada detalhe: timbres, arranjos, presença de palco e energia exatamente como o INXS.\n🎸 21h - Banda NEXT INXS \n🎟️ Clube do Ingresso \n\n◼️ SEX 27/03 - RED HOT EXPERIENCE \nUma das maiores bandas cover de Red Hot do país. Uma imersão completa no universo do Red Hot, Instrumentos idênticos, Figurinos clássicos.\nA mesma energia e atitude no palco.\n🎸 21:30 - Foo Fighters Breakout\n🎸00:00 - The Red Hot Experience\n\n◼️ SÁB 28/03 - Noite VIVA LA VIDA\nO tributo mais COLDPLAY do Brasil chega ao Clay..\nExistem noites comuns e existem noites que não deveriam ter fim\nPrepare-se para viver uma experiência que atravessa gerações e domina multidões.\n🎸 20:30 - U2 Cover Cwb\n🎸 22:30 - Viva la Vida Coldplay + Imagine Dragons \n🎸 22:30 - Major Tom David Bowie tribute\n\n◼️ DOM 29/03 - LYNYRD SKYNYRD especial\nA semana em que Curitiba respira Lynyrd Skynyrd, e o Clay entra no clima e transforma a noite em um especial dedicado ao Southern Rock que marcou gerações.\n🎸 20:30 - Banda Jack Vermouth\n\n. Whats 41 99677-5930\n\nCLAY HIGHWAY BAR\nUma década de rock n roll🤘😎\n\n#oquefazercuritiba #rock #coldplay #imaginedragons #cwb",
+          "mediaType": "Sidecar",
+          "timestamp": "2026-03-22T22:57:03.000Z",
+          "permalink": "https://www.instagram.com/p/DWNEwX8ke3w/",
+          "images": [
+            "https://scontent-ord5-3.cdninstagram.com/v/t51.82787-15/656274332_18133449109530354_3849208966040132651_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-ord5-3.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gHsxcReEWDc_X9zto--vwOzYGNKJupE4gC3SyBhTS7CMHaY_D8lhZcBvHRhwWe_iKI&_nc_ohc=C2cr3eX5I-kQ7kNvwHXqasS&_nc_gid=MkMKFpVxziKhEXiDaA63xQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfyZSePZdqoGCMFpoqY0AjkCmu1yxPWjL6_Vq_V4Vg1I7A&oe=69CF416C&_nc_sid=10d13b"
+          ],
+          "handle": "clayhighway",
+          "raw": {
+            "ownerUsername": "clayhighway",
+            "type": "Sidecar",
+            "shortCode": "DWNEwX8ke3w"
+          },
+          "analysis": {
+            "relevant": false,
+            "events": []
+          }
+        },
+        {
+          "id": "DWbtyj6Eaqy",
+          "caption": "S�BADO 28/03 - ATEN��O CURITIBA\nO tributo mais COLDPLAY do Brasil chega ao Clay..\n\nExistem noites comuns e existem noites que n�o deveriam ter fim\nPrepare-se para viver uma experi�ncia que atravessa gera��es e domina multid�es.\nTr�s gigantes em uma �nica celebra��o \u0014 hinos que marcaram vidas, trilharam hist�rias e fizeram o mundo inteiro cantar junto.\n\n( U2 \u0014 U2 cover CWB\n( Coldplay + Imagine Dragons - Vila la Vida Tribute Brazil\n( David Bowie cm Major Tom\n\n<�\u000f Garanta seu ingresso agora.\n. 20,00 antecipada no sympla + tx\n. 25,00 antecipado no sympla + tx\n. 30,00 na portaria\n\n. Bar abre das 20h as 03h30.\n\nCLAY HIGHWAY BAR 10 anos\nA sua estrada para o rock",
+          "mediaType": "Video",
+          "timestamp": "2026-03-28T15:26:59.000Z",
+          "permalink": "https://www.instagram.com/p/DWbtyj6Eaqy/",
+          "images": [
+            "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/657331602_2328314300992669_2256008905983951038_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gE2PcIZrLBND9PWrwQbrxPLFSgWBX8et01nkTsP7TLB218L16gpCoTK9pBaZFvTgBE&_nc_ohc=aNGNGm3EifoQ7kNvwFIeI00&_nc_gid=itnAVEiHxWhfj3NlrkPBYg&edm=APs17CUBAAAA&ccb=7-5&oh=00_Afwb_dUME2Yc0Srx1I6ElylhQw9mJP22ukg5-ecMi8ba8g&oe=69CF18B3&_nc_sid=10d13b"
+          ],
+          "handle": "clayhighway",
+          "raw": {
+            "ownerUsername": "clayhighway",
+            "type": "Video",
+            "shortCode": "DWbtyj6Eaqy"
+          },
+          "analysis": {
+            "relevant": false,
+            "events": []
+          }
+        }
+      ]
+    },
+    "armazemgaragem": {
+      "venueId": "armaz-m-garage",
+      "name": "Armazém Garage",
+      "instagram": "https://www.instagram.com/armazemgaragem/",
+      "handle": "armazemgaragem",
+      "fetchedAt": "2026-03-29T17:31:06.666Z",
+      "posts": [
+        {
+          "id": "DKdFcRUMV1f",
+          "caption": "Assim foi o 1º GARAGEM TEXAS TRUCK\n\nProdução do vídeo @capturingmomentsbr",
+          "mediaType": "Video",
+          "timestamp": "2025-06-03T21:57:41.000Z",
+          "permalink": "https://www.instagram.com/p/DKdFcRUMV1f/",
+          "images": [
+            "https://scontent-ord5-3.cdninstagram.com/v/t51.71878-15/502078938_1057827659606563_5488236577119468073_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-ord5-3.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gHqupVoDZ6Ed1ltONcRcGCjgRRUtaVnVNHzTvRN45AMlanEzq6E_vxA9RKTPXJ4upY&_nc_ohc=ebVkYV8RpS4Q7kNvwFLBnCX&_nc_gid=GeN3IeC0iZChUgw9T8tNgQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfybP5dt7j1qWcmiOlkI5k3nZF2VkjbQ4S5R_k4_9X9syQ&oe=69CF4138&_nc_sid=10d13b"
+          ],
+          "handle": "armazemgaragem",
+          "raw": {
+            "ownerUsername": "armazemgaragem",
+            "type": "Video",
+            "shortCode": "DKdFcRUMV1f"
+          },
+          "analysis": {
+            "relevant": false,
+            "events": []
+          }
+        },
+        {
+          "id": "DTldLuQDpN6",
+          "caption": "O Armazém Garagem é muito mais que um bar: é o point do rock de verdade, dos carros antigos, da cerveja sempre gelada e dos encontros que viram história. Aqui a vibe é autêntica, a música é boa e o ambiente é perfeito pra curtir com os amigos e aproveitar cada momento. 🤘🍺🚗\n\nQuem conhece, ama. Quem ainda não conhece, tá perdendo o melhor rock bar da cidade. Envia esse vídeo para quem precisa descobrir o Armazém Garagem! 🔥\n\n🕕 Quarta a sexta - a partir das 18h\n🕒 Sábado e Domingo - a partir das 15h\n📍 Rodovia Curitiba - Ponta Grossa Br-277, 2630 - Santo Inácio\n📞 Reservas, ingressos e informações: 41 99133-4414\n\n#armazemgaragembar #rockbar #carrosantigos",
+          "mediaType": "Video",
+          "timestamp": "2026-01-16T20:40:34.000Z",
+          "permalink": "https://www.instagram.com/p/DTldLuQDpN6/",
+          "images": [
+            "https://scontent-ord5-1.cdninstagram.com/v/t51.71878-15/617509909_2152476811955636_6604636189939458766_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gGYPM0OrXFsa0Gu7J1UUgwDSo7cTNe98kLiqH4ltMOEf8EZgCU1KtJZ6e39WMOgyik&_nc_ohc=_M7_ljper_0Q7kNvwExmCz0&_nc_gid=NhuHwq8mH_lNBBOhXIJpLw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfwnvgRIjcGmc7THAtZKelBRqI2K3uaGGoH_UMG1HPgdAw&oe=69CF39B2&_nc_sid=10d13b"
+          ],
+          "handle": "armazemgaragem",
+          "raw": {
+            "ownerUsername": "armazemgaragem",
+            "type": "Video",
+            "shortCode": "DTldLuQDpN6"
+          },
+          "analysis": {
+            "relevant": false,
+            "events": []
+          }
+        },
+        {
+          "id": "DWZrlNfjoSp",
+          "caption": "Curitiba completa 333 anos e a festa é no Armazém Garagem Bar! 🎂🎉\n\nNeste domingo, 29/03, a partir das 15h, venha celebrar com a ilustre presença do Zequinha, figura marcante da cidade. Aproveite a promoção de carne de onça (tradicional e Onça do Garagem): na compra de uma, ganhe um brinde da Sol e curta muito rock com a banda Relespública, a partir das 16h30. Esperamos por vocês! 😉\n\n🕕 Quarta a sexta - a partir das 18h\n🕒 Sábado e domingo - a partir das 15h\n📍 Rodovia Curitiba - Ponta Grossa Br-277, 2630 - Santo Inácio\n📞 Reservas, eventos e informações: 41 99133-4414\n\n#armazemgaragembar #rockbar #aniversáriodecuritiba",
+          "mediaType": "Image",
+          "timestamp": "2026-03-27T20:28:55.000Z",
+          "permalink": "https://www.instagram.com/p/DWZrlNfjoSp/",
+          "images": [
+            "https://scontent-ord5-3.cdninstagram.com/v/t51.82787-15/658112448_18570221167024452_3005337602006308050_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=scontent-ord5-3.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gEpWE71TC6gRoKwdt85WoR9IrKLFt7EqPXKWm11N14VGoB8Av-A2gNNf-eIlX927Z8&_nc_ohc=Sfx3RCz33JIQ7kNvwH2XMF0&_nc_gid=S67WwbWNCM5fdQGhXqS5fg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfxPcTz3hP1-8XOeqwZAogP0TKsrYjuvqibXV_H6aKE4GQ&oe=69CF4861&_nc_sid=10d13b"
+          ],
+          "handle": "armazemgaragem",
+          "raw": {
+            "ownerUsername": "armazemgaragem",
+            "type": "Image",
+            "shortCode": "DWZrlNfjoSp"
+          },
+          "analysis": {
+            "relevant": false,
+            "events": []
+          }
+        },
+        {
+          "id": "DTTZcSMjr4W",
+          "caption": "Marque nos comentários toda a sua galera e venham juntos para o Armazém Garagem experimentar os melhores drinks ao som de grandes bandas em uma vibe inexplicável. 🤘\n\n🕕 Quarta a sexta - a partir das 18h\n🕒 Sábado e domingo - a partir das 15h\n📍 Rodovia Curitiba - Ponta Grossa Br-277, 2630 - Santo Inácio\n📞 Reservas, eventos e informações: 41 99133-4414\n\n#armazemgaragembar #rockbar #carrosantigos",
+          "mediaType": "Video",
+          "timestamp": "2026-01-09T20:20:07.000Z",
+          "permalink": "https://www.instagram.com/p/DTTZcSMjr4W/",
+          "images": [
+            "https://scontent-atl3-2.cdninstagram.com/v/t51.82787-15/612537619_18547353250024452_1328895728272382376_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gFAWu0lU4Ak13ya5RbhN2qeiOrchz_VW1NwBBBo308H8UP3c4uOHS6c06YXklpsrEE&_nc_ohc=DNSgpsuJMRMQ7kNvwEjnqYb&_nc_gid=A0HwwZZWIuTMjQ3TtwznlA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Afy8AO8qlLTbGPUeJPYGK6ABPmNU92_Rq2TlgRXYjWb4ew&oe=69CF1F25&_nc_sid=10d13b"
+          ],
+          "handle": "armazemgaragem",
+          "raw": {
+            "ownerUsername": "armazemgaragem",
+            "type": "Video",
+            "shortCode": "DTTZcSMjr4W"
+          },
+          "analysis": {
+            "relevant": false,
+            "events": []
+          }
+        },
+        {
+          "id": "DWT0nx_Dp_k",
+          "caption": "Nada combina mais com a semana do que rock, amigos e o clima único do Armazém Garagem. Confira a agenda semanal!🔥\n\n🕕 Quarta a sexta - a partir das 18h\n🕒 Sábado e domingo - a partir das 15h\n📍 Rodovia Curitiba - Ponta Grossa Br-277, 2630 - Santo Inácio\n📞 Reservas, eventos e informações: 41 99133-4414\n\n#armazemgaragembar #rockbar #agendasemanal",
+          "mediaType": "Sidecar",
+          "timestamp": "2026-03-25T13:50:45.000Z",
+          "permalink": "https://www.instagram.com/p/DWT0nx_Dp_k/",
+          "images": [
+            "https://scontent-ord5-3.cdninstagram.com/v/t51.82787-15/656282749_18569588458024452_4342255765437732634_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-ord5-3.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGs4V6dw0Cq9ypMzSJ7HL-RpSlB03h4C3MgbEuhVSAGFN9jxsYZT7TzgfYNIb5sDMA&_nc_ohc=EiiRf50bhpUQ7kNvwF6Sz9K&_nc_gid=8XHTM72EGWq1iiYmVajKyQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfxT9PI-2tdAMdsa-g6nuUd-WlM-GGhzUKoIgWB6NHbCZQ&oe=69CF4C0B&_nc_sid=10d13b"
+          ],
+          "handle": "armazemgaragem",
+          "raw": {
+            "ownerUsername": "armazemgaragem",
+            "type": "Sidecar",
+            "shortCode": "DWT0nx_Dp_k"
+          },
+          "analysis": {
+            "relevant": false,
+            "events": []
+          }
+        }
+      ]
+    },
+    "oldjackgaragebar": {
+      "venueId": "old-jack",
+      "name": "Old Jack",
+      "instagram": "https://www.instagram.com/oldjackgaragebar/",
+      "handle": "oldjackgaragebar",
+      "fetchedAt": "2026-03-29T17:31:38.890Z",
+      "posts": [
+        {
+          "id": "DWPoFRsFg-I",
+          "caption": "Bora conferir tudo o que rola nessa semana aqui Old:\n\nQUARTA FEIRA:\n\n🎤 Microfone Aberto - KARAOKÊ \n\nVenha soltar a voz no palco do bar mais irado de Curitiba!\n\nTaxa karaokê $10.\n\nQUINTA FEIRA:\n🎸 O Homen sem Nome\nCountry Music\n20:00h\nCouvert R$ 12\n\nSEXTA FEIRA:\n🎸Ochtop \nPop Rock\n20:30h\nCouvert R$ 12\n\nSÁBADO:\n🎸 Gran Verano\nRock 90s\n20:30h\n\nCouvert R$12\n\nDOMINGO:\n🎸Stero Plano\nPop Rock\n18:30h\n\nCouvert R$ 12\n\nEntão já sabe né, chama todo mundo e vem curtir a semana no bar mais IRADO DA CIDADE!!\n\nEstamos te esperando!!\n\n📍Rua Luiz Leopoldo Landal, 117 - Novo Mundo.\n🎂 Venha comemorar seu aniversário No Old Jack!\n☎️ Inf. e Reservas: (41) 98806-2180",
+          "mediaType": "Sidecar",
+          "timestamp": "2026-03-23T22:44:13.000Z",
+          "permalink": "https://www.instagram.com/p/DWPoFRsFg-I/",
+          "images": [
+            "https://scontent-ord5-3.cdninstagram.com/v/t51.82787-15/656453571_18364093651205061_5873936726616058640_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-ord5-3.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gHMAte2qcY6DXn-1fen0LPmEhqw3Sfvfl2Q07zQPoVb9r5DpmOtCNj9_RjSNgjTb68&_nc_ohc=_fRse-L3UpoQ7kNvwFfa5UQ&_nc_gid=xVCz4NYAhfiYU5PsGilJWg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfwtTcS97yWjcxOVbft50mCqr3qsDnzJUo3Ex9kUJIo4Ew&oe=69CF27BB&_nc_sid=10d13b"
+          ],
+          "handle": "oldjackgaragebar",
+          "raw": {
+            "ownerUsername": "oldjackgaragebar",
+            "type": "Sidecar",
+            "shortCode": "DWPoFRsFg-I"
+          },
+          "analysis": {
+            "relevant": false,
+            "events": []
+          }
+        },
+        {
+          "id": "DVKFoi2j2Vk",
+          "caption": "🍻 um lugar incrível no coração de Curitiba! 🎸\nSe você curte o bom e velho rock and roll, boas cervejas e um clima super descontraído com os amigos, o Old Jack Garage Bar é o lugar perfeito pra sua próxima noite! 😎✨ \n\n📍 Endereço: Rua Luiz Leopoldo Landal, 117 – Bairro Novo Mundo, Curitiba – PR 📌 \n📞 Contato/WhatsApp: (41) 98806-2180 ☎️ \n\n🍔 Drinks, petiscos, tattoos, rock de verdade e aquela energia contagiante - tudo isso te espera por aqui!!🤘🔥 \n\n#rock #bar #oquefazeremcuritiba #muisc #happyhour",
+          "mediaType": "Video",
+          "timestamp": "2026-02-24T22:40:35.000Z",
+          "permalink": "https://www.instagram.com/p/DVKFoi2j2Vk/",
+          "images": [
+            "https://scontent-atl3-3.cdninstagram.com/v/t51.71878-15/639867225_915109671104193_6059681245307757244_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gF0uwq_qGLshm9ABzMTWjrGBEzYPk8OJirTR3Cadege4zzXABlN4ycWEvTofA_ZB7E&_nc_ohc=tLzZH-ncBfoQ7kNvwGEkqwC&_nc_gid=5abyyZHdHcIGMU0Wa2K9Dg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfzmjRWTe2reuxS0FRqk8CL-eyqCeT6ooU0KnzJwDyjUQA&oe=69CF453A&_nc_sid=10d13b"
+          ],
+          "handle": "oldjackgaragebar",
+          "raw": {
+            "ownerUsername": "oldjackgaragebar",
+            "type": "Video",
+            "shortCode": "DVKFoi2j2Vk"
+          },
+          "analysis": {
+            "relevant": false,
+            "events": []
+          }
+        },
+        {
+          "id": "DUokA2JjzQu",
+          "caption": "E tem Carnaval no Old!!\n\nO bloquinho do Old baixa na sexta feira e só vai embora na terça feira!!!\n\nE se você vai ficar em Curitiba no feriado, seu lugar é aqui!!\n\nEstamos te esperando!!\n\n“Lala o,o,o….”",
+          "mediaType": "Video",
+          "timestamp": "2026-02-11T22:09:40.000Z",
+          "permalink": "https://www.instagram.com/p/DUokA2JjzQu/",
+          "images": [
+            "https://instagram.fagc1-2.fna.fbcdn.net/v/t51.71878-15/632677907_891484260445288_6877023471421873435_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fagc1-2.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2gEd-B16M1glvvIhJ7eoyiS2ZcBDDDHytiAPUXkcjBvNgQz4Owzyj7pUxg67Tx5M_PU&_nc_ohc=QPs9LU099cwQ7kNvwEKVO9F&_nc_gid=CT1rMinRW43NL_4lV6Mm6g&edm=APs17CUBAAAA&ccb=7-5&oh=00_Afye4yabiEVPCtvc_enskaCGtK9vUfRu-Gl85SCcsqLbVA&oe=69CF4214&_nc_sid=10d13b"
+          ],
+          "handle": "oldjackgaragebar",
+          "raw": {
+            "ownerUsername": "oldjackgaragebar",
+            "type": "Video",
+            "shortCode": "DUokA2JjzQu"
+          },
+          "analysis": {
+            "relevant": false,
+            "events": []
+          }
+        }
+      ]
+    },
+    "theanimalspub": {
+      "venueId": "animals-pub",
+      "name": "Animals Pub",
+      "instagram": "https://www.instagram.com/theanimalspub/",
+      "handle": "theanimalspub",
+      "fetchedAt": "2026-03-29T17:31:55.472Z",
+      "posts": [
+        {
+          "id": "DVJ_l4bCZ29",
+          "caption": "Salve galera !\nBora para mais uma semana de programação Animal !\n\nQUINTA - A voz do Relespública comanda o palco com um super show acústico de FÁBIO ELIAS.\n\nSEXTA - Teremos o Violet’s Trio com muitos clássicos do Rock para abalar nossa noite se Sexta.\n\nSÁBADO - Os meninos do KIDS ROCK mandando muita energia com Rock 90/2000.\n\nDOMINGO - Teremos evento da SCHOLL OF ROCK com banda de alunos e tbm LESSON ZERO ( banda de professores ) para encerrar com muito estilo nossa semana.\nPreparados ?\nFaçam ja suas reservas 🤘🏼",
+          "mediaType": "Video",
+          "timestamp": "2026-02-24T21:50:36.000Z",
+          "permalink": "https://www.instagram.com/p/DVJ_l4bCZ29/",
+          "images": [
+            "https://scontent-ord5-1.cdninstagram.com/v/t51.71878-15/640438903_1438007154692425_2563967392611938017_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gHbmXjrxztyXZcDXBv5FW523GG1NZKvT7rkr7ewQCgCBW0dxb_J0hUIbbLPjZYOyv4&_nc_ohc=2GZ03vhfoUoQ7kNvwGwEgdf&_nc_gid=ezWEx4j5Ht5nOrOZznsuxA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Afy1xGhQJJQ1g4qDCfED7eWHSNd_E8XZ91zoU0NgL256Og&oe=69CF4B43&_nc_sid=10d13b"
+          ],
+          "handle": "theanimalspub",
+          "raw": {
+            "ownerUsername": "theanimalspub",
+            "type": "Video",
+            "shortCode": "DVJ_l4bCZ29"
+          },
+          "analysis": {
+            "relevant": false,
+            "events": []
+          }
+        }
+      ]
+    },
+    "92graus": {
+      "venueId": "92-graus",
+      "name": "92 Graus",
+      "instagram": "https://www.instagram.com/92graus/",
+      "handle": "92graus",
+      "fetchedAt": "2026-03-29T17:32:31.756Z",
+      "posts": [
+        {
+          "id": "DRzUwFXDnOq",
+          "caption": "34 ANOS DO 92 GRAUS 🎂🔥\n\nEm dezembro, a casa completa 34 anos! Para comemorar, logo no primeiro final de semana do mês, o bar recebe várias atrações, de quinta-feira à domingo, com uma presença super especial no sábado. Confira: \n\nQUINTA (4/12) - A festa começa com osso street a partir das 18h e em seguida tem o show das bandas The Speakers e Barbatanas às 20h. A entrada é FREE! \n\nSEXTA (5/12) - A casa abre às 20h com 1h de double de gin tônica, cuba libre e vodka com energético. As bandas Muralha, Midnight Blue e Porttal tocam a partir das 21h. \nOs ingressos custam R$ 20 no local. \n\nSÁBADO (6/12) - É aniversário do 92 Graus, e a data merece uma comemoração especial. Diretamente do RJ, a Second Come retorna à Curitiba após 30 anos. \nPara acompanhar o baile, a banda Redlightz e o DJ Zé Colméia também se apresentam. \n🎟️ Os ingressos antecipados já estão disponíveis, por R$ 50. Para comprar, basta mandar uma mensagem no Whatsapp para (41) 99919-1492\n\nDOMINGO (7/12) - Para fechar o fds em grande estilo, a matinê dominical conta com presença de três bandas representantes da nova onda da música alternativa: Resp3x, Vinca Major e Stela. \nA casa abre às 16h e vai rolar 1h de double gin tônica, cuba libre e vodka com energético. \n🔗Os ingressos estão à venda pelo pixta.me. O link tá na bio, corre lá! \n\nVenha comemorar o aniversário do pub com a gente and be happy! 🤘\n\nPs: no próximo final de semana a festa continua… 🥳\n\n#92graus #92graus34anos",
+          "mediaType": "Sidecar",
+          "timestamp": "2025-12-03T12:50:59.000Z",
+          "permalink": "https://www.instagram.com/p/DRzUwFXDnOq/",
+          "images": [
+            "https://scontent-mia3-3.cdninstagram.com/v/t51.82787-15/590410920_18516516487067193_1234801468435837745_n.webp?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=scontent-mia3-3.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gHYAwaOMVNsSkkJ1TlltQNDG70qYAk2XcqUVDuptdO3xUO6fYSe0Si1tchVVyVMb-8&_nc_ohc=h6dtyGIokSwQ7kNvwHuQ57p&_nc_gid=pA4ntbMRztOeBDSseglxUQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfxIRKNKUyIGXFMVWrhXKw97l84yWEK7aZENiggX_eMPZw&oe=69CF42DD&_nc_sid=10d13b"
+          ],
+          "handle": "92graus",
+          "raw": {
+            "ownerUsername": "92graus",
+            "type": "Sidecar",
+            "shortCode": "DRzUwFXDnOq"
+          },
+          "analysis": {
+            "relevant": false,
+            "events": []
+          }
+        },
+        {
+          "id": "DSKdXGkDrrN",
+          "caption": "34 ANOS DO 92 GRAUS 🎂🔥\n\nA festa continua neste final de semana! E tem show internacional no sábado. Confira o que vai rolar na casa, de sexta à domingo: \n\nSEXTA (12/12) – “Decola aí”, com as bandas Parabólica Rock Club, Stereo Overdrive, Ildefonsos e Scumbags, diretamente de SC. A casa abre às 20h e os ingressos antecipados promocionais estão à venda pelo @pixta.me, por R$ 20. \n\nSÁBADO (13/12) – O projeto solo Octopoulpe retorna ao palco do 92 Graus para apresentar sua mistura de math-rock e hardcore punk. A banda convidada é a Rádio Cadáver, que sobe ao palco às 21h. A casa abre às 20h e os ingressos antecipados estão à venda pelo Pixta e custam R$ 30. Corra para garantir o seu, na hora será outro valor.\n\nDOMINGO (14) – Para fechar a programação de aniversário, o 92 Graus recebe o “Crocomerd Fest”, com as bandas Siszmo, Visione Obscura e Crotch Rot. O bar abre às 16h e os ingressos custam R$ 20, direto na portaria. \n\nEconomize comprando seu ingresso antecipado, chegue cedo and be happy! 🤘\n\n#92graus #92graus34anos",
+          "mediaType": "Sidecar",
+          "timestamp": "2025-12-12T12:28:45.000Z",
+          "permalink": "https://www.instagram.com/p/DSKdXGkDrrN/",
+          "images": [
+            "https://scontent-lax3-1.cdninstagram.com/v/t51.82787-15/590411037_18517995100067193_5091404928896227564_n.webp?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gEEJDc0tHQV2-ZdKpG_TUBwwGBQbz-du8had5237Qf2vKpSWsO75G-EzrA4czaM-9c&_nc_ohc=qRoFOWgRCzcQ7kNvwHpt8VA&_nc_gid=0G55AgphweZGdJF-SPhsRw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfzuZLmWy8lelC3ZVy7XDGKYhdrI0tDTbSgTVtBM8_WlHw&oe=69CF43D0&_nc_sid=10d13b"
+          ],
+          "handle": "92graus",
+          "raw": {
+            "ownerUsername": "92graus",
+            "type": "Sidecar",
+            "shortCode": "DSKdXGkDrrN"
+          },
+          "analysis": {
+            "relevant": false,
+            "events": []
+          }
+        }
+      ]
+    },
+    "oldspuboficial": {
+      "venueId": "olds-pub",
+      "name": "Olds Pub",
+      "instagram": "https://www.instagram.com/oldspuboficial/",
+      "handle": "oldspuboficial",
+      "fetchedAt": "2026-03-29T17:32:44.170Z",
       "posts": []
     }
   },
-  "errors": []
+  "errors": [
+    {
+      "handle": "rockpizzaroll.bar",
+      "postId": "2684573622",
+      "provider": "gemini",
+      "message": "Gemini 429: {\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 52.126749115s.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"location\":\"global\",\"model\":\"gemini-2.5-flash\"},\"quotaValue\":\"20\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"52s\"}]}"
+    },
+    {
+      "handle": "distrito.1340",
+      "postId": "DWT5NizGZWl",
+      "provider": "gemini",
+      "message": "Gemini 429: {\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 21.796248269s.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"location\":\"global\",\"model\":\"gemini-2.5-flash\"},\"quotaValue\":\"20\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"21s\"}]}"
+    },
+    {
+      "handle": "distrito.1340",
+      "postId": "DWeKb1QESE_",
+      "provider": "gemini",
+      "message": "Gemini 429: {\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 14.833282424s.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"location\":\"global\",\"model\":\"gemini-2.5-flash\"},\"quotaValue\":\"20\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"14s\"}]}"
+    },
+    {
+      "handle": "distrito.1340",
+      "postId": "DWUmFqhj61E",
+      "provider": "gemini",
+      "message": "Gemini 429: {\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 55.556923576s.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"location\":\"global\",\"model\":\"gemini-2.5-flash\"},\"quotaValue\":\"20\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"55s\"}]}"
+    },
+    {
+      "handle": "distrito.1340",
+      "postId": "DWTypwekcoT",
+      "provider": "gemini",
+      "message": "Gemini 429: {\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 48.209255935s.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"model\":\"gemini-2.5-flash\",\"location\":\"global\"},\"quotaValue\":\"20\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"48s\"}]}"
+    },
+    {
+      "handle": "barbariumpub",
+      "postId": "DOdylnMjt3R",
+      "provider": "gemini",
+      "message": "Gemini 429: {\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 24.20995241s.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"model\":\"gemini-2.5-flash\",\"location\":\"global\"},\"quotaValue\":\"20\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"24s\"}]}"
+    },
+    {
+      "handle": "barbariumpub",
+      "postId": "DWWUU-VDuYG",
+      "provider": "gemini",
+      "message": "Gemini 429: {\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 16.751027208s.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"location\":\"global\",\"model\":\"gemini-2.5-flash\"},\"quotaValue\":\"20\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"16s\"}]}"
+    },
+    {
+      "handle": "barbariumpub",
+      "postId": "DWXR4PsEYOs",
+      "provider": "gemini",
+      "message": "Gemini 429: {\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 9.600024919s.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"location\":\"global\",\"model\":\"gemini-2.5-flash\"},\"quotaValue\":\"20\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"9s\"}]}"
+    },
+    {
+      "handle": "barbariumpub",
+      "postId": "DWXMB32EdQZ",
+      "provider": "gemini",
+      "message": "Gemini 429: {\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 2.255654317s.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"location\":\"global\",\"model\":\"gemini-2.5-flash\"},\"quotaValue\":\"20\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"2s\"}]}"
+    },
+    {
+      "handle": "barbariumpub",
+      "postId": "DWHVLEYkZ-f",
+      "provider": "gemini",
+      "message": "Gemini 429: {\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 54.930388305s.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"location\":\"global\",\"model\":\"gemini-2.5-flash\"},\"quotaValue\":\"20\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"54s\"}]}"
+    },
+    {
+      "handle": "dobruckibar",
+      "postId": "DUqcwMEjgQu",
+      "provider": "gemini",
+      "message": "Gemini 429: {\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 31.958063955s.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"location\":\"global\",\"model\":\"gemini-2.5-flash\"},\"quotaValue\":\"20\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"31s\"}]}"
+    },
+    {
+      "handle": "dobruckibar",
+      "postId": "DU3DOpdjit3",
+      "provider": "gemini",
+      "message": "Gemini 429: {\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 24.906709521s.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"location\":\"global\",\"model\":\"gemini-2.5-flash\"},\"quotaValue\":\"20\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"24s\"}]}"
+    },
+    {
+      "handle": "dobruckibar",
+      "postId": "DUDtRb1jiZN",
+      "provider": "gemini",
+      "message": "Gemini 429: {\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 17.786549567s.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"model\":\"gemini-2.5-flash\",\"location\":\"global\"},\"quotaValue\":\"20\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"17s\"}]}"
+    },
+    {
+      "handle": "dobruckibar",
+      "postId": "DURYis2CcKP",
+      "provider": "gemini",
+      "message": "Gemini 429: {\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 10.769286362s.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"model\":\"gemini-2.5-flash\",\"location\":\"global\"},\"quotaValue\":\"20\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"10s\"}]}"
+    },
+    {
+      "handle": "dobruckibar",
+      "postId": "DVhP9BEiR6D",
+      "provider": "gemini",
+      "message": "Gemini 429: {\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 3.602565715s.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"location\":\"global\",\"model\":\"gemini-2.5-flash\"},\"quotaValue\":\"20\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"3s\"}]}"
+    },
+    {
+      "handle": "jokerspub",
+      "postId": "DWbK5ZqkVdL",
+      "provider": "gemini",
+      "message": "Gemini 429: {\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 48.410645034s.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"location\":\"global\",\"model\":\"gemini-2.5-flash\"},\"quotaValue\":\"20\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"48s\"}]}"
+    },
+    {
+      "handle": "jokerspub",
+      "postId": "DWZzzeBieDN",
+      "provider": "gemini",
+      "message": "Gemini 429: {\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 41.132367591s.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"location\":\"global\",\"model\":\"gemini-2.5-flash\"},\"quotaValue\":\"20\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"41s\"}]}"
+    },
+    {
+      "handle": "jokerspub",
+      "postId": "DWeftojkVG3",
+      "provider": "gemini",
+      "message": "Gemini 429: {\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 34.200641893s.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"location\":\"global\",\"model\":\"gemini-2.5-flash\"},\"quotaValue\":\"20\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"34s\"}]}"
+    },
+    {
+      "handle": "jokerspub",
+      "postId": "DWczkkHESlW",
+      "provider": "gemini",
+      "message": "Gemini 429: {\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 26.804523495s.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"location\":\"global\",\"model\":\"gemini-2.5-flash\"},\"quotaValue\":\"20\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"26s\"}]}"
+    },
+    {
+      "handle": "torkandroll",
+      "postId": "DWEbmXwjrSs",
+      "provider": "gemini",
+      "message": "Gemini 429: {\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 14.23432671s.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"location\":\"global\",\"model\":\"gemini-2.5-flash\"},\"quotaValue\":\"20\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"14s\"}]}"
+    },
+    {
+      "handle": "torkandroll",
+      "postId": "DWY1C97jtRw",
+      "provider": "gemini",
+      "message": "Gemini 429: {\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 7.304201731s.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"model\":\"gemini-2.5-flash\",\"location\":\"global\"},\"quotaValue\":\"20\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"7s\"}]}"
+    },
+    {
+      "handle": "torkandroll",
+      "postId": "DWaDUI7iS-9",
+      "provider": "gemini",
+      "message": "Gemini 429: {\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 444.173362ms.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"model\":\"gemini-2.5-flash\",\"location\":\"global\"},\"quotaValue\":\"20\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"0s\"}]}"
+    },
+    {
+      "handle": "bloodrockbar",
+      "postId": "DWchmIhCQma",
+      "provider": "gemini",
+      "message": "Gemini 429: {\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 39.084923967s.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"location\":\"global\",\"model\":\"gemini-2.5-flash\"},\"quotaValue\":\"20\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"39s\"}]}"
+    },
+    {
+      "handle": "bloodrockbar",
+      "postId": "DWZZlPiD6X7",
+      "provider": "gemini",
+      "message": "Gemini 429: {\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 32.083547254s.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"location\":\"global\",\"model\":\"gemini-2.5-flash\"},\"quotaValue\":\"20\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"32s\"}]}"
+    },
+    {
+      "handle": "bloodrockbar",
+      "postId": "DWeXBmvEQcE",
+      "provider": "gemini",
+      "message": "Gemini 429: {\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 24.952579125s.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"location\":\"global\",\"model\":\"gemini-2.5-flash\"},\"quotaValue\":\"20\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"24s\"}]}"
+    },
+    {
+      "handle": "bloodrockbar",
+      "postId": "DWbkX0UEa9T",
+      "provider": "gemini",
+      "message": "Gemini 429: {\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 17.885204126s.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"location\":\"global\",\"model\":\"gemini-2.5-flash\"},\"quotaValue\":\"20\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"17s\"}]}"
+    },
+    {
+      "handle": "bloodrockbar",
+      "postId": "DWdB811jVW1",
+      "provider": "gemini",
+      "message": "Gemini 429: {\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 10.889491463s.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"location\":\"global\",\"model\":\"gemini-2.5-flash\"},\"quotaValue\":\"20\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"10s\"}]}"
+    },
+    {
+      "handle": "sebas_rock_bar",
+      "postId": "DWbzDbvkf2t",
+      "provider": "gemini",
+      "message": "Gemini 429: {\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 33.138616882s.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"location\":\"global\",\"model\":\"gemini-2.5-flash\"},\"quotaValue\":\"20\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"33s\"}]}"
+    },
+    {
+      "handle": "sebas_rock_bar",
+      "postId": "DWUxAyyEeZ6",
+      "provider": "gemini",
+      "message": "Gemini 429: {\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 25.912627898s.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"location\":\"global\",\"model\":\"gemini-2.5-flash\"},\"quotaValue\":\"20\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"25s\"}]}"
+    },
+    {
+      "handle": "sebas_rock_bar",
+      "postId": "DWWDj7nka5r",
+      "provider": "gemini",
+      "message": "Gemini 429: {\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 18.718621474s.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"location\":\"global\",\"model\":\"gemini-2.5-flash\"},\"quotaValue\":\"20\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"18s\"}]}"
+    },
+    {
+      "handle": "sebas_rock_bar",
+      "postId": "DWPVd0ekUH_",
+      "provider": "gemini",
+      "message": "Gemini 429: {\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 11.745433913s.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"location\":\"global\",\"model\":\"gemini-2.5-flash\"},\"quotaValue\":\"20\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"11s\"}]}"
+    },
+    {
+      "handle": "sebas_rock_bar",
+      "postId": "DWeczzOEd0r",
+      "provider": "gemini",
+      "message": "Gemini 429: {\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 4.725126997s.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"location\":\"global\",\"model\":\"gemini-2.5-flash\"},\"quotaValue\":\"20\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"4s\"}]}"
+    },
+    {
+      "handle": "belvederecasadecultura",
+      "postId": "DWPcPgNDBlt",
+      "provider": "gemini",
+      "message": "Gemini 429: {\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 37.868030846s.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"model\":\"gemini-2.5-flash\",\"location\":\"global\"},\"quotaValue\":\"20\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"37s\"}]}"
+    },
+    {
+      "handle": "belvederecasadecultura",
+      "postId": "DWZHgamDUOk",
+      "provider": "gemini",
+      "message": "Gemini 429: {\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 30.28803045s.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"location\":\"global\",\"model\":\"gemini-2.5-flash\"},\"quotaValue\":\"20\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"30s\"}]}"
+    },
+    {
+      "handle": "belvederecasadecultura",
+      "postId": "DWT1UgCjemA",
+      "provider": "gemini",
+      "message": "Gemini 429: {\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 22.855710364s.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"model\":\"gemini-2.5-flash\",\"location\":\"global\"},\"quotaValue\":\"20\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"22s\"}]}"
+    },
+    {
+      "handle": "belvederecasadecultura",
+      "postId": "DWbaD7ODNcc",
+      "provider": "gemini",
+      "message": "Gemini 429: {\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 15.633168241s.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"location\":\"global\",\"model\":\"gemini-2.5-flash\"},\"quotaValue\":\"20\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"15s\"}]}"
+    },
+    {
+      "handle": "resistenciarock",
+      "postId": "DWbvi6jERZz",
+      "provider": "gemini",
+      "message": "Gemini 429: {\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 58.998600816s.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"location\":\"global\",\"model\":\"gemini-2.5-flash\"},\"quotaValue\":\"20\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"58s\"}]}"
+    },
+    {
+      "handle": "resistenciarock",
+      "postId": "DWZHwiJEVBy",
+      "provider": "gemini",
+      "message": "Gemini 429: {\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 51.602709896s.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"location\":\"global\",\"model\":\"gemini-2.5-flash\"},\"quotaValue\":\"20\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"51s\"}]}"
+    },
+    {
+      "handle": "resistenciarock",
+      "postId": "DWZvupIETpv",
+      "provider": "gemini",
+      "message": "Gemini 429: {\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 44.457483558s.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"location\":\"global\",\"model\":\"gemini-2.5-flash\"},\"quotaValue\":\"20\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"44s\"}]}"
+    },
+    {
+      "handle": "resistenciarock",
+      "postId": "DV9FExVEZMY",
+      "provider": "gemini",
+      "message": "Gemini 429: {\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 37.483116223s.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"location\":\"global\",\"model\":\"gemini-2.5-flash\"},\"quotaValue\":\"20\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"37s\"}]}"
+    },
+    {
+      "handle": "clayhighway",
+      "postId": "DWcSkGSEntd",
+      "provider": "gemini",
+      "message": "Gemini 429: {\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 10.571304135s.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"location\":\"global\",\"model\":\"gemini-2.5-flash\"},\"quotaValue\":\"20\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"10s\"}]}"
+    },
+    {
+      "handle": "clayhighway",
+      "postId": "DWeb1MyEaxH",
+      "provider": "gemini",
+      "message": "Gemini 429: {\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 3.620036606s.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"location\":\"global\",\"model\":\"gemini-2.5-flash\"},\"quotaValue\":\"20\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"3s\"}]}"
+    },
+    {
+      "handle": "clayhighway",
+      "postId": "DWNEwX8ke3w",
+      "provider": "gemini",
+      "message": "Gemini 429: {\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 56.322786137s.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"model\":\"gemini-2.5-flash\",\"location\":\"global\"},\"quotaValue\":\"20\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"56s\"}]}"
+    },
+    {
+      "handle": "clayhighway",
+      "postId": "DWbtyj6Eaqy",
+      "provider": "gemini",
+      "message": "Gemini 429: {\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 49.189690959s.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"location\":\"global\",\"model\":\"gemini-2.5-flash\"},\"quotaValue\":\"20\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"49s\"}]}"
+    },
+    {
+      "handle": "armazemgaragem",
+      "postId": "DKdFcRUMV1f",
+      "provider": "gemini",
+      "message": "Gemini 429: {\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 28.746182722s.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"model\":\"gemini-2.5-flash\",\"location\":\"global\"},\"quotaValue\":\"20\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"28s\"}]}"
+    },
+    {
+      "handle": "armazemgaragem",
+      "postId": "DTldLuQDpN6",
+      "provider": "gemini",
+      "message": "Gemini 429: {\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 21.78142236s.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"location\":\"global\",\"model\":\"gemini-2.5-flash\"},\"quotaValue\":\"20\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"21s\"}]}"
+    },
+    {
+      "handle": "armazemgaragem",
+      "postId": "DWZrlNfjoSp",
+      "provider": "gemini",
+      "message": "Gemini 429: {\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 14.462280861s.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"location\":\"global\",\"model\":\"gemini-2.5-flash\"},\"quotaValue\":\"20\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"14s\"}]}"
+    },
+    {
+      "handle": "armazemgaragem",
+      "postId": "DTTZcSMjr4W",
+      "provider": "gemini",
+      "message": "Gemini 429: {\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 7.364722809s.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"location\":\"global\",\"model\":\"gemini-2.5-flash\"},\"quotaValue\":\"20\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"7s\"}]}"
+    },
+    {
+      "handle": "armazemgaragem",
+      "postId": "DWT0nx_Dp_k",
+      "provider": "gemini",
+      "message": "Gemini 429: {\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 59.891294685s.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"location\":\"global\",\"model\":\"gemini-2.5-flash\"},\"quotaValue\":\"20\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"59s\"}]}"
+    },
+    {
+      "handle": "oldjackgaragebar",
+      "postId": "DWPoFRsFg-I",
+      "provider": "gemini",
+      "message": "Gemini 429: {\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 42.690813511s.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"model\":\"gemini-2.5-flash\",\"location\":\"global\"},\"quotaValue\":\"20\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"42s\"}]}"
+    },
+    {
+      "handle": "oldjackgaragebar",
+      "postId": "DVKFoi2j2Vk",
+      "provider": "gemini",
+      "message": "Gemini 429: {\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 35.690477259s.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"location\":\"global\",\"model\":\"gemini-2.5-flash\"},\"quotaValue\":\"20\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"35s\"}]}"
+    },
+    {
+      "handle": "oldjackgaragebar",
+      "postId": "DUokA2JjzQu",
+      "provider": "gemini",
+      "message": "Gemini 429: {\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 27.672946701s.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"location\":\"global\",\"model\":\"gemini-2.5-flash\"},\"quotaValue\":\"20\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"27s\"}]}"
+    },
+    {
+      "handle": "theanimalspub",
+      "postId": "DVJ_l4bCZ29",
+      "provider": "gemini",
+      "message": "Gemini 429: {\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 11.080293968s.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"model\":\"gemini-2.5-flash\",\"location\":\"global\"},\"quotaValue\":\"20\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"11s\"}]}"
+    },
+    {
+      "handle": "92graus",
+      "postId": "DRzUwFXDnOq",
+      "provider": "gemini",
+      "message": "Gemini 429: {\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 41.886357651s.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"model\":\"gemini-2.5-flash\",\"location\":\"global\"},\"quotaValue\":\"20\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"41s\"}]}"
+    },
+    {
+      "handle": "92graus",
+      "postId": "DSKdXGkDrrN",
+      "provider": "gemini",
+      "message": "Gemini 429: {\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 34.802530368s.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"model\":\"gemini-2.5-flash\",\"location\":\"global\"},\"quotaValue\":\"20\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"34s\"}]}"
+    }
+  ]
 }
