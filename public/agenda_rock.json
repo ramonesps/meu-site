@@ -1,0 +1,29 @@
+{
+  "updated_at": "2026-03-29T06:00:00-03:00",
+  "week_start": "2026-03-29",
+  "model": "gemini-2.5-flash",
+  "venues": [
+    { "nome": "Bastards Pub",     "ig": "https://www.instagram.com/wearebastardspub/",       "bairro": "Água Verde",    "cat": "Gourmet",      "events": {} },
+    { "nome": "Cross Roads",      "ig": "https://www.instagram.com/barcrossroads/",           "bairro": "Água Verde",    "cat": "Gourmet",      "events": {} },
+    { "nome": "Hard Rock",        "ig": "https://www.instagram.com/hrccuritiba/",             "bairro": "Batel",         "cat": "Gourmet",      "events": {} },
+    { "nome": "Sheridans",        "ig": "https://www.instagram.com/sheridansirishpub/",       "bairro": "Batel",         "cat": "Gourmet",      "events": {} },
+    { "nome": "Bastards Fábrica", "ig": "https://www.instagram.com/bardafabricabastards/",   "bairro": "Bom Retiro",    "cat": "Gourmet",      "events": {} },
+    { "nome": "Maniacs",          "ig": "https://www.instagram.com/bardamaniacs/",            "bairro": "Cabral",        "cat": "Gourmet",      "events": {} },
+    { "nome": "Rock Pizza",       "ig": "https://www.instagram.com/rockpizzaroll.bar/",       "bairro": "Rebouças",      "cat": "Gourmet",      "events": {} },
+    { "nome": "Distrito 1340",    "ig": "https://www.instagram.com/distrito.1340/",           "bairro": "Seminário",     "cat": "Gourmet",      "events": {} },
+    { "nome": "Barbarium",        "ig": "https://www.instagram.com/barbariumpub/",            "bairro": "Rebouças",      "cat": "Gourmet",      "events": {} },
+    { "nome": "Dobrucki",         "ig": "https://www.instagram.com/dobruckibar/",             "bairro": "Rebouças",      "cat": "Gourmet",      "events": {} },
+    { "nome": "Jokers",           "ig": "https://www.instagram.com/jokerspub/",               "bairro": "Centro",        "cat": "Gourmet",      "events": {} },
+    { "nome": "Tork n' Roll",     "ig": "https://www.instagram.com/torkandroll/",             "bairro": "Rebouças",      "cat": "Palco e Show", "events": {} },
+    { "nome": "Blood Rock",       "ig": "https://www.instagram.com/bloodrockbar/",            "bairro": "São Francisco", "cat": "Palco e Show", "events": {} },
+    { "nome": "Seb's Rock Bar",   "ig": "https://www.instagram.com/sebas_rock_bar/",          "bairro": "Boqueirão",     "cat": "Palco e Show", "events": {} },
+    { "nome": "Belvedere",        "ig": "https://www.instagram.com/belvederecasadecultura/",  "bairro": "São Francisco", "cat": "Palco e Show", "events": {} },
+    { "nome": "Resistência",      "ig": "https://www.instagram.com/resistenciarock/",         "bairro": "Bairro Alto",   "cat": "Raiz",         "events": {} },
+    { "nome": "Clay Highway",     "ig": "https://www.instagram.com/clayhighway/",             "bairro": "Capão Raso",    "cat": "Raiz",         "events": {} },
+    { "nome": "Armazém Garage",   "ig": "https://www.instagram.com/armazemgaragem/",          "bairro": "Santo Inácio",  "cat": "Raiz",         "events": {} },
+    { "nome": "Old Jack",         "ig": "https://www.instagram.com/oldjackgaragebar/",        "bairro": "Novo Mundo",    "cat": "Raiz",         "events": {} },
+    { "nome": "Animals Pub",      "ig": "https://www.instagram.com/theanimalspub/",           "bairro": "Bacacheri",     "cat": "Raiz",         "events": {} },
+    { "nome": "92 Graus",         "ig": "https://www.instagram.com/92graus/",                 "bairro": "São Francisco", "cat": "Alternativo",  "events": {} },
+    { "nome": "Olds Pub",         "ig": "https://www.instagram.com/oldspuboficial/",          "bairro": "São Francisco", "cat": "Alternativo",  "events": {} }
+  ]
+}

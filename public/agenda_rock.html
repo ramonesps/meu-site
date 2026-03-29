@@ -1,0 +1,528 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Claude Agenda 🤘 Curitiba Rock</title>
+<style>
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --bg-dark:    #1a0d00;
+  --bg-header:  #120900;
+  --accent:     #cc2200;
+  --accent2:    #e03a00;
+  --text-light: #f5e8d0;
+  --text-sub:   #b09070;
+  --border:     #cc2200;
+  --c-gourmet:  #c07000;
+  --c-palco:    #cc2200;
+  --c-raiz:     #888;
+  --c-alt:      #9933cc;
+  --today-bg:   #2a1200;
+  --today-hd:   #e03a00;
+}
+
+html, body {
+  height: 100%;
+  font-family: 'Segoe UI', Arial, sans-serif;
+  background: var(--bg-dark);
+  color: var(--text-light);
+  overflow-x: hidden;
+}
+
+/* ── HEADER ─────────────────────────────── */
+#header {
+  background: var(--bg-header);
+  border-bottom: 2px solid var(--border);
+  padding: 14px 20px 12px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+#header h1 {
+  font-size: 1.25rem;
+  font-weight: 900;
+  color: var(--accent2);
+  line-height: 1.1;
+  letter-spacing: 0.5px;
+}
+
+#header .sub { font-size: 0.75rem; color: var(--text-sub); margin-top: 2px; }
+
+#header-right { display: flex; align-items: center; gap: 10px; flex-shrink: 0; }
+
+#btn-run {
+  background: var(--accent);
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  padding: 7px 16px;
+  font-size: 0.82rem;
+  font-weight: 700;
+  cursor: pointer;
+  white-space: nowrap;
+  transition: background .15s;
+}
+#btn-run:hover { background: var(--accent2); }
+#btn-run:disabled { background: #555; cursor: default; }
+
+#badge-updated {
+  font-size: 0.72rem;
+  color: var(--text-sub);
+  white-space: nowrap;
+}
+
+/* ── COUNTDOWN BAR ───────────────────────── */
+#countdown-wrap {
+  background: #0f0a06;
+  border-bottom: 1px solid #2a1505;
+  padding: 4px 20px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 0.72rem;
+  color: var(--text-sub);
+}
+#countdown-bar-outer {
+  flex: 1;
+  height: 3px;
+  background: #2a1505;
+  border-radius: 2px;
+  overflow: hidden;
+}
+#countdown-bar-inner {
+  height: 100%;
+  background: var(--accent);
+  transition: width .5s linear;
+}
+
+/* ── TOAST ───────────────────────────────── */
+#toast {
+  position: fixed;
+  bottom: 24px;
+  left: 50%;
+  transform: translateX(-50%) translateY(60px);
+  background: #1e1208;
+  border: 1px solid var(--accent);
+  color: var(--text-light);
+  padding: 10px 22px;
+  border-radius: 8px;
+  font-size: 0.85rem;
+  z-index: 999;
+  transition: transform .3s ease;
+  pointer-events: none;
+  white-space: nowrap;
+}
+#toast.show { transform: translateX(-50%) translateY(0); }
+
+/* ── FILTERS ─────────────────────────────── */
+#filters {
+  padding: 10px 16px;
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  border-bottom: 1px solid #2a1505;
+  background: #0f0a06;
+}
+.filter-btn {
+  border: 1px solid #3a2010;
+  background: #1e1208;
+  color: var(--text-sub);
+  border-radius: 20px;
+  padding: 4px 14px;
+  font-size: 0.78rem;
+  cursor: pointer;
+  transition: all .15s;
+}
+.filter-btn.active { border-color: var(--accent); color: var(--accent2); background: #2a1208; }
+.filter-btn[data-cat="Gourmet"].active    { border-color: var(--c-gourmet); color: var(--c-gourmet); }
+.filter-btn[data-cat="Palco e Show"].active { border-color: var(--c-palco); color: var(--c-palco); }
+.filter-btn[data-cat="Raiz"].active       { border-color: var(--c-raiz); color: var(--c-raiz); }
+.filter-btn[data-cat="Alternativo"].active { border-color: var(--c-alt); color: var(--c-alt); }
+
+/* ── TABLE WRAPPER ───────────────────────── */
+#table-wrap {
+  overflow-x: auto;
+  padding: 16px 12px 32px;
+}
+
+table {
+  border-collapse: collapse;
+  min-width: 820px;
+  width: 100%;
+  font-size: 0.82rem;
+}
+
+thead th {
+  background: #120900;
+  border: 1px solid #2a1505;
+  padding: 8px 10px;
+  text-align: center;
+  color: var(--text-sub);
+  font-weight: 700;
+  white-space: nowrap;
+  position: sticky;
+  top: 0;
+}
+thead th.venue-col {
+  text-align: left;
+  min-width: 140px;
+  position: sticky;
+  left: 0;
+  z-index: 10;
+  background: #120900;
+}
+thead th.today-col {
+  background: var(--today-bg);
+  color: var(--today-hd);
+  border-color: var(--accent);
+}
+
+tbody tr { border-bottom: 1px solid #2a1505; }
+tbody tr:hover td { background: #1e1008; }
+tbody tr.hidden-row { display: none; }
+
+tbody td {
+  border: 1px solid #2a1505;
+  padding: 7px 8px;
+  vertical-align: top;
+  min-width: 110px;
+  background: var(--bg-dark);
+}
+tbody td.venue-cell {
+  position: sticky;
+  left: 0;
+  background: #1a0d00;
+  z-index: 5;
+  min-width: 140px;
+}
+tbody td.today-col { background: var(--today-bg); }
+tbody tr:hover td.today-col { background: #321600; }
+
+.venue-name {
+  font-weight: 700;
+  font-size: 0.85rem;
+  color: var(--text-light);
+}
+.venue-meta {
+  font-size: 0.7rem;
+  color: var(--text-sub);
+  margin-top: 1px;
+}
+.venue-cat {
+  display: inline-block;
+  font-size: 0.65rem;
+  font-weight: 700;
+  padding: 1px 6px;
+  border-radius: 10px;
+  margin-top: 3px;
+}
+.cat-Gourmet      { background: rgba(192,112,0,.25); color: var(--c-gourmet); }
+.cat-palco        { background: rgba(204,34,0,.25);  color: var(--c-palco); }
+.cat-Raiz         { background: rgba(136,136,136,.2); color: var(--c-raiz); }
+.cat-Alternativo  { background: rgba(153,51,204,.25); color: var(--c-alt); }
+
+.event-item {
+  margin-bottom: 5px;
+  line-height: 1.3;
+}
+.event-time {
+  font-size: 0.68rem;
+  color: var(--accent2);
+  font-weight: 700;
+}
+.event-name {
+  font-size: 0.78rem;
+  color: var(--text-light);
+}
+.no-event {
+  color: #4a3020;
+  font-size: 0.72rem;
+}
+
+/* ── EMPTY STATE ─────────────────────────── */
+#empty-state {
+  text-align: center;
+  padding: 60px 20px;
+  color: var(--text-sub);
+  display: none;
+}
+#empty-state h2 { font-size: 1.1rem; color: var(--accent); margin-bottom: 8px; }
+
+/* ── FOOTER ──────────────────────────────── */
+#footer {
+  text-align: center;
+  padding: 16px;
+  font-size: 0.72rem;
+  color: #5a4030;
+  border-top: 1px solid #2a1505;
+}
+#footer a { color: #7a5040; text-decoration: none; }
+#footer a:hover { color: var(--text-sub); }
+</style>
+</head>
+<body>
+
+<!-- HEADER -->
+<div id="header">
+  <div>
+    <h1>🤘 Claude Agenda — Rock Curitiba</h1>
+    <div class="sub">Programação semanal gerada com IA · <span id="badge-updated">—</span></div>
+  </div>
+  <div id="header-right">
+    <button id="btn-run" title="Disparar atualização via GitHub Actions">▶ Rodar agora</button>
+  </div>
+</div>
+
+<!-- COUNTDOWN -->
+<div id="countdown-wrap">
+  <span id="countdown-label">Próximo refresh em <b id="countdown-secs">60</b>s</span>
+  <div id="countdown-bar-outer"><div id="countdown-bar-inner" style="width:100%"></div></div>
+</div>
+
+<!-- FILTERS -->
+<div id="filters">
+  <button class="filter-btn active" data-cat="all">Todos</button>
+  <button class="filter-btn" data-cat="Gourmet">Gourmet</button>
+  <button class="filter-btn" data-cat="Palco e Show">Palco e Show</button>
+  <button class="filter-btn" data-cat="Raiz">Raiz</button>
+  <button class="filter-btn" data-cat="Alternativo">Alternativo</button>
+</div>
+
+<!-- TABLE -->
+<div id="table-wrap">
+  <div id="empty-state">
+    <h2>Sem dados ainda</h2>
+    <p>Clique em <b>▶ Rodar agora</b> para buscar a programação dos bares.</p>
+  </div>
+  <table id="agenda-table">
+    <thead id="thead"></thead>
+    <tbody id="tbody"></tbody>
+  </table>
+</div>
+
+<!-- TOAST -->
+<div id="toast"></div>
+
+<!-- FOOTER -->
+<div id="footer">
+  <a href="/curitiba_rock_guide.html">← Mapa Rock Curitiba</a>
+  &nbsp;·&nbsp;
+  Dados extraídos do Instagram via Apify · Análise por Gemini 2.5 Flash
+</div>
+
+<script>
+/* ── CONFIG ─────────────────────────────── */
+const REFRESH_SECONDS = 60;
+const DATA_URL = '/agenda_rock.json';
+const API_TRIGGER = '/api/trigger-agenda-claude';
+const TZ = 'America/Sao_Paulo';
+
+/* ── HELPERS ─────────────────────────────── */
+function getNowBRT() {
+  const str = new Date().toLocaleString('en-US', { timeZone: TZ, hour12: false,
+    year: 'numeric', month: '2-digit', day: '2-digit',
+    hour: '2-digit', minute: '2-digit', second: '2-digit' });
+  // "MM/DD/YYYY, HH:MM:SS"
+  const [datePart, timePart] = str.split(', ');
+  const [m, d, y] = datePart.split('/');
+  return new Date(`${y}-${m}-${d}T${timePart}`);
+}
+
+function getWeekDates() {
+  const now = getNowBRT();
+  const start = new Date(now);
+  if (start.getHours() < 6) start.setDate(start.getDate() - 1);
+  start.setHours(0, 0, 0, 0);
+  return Array.from({ length: 7 }, (_, i) => {
+    const d = new Date(start);
+    d.setDate(start.getDate() + i);
+    return d;
+  });
+}
+
+function fmtKey(d) {
+  return `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}-${String(d.getDate()).padStart(2,'0')}`;
+}
+
+function fmtHeader(d) {
+  const today = fmtKey(getNowBRT());
+  const day = d.toLocaleDateString('pt-BR', { weekday: 'short', timeZone: TZ });
+  const date = d.toLocaleDateString('pt-BR', { day: '2-digit', month: '2-digit', timeZone: TZ });
+  const isToday = fmtKey(d) === today;
+  return { label: `${day}\n${date}`, isToday };
+}
+
+function catClass(cat) {
+  if (cat === 'Gourmet') return 'cat-Gourmet';
+  if (cat === 'Palco e Show') return 'cat-palco';
+  if (cat === 'Raiz') return 'cat-Raiz';
+  return 'cat-Alternativo';
+}
+
+function showToast(msg, duration = 3500) {
+  const t = document.getElementById('toast');
+  t.textContent = msg;
+  t.classList.add('show');
+  setTimeout(() => t.classList.remove('show'), duration);
+}
+
+/* ── RENDER ──────────────────────────────── */
+let currentData = null;
+
+function renderTable(data, activeCat) {
+  const weekDates = getWeekDates();
+  const todayKey = fmtKey(getNowBRT());
+  const venues = data.venues || [];
+
+  // Updated badge
+  if (data.updated_at) {
+    const d = new Date(data.updated_at);
+    document.getElementById('badge-updated').textContent =
+      'Atualizado: ' + d.toLocaleString('pt-BR', { timeZone: TZ, day: '2-digit', month: '2-digit', hour: '2-digit', minute: '2-digit' });
+  }
+
+  // Thead
+  const thead = document.getElementById('thead');
+  let thHtml = '<tr><th class="venue-col">Local</th>';
+  weekDates.forEach(d => {
+    const { label, isToday } = fmtHeader(d);
+    const cls = isToday ? ' today-col' : '';
+    thHtml += `<th class="${cls}">${label.replace('\n','<br>')}</th>`;
+  });
+  thHtml += '</tr>';
+  thead.innerHTML = thHtml;
+
+  // Tbody
+  const tbody = document.getElementById('tbody');
+  let html = '';
+  let totalEvents = 0;
+
+  venues.forEach(venue => {
+    const hidden = activeCat !== 'all' && venue.cat !== activeCat;
+    const events = venue.events || {};
+    const rowHasEvents = weekDates.some(d => (events[fmtKey(d)] || []).length > 0);
+
+    let row = `<tr class="${hidden ? 'hidden-row' : ''}" data-cat="${venue.cat}">`;
+    row += `<td class="venue-cell">
+      <div class="venue-name"><a href="${venue.ig}" target="_blank" style="color:inherit;text-decoration:none">${venue.nome}</a></div>
+      <div class="venue-meta">${venue.bairro}</div>
+      <span class="venue-cat ${catClass(venue.cat)}">${venue.cat}</span>
+    </td>`;
+
+    weekDates.forEach(d => {
+      const key = fmtKey(d);
+      const isToday = key === todayKey;
+      const evList = events[key] || [];
+      totalEvents += evList.length;
+
+      let cellHtml = '';
+      if (evList.length === 0) {
+        cellHtml = '<span class="no-event">—</span>';
+      } else {
+        evList.forEach(ev => {
+          cellHtml += `<div class="event-item">`;
+          if (ev.time) cellHtml += `<div class="event-time">${ev.time}</div>`;
+          cellHtml += `<div class="event-name">${ev.name}</div>`;
+          cellHtml += `</div>`;
+        });
+      }
+
+      row += `<td class="${isToday ? 'today-col' : ''}">${cellHtml}</td>`;
+    });
+
+    row += '</tr>';
+    html += row;
+  });
+
+  tbody.innerHTML = html;
+
+  // Empty state
+  const empty = document.getElementById('empty-state');
+  const table = document.getElementById('agenda-table');
+  if (totalEvents === 0 && venues.length === 0) {
+    empty.style.display = 'block';
+    table.style.display = 'none';
+  } else {
+    empty.style.display = 'none';
+    table.style.display = '';
+  }
+}
+
+/* ── LOAD DATA ───────────────────────────── */
+let activeCat = 'all';
+
+async function loadData() {
+  try {
+    const res = await fetch(DATA_URL + '?t=' + Date.now());
+    if (!res.ok) throw new Error('HTTP ' + res.status);
+    const data = await res.json();
+    currentData = data;
+    renderTable(data, activeCat);
+  } catch (e) {
+    console.error('Erro ao carregar agenda_rock.json:', e);
+    showToast('⚠️ Erro ao carregar dados. Tentando novamente...');
+  }
+}
+
+/* ── FILTERS ─────────────────────────────── */
+document.querySelectorAll('.filter-btn').forEach(btn => {
+  btn.addEventListener('click', () => {
+    document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    activeCat = btn.dataset.cat;
+    if (currentData) renderTable(currentData, activeCat);
+  });
+});
+
+/* ── TRIGGER WORKFLOW ────────────────────── */
+document.getElementById('btn-run').addEventListener('click', async () => {
+  const btn = document.getElementById('btn-run');
+  btn.disabled = true;
+  btn.textContent = '⏳ Enviando...';
+
+  try {
+    const res = await fetch(API_TRIGGER, { method: 'POST' });
+    const body = await res.json();
+    if (body.ok) {
+      showToast('✅ Workflow disparado! Aguarde ~3 min e clique em Rodar agora novamente para ver os dados.', 6000);
+      btn.textContent = '✅ Disparado';
+      setTimeout(() => { btn.disabled = false; btn.textContent = '▶ Rodar agora'; }, 10000);
+    } else {
+      showToast('❌ Erro: ' + (body.error || 'desconhecido'));
+      btn.disabled = false;
+      btn.textContent = '▶ Rodar agora';
+    }
+  } catch (e) {
+    showToast('❌ Erro de rede: ' + e.message);
+    btn.disabled = false;
+    btn.textContent = '▶ Rodar agora';
+  }
+});
+
+/* ── COUNTDOWN & AUTO-REFRESH ────────────── */
+let remaining = REFRESH_SECONDS;
+
+function tickCountdown() {
+  remaining--;
+  const pct = (remaining / REFRESH_SECONDS) * 100;
+  document.getElementById('countdown-bar-inner').style.width = pct + '%';
+  document.getElementById('countdown-secs').textContent = remaining;
+
+  if (remaining <= 0) {
+    remaining = REFRESH_SECONDS;
+    loadData();
+  }
+}
+
+loadData();
+setInterval(tickCountdown, 1000);
+</script>
+</body>
+</html>

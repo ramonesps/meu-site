@@ -1,0 +1,63 @@
+name: Test Apify + Gemini
+
+on:
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Test Apify + Gemini
+        env:
+          APIFY_API_TOKEN: ${{ secrets.APIFY_API_TOKEN }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: gemini-2.5-flash
+        run: |
+          node -e "
+          const TOKEN = process.env.APIFY_API_TOKEN;
+          const GEMINI = process.env.GEMINI_API_KEY;
+          const MODEL = process.env.GEMINI_MODEL;
+
+          async function main() {
+            console.log('=== 1. Apify auth ===');
+            const acc = await fetch('https://api.apify.com/v2/users/me', {
+              headers: { Authorization: 'Bearer ' + TOKEN }
+            }).then(r => r.json());
+            console.log('OK - user:', acc.data?.username, '| plan:', acc.data?.plan?.id);
+
+            console.log('\n=== 2. Scrape @barcrossroads (1 post) ===');
+            const res = await fetch(
+              'https://api.apify.com/v2/acts/apify~instagram-api-scraper/run-sync-get-dataset-items?clean=1&format=json',
+              {
+                method: 'POST',
+                headers: { Authorization: 'Bearer ' + TOKEN, 'Content-Type': 'application/json' },
+                body: JSON.stringify({ directUrls: ['https://www.instagram.com/barcrossroads/'], resultsType: 'posts', resultsLimit: 1 })
+              }
+            );
+            if (!res.ok) { console.error('FAIL', res.status, await res.text()); process.exit(1); }
+            const items = await res.json();
+            if (!items.length) { console.error('FAIL: 0 items'); process.exit(1); }
+            const p = items[0];
+            console.log('OK - user:', p.ownerUsername, '| caption:', (p.caption||'').slice(0,60));
+
+            console.log('\n=== 3. Gemini API ===');
+            const gr = await fetch(
+              'https://generativelanguage.googleapis.com/v1beta/models/' + MODEL + ':generateContent',
+              {
+                method: 'POST',
+                headers: { 'x-goog-api-key': GEMINI, 'Content-Type': 'application/json' },
+                body: JSON.stringify({ contents: [{ parts: [{ text: 'Responda apenas: OK' }] }], generationConfig: { maxOutputTokens: 10 } })
+              }
+            ).then(r => r.json());
+            const reply = gr?.candidates?.[0]?.content?.parts?.[0]?.text || 'FAIL';
+            console.log('OK - reply:', reply.trim());
+
+            console.log('\n=== ALL PASSED ===');
+          }
+          main().catch(e => { console.error(e.message); process.exit(1); });
+          "
