@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-30T01:46:54.753Z",
-  "week_start": "2026-03-29",
+  "updated_at": "2026-03-30T10:31:56.594Z",
+  "week_start": "2026-03-30",
   "model": "gemini-2.5-flash",
   "venues": [
     {
@@ -8,28 +8,112 @@
       "ig": "https://www.instagram.com/wearebastardspub/",
       "bairro": "Água Verde",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-04-05": [
+          {
+            "name": "Páscoa com Mark The Shadow e chocolate especial",
+            "time": null,
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Cross Roads",
       "ig": "https://www.instagram.com/barcrossroads/",
       "bairro": "Água Verde",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-04-02": [
+          {
+            "name": "Noite no bar",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-04-03": [
+          {
+            "name": "Noite no bar",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-04-04": [
+          {
+            "name": "Noite no bar",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Hard Rock",
       "ig": "https://www.instagram.com/hrccuritiba/",
       "bairro": "Batel",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-04-05": [
+          {
+            "name": "Páscoa",
+            "time": "11:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-03-31": [
+          {
+            "name": "Transmissão de amistoso",
+            "time": "21:00:00.000Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Sheridans",
       "ig": "https://www.instagram.com/sheridansirishpub/",
       "bairro": "Batel",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-04-04": [
+          {
+            "name": "JÄGERDAY com Double Shot",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-03-30": [
+          {
+            "name": "U2 CWB",
+            "time": "20:30:00Z",
+            "description": null
+          },
+          {
+            "name": "the snug",
+            "time": "20:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-03-31": [
+          {
+            "name": "EDDIE FOSTER",
+            "time": "20:30:00Z",
+            "description": null
+          },
+          {
+            "name": "the snug",
+            "time": "20:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-04-01": [
+          {
+            "name": "MINHA BANDA \\u00c9 UMA FESTA",
+            "time": "20:30:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Bastards Fábrica",
@@ -43,14 +127,100 @@
       "ig": "https://www.instagram.com/bardamaniacs/",
       "bairro": "Cabral",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-03-30": [
+          {
+            "name": "Tap List",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-03-31": [
+          {
+            "name": "Tap List",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-04-01": [
+          {
+            "name": "Tap List",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-04-02": [
+          {
+            "name": "Tap List",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-04-03": [
+          {
+            "name": "Tap List",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-04-04": [
+          {
+            "name": "Tap List",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-04-05": [
+          {
+            "name": "Tap List",
+            "time": null,
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Rock Pizza",
       "ig": "https://www.instagram.com/rockpizzaroll.bar/",
       "bairro": "Rebouças",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-04-01": [
+          {
+            "name": "Rock Acústico",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-04-02": [
+          {
+            "name": "Rock Classic",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-04-03": [
+          {
+            "name": "Rock Nacional",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-04-04": [
+          {
+            "name": "Rock Internacional",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-04-05": [
+          {
+            "name": "Rock Blues",
+            "time": "19:00:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Distrito 1340",
