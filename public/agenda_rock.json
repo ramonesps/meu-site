@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-30T10:31:56.594Z",
-  "week_start": "2026-03-30",
+  "updated_at": "2026-03-31T10:19:32.728Z",
+  "week_start": "2026-03-31",
   "model": "gemini-2.5-flash",
   "venues": [
     {
@@ -11,8 +11,48 @@
       "events": {
         "2026-04-05": [
           {
-            "name": "Páscoa com Mark The Shadow e chocolate especial",
+            "name": "Show Mark The Shadow",
             "time": null,
+            "description": null
+          }
+        ],
+        "2026-03-31": [
+          {
+            "name": "ANACRÔNICA DUO",
+            "time": "20:20:00Z",
+            "description": null
+          }
+        ],
+        "2026-04-01": [
+          {
+            "name": "JOHAINE DUO",
+            "time": "20:20:00Z",
+            "description": null
+          }
+        ],
+        "2026-04-02": [
+          {
+            "name": "HAWKS",
+            "time": "20:20:00Z",
+            "description": null
+          }
+        ],
+        "2026-04-03": [
+          {
+            "name": "DANNI DISTLER DUO",
+            "time": "20:00:00Z",
+            "description": null
+          },
+          {
+            "name": "VÁLVULA VAPOR",
+            "time": "22:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-04-04": [
+          {
+            "name": "REPÚBLICA PINE",
+            "time": "21:30:00Z",
             "description": null
           }
         ]
@@ -26,21 +66,21 @@
       "events": {
         "2026-04-02": [
           {
-            "name": "Noite no bar",
+            "name": "Noite de música",
             "time": "20:00:00Z",
             "description": null
           }
         ],
         "2026-04-03": [
           {
-            "name": "Noite no bar",
+            "name": "Noite de música",
             "time": "20:00:00Z",
             "description": null
           }
         ],
         "2026-04-04": [
           {
-            "name": "Noite no bar",
+            "name": "Noite de música",
             "time": "20:00:00Z",
             "description": null
           }
@@ -55,15 +95,63 @@
       "events": {
         "2026-04-05": [
           {
-            "name": "Páscoa",
-            "time": "11:00:00Z",
+            "name": "Celebração de Páscoa",
+            "time": "11:00:00.000Z",
+            "description": null
+          },
+          {
+            "name": "Marcela Juk",
+            "time": "12:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Cash Vibes",
+            "time": "19:30:00Z",
             "description": null
           }
         ],
         "2026-03-31": [
           {
-            "name": "Transmissão de amistoso",
-            "time": "21:00:00.000Z",
+            "name": "Jogos amistosos",
+            "time": "21:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Paulo Vargas Trio",
+            "time": "19:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-04-01": [
+          {
+            "name": "Asgard",
+            "time": "19:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-04-02": [
+          {
+            "name": "Jackflash",
+            "time": "19:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-04-03": [
+          {
+            "name": "Crimson Bull Rising Tributo Lynyrd Skynyrd e Blackberry Smoke",
+            "time": "19:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-04-04": [
+          {
+            "name": "Gui Vianna",
+            "time": "12:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Vick Vapo Rock",
+            "time": "19:30:00Z",
             "description": null
           }
         ]
@@ -80,17 +168,15 @@
             "name": "JÄGERDAY com Double Shot",
             "time": null,
             "description": null
-          }
-        ],
-        "2026-03-30": [
+          },
           {
-            "name": "U2 CWB",
+            "name": "LENHADORES DA ANTÁRTIDA",
             "time": "20:30:00Z",
             "description": null
           },
           {
-            "name": "the snug",
-            "time": "20:30:00Z",
+            "name": "BACKSTAGE",
+            "time": "23:00:00Z",
             "description": null
           }
         ],
@@ -99,17 +185,31 @@
             "name": "EDDIE FOSTER",
             "time": "20:30:00Z",
             "description": null
-          },
-          {
-            "name": "the snug",
-            "time": "20:30:00Z",
-            "description": null
           }
         ],
         "2026-04-01": [
           {
-            "name": "MINHA BANDA \\u00c9 UMA FESTA",
+            "name": "MINHA BANDA É UMA FESTA",
             "time": "20:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-04-02": [
+          {
+            "name": "DJ SET GUI SILVÉRIO",
+            "time": "20:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-04-03": [
+          {
+            "name": "BOOGIE GANG",
+            "time": "20:30:00Z",
+            "description": null
+          },
+          {
+            "name": "REPÚBLICA PINE",
+            "time": "23:00:00Z",
             "description": null
           }
         ]
@@ -120,107 +220,69 @@
       "ig": "https://www.instagram.com/bardafabricabastards/",
       "bairro": "Bom Retiro",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-03-31": [
+          {
+            "name": "Golden Rock",
+            "time": "19:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-04-01": [
+          {
+            "name": "Ísis Duo",
+            "time": "19:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-04-02": [
+          {
+            "name": "Lenhadores Trio",
+            "time": "19:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-04-03": [
+          {
+            "name": "Anacrônica",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-04-04": [
+          {
+            "name": "Xima Duo",
+            "time": "16:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Johaine e Banda",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-04-05": [
+          {
+            "name": "Brazuca Trio",
+            "time": "16:00:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Maniacs",
       "ig": "https://www.instagram.com/bardamaniacs/",
       "bairro": "Cabral",
       "cat": "Gourmet",
-      "events": {
-        "2026-03-30": [
-          {
-            "name": "Tap List",
-            "time": null,
-            "description": null
-          }
-        ],
-        "2026-03-31": [
-          {
-            "name": "Tap List",
-            "time": null,
-            "description": null
-          }
-        ],
-        "2026-04-01": [
-          {
-            "name": "Tap List",
-            "time": null,
-            "description": null
-          }
-        ],
-        "2026-04-02": [
-          {
-            "name": "Tap List",
-            "time": null,
-            "description": null
-          }
-        ],
-        "2026-04-03": [
-          {
-            "name": "Tap List",
-            "time": null,
-            "description": null
-          }
-        ],
-        "2026-04-04": [
-          {
-            "name": "Tap List",
-            "time": null,
-            "description": null
-          }
-        ],
-        "2026-04-05": [
-          {
-            "name": "Tap List",
-            "time": null,
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Rock Pizza",
       "ig": "https://www.instagram.com/rockpizzaroll.bar/",
       "bairro": "Rebouças",
       "cat": "Gourmet",
-      "events": {
-        "2026-04-01": [
-          {
-            "name": "Rock Acústico",
-            "time": "20:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-04-02": [
-          {
-            "name": "Rock Classic",
-            "time": "20:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-04-03": [
-          {
-            "name": "Rock Nacional",
-            "time": "20:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-04-04": [
-          {
-            "name": "Rock Internacional",
-            "time": "20:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-04-05": [
-          {
-            "name": "Rock Blues",
-            "time": "19:00:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Distrito 1340",
@@ -269,7 +331,15 @@
       "ig": "https://www.instagram.com/sebas_rock_bar/",
       "bairro": "Boqueirão",
       "cat": "Palco e Show",
-      "events": {}
+      "events": {
+        "2026-04-04": [
+          {
+            "name": "Embalos de Sebaldo: DJ Dero e Guto Loureiro",
+            "time": null,
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Belvedere",
