@@ -8,6 +8,13 @@ export type Project = {
 
 export const projects: Project[] = [
   {
+    title: 'Monitor Imobiliário',
+    description:
+      'Sistema pessoal que monitora anúncios de venda e aluguel em prédios específicos. Scraping diário de ZAP, VivaReal, OLX, ImovelWeb e imobiliárias locais. Deduplicação por fingerprint + phash, galeria de fotos, histórico de preços.',
+    tags: ['Next.js', 'SQLite', 'Playwright', 'Scraping', 'Docker'],
+    githubUrl: 'https://github.com/ramonepsps/monitor-imobiliario',
+  },
+  {
     title: 'Claude Agenda',
     description:
       'Agenda semanal dos shows e eventos dos bares de rock de Curitiba. Posts do Instagram analisados por IA (Gemini 2.5 Flash) via Apify, atualização diária automática.',
