@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-01T10:23:38.662Z",
-  "week_start": "2026-04-01",
+  "updated_at": "2026-04-02T10:34:30.731Z",
+  "week_start": "2026-04-02",
   "model": "gemini-2.5-flash",
   "venues": [
     {
@@ -9,47 +9,9 @@
       "bairro": "Água Verde",
       "cat": "Gourmet",
       "events": {
-        "2026-04-05": [
-          {
-            "name": "Kits de Páscoa Bastards e Lara Chocolab",
-            "time": null,
-            "description": null
-          },
-          {
-            "name": "Chocolate de P\n\n o the user to extract the events from the post. I need to ident",
-            "time": null,
-            "description": null
-          },
-          {
-            "name": "Show Mark The Shadow",
-            "time": null,
-            "description": null
-          }
-        ],
-        "2026-04-06": [
-          {
-            "name": "Kits de Páscoa Bastards e Lara Chocolab",
-            "time": null,
-            "description": null
-          }
-        ],
-        "2026-04-07": [
-          {
-            "name": "Kits de Páscoa Bastards e Lara Chocolab",
-            "time": null,
-            "description": null
-          }
-        ],
-        "2026-04-01": [
-          {
-            "name": "JOHAINE DUO",
-            "time": "20:20:00Z",
-            "description": null
-          }
-        ],
         "2026-04-02": [
           {
-            "name": "HAWKS (HITS DOS ANOS 80)",
+            "name": "HAWKS",
             "time": "20:20:00Z",
             "description": null
           }
@@ -72,6 +34,13 @@
             "time": "21:30:00Z",
             "description": null
           }
+        ],
+        "2026-04-05": [
+          {
+            "name": "Páscoa com Mark The Shadow",
+            "time": null,
+            "description": null
+          }
         ]
       }
     },
@@ -83,8 +52,8 @@
       "events": {
         "2026-04-02": [
           {
-            "name": "Noite no Cross",
-            "time": "20:00:00Z",
+            "name": "Noite no bar",
+            "time": "20:00:00.000Z",
             "description": null
           },
           {
@@ -95,8 +64,8 @@
         ],
         "2026-04-03": [
           {
-            "name": "Noite no Cross",
-            "time": "20:00:00Z",
+            "name": "Noite no bar",
+            "time": "20:00:00.000Z",
             "description": null
           },
           {
@@ -107,8 +76,8 @@
         ],
         "2026-04-04": [
           {
-            "name": "Noite no Cross",
-            "time": "20:00:00Z",
+            "name": "Noite no bar",
+            "time": "20:00:00.000Z",
             "description": null
           },
           {
@@ -125,28 +94,16 @@
       "bairro": "Batel",
       "cat": "Gourmet",
       "events": {
-        "2026-04-03": [
-          {
-            "name": "Tributo Lynyrd Skynyrd e Blackberry Smoke com Crimson Bull Rising",
-            "time": "19:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Crimson Bull Rising Tributo Lynyrd Skynyrd e Blackberry Smoke",
-            "time": null,
-            "description": null
-          }
-        ],
-        "2026-04-01": [
-          {
-            "name": "Asgard Duo",
-            "time": "19:30:00Z",
-            "description": null
-          }
-        ],
         "2026-04-02": [
           {
             "name": "Jackflash",
+            "time": "19:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-04-03": [
+          {
+            "name": "Crimson Bull Rising Tributo Lynyrd Skynyrd e Blackberry Smoke",
             "time": "19:30:00Z",
             "description": null
           }
@@ -176,7 +133,7 @@
           },
           {
             "name": "Celebração de Páscoa",
-            "time": "11:00:00Z",
+            "time": "11:00:00.000Z",
             "description": null
           }
         ]
@@ -188,45 +145,33 @@
       "bairro": "Batel",
       "cat": "Gourmet",
       "events": {
-        "2026-04-01": [
-          {
-            "name": "Minha Banda é Uma Festa",
-            "time": null,
-            "description": null
-          },
-          {
-            "name": "Minha Banda \\u00c9 Uma Festa",
-            "time": "20:30:00Z",
-            "description": null
-          }
-        ],
         "2026-04-02": [
           {
-            "name": "DJ Set Gui Silv\\u00e9rio",
+            "name": "DJ SET GUI SILVÉRIO",
             "time": "20:30:00Z",
             "description": null
           }
         ],
         "2026-04-03": [
           {
-            "name": "Boogie Gang",
+            "name": "BOOGIE GANG",
             "time": "20:30:00Z",
             "description": null
           },
           {
-            "name": "Rep\\u00fablica Pine",
+            "name": "REPÚBLICA PINE",
             "time": "23:00:00Z",
             "description": null
           }
         ],
         "2026-04-04": [
           {
-            "name": "Lenhadores da Ant\\u00e1rtida",
+            "name": "LENHADORES DA ANTÁRTIDA",
             "time": "20:30:00Z",
             "description": null
           },
           {
-            "name": "Backstage",
+            "name": "BACKSTAGE",
             "time": "23:00:00Z",
             "description": null
           }
@@ -246,51 +191,30 @@
       "bairro": "Cabral",
       "cat": "Gourmet",
       "events": {
-        "2026-04-01": [
-          {
-            "name": "Tap List",
-            "time": null,
-            "description": null
-          }
-        ],
         "2026-04-02": [
           {
-            "name": "Tap List",
+            "name": "Cardápio especial de Semana Santa",
             "time": null,
             "description": null
           }
         ],
         "2026-04-03": [
           {
-            "name": "Tap List",
+            "name": "Cardápio especial de Semana Santa",
             "time": null,
             "description": null
           }
         ],
         "2026-04-04": [
           {
-            "name": "Tap List",
+            "name": "Cardápio especial de Semana Santa",
             "time": null,
             "description": null
           }
         ],
         "2026-04-05": [
           {
-            "name": "Tap List",
-            "time": null,
-            "description": null
-          }
-        ],
-        "2026-04-06": [
-          {
-            "name": "Tap List",
-            "time": null,
-            "description": null
-          }
-        ],
-        "2026-04-07": [
-          {
-            "name": "Tap List",
+            "name": "Cardápio especial de Semana Santa",
             "time": null,
             "description": null
           }
@@ -316,15 +240,7 @@
       "ig": "https://www.instagram.com/barbariumpub/",
       "bairro": "Rebouças",
       "cat": "Gourmet",
-      "events": {
-        "2026-04-01": [
-          {
-            "name": "Promoção Moscow Mule 15% OFF",
-            "time": null,
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Dobrucki",
