@@ -16,7 +16,9 @@
     "agenda:refresh": "npm run agenda:fetch && npm run agenda:update",
     "agenda:update:claude": "node scripts/update-agenda-claude.js",
     "agenda:refresh:claude": "npm run agenda:fetch && npm run agenda:update:claude",
-    "ocr:bench": "node scripts/benchmark-ocr.js"
+    "ocr:bench": "node scripts/benchmark-ocr.js",
+    "test": "vitest run",
+    "test:watch": "vitest"
   },
   "dependencies": {
     "gray-matter": "^4.0.3",
@@ -35,6 +37,7 @@
     "eslint": "^9",
     "eslint-config-next": "16.2.1",
     "tailwindcss": "^4",
-    "typescript": "^5"
+    "typescript": "^5",
+    "vitest": "^2.1.9"
   }
 }

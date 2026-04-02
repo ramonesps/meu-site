@@ -12,7 +12,7 @@ export const projects: Project[] = [
     description:
       'Sistema pessoal que monitora anúncios de venda e aluguel em prédios específicos. Scraping diário de ZAP, VivaReal, OLX, ImovelWeb e imobiliárias locais. Deduplicação por fingerprint + phash, galeria de fotos, histórico de preços.',
     tags: ['Next.js', 'SQLite', 'Playwright', 'Scraping', 'Docker'],
-    liveUrl: 'http://137.131.148.77:3000',
+    liveUrl: 'https://monitor.ramonps.com',
     githubUrl: 'https://github.com/ramonepsps/monitor-imobiliario',
   },
   {
