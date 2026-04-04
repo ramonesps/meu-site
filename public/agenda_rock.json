@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-03T10:12:27.391Z",
-  "week_start": "2026-04-03",
+  "updated_at": "2026-04-04T10:06:59.956Z",
+  "week_start": "2026-04-04",
   "model": "gemini-2.5-flash",
   "venues": [
     {
@@ -9,43 +9,26 @@
       "bairro": "Água Verde",
       "cat": "Gourmet",
       "events": {
-        "2026-04-03": [
-          {
-            "name": "Dose dupla com Danni Distler e Válvula Vapor",
-            "time": null,
-            "description": null
-          },
-          {
-            "name": "Danni Distler Duo",
-            "time": "20:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Válvula Vapor",
-            "time": "22:30:00Z",
-            "description": null
-          }
-        ],
         "2026-04-04": [
           {
-            "name": "Republica Pine com versões de rock dos clássicos do pop",
-            "time": null,
+            "name": "REPÚBLICA PINE",
+            "time": "21:30:00Z",
             "description": null
           },
           {
-            "name": "República Pine",
-            "time": "21:30:00Z",
+            "name": "Republica Pine com versões de rock",
+            "time": null,
             "description": null
           }
         ],
         "2026-04-05": [
           {
-            "name": "Páscoa Bastards",
+            "name": "Chocolate com batata chips, bacon e malte",
             "time": null,
             "description": null
           },
           {
-            "name": "Páscoa com Chocolate e Mark The Shadow",
+            "name": "Show Mark The Shadow",
             "time": null,
             "description": null
           }
@@ -58,48 +41,43 @@
       "bairro": "Água Verde",
       "cat": "Gourmet",
       "events": {
-        "2026-04-03": [
-          {
-            "name": "Lady Die + Lenhadores da Antártida",
-            "time": "20:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Casa aberta",
-            "time": "20:00:00.000Z",
-            "description": null
-          },
-          {
-            "name": "Noite de bar",
-            "time": "20:00:00Z",
-            "description": null
-          }
-        ],
         "2026-04-04": [
           {
             "name": "Four Stance + Raimundera CWB + Os Caras do Charlie Brown",
-            "time": "20:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Casa aberta",
             "time": "20:00:00.000Z",
             "description": null
           },
           {
-            "name": "Noite de bar",
+            "name": "Evento noturno",
+            "time": "20:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Abertura da casa",
             "time": "20:00:00Z",
             "description": null
           }
         ],
         "2026-04-09": [
           {
-            "name": "Casa aberta",
-            "time": "20:00:00.000Z",
+            "name": "Evento noturno",
+            "time": "20:00:00Z",
             "description": null
           },
           {
-            "name": "Noite de bar",
+            "name": "Abertura da casa",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-04-10": [
+          {
+            "name": "Evento noturno",
+            "time": "20:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Abertura da casa",
             "time": "20:00:00Z",
             "description": null
           }
@@ -112,38 +90,26 @@
       "bairro": "Batel",
       "cat": "Gourmet",
       "events": {
-        "2026-04-03": [
-          {
-            "name": "CRIMSON BULL RISING TRIBUTO LYNYRD SKYNYRD E BLACKBERRY SMOKE",
-            "time": "19:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Live Music com Marcela Juk",
-            "time": "12:30:00Z",
-            "description": null
-          }
-        ],
         "2026-04-04": [
           {
-            "name": "GUI VIANNA",
+            "name": "Gui Vianna",
             "time": "12:30:00Z",
             "description": null
           },
           {
-            "name": "VICK VAPO ROCK",
+            "name": "Vick Vapo Rock",
             "time": "19:30:00Z",
             "description": null
           }
         ],
         "2026-04-05": [
           {
-            "name": "MARCELA JUK",
+            "name": "Marcela Juk",
             "time": "12:30:00Z",
             "description": null
           },
           {
-            "name": "CASH VIBES",
+            "name": "Cash Vibes",
             "time": "19:30:00Z",
             "description": null
           },
@@ -161,17 +127,15 @@
       "bairro": "Batel",
       "cat": "Gourmet",
       "events": {
-        "2026-04-03": [
-          {
-            "name": "Boogie Gang e República Pine",
-            "time": "20:30:00Z",
-            "description": null
-          }
-        ],
         "2026-04-04": [
           {
-            "name": "Lenhadores da Antártida e Backstage",
+            "name": "Lenhadores da Antártida",
             "time": "20:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Backstage",
+            "time": "23:00:00Z",
             "description": null
           }
         ]
@@ -217,15 +181,7 @@
       "ig": "https://www.instagram.com/dobruckibar/",
       "bairro": "Rebouças",
       "cat": "Gourmet",
-      "events": {
-        "2026-04-04": [
-          {
-            "name": "Música ao vivo",
-            "time": null,
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Jokers",
