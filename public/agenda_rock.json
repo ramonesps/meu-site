@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-04T10:06:59.956Z",
-  "week_start": "2026-04-04",
+  "updated_at": "2026-04-05T09:52:45.332Z",
+  "week_start": "2026-04-05",
   "model": "gemini-2.5-flash",
   "venues": [
     {
@@ -9,26 +9,14 @@
       "bairro": "Água Verde",
       "cat": "Gourmet",
       "events": {
-        "2026-04-04": [
-          {
-            "name": "REPÚBLICA PINE",
-            "time": "21:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Republica Pine com versões de rock",
-            "time": null,
-            "description": null
-          }
-        ],
         "2026-04-05": [
           {
-            "name": "Chocolate com batata chips, bacon e malte",
+            "name": "República Pine",
             "time": null,
             "description": null
           },
           {
-            "name": "Show Mark The Shadow",
+            "name": "Páscoa Bastards",
             "time": null,
             "description": null
           }
@@ -41,43 +29,28 @@
       "bairro": "Água Verde",
       "cat": "Gourmet",
       "events": {
-        "2026-04-04": [
-          {
-            "name": "Four Stance + Raimundera CWB + Os Caras do Charlie Brown",
-            "time": "20:00:00.000Z",
-            "description": null
-          },
-          {
-            "name": "Evento noturno",
-            "time": "20:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Abertura da casa",
-            "time": "20:00:00Z",
-            "description": null
-          }
-        ],
         "2026-04-09": [
           {
-            "name": "Evento noturno",
+            "name": "Casa aberta",
             "time": "20:00:00Z",
             "description": null
           },
           {
-            "name": "Abertura da casa",
+            "name": "Noite no Cross",
             "time": "20:00:00Z",
             "description": null
           }
         ],
         "2026-04-10": [
           {
-            "name": "Evento noturno",
+            "name": "Noite no Cross",
             "time": "20:00:00Z",
             "description": null
-          },
+          }
+        ],
+        "2026-04-11": [
           {
-            "name": "Abertura da casa",
+            "name": "Noite no Cross",
             "time": "20:00:00Z",
             "description": null
           }
@@ -90,19 +63,12 @@
       "bairro": "Batel",
       "cat": "Gourmet",
       "events": {
-        "2026-04-04": [
+        "2026-04-05": [
           {
-            "name": "Gui Vianna",
-            "time": "12:30:00Z",
+            "name": "Páscoa",
+            "time": "11:00:00.000000000Z",
             "description": null
           },
-          {
-            "name": "Vick Vapo Rock",
-            "time": "19:30:00Z",
-            "description": null
-          }
-        ],
-        "2026-04-05": [
           {
             "name": "Marcela Juk",
             "time": "12:30:00Z",
@@ -111,11 +77,6 @@
           {
             "name": "Cash Vibes",
             "time": "19:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Páscoa no Hard",
-            "time": "11:00:00.000Z",
             "description": null
           }
         ]
@@ -126,20 +87,7 @@
       "ig": "https://www.instagram.com/sheridansirishpub/",
       "bairro": "Batel",
       "cat": "Gourmet",
-      "events": {
-        "2026-04-04": [
-          {
-            "name": "Lenhadores da Antártida",
-            "time": "20:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Backstage",
-            "time": "23:00:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Bastards Fábrica",
@@ -167,7 +115,20 @@
       "ig": "https://www.instagram.com/distrito.1340/",
       "bairro": "Seminário",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-04-05": [
+          {
+            "name": "Long Field | Samba-rock sem samba",
+            "time": "19:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Lenhadores | Indie / Folk Rock",
+            "time": "21:00:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Barbarium",
