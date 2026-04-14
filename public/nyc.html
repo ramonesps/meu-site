@@ -1,0 +1,614 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
+<meta name="theme-color" content="#1a1a2e">
+<title>NYC · Roteiro Boutique 8 Dias</title>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+      integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+      crossorigin=""/>
+<style>
+  :root {
+    --d1: #e63946; --d2: #f4a261; --d3: #2a9d8f; --d4: #3a86ff;
+    --d5: #8338ec; --d6: #ff006e; --d7: #06a77d; --d8: #ffb703;
+    --home: #1a1a2e;
+    --bg: #f7f4ef; --panel: #ffffff; --ink: #1a1a2e; --muted: #6b6b7a;
+    --border: #e5e1d8;
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; height: 100%; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; color: var(--ink); background: var(--bg); }
+  body { display: flex; flex-direction: column; overflow: hidden; }
+
+  /* HEADER */
+  header {
+    background: var(--home); color: #fff; padding: 10px 14px;
+    display: flex; align-items: center; justify-content: space-between; gap: 10px;
+    flex-wrap: wrap; border-bottom: 3px solid #000;
+  }
+  header h1 { margin: 0; font-size: 16px; font-weight: 600; letter-spacing: 0.3px; }
+  header h1 .accent { color: #ffb703; }
+  header .meta { font-size: 12px; color: #cbb8a0; }
+
+  /* FILTER BAR */
+  .filters {
+    display: flex; gap: 6px; overflow-x: auto; padding: 8px 10px;
+    background: var(--panel); border-bottom: 1px solid var(--border);
+    scrollbar-width: thin;
+  }
+  .filters::-webkit-scrollbar { height: 5px; }
+  .filters button {
+    border: 2px solid transparent; background: #eee; color: #333;
+    padding: 6px 11px; font-size: 13px; font-weight: 600; border-radius: 999px;
+    cursor: pointer; white-space: nowrap; transition: all .15s ease;
+    min-height: 34px;
+  }
+  .filters button.active { color: #fff; transform: scale(1.05); }
+  .filters button[data-day="all"].active { background: #1a1a2e; }
+  .filters button[data-day="0"].active { background: var(--home); }
+  .filters button[data-day="1"].active { background: var(--d1); }
+  .filters button[data-day="2"].active { background: var(--d2); color: #1a1a2e; }
+  .filters button[data-day="3"].active { background: var(--d3); }
+  .filters button[data-day="4"].active { background: var(--d4); }
+  .filters button[data-day="5"].active { background: var(--d5); }
+  .filters button[data-day="6"].active { background: var(--d6); }
+  .filters button[data-day="7"].active { background: var(--d7); }
+  .filters button[data-day="8"].active { background: var(--d8); color: #1a1a2e; }
+
+  /* LAYOUT */
+  main {
+    flex: 1; display: grid; grid-template-columns: minmax(320px, 420px) 1fr;
+    min-height: 0;
+  }
+  #sidebar {
+    overflow-y: auto; background: var(--panel); border-right: 1px solid var(--border);
+    padding: 10px;
+  }
+  #map { height: 100%; width: 100%; background: #dce6ea; }
+
+  /* DAY CARDS */
+  .day-card {
+    border: 1px solid var(--border); border-radius: 12px; margin-bottom: 10px;
+    overflow: hidden; background: #fff;
+  }
+  .day-header {
+    padding: 10px 12px; cursor: pointer; display: flex; align-items: center; gap: 10px;
+    background: #fafaf7; border-left: 6px solid transparent;
+    user-select: none;
+  }
+  .day-header .num {
+    width: 28px; height: 28px; border-radius: 50%;
+    display: flex; align-items: center; justify-content: center;
+    color: #fff; font-weight: 700; font-size: 13px; flex-shrink: 0;
+  }
+  .day-header .title { font-size: 13px; font-weight: 700; flex: 1; line-height: 1.25; }
+  .day-header .title small { display: block; font-size: 11px; font-weight: 400; color: var(--muted); margin-top: 2px; }
+  .day-header .toggle { font-size: 14px; color: var(--muted); transition: transform .2s; }
+  .day-card.open .day-header .toggle { transform: rotate(90deg); }
+  .day-card[data-day="1"] .day-header { border-left-color: var(--d1); }
+  .day-card[data-day="2"] .day-header { border-left-color: var(--d2); }
+  .day-card[data-day="3"] .day-header { border-left-color: var(--d3); }
+  .day-card[data-day="4"] .day-header { border-left-color: var(--d4); }
+  .day-card[data-day="5"] .day-header { border-left-color: var(--d5); }
+  .day-card[data-day="6"] .day-header { border-left-color: var(--d6); }
+  .day-card[data-day="7"] .day-header { border-left-color: var(--d7); }
+  .day-card[data-day="8"] .day-header { border-left-color: var(--d8); }
+  .day-card[data-day="1"] .day-header .num { background: var(--d1); }
+  .day-card[data-day="2"] .day-header .num { background: var(--d2); color: #1a1a2e; }
+  .day-card[data-day="3"] .day-header .num { background: var(--d3); }
+  .day-card[data-day="4"] .day-header .num { background: var(--d4); }
+  .day-card[data-day="5"] .day-header .num { background: var(--d5); }
+  .day-card[data-day="6"] .day-header .num { background: var(--d6); }
+  .day-card[data-day="7"] .day-header .num { background: var(--d7); }
+  .day-card[data-day="8"] .day-header .num { background: var(--d8); color: #1a1a2e; }
+
+  .day-body { display: none; padding: 6px 10px 10px; }
+  .day-card.open .day-body { display: block; }
+  .day-meta { font-size: 11px; color: var(--muted); margin-bottom: 8px; }
+
+  .stop {
+    padding: 8px 10px; border-radius: 8px; margin-bottom: 4px;
+    cursor: pointer; display: flex; gap: 10px; align-items: flex-start;
+    border: 1px solid transparent; transition: background .12s;
+  }
+  .stop:hover { background: #fafaf7; border-color: var(--border); }
+  .stop .time { font-size: 11px; font-weight: 700; color: var(--muted); flex-shrink: 0; width: 44px; padding-top: 2px; }
+  .stop .info { flex: 1; min-width: 0; }
+  .stop .info .name { font-size: 13px; font-weight: 600; line-height: 1.3; }
+  .stop .info .addr { font-size: 11px; color: var(--muted); margin-top: 2px; }
+  .stop .info .tag { display: inline-block; font-size: 10px; padding: 1px 6px; border-radius: 4px; margin-top: 3px; margin-right: 4px; background: #f0ece3; color: #5c5c6b; font-weight: 600; }
+  .stop .info .tag.feat { background: #fff4d6; color: #8a6400; }
+  .stop .info .tag.cost { background: #ffe0e6; color: #a8244b; }
+
+  /* MAP MARKERS */
+  .marker-circle {
+    display: flex; align-items: center; justify-content: center;
+    width: 30px; height: 30px; border-radius: 50%;
+    color: #fff; font-weight: 700; font-size: 13px;
+    border: 3px solid #fff; box-shadow: 0 2px 6px rgba(0,0,0,0.35);
+    cursor: pointer;
+  }
+  .marker-circle.featured {
+    width: 36px; height: 36px; font-size: 14px;
+    border-color: #ffb703; box-shadow: 0 0 0 2px #fff, 0 3px 10px rgba(0,0,0,0.4);
+  }
+  .marker-home {
+    width: 38px; height: 38px; border-radius: 8px;
+    background: var(--home); color: #fff;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 20px; border: 3px solid #ffb703;
+    box-shadow: 0 3px 10px rgba(0,0,0,0.45);
+  }
+
+  /* POPUP */
+  .leaflet-popup-content-wrapper { border-radius: 10px; }
+  .leaflet-popup-content { margin: 12px 14px; min-width: 220px; max-width: 280px; font-size: 13px; }
+  .popup h3 { margin: 0 0 4px; font-size: 15px; line-height: 1.25; }
+  .popup .addr { color: var(--muted); font-size: 12px; margin-bottom: 6px; }
+  .popup .desc { font-size: 12px; line-height: 1.4; margin: 6px 0; }
+  .popup .tip { background: #fff4d6; color: #6b4d00; padding: 6px 8px; border-radius: 6px; font-size: 11px; margin: 6px 0; line-height: 1.35; }
+  .popup .tip::before { content: "💡 "; }
+  .popup .btns { display: flex; gap: 6px; margin-top: 8px; flex-wrap: wrap; }
+  .popup .btns a {
+    flex: 1; text-align: center; padding: 7px 8px; border-radius: 6px;
+    background: #1a1a2e; color: #fff !important; text-decoration: none;
+    font-size: 11px; font-weight: 600; min-width: 110px;
+  }
+  .popup .btns a.walk { background: #2a9d8f; }
+  .popup .meta { font-size: 11px; color: var(--muted); margin-top: 4px; }
+
+  /* MOBILE */
+  @media (max-width: 820px) {
+    main { grid-template-columns: 1fr; grid-template-rows: 58vh 1fr; }
+    #sidebar { border-right: none; border-top: 1px solid var(--border); padding: 8px; }
+    header h1 { font-size: 14px; }
+    header .meta { display: none; }
+  }
+
+  .active-stop { background: #fff4d6 !important; border-color: #ffb703 !important; }
+
+  /* SCROLLBAR (desktop) */
+  #sidebar::-webkit-scrollbar { width: 8px; }
+  #sidebar::-webkit-scrollbar-thumb { background: #d4cdbc; border-radius: 4px; }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>🗽 <span class="accent">NYC</span> · Roteiro Boutique 8 Dias</h1>
+  <div class="meta">Junho 2026 · Pod 51 Midtown East</div>
+</header>
+
+<div class="filters" id="filters">
+  <button data-day="all" class="active">Todos</button>
+  <button data-day="0">🏨 Hotel</button>
+  <button data-day="1">Dia 1</button>
+  <button data-day="2">Dia 2</button>
+  <button data-day="3">Dia 3</button>
+  <button data-day="4">Dia 4</button>
+  <button data-day="5">Dia 5</button>
+  <button data-day="6">Dia 6</button>
+  <button data-day="7">Dia 7</button>
+  <button data-day="8">Dia 8</button>
+</div>
+
+<main>
+  <aside id="sidebar"></aside>
+  <div id="map"></div>
+</main>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+        integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+        crossorigin=""></script>
+
+<script>
+/* ==========================================================================
+   DADOS — Roteiro Boutique NYC 8 Dias
+   ========================================================================== */
+
+const HOTEL = {
+  name: "Pod 51 Hotel",
+  address: "230 E 51st St, Midtown East",
+  lat: 40.7562, lng: -73.9707
+};
+
+const DAYS_META = {
+  1: { title: "Midtown — Chegada & Deslumbramento", mood: "🎭 As luzes se acendem para vocês", km: "~11 km a pé", spend: "~$115" },
+  2: { title: "Vistas que Mudam Perspectivas",      mood: "🌆 A cidade aos seus pés",            km: "~10 km a pé", spend: "~$235" },
+  3: { title: "Central Park & Upper West Side",     mood: "🌳 Onde Manhattan respira",          km: "~13 km a pé", spend: "~$104" },
+  4: { title: "Lower Manhattan & DUMBO",            mood: "🌉 Onde tudo começou",               km: "~14 km a pé", spend: "~$98"  },
+  5: { title: "Estátua da Liberdade & Battery Park",mood: "🗽 A promessa da América",           km: "~10 km a pé", spend: "~$166" },
+  6: { title: "Jersey Gardens — Smart Shopping",    mood: "🛍️ Marcas de luxo, preços de outlet",km: "~5 km (leve)", spend: "~$100" },
+  7: { title: "SoHo, Village, Chelsea & High Line", mood: "🎨 O lado cool de NYC",              km: "~14 km a pé", spend: "~$133" },
+  8: { title: "Despedida com Estilo",               mood: "✨ Até a próxima, New York",          km: "~6 km a pé",  spend: "~$101" }
+};
+
+const LOCATIONS = [
+  // ============ DIA 1 ============
+  { day:1, order:1, time:"09:00", name:"Lenwich",              address:"1241 3rd Ave, Midtown East", lat:40.7614, lng:-73.9659,
+    desc:"Café da manhã: sanduíches artesanais, café e bagels. ~$20 para o casal.", duration:"30 min" },
+  { day:1, order:2, time:"10:00", name:"Rockefeller Center",   address:"45 Rockefeller Plaza", lat:40.7587, lng:-73.9787,
+    desc:"Praça, Atlas, fachada do 30 Rock e Channel Gardens. Gratuito.", duration:"45 min" },
+  { day:1, order:3, time:"11:00", name:"St. Patrick's Cathedral", address:"5th Ave & 50th St", lat:40.7585, lng:-73.9759,
+    desc:"Arquitetura neogótica imperdível. Entrada gratuita.", duration:"15–20 min" },
+  { day:1, order:4, time:"12:00", name:"Bryant Park",          address:"40th–42nd St & 5th–6th Ave", lat:40.7536, lng:-73.9832,
+    desc:"Bancos verdes icônicos. Banheiro público limpo (raridade em NY).", duration:"20 min" },
+  { day:1, order:5, time:"12:30", name:"Urbanspace Vanderbilt",address:"230 Park Ave", lat:40.7548, lng:-73.9779,
+    desc:"Food hall com várias opções. Almoço ~$25–30 para o casal.", duration:"1h" },
+  { day:1, order:6, time:"12:30", name:"The Pennsy (alt.)",    address:"2 Pennsylvania Plaza", lat:40.7506, lng:-73.9934,
+    desc:"Alternativa de food hall, próximo à Penn Station.", duration:"1h" },
+  { day:1, order:7, time:"14:00", name:"Times Square",         address:"Broadway & 7th Ave, 42nd–47th St", lat:40.7580, lng:-73.9855, featured:true,
+    desc:"Turístico, obrigatório na primeira vez. Fotos nas escadarias vermelhas do TKTS.", duration:"45 min" },
+  { day:1, order:8, time:"15:00", name:"Grand Central Terminal", address:"89 E 42nd St", lat:40.7527, lng:-73.9772, featured:true,
+    desc:"Teto celeste, relógio de opala, Whispering Gallery. Um dos interiores mais bonitos do mundo.",
+    tip:"Whispering Gallery (rampa perto do Oyster Bar): encostem em cantos diagonais opostos e sussurrem — o som viaja pelo arco.",
+    duration:"30 min" },
+  { day:1, order:9, time:"18:30", name:"P.J. Clarke's",        address:"915 3rd Ave, Midtown East", lat:40.7589, lng:-73.9685,
+    desc:"Bar clássico desde 1884. Happy hour com drinks a partir de $8. Burger icônico ~$18.", cost:"~$55–65", duration:"Jantar" },
+
+  // ============ DIA 2 ============
+  { day:2, order:1, time:"08:30", name:"Zucker's Bagels",      address:"370 Lexington Ave", lat:40.7513, lng:-73.9765,
+    desc:"Bagel com cream cheese e café. O autêntico NYC breakfast. ~$18.", duration:"30 min" },
+  { day:2, order:2, time:"09:30", name:"Summit One Vanderbilt",address:"One Vanderbilt Ave (ao lado de Grand Central)", lat:40.7527, lng:-73.9790, featured:true,
+    desc:"Reservem online com antecedência. A sala de espelhos (Air) é inesquecível.",
+    tip:"Comprem o ingresso 'Summit Experience' básico (sem o Ascent) — economiza ~$20/pessoa. A experiência principal já é extraordinária.",
+    cost:"$84 para o casal", duration:"1h30" },
+  { day:2, order:3, time:"13:00", name:"New York Public Library", address:"476 5th Ave & 42nd St", lat:40.7532, lng:-73.9822,
+    desc:"Rose Reading Room é majestoso. Gratuito. Peguem o mapa do self-guided tour.", duration:"30 min" },
+  { day:2, order:4, time:"14:00", name:"Koreatown",            address:"32nd St entre 5th e Broadway", lat:40.7474, lng:-73.9851,
+    desc:"Passeio para sentir a energia. Guardem para um futuro jantar coreano barato.", duration:"30 min" },
+  { day:2, order:5, time:"18:00", name:"Empire State Building",address:"20 W 34th St", lat:40.7484, lng:-73.9857, featured:true,
+    desc:"Reservem o horário do pôr do sol. Em junho, sol se põe ~20:15 — reservem 19:00 para pegar a transição dia-noite.",
+    tip:"Ingresso 86th floor basta. O 102nd cobra $40 a mais por pessoa — a vista do 86th é tão boa e ao ar livre.",
+    cost:"$88 para o casal (86th floor)", duration:"1h30" },
+  { day:2, order:6, time:"20:30", name:"NY Pizza Suprema",     address:"413 8th Ave (perto do Empire State)", lat:40.7509, lng:-73.9919,
+    desc:"Fatia de pizza ~$4–5. Duas fatias + bebida = ~$12/pessoa.", cost:"~$25", duration:"Jantar" },
+  { day:2, order:7, time:"20:30", name:"Joe's Pizza (alt.)",   address:"7 Carmine St, West Village", lat:40.7303, lng:-74.0023,
+    desc:"Mais longe, mas é a Joe's icônica. Fatia ~$4.", duration:"Alternativa" },
+
+  // ============ DIA 3 ============
+  { day:3, order:1, time:"08:30", name:"H&H Bagels",           address:"526 Columbus Ave, UWS", lat:40.7853, lng:-73.9743,
+    desc:"Bagels legendários. ~$18 para o casal.", duration:"30 min" },
+  { day:3, order:2, time:"09:30", name:"Strawberry Fields",    address:"Central Park, W 72nd St entrance", lat:40.7756, lng:-73.9755,
+    desc:"Mosaico 'Imagine' em homenagem a John Lennon.", duration:"5 min" },
+  { day:3, order:3, time:"09:45", name:"Bethesda Fountain",    address:"Central Park (center)", lat:40.7740, lng:-73.9710, featured:true,
+    desc:"O coração fotogênico do parque. Arcadas e a fonte clássica.", duration:"15 min" },
+  { day:3, order:4, time:"10:15", name:"Bow Bridge",           address:"Central Park Lake", lat:40.7757, lng:-73.9723,
+    desc:"A ponte mais fotografada do parque.", duration:"10 min" },
+  { day:3, order:5, time:"10:30", name:"The Ramble",           address:"Central Park", lat:40.7770, lng:-73.9705,
+    desc:"Mini-floresta urbana, trilhas sombreadas.", duration:"20 min" },
+  { day:3, order:6, time:"11:00", name:"Belvedere Castle",     address:"Central Park (79th St transverse)", lat:40.7797, lng:-73.9692,
+    desc:"Vista panorâmica gratuita sobre Turtle Pond e Great Lawn.", duration:"15 min" },
+  { day:3, order:7, time:"11:20", name:"Shakespeare Garden",   address:"Central Park (ao lado de Belvedere)", lat:40.7797, lng:-73.9702,
+    desc:"Jardim íntimo com flores mencionadas nas obras de Shakespeare.", duration:"10 min" },
+  { day:3, order:8, time:"11:35", name:"Turtle Pond",          address:"Central Park", lat:40.7796, lng:-73.9686,
+    desc:"Ótimo lugar para sentar e descansar.", duration:"10 min" },
+  { day:3, order:9, time:"13:00", name:"Levain Bakery",        address:"167 W 74th St, UWS", lat:40.7798, lng:-73.9801,
+    desc:"Cookies famosos mundialmente. Dividam um (~$5).", duration:"20 min" },
+  { day:3, order:10, time:"13:30",name:"Trader Joe's",         address:"2073 Broadway, UWS", lat:40.7817, lng:-73.9811,
+    desc:"Piquenique urbano: wrap, frutas, bebidas. ~$15.", cost:"~$25 total almoço", duration:"30 min" },
+  { day:3, order:11, time:"14:30",name:"Museum of Natural History", address:"Central Park West & 79th St", lat:40.7813, lng:-73.9740,
+    desc:"Lobby com Barossauro gratuito de ver. Entrada ~$28/pessoa se quiserem entrar.",
+    tip:"Se o budget não permitir, o exterior e o lobby já valem a visita.",
+    duration:"20 min – 2h" },
+  { day:3, order:12, time:"18:30",name:"BCD Tofu House",       address:"5 W 32nd St, K-Town", lat:40.7472, lng:-73.9851,
+    desc:"Tofu stew farto e barato ($15–18/pessoa). Banchan grátis.", cost:"~$45–55", duration:"Jantar" },
+  { day:3, order:13, time:"18:30",name:"Her Name is Han (alt.)",address:"17 E 31st St, K-Town", lat:40.7457, lng:-73.9845,
+    desc:"Coreano moderno, menu acessível.", duration:"Alternativa jantar" },
+
+  // ============ DIA 4 ============
+  { day:4, order:1, time:"09:00", name:"9/11 Memorial",        address:"180 Greenwich St, Financial District", lat:40.7115, lng:-74.0125, featured:true,
+    desc:"Duas piscinas reflexivas nos footprints das torres. Extremamente emocional. Gratuito. Survivor Tree ao lado da piscina sul.",
+    tip:"Memorial Museum cobra ~$28/pessoa — o Memorial ao ar livre já é a experiência principal. Cheguem às 9h.",
+    duration:"45 min" },
+  { day:4, order:2, time:"10:00", name:"The Oculus",           address:"World Trade Center Transit Hub", lat:40.7119, lng:-74.0114,
+    desc:"Estação de metrô/shopping desenhada por Calatrava. Interior branco surreal. Gratuito.", duration:"20 min" },
+  { day:4, order:3, time:"10:30", name:"NYSE / Wall Street",   address:"Wall St & Broad St", lat:40.7069, lng:-74.0113,
+    desc:"Fotos em frente à New York Stock Exchange (não é possível entrar).", duration:"15 min" },
+  { day:4, order:4, time:"10:50", name:"Charging Bull",        address:"Broadway & Morris St, Bowling Green", lat:40.7055, lng:-74.0134, featured:true,
+    desc:"Escultura de bronze de 3.200 kg. Cheguem cedo para evitar a fila.", duration:"15 min" },
+  { day:4, order:5, time:"11:15", name:"Battery Park",         address:"State St & Battery Pl", lat:40.7033, lng:-74.0170,
+    desc:"Vista gratuita da Estátua da Liberdade à distância.", duration:"15 min" },
+  { day:4, order:6, time:"11:45", name:"Stone Street / Adrienne's", address:"54 Stone St, Financial District", lat:40.7044, lng:-74.0110,
+    desc:"Rua de paralelepípedos com mesas ao ar livre. Adrienne's Pizzabar — pizza fina ao estilo romano.", cost:"~$30", duration:"Almoço 1h" },
+  { day:4, order:7, time:"13:00", name:"Brooklyn Bridge (entrada)", address:"City Hall Park, Manhattan side", lat:40.7127, lng:-74.0048,
+    desc:"Travessia ~30–40 min pelo deck superior. Vistas espetaculares do skyline.",
+    tip:"Caminhem Manhattan → Brooklyn. Skyline fica atrás para fotos olhando para trás, e terminam no DUMBO para a foto icônica.",
+    duration:"40 min" },
+  { day:4, order:8, time:"14:00", name:"DUMBO — Washington St",address:"Washington & Water St, Brooklyn", lat:40.7035, lng:-73.9895, featured:true,
+    desc:"A foto obrigatória: Manhattan Bridge emoldurada pelos prédios de tijolo.", duration:"20 min" },
+  { day:4, order:9, time:"14:30", name:"Brooklyn Bridge Park", address:"Brooklyn waterfront", lat:40.7024, lng:-73.9965,
+    desc:"Vista deslumbrante de Manhattan. Gramado perfeito para sentar.", duration:"40 min" },
+  { day:4, order:10, time:"15:00",name:"Jane's Carousel",      address:"DUMBO, Brooklyn Bridge Park", lat:40.7028, lng:-73.9937,
+    desc:"Carrossel histórico à beira-rio. $2/pessoa para andar.", duration:"15 min" },
+  { day:4, order:11, time:"19:00",name:"Tacombi",              address:"252 E 51st St (ao lado do Pod 51)", lat:40.7558, lng:-73.9697,
+    desc:"Tacos ~$5 cada. Opção econômica literalmente ao lado do hotel.", cost:"~$35", duration:"Jantar" },
+  { day:4, order:12, time:"19:00",name:"Fonda (alt.)",         address:"434 3rd Ave, Kips Bay", lat:40.7443, lng:-73.9808,
+    desc:"Mexican contemporâneo, porções generosas. ~$50–60 com margarita.", duration:"Alternativa" },
+
+  // ============ DIA 5 ============
+  { day:5, order:1, time:"08:15", name:"Castle Clinton / Ferry",address:"Battery Park", lat:40.7033, lng:-74.0170,
+    desc:"Ponto de embarque do ferry. Reservem em statuecruises.com. Primeiro ferry 8:30.",
+    cost:"$48 para o casal (Reserve Ticket + pedestal)", duration:"Embarque" },
+  { day:5, order:2, time:"09:00", name:"Liberty Island",       address:"Statue of Liberty National Monument", lat:40.6892, lng:-74.0445, featured:true,
+    desc:"Estátua + pedestal. Vista magnífica.",
+    tip:"O pedestal é suficiente. A coroa exige reserva com meses de antecedência — o pedestal dá vista excelente e custa o mesmo.",
+    duration:"1h30" },
+  { day:5, order:3, time:"10:30", name:"Ellis Island",         address:"Ellis Island Immigration Museum", lat:40.6995, lng:-74.0395,
+    desc:"Museu da Imigração (gratuito, incluso no ferry).", duration:"45 min–1h" },
+  { day:5, order:4, time:"13:00", name:"Shake Shack (original)",address:"Madison Square Park, 11 Madison Ave", lat:40.7414, lng:-73.9882,
+    desc:"O Shake Shack original, dentro do parque. Burger + fries + shake ~$20/pessoa.",
+    tip:"Peçam no app para evitar a fila. Comam no parque com vista para o Flatiron.",
+    cost:"~$40", duration:"Almoço" },
+  { day:5, order:5, time:"14:30", name:"Flatiron Building",    address:"175 5th Ave", lat:40.7411, lng:-73.9897,
+    desc:"O prédio triangular icônico. Gratuito.", duration:"15 min" },
+  { day:5, order:6, time:"15:00", name:"Eataly NYC Flatiron",  address:"200 5th Ave", lat:40.7421, lng:-73.9899,
+    desc:"Mercado italiano. Ótimo para lembrancinhas gastronômicas ou espresso.", duration:"30 min" },
+  { day:5, order:7, time:"19:00", name:"The Smith",            address:"956 2nd Ave, Midtown East", lat:40.7585, lng:-73.9680,
+    desc:"Happy hour (seg–sex 16–19h): drinks $9, bar snacks $7. Pratos $18–25.", cost:"~$60", duration:"Jantar" },
+
+  // ============ DIA 6 ============
+  { day:6, order:1, time:"09:00", name:"Port Authority Bus Terminal", address:"625 8th Ave & 42nd St", lat:40.7570, lng:-73.9904,
+    desc:"Partida do ônibus NJ Transit #111 para Jersey Gardens. ~$5/pessoa por trecho.", duration:"Partida" },
+  { day:6, order:2, time:"10:00", name:"The Mills at Jersey Gardens",address:"651 Kapkowski Rd, Elizabeth, NJ", lat:40.6620, lng:-74.1710, featured:true,
+    desc:"Mais de 200 lojas outlet. Indoor (ar-condicionado). NJ não cobra sales tax em roupas e calçados — economia automática de ~8.875% vs Manhattan.",
+    tip:"Vão direto ao Customer Service para o coupon book (descontos extras, às vezes gratuito). Priorizem as lojas que querem — não tentem ver tudo.",
+    duration:"6h" },
+  { day:6, order:3, time:"19:30", name:"Empanada Mama",        address:"763 9th Ave, Hell's Kitchen", lat:40.7638, lng:-73.9893,
+    desc:"Empanadas enormes $4–6 cada, drinks tropicais. Lugar divertido.", cost:"~$35–40", duration:"Jantar" },
+  { day:6, order:4, time:"19:30", name:"Wafa's (alt.)",        address:"545 2nd Ave, Murray Hill", lat:40.7441, lng:-73.9772,
+    desc:"Comida mediterrânea excelente e barata. ~$30. Mais perto do hotel.", duration:"Alternativa" },
+
+  // ============ DIA 7 ============
+  { day:7, order:1, time:"09:00", name:"Dominique Ansel Bakery",address:"189 Spring St, SoHo", lat:40.7245, lng:-74.0034,
+    desc:"Criadores do Cronut. DKA (Kouign-Amann) e café. ~$22 para o casal.",
+    tip:"O Cronut tem fila e preço alto ($7.50). O DKA é tão bom e mais fácil de conseguir.",
+    duration:"Café da manhã" },
+  { day:7, order:2, time:"09:45", name:"SoHo Stroll",          address:"Broadway, Prince St, Greene St", lat:40.7241, lng:-73.9975,
+    desc:"Arquitetura cast-iron, galerias, lojas de design. Andem sem pressa.", duration:"1h" },
+  { day:7, order:3, time:"11:00", name:"Washington Square Park",address:"5th Ave & Washington Square", lat:40.7308, lng:-73.9973,
+    desc:"O arco e a fonte. Músicos de rua, estudantes da NYU.", duration:"20 min" },
+  { day:7, order:4, time:"11:30", name:"Bleecker Street",      address:"Greenwich Village", lat:40.7320, lng:-74.0028,
+    desc:"A rua boêmia. Fachadas charmosas, lojinhas.", duration:"30 min" },
+  { day:7, order:5, time:"12:00", name:"Chelsea Market",       address:"75 9th Ave, Chelsea", lat:40.7424, lng:-74.0060,
+    desc:"Mercado gastronômico em antiga fábrica Nabisco. Los Tacos No. 1 ($4–5), Num Pang ($14), Doughnuttery ($7).", cost:"~$30–35", duration:"Almoço 1h" },
+  { day:7, order:6, time:"13:30", name:"The High Line",        address:"Entrada Gansevoort St & Washington St", lat:40.7393, lng:-74.0083, featured:true,
+    desc:"Parque elevado sobre antiga ferrovia. Caminhem de sul para norte (Gansevoort → 34th). ~2.3 km. Gratuito.", duration:"1h30" },
+  { day:7, order:7, time:"15:00", name:"Hudson Yards / Vessel",address:"20 Hudson Yards", lat:40.7538, lng:-74.0021,
+    desc:"Vessel fechado para subida, mas a estrutura é impressionante de fora. Complexo arquitetônico.", duration:"20 min" },
+  { day:7, order:8, time:"19:00", name:"Carmine's",            address:"200 W 44th St, Times Square area", lat:40.7580, lng:-73.9862,
+    desc:"Italian-American family style. Pratos ENORMES para dividir.",
+    tip:"Peçam UM prato principal para dividir + uma salada. Corta o custo pela metade.",
+    cost:"~$60–70", duration:"Jantar" },
+  { day:7, order:9, time:"19:00", name:"Tony's Di Napoli (alt.)",address:"147 W 43rd St", lat:40.7574, lng:-73.9858,
+    desc:"Mesmo conceito italiano family style.", duration:"Alternativa" },
+
+  // ============ DIA 8 ============
+  { day:8, order:1, time:"08:00", name:"Sarabeth's Central Park South", address:"40 Central Park S", lat:40.7662, lng:-73.9760,
+    desc:"Brunch clássico de NY. Pancakes, French toast, ovos beneditinos. Splurge merecido.", cost:"~$50–60", duration:"Brunch" },
+  { day:8, order:2, time:"08:00", name:"Le Pain Quotidien (alt.)", address:"70 W 40th St, Midtown", lat:40.7535, lng:-73.9840,
+    desc:"Alternativa mais econômica ao Sarabeth's. ~$30.", duration:"Alternativa" },
+  { day:8, order:3, time:"09:30", name:"United Nations HQ",    address:"405 E 42nd St", lat:40.7489, lng:-73.9681,
+    desc:"Exterior — 10 min do hotel.", duration:"15 min" },
+  { day:8, order:4, time:"09:45", name:"Chrysler Building",    address:"405 Lexington Ave", lat:40.7516, lng:-73.9755,
+    desc:"Exterior — vizinho do hotel. Art Déco icônico.", duration:"10 min" },
+  { day:8, order:5, time:"10:00", name:"Nintendo NY",          address:"10 Rockefeller Plaza", lat:40.7588, lng:-73.9790,
+    desc:"Flagship store da Nintendo. Merch exclusivo.", duration:"20 min" },
+  { day:8, order:6, time:"10:30", name:"LEGO Store 5th Ave",   address:"636 5th Ave (Rockefeller Center)", lat:40.7589, lng:-73.9768,
+    desc:"Flagship. Modelos exclusivos de NYC.", duration:"20 min" },
+  { day:8, order:7, time:"12:00", name:"Katz's Delicatessen",  address:"205 E Houston St, Lower East Side", lat:40.7223, lng:-73.9874, featured:true,
+    desc:"O pastrami sandwich mais famoso do mundo ($28, ENORME — dividam um).",
+    tip:"Ao entrar, vocês recebem um ticket. NÃO PERCAM — perder o ticket custa $50.",
+    cost:"~$35", duration:"Último almoço" },
+  { day:8, order:8, time:"12:00", name:"2nd Ave Deli (alt.)",  address:"1442 1st Ave, Upper East Side", lat:40.7728, lng:-73.9540,
+    desc:"Tão bom quanto Katz's, sem a fila. 10 min a pé do hotel.", duration:"Alternativa" }
+];
+
+const DAY_COLORS = {
+  0: "#1a1a2e",
+  1: "#e63946", 2: "#f4a261", 3: "#2a9d8f", 4: "#3a86ff",
+  5: "#8338ec", 6: "#ff006e", 7: "#06a77d", 8: "#ffb703"
+};
+
+/* ==========================================================================
+   MAPA (Leaflet)
+   ========================================================================== */
+
+const map = L.map('map', { zoomControl: true, preferCanvas: false })
+  .setView([HOTEL.lat, HOTEL.lng], 13);
+
+L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+  maxZoom: 19,
+  attribution: '© OpenStreetMap'
+}).addTo(map);
+
+const markers = [];
+const polylines = [];
+
+/* --- Marcador do Hotel --- */
+const homeIcon = L.divIcon({
+  html: '<div class="marker-home">🏨</div>',
+  className: '', iconSize:[38,38], iconAnchor:[19,19], popupAnchor:[0,-18]
+});
+const homeMarker = L.marker([HOTEL.lat, HOTEL.lng], { icon: homeIcon, zIndexOffset: 1000 })
+  .bindPopup(buildPopup({
+    name: "🏨 " + HOTEL.name,
+    address: HOTEL.address,
+    lat: HOTEL.lat, lng: HOTEL.lng,
+    desc: "Sua base na viagem. A pé de Grand Central, Rockefeller e da 5th Ave."
+  }, true))
+  .addTo(map);
+
+/* --- Marcadores dos locais --- */
+LOCATIONS.forEach((loc, idx) => {
+  const color = DAY_COLORS[loc.day];
+  const textColor = (loc.day === 2 || loc.day === 8) ? "#1a1a2e" : "#fff";
+  const featured = loc.featured ? "featured" : "";
+  const html = `<div class="marker-circle ${featured}" style="background:${color}; color:${textColor};">${loc.day}</div>`;
+  const size = loc.featured ? 36 : 30;
+  const icon = L.divIcon({
+    html, className: '',
+    iconSize: [size, size], iconAnchor:[size/2, size/2], popupAnchor:[0, -size/2]
+  });
+  const marker = L.marker([loc.lat, loc.lng], { icon })
+    .bindPopup(buildPopup(loc, false))
+    .addTo(map);
+  marker._loc = loc;
+  marker._idx = idx;
+  markers.push(marker);
+});
+
+/* --- Polylines por dia (ordem cronológica) --- */
+for (let d = 1; d <= 8; d++) {
+  const dayStops = LOCATIONS.filter(l => l.day === d && !l.name.includes("(alt.)"))
+                             .sort((a,b) => a.order - b.order);
+  if (dayStops.length < 2) continue;
+  const coords = dayStops.map(s => [s.lat, s.lng]);
+  const line = L.polyline(coords, {
+    color: DAY_COLORS[d], weight: 3, opacity: 0.55, dashArray: "6, 8"
+  });
+  line._day = d;
+  polylines.push(line);
+}
+
+function buildPopup(loc, isHome) {
+  const gmapsSearch = `https://www.google.com/maps/search/?api=1&query=${loc.lat},${loc.lng}`;
+  const gmapsWalk   = `https://www.google.com/maps/dir/?api=1&origin=${HOTEL.lat},${HOTEL.lng}&destination=${loc.lat},${loc.lng}&travelmode=walking`;
+  let html = `<div class="popup">`;
+  html += `<h3>${loc.featured ? "⭐ " : ""}${loc.name}${loc.time ? ` <span style="color:#888;font-weight:400;font-size:12px;">· ${loc.time}</span>` : ""}</h3>`;
+  html += `<div class="addr">📍 ${loc.address}</div>`;
+  if (loc.desc) html += `<div class="desc">${loc.desc}</div>`;
+  if (loc.tip)  html += `<div class="tip">${loc.tip}</div>`;
+  const metaParts = [];
+  if (loc.duration) metaParts.push(`⏳ ${loc.duration}`);
+  if (loc.cost)     metaParts.push(`💰 ${loc.cost}`);
+  if (metaParts.length) html += `<div class="meta">${metaParts.join(" · ")}</div>`;
+  html += `<div class="btns">
+    <a href="${gmapsSearch}" target="_blank" rel="noopener">📍 Google Maps</a>`;
+  if (!isHome) html += `<a class="walk" href="${gmapsWalk}" target="_blank" rel="noopener">🚶 Rota do hotel</a>`;
+  html += `</div></div>`;
+  return html;
+}
+
+/* ==========================================================================
+   SIDEBAR
+   ========================================================================== */
+
+const sidebar = document.getElementById('sidebar');
+
+function buildSidebar() {
+  let html = '';
+  for (let d = 1; d <= 8; d++) {
+    const meta = DAYS_META[d];
+    const stops = LOCATIONS.filter(l => l.day === d).sort((a,b) => a.order - b.order);
+    html += `<div class="day-card" data-day="${d}">
+      <div class="day-header" onclick="toggleDay(${d})">
+        <div class="num">${d}</div>
+        <div class="title">Dia ${d} — ${meta.title}<small>${meta.mood}</small></div>
+        <div class="toggle">▸</div>
+      </div>
+      <div class="day-body">
+        <div class="day-meta">${meta.km} · Gasto: ${meta.spend}</div>`;
+    stops.forEach((s, i) => {
+      const globalIdx = LOCATIONS.indexOf(s);
+      html += `<div class="stop" data-idx="${globalIdx}" onclick="focusStop(${globalIdx})">
+        <div class="time">${s.time}</div>
+        <div class="info">
+          <div class="name">${s.featured ? "⭐ " : ""}${s.name}</div>
+          <div class="addr">${s.address}</div>
+          ${s.duration ? `<span class="tag">⏳ ${s.duration}</span>` : ""}
+          ${s.cost     ? `<span class="tag cost">💰 ${s.cost}</span>` : ""}
+        </div>
+      </div>`;
+    });
+    html += `</div></div>`;
+  }
+  sidebar.innerHTML = html;
+}
+buildSidebar();
+
+function toggleDay(d) {
+  const card = document.querySelector(`.day-card[data-day="${d}"]`);
+  card.classList.toggle('open');
+}
+
+function focusStop(idx) {
+  const loc = LOCATIONS[idx];
+  const marker = markers[idx];
+  map.flyTo([loc.lat, loc.lng], 16, { duration: 0.8 });
+  setTimeout(() => marker.openPopup(), 600);
+  document.querySelectorAll('.stop').forEach(el => el.classList.remove('active-stop'));
+  const el = document.querySelector(`.stop[data-idx="${idx}"]`);
+  if (el) {
+    el.classList.add('active-stop');
+    const card = el.closest('.day-card');
+    if (card && !card.classList.contains('open')) card.classList.add('open');
+  }
+}
+
+/* ==========================================================================
+   FILTROS
+   ========================================================================== */
+
+const filterBtns = document.querySelectorAll('#filters button');
+filterBtns.forEach(btn => btn.addEventListener('click', () => applyFilter(btn.dataset.day)));
+
+function applyFilter(dayKey) {
+  filterBtns.forEach(b => b.classList.toggle('active', b.dataset.day === dayKey));
+
+  // markers
+  markers.forEach(m => {
+    const loc = m._loc;
+    const show = (dayKey === 'all') || (String(loc.day) === dayKey);
+    if (show) { if (!map.hasLayer(m)) m.addTo(map); }
+    else     { if (map.hasLayer(m)) map.removeLayer(m); }
+  });
+
+  // hotel sempre visível exceto se clicar explicitamente em "Hotel" (mostra só hotel)
+  if (dayKey === '0') {
+    markers.forEach(m => { if (map.hasLayer(m)) map.removeLayer(m); });
+  }
+
+  // polylines
+  polylines.forEach(line => {
+    const show = (dayKey === 'all') || (String(line._day) === dayKey);
+    if (show) { if (!map.hasLayer(line)) line.addTo(map); }
+    else     { if (map.hasLayer(line)) map.removeLayer(line); }
+  });
+
+  // cards do sidebar
+  document.querySelectorAll('.day-card').forEach(card => {
+    card.style.display = (dayKey === 'all' || dayKey === '0' || card.dataset.day === dayKey) ? '' : 'none';
+    if (dayKey !== 'all' && dayKey !== '0') {
+      card.classList.toggle('open', card.dataset.day === dayKey);
+    }
+  });
+
+  // fit bounds
+  if (dayKey === 'all') {
+    const group = L.featureGroup([homeMarker, ...markers]);
+    map.fitBounds(group.getBounds().pad(0.15));
+  } else if (dayKey === '0') {
+    map.flyTo([HOTEL.lat, HOTEL.lng], 15, { duration: 0.8 });
+  } else {
+    const dayMarkers = markers.filter(m => String(m._loc.day) === dayKey);
+    if (dayMarkers.length) {
+      const group = L.featureGroup([homeMarker, ...dayMarkers]);
+      map.fitBounds(group.getBounds().pad(0.2));
+    }
+  }
+
+  try { localStorage.setItem('nyc-last-day', dayKey); } catch(e){}
+}
+
+/* ==========================================================================
+   INIT
+   ========================================================================== */
+
+const savedDay = (() => { try { return localStorage.getItem('nyc-last-day'); } catch(e){ return null; } })();
+applyFilter(savedDay || 'all');
+// abrir Dia 1 por padrão se sem estado salvo
+if (!savedDay) document.querySelector('.day-card[data-day="1"]').classList.add('open');
+</script>
+</body>
+</html>
