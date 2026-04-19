@@ -3,7 +3,7 @@ name: Update Agenda Claude
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 9 * * *'
+    - cron: '0 9 */2 * *'
 
 permissions:
   contents: write
@@ -28,8 +28,10 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GEMINI_MODEL: gemini-2.5-flash
           GEMINI_REQUEST_DELAY_MS: 6500
-          MAX_POSTS_PER_VENUE: 5
+          MAX_POSTS_PER_VENUE: 3
           MAX_IMAGES_PER_POST: 1
+          VENUE_BATCHES: 2
+          VENUE_BATCH_ROTATION_DAYS: 2
         run: npm run agenda:fetch
 
       - name: Build Claude agenda JSON

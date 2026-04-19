@@ -8,6 +8,11 @@ const GEMINI_MODEL = process.env.GEMINI_MODEL || 'gemini-2.5-flash'
 const MAX_POSTS_PER_VENUE = Number(process.env.MAX_POSTS_PER_VENUE || '5')
 const MAX_IMAGES_PER_POST = Number(process.env.MAX_IMAGES_PER_POST || '1')
 const MAX_VENUES = Number(process.env.MAX_VENUES || '0')
+const VENUE_BATCHES = Math.max(1, Number(process.env.VENUE_BATCHES || '1'))
+const VENUE_BATCH_ROTATION_DAYS = Math.max(
+  1,
+  Number(process.env.VENUE_BATCH_ROTATION_DAYS || '1')
+)
 const GEMINI_REQUEST_DELAY_MS = Number(process.env.GEMINI_REQUEST_DELAY_MS || '6500')
 const HANDLES_FILTER = (process.env.INSTAGRAM_HANDLES || '')
   .split(',')
@@ -78,12 +83,27 @@ function parseGuideVenues() {
   return venues
 }
 
+function getBatchIndex() {
+  const daysSinceEpoch = Math.floor(Date.now() / 86400000)
+  return Math.floor(daysSinceEpoch / VENUE_BATCH_ROTATION_DAYS) % VENUE_BATCHES
+}
+
 function selectVenues(venues) {
   let filtered = venues
 
   if (HANDLES_FILTER.length > 0) {
     filtered = filtered.filter((venue) =>
       HANDLES_FILTER.includes(venue.handle.toLowerCase())
+    )
+  }
+
+  if (VENUE_BATCHES > 1) {
+    const batchIndex = getBatchIndex()
+    filtered = filtered.filter(
+      (_, index) => index % VENUE_BATCHES === batchIndex
+    )
+    console.log(
+      `Batch ${batchIndex + 1}/${VENUE_BATCHES}: ${filtered.length} venues`
     )
   }
 
