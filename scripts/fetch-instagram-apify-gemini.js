@@ -462,7 +462,39 @@ async function analyzePostWithGemini(venue, post, scheduleWindow) {
           evidence: cleanTextBlock(event.evidence || ''),
         }))
       : [],
+    windowMax: scheduleWindow[scheduleWindow.length - 1] || null,
   }
+}
+
+function buildAnalysisCache(source) {
+  const cache = new Map()
+  if (!source || typeof source !== 'object' || !source.venues) {
+    return cache
+  }
+
+  for (const venue of Object.values(source.venues)) {
+    if (!venue || !Array.isArray(venue.posts)) continue
+    for (const post of venue.posts) {
+      if (post && post.id && post.analysis) {
+        cache.set(post.id, {
+          caption: post.caption || '',
+          analysis: post.analysis,
+        })
+      }
+    }
+  }
+
+  return cache
+}
+
+function canReuseAnalysis(cached, post, scheduleWindow) {
+  if (!cached || !cached.analysis) return false
+  if (cached.caption !== (post.caption || '')) return false
+
+  const cachedMax = cached.analysis.windowMax
+  const currentMax = scheduleWindow[scheduleWindow.length - 1]
+  if (!cachedMax || !currentMax) return false
+  return cachedMax >= currentMax
 }
 
 function filterPostsForVenue(items, venue) {
@@ -500,6 +532,9 @@ async function main() {
   const venues = selectVenues(parseGuideVenues())
   const previousSource = readExistingSource()
   const scheduleWindow = getScheduleWindow()
+  const analysisCache = buildAnalysisCache(previousSource)
+  let cacheHits = 0
+  let cacheMisses = 0
   const output = previousSource && typeof previousSource === 'object'
     ? {
         ...previousSource,
@@ -529,7 +564,15 @@ async function main() {
       const analyzedPosts = []
 
       for (const post of posts) {
-        let analysis = { relevant: false, events: [] }
+        const cached = analysisCache.get(post.id)
+
+        if (canReuseAnalysis(cached, post, scheduleWindow)) {
+          analyzedPosts.push({ ...post, analysis: cached.analysis })
+          cacheHits += 1
+          continue
+        }
+
+        let analysis = { relevant: false, events: [], windowMax: scheduleWindow[scheduleWindow.length - 1] || null }
 
         try {
           analysis = await analyzePostWithGemini(venue, post, scheduleWindow)
@@ -547,6 +590,7 @@ async function main() {
           analysis,
         })
 
+        cacheMisses += 1
         await sleep(GEMINI_REQUEST_DELAY_MS)
       }
 
@@ -584,7 +628,9 @@ async function main() {
 
   const sourcePath = path.join(process.cwd(), 'content', 'agenda-source.json')
   fs.writeFileSync(sourcePath, JSON.stringify(output, null, 2))
-  console.log('Instagram source updated from Apify + Gemini.')
+  console.log(
+    `Instagram source updated from Apify + Gemini. Gemini cache: ${cacheHits} hits, ${cacheMisses} misses.`
+  )
 }
 
 main().catch((error) => {
