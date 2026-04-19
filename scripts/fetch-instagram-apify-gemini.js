@@ -546,12 +546,13 @@ async function main() {
         output.venues[venue.handle] = previousSource.venues[venue.handle]
       }
 
+      const message = error instanceof Error ? error.message : 'Apify scrape failed'
       output.errors.push({
         handle: venue.handle,
         provider: 'apify',
-        message: error instanceof Error ? error.message : 'Apify scrape failed',
+        message,
       })
-      console.error(`Failed @${venue.handle}`)
+      console.error(`Failed @${venue.handle}: ${message}`)
     }
   }
 
