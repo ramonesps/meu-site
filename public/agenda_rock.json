@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-05T09:52:45.332Z",
-  "week_start": "2026-04-05",
+  "updated_at": "2026-04-29T11:07:47.305Z",
+  "week_start": "2026-04-29",
   "model": "gemini-2.5-flash",
   "venues": [
     {
@@ -8,79 +8,21 @@
       "ig": "https://www.instagram.com/wearebastardspub/",
       "bairro": "Água Verde",
       "cat": "Gourmet",
-      "events": {
-        "2026-04-05": [
-          {
-            "name": "República Pine",
-            "time": null,
-            "description": null
-          },
-          {
-            "name": "Páscoa Bastards",
-            "time": null,
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Cross Roads",
       "ig": "https://www.instagram.com/barcrossroads/",
       "bairro": "Água Verde",
       "cat": "Gourmet",
-      "events": {
-        "2026-04-09": [
-          {
-            "name": "Casa aberta",
-            "time": "20:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Noite no Cross",
-            "time": "20:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-04-10": [
-          {
-            "name": "Noite no Cross",
-            "time": "20:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-04-11": [
-          {
-            "name": "Noite no Cross",
-            "time": "20:00:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Hard Rock",
       "ig": "https://www.instagram.com/hrccuritiba/",
       "bairro": "Batel",
       "cat": "Gourmet",
-      "events": {
-        "2026-04-05": [
-          {
-            "name": "Páscoa",
-            "time": "11:00:00.000000000Z",
-            "description": null
-          },
-          {
-            "name": "Marcela Juk",
-            "time": "12:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Cash Vibes",
-            "time": "19:30:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Sheridans",
@@ -94,7 +36,53 @@
       "ig": "https://www.instagram.com/bardafabricabastards/",
       "bairro": "Bom Retiro",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-04-29": [
+          {
+            "name": "Johaine Duo",
+            "time": "19:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-04-30": [
+          {
+            "name": "Lady Die",
+            "time": "19:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-05-01": [
+          {
+            "name": "Gran Verano",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-05-02": [
+          {
+            "name": "Anacrônica Duo",
+            "time": "16:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Syd Vinícius",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-05-03": [
+          {
+            "name": "Sonora 4",
+            "time": "16:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Almoço",
+            "time": "12:00:00.000Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Maniacs",
@@ -115,20 +103,7 @@
       "ig": "https://www.instagram.com/distrito.1340/",
       "bairro": "Seminário",
       "cat": "Gourmet",
-      "events": {
-        "2026-04-05": [
-          {
-            "name": "Long Field | Samba-rock sem samba",
-            "time": "19:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Lenhadores | Indie / Folk Rock",
-            "time": "21:00:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Barbarium",
