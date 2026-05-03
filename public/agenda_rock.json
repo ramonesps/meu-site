@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-01T10:36:17.151Z",
-  "week_start": "2026-05-01",
+  "updated_at": "2026-05-03T10:17:10.764Z",
+  "week_start": "2026-05-03",
   "model": "gemini-2.5-flash",
   "venues": [
     {
@@ -8,7 +8,15 @@
       "ig": "https://www.instagram.com/wearebastardspub/",
       "bairro": "Água Verde",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-05-07": [
+          {
+            "name": "Candyman Club",
+            "time": "21:30:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Cross Roads",
@@ -16,20 +24,6 @@
       "bairro": "Água Verde",
       "cat": "Gourmet",
       "events": {
-        "2026-05-01": [
-          {
-            "name": "Vitrola Vintage, Caravan, The Vedders",
-            "time": "20:00:00.000Z",
-            "description": null
-          }
-        ],
-        "2026-05-02": [
-          {
-            "name": "Acoustica Rock in Roll, Radiophonics, República Pine",
-            "time": "20:00:00.000Z",
-            "description": null
-          }
-        ],
         "2026-05-07": [
           {
             "name": "Quintas de Blues & Classics",
@@ -44,7 +38,20 @@
       "ig": "https://www.instagram.com/hrccuritiba/",
       "bairro": "Batel",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-05-03": [
+          {
+            "name": "Show Renan Henrique",
+            "time": "12:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Show Elvis Rock Band",
+            "time": "19:30:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Sheridans",
@@ -52,30 +59,6 @@
       "bairro": "Batel",
       "cat": "Gourmet",
       "events": {
-        "2026-05-01": [
-          {
-            "name": "PLUGGED",
-            "time": "20:30:00Z",
-            "description": null
-          },
-          {
-            "name": "RADIOPHONICS",
-            "time": "23:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-05-02": [
-          {
-            "name": "FIRECRACKER",
-            "time": "20:30:00Z",
-            "description": null
-          },
-          {
-            "name": "CANDYMAN CLUB",
-            "time": "23:00:00Z",
-            "description": null
-          }
-        ],
         "2026-05-07": [
           {
             "name": "ROCK ON THE FLOOR com Banks Banda",
@@ -91,34 +74,25 @@
       "bairro": "Bom Retiro",
       "cat": "Gourmet",
       "events": {
-        "2026-05-01": [
-          {
-            "name": "Gran Verano",
-            "time": "20:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-05-02": [
-          {
-            "name": "Anacrônica Duo",
-            "time": "16:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Syd Vinícius",
-            "time": "20:00:00Z",
-            "description": null
-          }
-        ],
         "2026-05-03": [
           {
-            "name": "Sonora 4",
-            "time": "16:00:00Z",
+            "name": "Simulador de corrida",
+            "time": null,
             "description": null
           },
           {
-            "name": "Almoço",
-            "time": "12:00:00.000Z",
+            "name": "Show Lelyquinn Duo",
+            "time": "15:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Transmissão GP de Miami",
+            "time": "17:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Show Sonora4",
+            "time": "19:00:00Z",
             "description": null
           }
         ]
@@ -129,15 +103,7 @@
       "ig": "https://www.instagram.com/bardamaniacs/",
       "bairro": "Cabral",
       "cat": "Gourmet",
-      "events": {
-        "2026-05-01": [
-          {
-            "name": "Abertura no feriado",
-            "time": null,
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Rock Pizza",
@@ -152,30 +118,6 @@
       "bairro": "Seminário",
       "cat": "Gourmet",
       "events": {
-        "2026-05-01": [
-          {
-            "name": "Lady Die",
-            "time": "21:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Candyman Club",
-            "time": "00:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-05-02": [
-          {
-            "name": "Joe Crow",
-            "time": "21:00:00Z",
-            "description": null
-          },
-          {
-            "name": "MTX Mo Fire Band",
-            "time": "00:00:00Z",
-            "description": null
-          }
-        ],
         "2026-05-03": [
           {
             "name": "Syd Vinicius",
@@ -209,13 +151,6 @@
             "time": "15:00:00Z",
             "description": null
           }
-        ],
-        "2026-05-02": [
-          {
-            "name": "Música ao vivo com bandas",
-            "time": null,
-            "description": null
-          }
         ]
       }
     },
@@ -224,7 +159,15 @@
       "ig": "https://www.instagram.com/jokerspub/",
       "bairro": "Centro",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-05-09": [
+          {
+            "name": "Feijoada",
+            "time": null,
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Tork n' Roll",
@@ -232,35 +175,6 @@
       "bairro": "Rebouças",
       "cat": "Palco e Show",
       "events": {
-        "2026-05-01": [
-          {
-            "name": "Bailão Nerd",
-            "time": "21:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-05-02": [
-          {
-            "name": "Raphia feat. Carlão Motörhead Cover",
-            "time": "20:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Motorocker",
-            "time": "22:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Youngs - AC/DC Cover",
-            "time": "01:00:00Z",
-            "description": null
-          },
-          {
-            "name": "ALTA VOLTAGEM com MOTOROCKER, YOUNGS, RAPHIA",
-            "time": null,
-            "description": null
-          }
-        ],
         "2026-05-04": [
           {
             "name": "As I Lay Dying",
@@ -282,39 +196,22 @@
       "ig": "https://www.instagram.com/sebas_rock_bar/",
       "bairro": "Boqueirão",
       "cat": "Palco e Show",
-      "events": {
-        "2026-05-01": [
-          {
-            "name": "Show Bon Jovi Cover Brasil e Fabio Oliveira",
-            "time": "19:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Open Food",
-            "time": "19:00:00Z",
-            "description": null
-          },
-          {
-            "name": "OPEN FOOD com bandas ao vivo",
-            "time": "19:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-05-02": [
-          {
-            "name": "OPEN FOOD com bandas ao vivo",
-            "time": "19:00:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Belvedere",
       "ig": "https://www.instagram.com/belvederecasadecultura/",
       "bairro": "São Francisco",
       "cat": "Palco e Show",
-      "events": {}
+      "events": {
+        "2026-05-03": [
+          {
+            "name": "Mantra Tour",
+            "time": "18:00:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Resistência",
@@ -322,18 +219,6 @@
       "bairro": "Bairro Alto",
       "cat": "Raiz",
       "events": {
-        "2026-05-01": [
-          {
-            "name": "Rodízio de Petiscos",
-            "time": null,
-            "description": null
-          },
-          {
-            "name": "Clipes no telão",
-            "time": "18:00:00Z",
-            "description": null
-          }
-        ],
         "2026-05-06": [
           {
             "name": "Rodízio de Petiscos",
@@ -365,7 +250,22 @@
       "ig": "https://www.instagram.com/clayhighway/",
       "bairro": "Capão Raso",
       "cat": "Raiz",
-      "events": {}
+      "events": {
+        "2026-05-08": [
+          {
+            "name": "Tributo Slipknot e Rammstein",
+            "time": "21:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-05-03": [
+          {
+            "name": "BEE GEES com Banda Afterlife Back in Time",
+            "time": "20:30:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Armazém Garage",
@@ -387,13 +287,6 @@
       "bairro": "Bacacheri",
       "cat": "Raiz",
       "events": {
-        "2026-05-02": [
-          {
-            "name": "ROCK N' ROLL com BANDA VINTAGE",
-            "time": "22:00:00Z",
-            "description": null
-          }
-        ],
         "2026-05-03": [
           {
             "name": "ROCK N' ROLL com BANDA VINTAGE",
