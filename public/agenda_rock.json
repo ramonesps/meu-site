@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-03T10:17:10.764Z",
-  "week_start": "2026-05-03",
+  "updated_at": "2026-05-05T10:58:32.617Z",
+  "week_start": "2026-05-05",
   "model": "gemini-2.5-flash",
   "venues": [
     {
@@ -23,80 +23,28 @@
       "ig": "https://www.instagram.com/barcrossroads/",
       "bairro": "Água Verde",
       "cat": "Gourmet",
-      "events": {
-        "2026-05-07": [
-          {
-            "name": "Quintas de Blues & Classics",
-            "time": "19:00:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Hard Rock",
       "ig": "https://www.instagram.com/hrccuritiba/",
       "bairro": "Batel",
       "cat": "Gourmet",
-      "events": {
-        "2026-05-03": [
-          {
-            "name": "Show Renan Henrique",
-            "time": "12:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Show Elvis Rock Band",
-            "time": "19:30:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Sheridans",
       "ig": "https://www.instagram.com/sheridansirishpub/",
       "bairro": "Batel",
       "cat": "Gourmet",
-      "events": {
-        "2026-05-07": [
-          {
-            "name": "ROCK ON THE FLOOR com Banks Banda",
-            "time": "20:30:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Bastards Fábrica",
       "ig": "https://www.instagram.com/bardafabricabastards/",
       "bairro": "Bom Retiro",
       "cat": "Gourmet",
-      "events": {
-        "2026-05-03": [
-          {
-            "name": "Simulador de corrida",
-            "time": null,
-            "description": null
-          },
-          {
-            "name": "Show Lelyquinn Duo",
-            "time": "15:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Transmissão GP de Miami",
-            "time": "17:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Show Sonora4",
-            "time": "19:00:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Maniacs",
@@ -117,20 +65,7 @@
       "ig": "https://www.instagram.com/distrito.1340/",
       "bairro": "Seminário",
       "cat": "Gourmet",
-      "events": {
-        "2026-05-03": [
-          {
-            "name": "Syd Vinicius",
-            "time": "19:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Lenhadores da Antártida",
-            "time": "21:00:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Barbarium",
@@ -145,9 +80,9 @@
       "bairro": "Rebouças",
       "cat": "Gourmet",
       "events": {
-        "2026-05-03": [
+        "2026-05-09": [
           {
-            "name": "Candyman Club e convidados",
+            "name": "Candyman Club e atrações",
             "time": "15:00:00Z",
             "description": null
           }
@@ -174,15 +109,7 @@
       "ig": "https://www.instagram.com/torkandroll/",
       "bairro": "Rebouças",
       "cat": "Palco e Show",
-      "events": {
-        "2026-05-04": [
-          {
-            "name": "As I Lay Dying",
-            "time": "21:00:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Blood Rock",
@@ -196,54 +123,29 @@
       "ig": "https://www.instagram.com/sebas_rock_bar/",
       "bairro": "Boqueirão",
       "cat": "Palco e Show",
-      "events": {}
+      "events": {
+        "2026-05-09": [
+          {
+            "name": "SUMMER HITS – Embalos de Sebaldo à Noite com DJ Madrox",
+            "time": "21:00:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Belvedere",
       "ig": "https://www.instagram.com/belvederecasadecultura/",
       "bairro": "São Francisco",
       "cat": "Palco e Show",
-      "events": {
-        "2026-05-03": [
-          {
-            "name": "Mantra Tour",
-            "time": "18:00:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Resistência",
       "ig": "https://www.instagram.com/resistenciarock/",
       "bairro": "Bairro Alto",
       "cat": "Raiz",
-      "events": {
-        "2026-05-06": [
-          {
-            "name": "Rodízio de Petiscos",
-            "time": null,
-            "description": null
-          },
-          {
-            "name": "Clipes no telão",
-            "time": "18:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-05-07": [
-          {
-            "name": "Rodízio de Petiscos",
-            "time": null,
-            "description": null
-          },
-          {
-            "name": "Clipes no telão",
-            "time": "18:00:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Clay Highway",
@@ -255,13 +157,6 @@
           {
             "name": "Tributo Slipknot e Rammstein",
             "time": "21:30:00Z",
-            "description": null
-          }
-        ],
-        "2026-05-03": [
-          {
-            "name": "BEE GEES com Banda Afterlife Back in Time",
-            "time": "20:30:00Z",
             "description": null
           }
         ]
@@ -286,43 +181,7 @@
       "ig": "https://www.instagram.com/theanimalspub/",
       "bairro": "Bacacheri",
       "cat": "Raiz",
-      "events": {
-        "2026-05-03": [
-          {
-            "name": "ROCK N' ROLL com BANDA VINTAGE",
-            "time": "22:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-05-04": [
-          {
-            "name": "ROCK N' ROLL com BANDA VINTAGE",
-            "time": "22:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-05-05": [
-          {
-            "name": "ROCK N' ROLL com BANDA VINTAGE",
-            "time": "22:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-05-06": [
-          {
-            "name": "ROCK N' ROLL com BANDA VINTAGE",
-            "time": "22:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-05-07": [
-          {
-            "name": "ROCK N' ROLL com BANDA VINTAGE",
-            "time": "22:00:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "92 Graus",
