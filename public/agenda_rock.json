@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-05T10:58:32.617Z",
-  "week_start": "2026-05-05",
+  "updated_at": "2026-05-07T11:20:45.641Z",
+  "week_start": "2026-05-07",
   "model": "gemini-2.5-flash",
   "venues": [
     {
@@ -11,8 +11,46 @@
       "events": {
         "2026-05-07": [
           {
-            "name": "Candyman Club",
+            "name": "FOLKS TRIO",
+            "time": "20:20:00Z",
+            "description": null
+          },
+          {
+            "name": "Happy Hour Vira Lata Hour",
+            "time": "18:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-05-08": [
+          {
+            "name": "ANACRÔNICA",
+            "time": "20:00:00Z",
+            "description": null
+          },
+          {
+            "name": "JUKEBOXX",
+            "time": "22:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-05-09": [
+          {
+            "name": "LENHADORES DA ANTÁRTIDA",
             "time": "21:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-05-12": [
+          {
+            "name": "Happy Hour Vira Lata Hour",
+            "time": "18:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-05-13": [
+          {
+            "name": "Happy Hour Vira Lata Hour",
+            "time": "18:00:00Z",
             "description": null
           }
         ]
@@ -30,7 +68,56 @@
       "ig": "https://www.instagram.com/hrccuritiba/",
       "bairro": "Batel",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-05-10": [
+          {
+            "name": "Almoço especial Dia das Mães",
+            "time": null,
+            "description": null
+          },
+          {
+            "name": "Rogério Cordoni",
+            "time": "08:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Ella Savian",
+            "time": "12:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Raul Carneiro e Banda",
+            "time": "19:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-05-07": [
+          {
+            "name": "Scoopers",
+            "time": "19:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-05-08": [
+          {
+            "name": "Madame Crue",
+            "time": "19:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-05-09": [
+          {
+            "name": "Marcela Juk",
+            "time": "12:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Retrôvisor",
+            "time": "19:30:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Sheridans",
@@ -58,7 +145,36 @@
       "ig": "https://www.instagram.com/rockpizzaroll.bar/",
       "bairro": "Rebouças",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-05-08": [
+          {
+            "name": "Show com The Rockers (Rock Clássico)",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-05-09": [
+          {
+            "name": "Show com Pop Fusion (Pop Rock)",
+            "time": "21:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-05-10": [
+          {
+            "name": "Tributo a Queen com Bohemian Rhapsody Band",
+            "time": "22:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-05-11": [
+          {
+            "name": "Noite de Blues com Blues Brothers Tribute",
+            "time": "19:00:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Distrito 1340",
@@ -94,15 +210,7 @@
       "ig": "https://www.instagram.com/jokerspub/",
       "bairro": "Centro",
       "cat": "Gourmet",
-      "events": {
-        "2026-05-09": [
-          {
-            "name": "Feijoada",
-            "time": null,
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Tork n' Roll",
@@ -116,7 +224,15 @@
       "ig": "https://www.instagram.com/bloodrockbar/",
       "bairro": "São Francisco",
       "cat": "Palco e Show",
-      "events": {}
+      "events": {
+        "2026-05-09": [
+          {
+            "name": "Ghost Fest com Ghost Cover BR",
+            "time": null,
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Seb's Rock Bar",
@@ -138,7 +254,29 @@
       "ig": "https://www.instagram.com/belvederecasadecultura/",
       "bairro": "São Francisco",
       "cat": "Palco e Show",
-      "events": {}
+      "events": {
+        "2026-05-08": [
+          {
+            "name": "Hyperpop Club",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-05-09": [
+          {
+            "name": "CPC FEST",
+            "time": "19:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-05-10": [
+          {
+            "name": "Pinhão Rock Fest",
+            "time": "18:00:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Resistência",
@@ -153,10 +291,59 @@
       "bairro": "Capão Raso",
       "cat": "Raiz",
       "events": {
+        "2026-05-09": [
+          {
+            "name": "Discotheque a Festa!",
+            "time": "20:00:00Z",
+            "description": null
+          },
+          {
+            "name": "TOPTAPE",
+            "time": "20:30:00Z",
+            "description": null
+          },
+          {
+            "name": "NEGA FULÔ",
+            "time": "22:30:00Z",
+            "description": null
+          },
+          {
+            "name": "SILVERMOON",
+            "time": "01:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Banda Toptape",
+            "time": "20:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Banda Nega Fulô",
+            "time": "22:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Banda Silvermoon",
+            "time": "01:00:00Z",
+            "description": null
+          }
+        ],
         "2026-05-08": [
           {
-            "name": "Tributo Slipknot e Rammstein",
+            "name": "Mein Teil Rammstein",
             "time": "21:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Cwknot Slipknot cover",
+            "time": "00:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-05-10": [
+          {
+            "name": "Banda Undered",
+            "time": "20:30:00Z",
             "description": null
           }
         ]
