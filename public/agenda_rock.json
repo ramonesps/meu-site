@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-07T11:20:45.641Z",
+  "updated_at": "2026-05-07T19:40:01.440Z",
   "week_start": "2026-05-07",
   "model": "gemini-2.5-flash",
   "venues": [
@@ -69,28 +69,6 @@
       "bairro": "Batel",
       "cat": "Gourmet",
       "events": {
-        "2026-05-10": [
-          {
-            "name": "Almoço especial Dia das Mães",
-            "time": null,
-            "description": null
-          },
-          {
-            "name": "Rogério Cordoni",
-            "time": "08:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Ella Savian",
-            "time": "12:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Raul Carneiro e Banda",
-            "time": "19:30:00Z",
-            "description": null
-          }
-        ],
         "2026-05-07": [
           {
             "name": "Scoopers",
@@ -113,6 +91,23 @@
           },
           {
             "name": "Retrôvisor",
+            "time": "19:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-05-10": [
+          {
+            "name": "Rogério Cordoni",
+            "time": "08:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Ella Savian",
+            "time": "12:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Raul Carneiro e Banda",
             "time": "19:30:00Z",
             "description": null
           }
@@ -210,7 +205,15 @@
       "ig": "https://www.instagram.com/jokerspub/",
       "bairro": "Centro",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-05-07": [
+          {
+            "name": "Banda Rádio K7",
+            "time": "20:00:00.000Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Tork n' Roll",
@@ -254,29 +257,7 @@
       "ig": "https://www.instagram.com/belvederecasadecultura/",
       "bairro": "São Francisco",
       "cat": "Palco e Show",
-      "events": {
-        "2026-05-08": [
-          {
-            "name": "Hyperpop Club",
-            "time": "20:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-05-09": [
-          {
-            "name": "CPC FEST",
-            "time": "19:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-05-10": [
-          {
-            "name": "Pinhão Rock Fest",
-            "time": "18:00:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Resistência",
@@ -291,27 +272,19 @@
       "bairro": "Capão Raso",
       "cat": "Raiz",
       "events": {
+        "2026-05-08": [
+          {
+            "name": "Mein Teil Rammstein",
+            "time": "21:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Cwknot Slipknot cover",
+            "time": "00:00:00Z",
+            "description": null
+          }
+        ],
         "2026-05-09": [
-          {
-            "name": "Discotheque a Festa!",
-            "time": "20:00:00Z",
-            "description": null
-          },
-          {
-            "name": "TOPTAPE",
-            "time": "20:30:00Z",
-            "description": null
-          },
-          {
-            "name": "NEGA FULÔ",
-            "time": "22:30:00Z",
-            "description": null
-          },
-          {
-            "name": "SILVERMOON",
-            "time": "01:00:00Z",
-            "description": null
-          },
           {
             "name": "Banda Toptape",
             "time": "20:30:00Z",
@@ -325,18 +298,6 @@
           {
             "name": "Banda Silvermoon",
             "time": "01:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-05-08": [
-          {
-            "name": "Mein Teil Rammstein",
-            "time": "21:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Cwknot Slipknot cover",
-            "time": "00:00:00Z",
             "description": null
           }
         ],
