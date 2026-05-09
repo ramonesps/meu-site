@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-07T19:40:01.440Z",
-  "week_start": "2026-05-07",
+  "updated_at": "2026-05-09T10:17:50.294Z",
+  "week_start": "2026-05-09",
   "model": "gemini-2.5-flash",
   "venues": [
     {
@@ -9,30 +9,6 @@
       "bairro": "Água Verde",
       "cat": "Gourmet",
       "events": {
-        "2026-05-07": [
-          {
-            "name": "FOLKS TRIO",
-            "time": "20:20:00Z",
-            "description": null
-          },
-          {
-            "name": "Happy Hour Vira Lata Hour",
-            "time": "18:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-05-08": [
-          {
-            "name": "ANACRÔNICA",
-            "time": "20:00:00Z",
-            "description": null
-          },
-          {
-            "name": "JUKEBOXX",
-            "time": "22:30:00Z",
-            "description": null
-          }
-        ],
         "2026-05-09": [
           {
             "name": "LENHADORES DA ANTÁRTIDA",
@@ -61,7 +37,22 @@
       "ig": "https://www.instagram.com/barcrossroads/",
       "bairro": "Água Verde",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-05-09": [
+          {
+            "name": "Engenheiros do Hawaii Cover Curitiba + Syd Vinícius + Os Caras do Charlie Brown",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-05-14": [
+          {
+            "name": "Quintas Blues",
+            "time": "18:00:00.000Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Hard Rock",
@@ -69,20 +60,6 @@
       "bairro": "Batel",
       "cat": "Gourmet",
       "events": {
-        "2026-05-07": [
-          {
-            "name": "Scoopers",
-            "time": "19:30:00Z",
-            "description": null
-          }
-        ],
-        "2026-05-08": [
-          {
-            "name": "Madame Crue",
-            "time": "19:30:00Z",
-            "description": null
-          }
-        ],
         "2026-05-09": [
           {
             "name": "Marcela Juk",
@@ -119,7 +96,15 @@
       "ig": "https://www.instagram.com/sheridansirishpub/",
       "bairro": "Batel",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-05-09": [
+          {
+            "name": "DOUBLE DECK, BACKSTAGE",
+            "time": "20:30:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Bastards Fábrica",
@@ -133,7 +118,15 @@
       "ig": "https://www.instagram.com/bardamaniacs/",
       "bairro": "Cabral",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-05-12": [
+          {
+            "name": "Chef Convidado André Pionteke",
+            "time": null,
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Rock Pizza",
@@ -141,13 +134,6 @@
       "bairro": "Rebouças",
       "cat": "Gourmet",
       "events": {
-        "2026-05-08": [
-          {
-            "name": "Show com The Rockers (Rock Clássico)",
-            "time": "20:00:00Z",
-            "description": null
-          }
-        ],
         "2026-05-09": [
           {
             "name": "Show com Pop Fusion (Pop Rock)",
@@ -176,7 +162,42 @@
       "ig": "https://www.instagram.com/distrito.1340/",
       "bairro": "Seminário",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-05-09": [
+          {
+            "name": "Esquadrão Flash Hits | Flashback 70’s & 80’s",
+            "time": "21:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Firecracker | Pop Rock / Hits 00’s",
+            "time": "00:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Esquadrão Flash Hits",
+            "time": "21:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Firecracker",
+            "time": "00:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-05-10": [
+          {
+            "name": "Let’s Core | Hardcore / Rock 90’s",
+            "time": "21:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Let's Core",
+            "time": "21:00:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Barbarium",
@@ -191,10 +212,20 @@
       "bairro": "Rebouças",
       "cat": "Gourmet",
       "events": {
-        "2026-05-09": [
+        "2026-05-10": [
           {
-            "name": "Candyman Club e atrações",
-            "time": "15:00:00Z",
+            "name": "Candyman Club, Minha Banda é uma Festa, Hus Cage, DJ Adriano",
+            "time": "15:00:00.000Z",
+            "description": null
+          },
+          {
+            "name": "Música ao vivo",
+            "time": null,
+            "description": null
+          },
+          {
+            "name": "Melhores bandas",
+            "time": null,
             "description": null
           }
         ]
@@ -205,22 +236,29 @@
       "ig": "https://www.instagram.com/jokerspub/",
       "bairro": "Centro",
       "cat": "Gourmet",
-      "events": {
-        "2026-05-07": [
-          {
-            "name": "Banda Rádio K7",
-            "time": "20:00:00.000Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Tork n' Roll",
       "ig": "https://www.instagram.com/torkandroll/",
       "bairro": "Rebouças",
       "cat": "Palco e Show",
-      "events": {}
+      "events": {
+        "2026-05-09": [
+          {
+            "name": "Bloco do Eu Sozinho",
+            "time": "21:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-05-15": [
+          {
+            "name": "Evento Nu Metal Moment Tork",
+            "time": "20:30:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Blood Rock",
@@ -249,6 +287,20 @@
             "time": "21:00:00Z",
             "description": null
           }
+        ],
+        "2026-05-14": [
+          {
+            "name": "OPEN FOOD com bandas ao vivo",
+            "time": "19:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-05-15": [
+          {
+            "name": "OPEN FOOD com bandas ao vivo",
+            "time": "19:00:00Z",
+            "description": null
+          }
         ]
       }
     },
@@ -272,18 +324,6 @@
       "bairro": "Capão Raso",
       "cat": "Raiz",
       "events": {
-        "2026-05-08": [
-          {
-            "name": "Mein Teil Rammstein",
-            "time": "21:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Cwknot Slipknot cover",
-            "time": "00:00:00Z",
-            "description": null
-          }
-        ],
         "2026-05-09": [
           {
             "name": "Banda Toptape",
@@ -315,7 +355,22 @@
       "ig": "https://www.instagram.com/armazemgaragem/",
       "bairro": "Santo Inácio",
       "cat": "Raiz",
-      "events": {}
+      "events": {
+        "2026-05-09": [
+          {
+            "name": "Décio Caetano Trio e Hawks",
+            "time": "21:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-05-10": [
+          {
+            "name": "Capitão Tequila e Coração Pirata",
+            "time": "19:00:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Old Jack",
