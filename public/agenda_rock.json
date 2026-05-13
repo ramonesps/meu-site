@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-11T12:22:34.865Z",
-  "week_start": "2026-05-11",
+  "updated_at": "2026-05-13T11:39:14.870Z",
+  "week_start": "2026-05-13",
   "model": "gemini-2.5-flash",
   "venues": [
     {
@@ -18,8 +18,34 @@
       "events": {
         "2026-05-14": [
           {
-            "name": "Quintas Blues",
+            "name": "Crossroads Blues & Classics",
             "time": "18:00:00.000Z",
+            "description": null
+          },
+          {
+            "name": "Quintas Blues",
+            "time": "18:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-05-15": [
+          {
+            "name": "Sonora 4, Jamp e Válvula Vapor",
+            "time": "20:00:00.000Z",
+            "description": null
+          }
+        ],
+        "2026-05-16": [
+          {
+            "name": "Acoutisca Rock n’ roll, Candyman Club e Backstage",
+            "time": "20:00:00.000Z",
+            "description": null
+          }
+        ],
+        "2026-05-17": [
+          {
+            "name": "Thunder Originals",
+            "time": "15:00:00.000Z",
             "description": null
           }
         ]
@@ -37,7 +63,36 @@
       "ig": "https://www.instagram.com/sheridansirishpub/",
       "bairro": "Batel",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-05-13": [
+          {
+            "name": "MELO E JORDANA",
+            "time": "20:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-05-14": [
+          {
+            "name": "BANKS apresenta ROCK ON THE FLOOR",
+            "time": "20:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-05-15": [
+          {
+            "name": "RÁDIO VINIL, BON JOVI COVER BRASIL",
+            "time": "20:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-05-16": [
+          {
+            "name": "JACK FLASH, LENHADORES DA ANTÁRTIDA",
+            "time": "20:30:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Bastards Fábrica",
@@ -51,15 +106,7 @@
       "ig": "https://www.instagram.com/bardamaniacs/",
       "bairro": "Cabral",
       "cat": "Gourmet",
-      "events": {
-        "2026-05-12": [
-          {
-            "name": "Chef Convidado André Pionteke",
-            "time": null,
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Rock Pizza",
@@ -73,7 +120,63 @@
       "ig": "https://www.instagram.com/distrito.1340/",
       "bairro": "Seminário",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-05-13": [
+          {
+            "name": "Esportes na TV",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-05-14": [
+          {
+            "name": "Rádio Vinil",
+            "time": "19:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Candyman Club",
+            "time": "22:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-05-15": [
+          {
+            "name": "Pennyback",
+            "time": "21:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Syd Vinicius",
+            "time": "00:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-05-16": [
+          {
+            "name": "Fourback",
+            "time": "21:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Válvula",
+            "time": "00:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-05-17": [
+          {
+            "name": "El Cartel",
+            "time": "20:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Right Back",
+            "time": "22:00:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Barbarium",
@@ -87,7 +190,20 @@
       "ig": "https://www.instagram.com/dobruckibar/",
       "bairro": "Rebouças",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-05-16": [
+          {
+            "name": "Música ao vivo",
+            "time": null,
+            "description": null
+          },
+          {
+            "name": "Candyman Club",
+            "time": "15:00:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Jokers",
@@ -112,8 +228,27 @@
       "events": {
         "2026-05-15": [
           {
+            "name": "NU METAL MOMENT",
+            "time": "20:30:00Z",
+            "description": null
+          },
+          {
             "name": "Evento Nu Metal Moment Tork",
             "time": "20:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-05-16": [
+          {
+            "name": "Festa You Can Dance",
+            "time": "21:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-05-17": [
+          {
+            "name": "Show O Grilo",
+            "time": "21:00:00Z",
             "description": null
           }
         ]
@@ -149,6 +284,11 @@
       "events": {
         "2026-05-14": [
           {
+            "name": "Coração Pirata (Roupa Nova Cover)",
+            "time": "19:00:00Z",
+            "description": null
+          },
+          {
             "name": "OPEN FOOD com bandas ao vivo",
             "time": "19:00:00Z",
             "description": null
@@ -156,8 +296,30 @@
         ],
         "2026-05-15": [
           {
+            "name": "Banda Club Soda",
+            "time": "19:00:00Z",
+            "description": null
+          },
+          {
             "name": "OPEN FOOD com bandas ao vivo",
             "time": "19:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-05-16": [
+          {
+            "name": "Candyman Club",
+            "time": "19:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Double Deck",
+            "time": "21:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Boogie Night",
+            "time": "23:00:00Z",
             "description": null
           }
         ]
@@ -175,7 +337,44 @@
       "ig": "https://www.instagram.com/resistenciarock/",
       "bairro": "Bairro Alto",
       "cat": "Raiz",
-      "events": {}
+      "events": {
+        "2026-05-13": [
+          {
+            "name": "Rodízio de Petiscos",
+            "time": null,
+            "description": null
+          },
+          {
+            "name": "Clipes no telão",
+            "time": "18:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-05-14": [
+          {
+            "name": "Rodízio de Petiscos",
+            "time": null,
+            "description": null
+          },
+          {
+            "name": "Clipes no telão",
+            "time": "18:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-05-19": [
+          {
+            "name": "Rodízio de Petiscos",
+            "time": null,
+            "description": null
+          },
+          {
+            "name": "Clipes no telão",
+            "time": "18:00:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Clay Highway",
