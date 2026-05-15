@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-13T11:39:14.870Z",
-  "week_start": "2026-05-13",
+  "updated_at": "2026-05-15T11:31:47.719Z",
+  "week_start": "2026-05-15",
   "model": "gemini-2.5-flash",
   "venues": [
     {
@@ -8,7 +8,22 @@
       "ig": "https://www.instagram.com/wearebastardspub/",
       "bairro": "Água Verde",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-05-15": [
+          {
+            "name": "LADY DIE",
+            "time": "21:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-05-16": [
+          {
+            "name": "JOHAINE E BANDA",
+            "time": "21:30:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Cross Roads",
@@ -16,18 +31,6 @@
       "bairro": "Água Verde",
       "cat": "Gourmet",
       "events": {
-        "2026-05-14": [
-          {
-            "name": "Crossroads Blues & Classics",
-            "time": "18:00:00.000Z",
-            "description": null
-          },
-          {
-            "name": "Quintas Blues",
-            "time": "18:00:00Z",
-            "description": null
-          }
-        ],
         "2026-05-15": [
           {
             "name": "Sonora 4, Jamp e Válvula Vapor",
@@ -56,7 +59,57 @@
       "ig": "https://www.instagram.com/hrccuritiba/",
       "bairro": "Batel",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-05-15": [
+          {
+            "name": "Música ao vivo",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-05-16": [
+          {
+            "name": "Música ao vivo",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-05-17": [
+          {
+            "name": "Música ao vivo",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-05-18": [
+          {
+            "name": "Música ao vivo",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-05-19": [
+          {
+            "name": "Música ao vivo",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-05-20": [
+          {
+            "name": "Música ao vivo",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-05-21": [
+          {
+            "name": "Música ao vivo",
+            "time": null,
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Sheridans",
@@ -64,20 +117,6 @@
       "bairro": "Batel",
       "cat": "Gourmet",
       "events": {
-        "2026-05-13": [
-          {
-            "name": "MELO E JORDANA",
-            "time": "20:30:00Z",
-            "description": null
-          }
-        ],
-        "2026-05-14": [
-          {
-            "name": "BANKS apresenta ROCK ON THE FLOOR",
-            "time": "20:30:00Z",
-            "description": null
-          }
-        ],
         "2026-05-15": [
           {
             "name": "RÁDIO VINIL, BON JOVI COVER BRASIL",
@@ -99,7 +138,34 @@
       "ig": "https://www.instagram.com/bardafabricabastards/",
       "bairro": "Bom Retiro",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-05-15": [
+          {
+            "name": "Baile Brasa",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-05-16": [
+          {
+            "name": "Xima Duo",
+            "time": "16:00:00Z",
+            "description": null
+          },
+          {
+            "name": "República Pine",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-05-17": [
+          {
+            "name": "Lady Die",
+            "time": "16:00:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Maniacs",
@@ -121,25 +187,6 @@
       "bairro": "Seminário",
       "cat": "Gourmet",
       "events": {
-        "2026-05-13": [
-          {
-            "name": "Esportes na TV",
-            "time": null,
-            "description": null
-          }
-        ],
-        "2026-05-14": [
-          {
-            "name": "Rádio Vinil",
-            "time": "19:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Candyman Club",
-            "time": "22:00:00Z",
-            "description": null
-          }
-        ],
         "2026-05-15": [
           {
             "name": "Pennyback",
@@ -217,6 +264,13 @@
             "time": "22:00:00Z",
             "description": null
           }
+        ],
+        "2026-05-15": [
+          {
+            "name": "Tributo a Beatles com Rock Raccoons e DJ Rober Vinyl",
+            "time": "18:00:00.000000000Z",
+            "description": null
+          }
         ]
       }
     },
@@ -262,15 +316,20 @@
       "events": {
         "2026-05-16": [
           {
-            "name": "Especial Slipknot e Rammstein",
+            "name": "Especial SLIPKNOT (Snot) e RAMMSTEIN (Mein Teil)",
+            "time": "21:30:00.000Z",
+            "description": null
+          },
+          {
+            "name": "Especial SLIPKNOT e RAMMSTEIN",
             "time": "21:30:00Z",
             "description": null
           }
         ],
         "2026-05-15": [
           {
-            "name": "Tributo a Ronnie James DIO com STORMGAZER",
-            "time": "22:00:00.000Z",
+            "name": "Tributo a Ronnie James DIO com Stormgazer",
+            "time": "22:00:00Z",
             "description": null
           }
         ]
@@ -282,18 +341,6 @@
       "bairro": "Boqueirão",
       "cat": "Palco e Show",
       "events": {
-        "2026-05-14": [
-          {
-            "name": "Coração Pirata (Roupa Nova Cover)",
-            "time": "19:00:00Z",
-            "description": null
-          },
-          {
-            "name": "OPEN FOOD com bandas ao vivo",
-            "time": "19:00:00Z",
-            "description": null
-          }
-        ],
         "2026-05-15": [
           {
             "name": "Banda Club Soda",
@@ -330,7 +377,27 @@
       "ig": "https://www.instagram.com/belvederecasadecultura/",
       "bairro": "São Francisco",
       "cat": "Palco e Show",
-      "events": {}
+      "events": {
+        "2026-05-15": [
+          {
+            "name": "Festa do Justin",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-05-17": [
+          {
+            "name": "Show Bite Me e Exception (Paramore e Avril Lavigne)",
+            "time": "20:00:00Z",
+            "description": null
+          },
+          {
+            "name": "AjudarEmos Fest II",
+            "time": null,
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Resistência",
@@ -338,30 +405,6 @@
       "bairro": "Bairro Alto",
       "cat": "Raiz",
       "events": {
-        "2026-05-13": [
-          {
-            "name": "Rodízio de Petiscos",
-            "time": null,
-            "description": null
-          },
-          {
-            "name": "Clipes no telão",
-            "time": "18:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-05-14": [
-          {
-            "name": "Rodízio de Petiscos",
-            "time": null,
-            "description": null
-          },
-          {
-            "name": "Clipes no telão",
-            "time": "18:00:00Z",
-            "description": null
-          }
-        ],
         "2026-05-19": [
           {
             "name": "Rodízio de Petiscos",
@@ -384,6 +427,16 @@
       "events": {
         "2026-05-15": [
           {
+            "name": "Show Nazareth",
+            "time": "21:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Show AC/DC",
+            "time": "00:00:00Z",
+            "description": null
+          },
+          {
             "name": "NAZARETH + AC/DC",
             "time": "21:30:00Z",
             "description": null
@@ -391,12 +444,32 @@
         ],
         "2026-05-16": [
           {
-            "name": "FESTIVAL PAPO RETO",
+            "name": "Festival Papo Reto",
+            "time": null,
+            "description": null
+          },
+          {
+            "name": "Show CPM cover Brasil",
             "time": "20:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Show DZ6 CBJR",
+            "time": "22:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Show Raimundera Cwb",
+            "time": "01:00:00Z",
             "description": null
           }
         ],
         "2026-05-17": [
+          {
+            "name": "Festival School of Rock",
+            "time": "14:00:00Z",
+            "description": null
+          },
           {
             "name": "FESTIVAL SCHOOL OF ROCK COM 14 BANDAS",
             "time": "14:00:00Z",
