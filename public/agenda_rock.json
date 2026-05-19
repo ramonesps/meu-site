@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-17T10:31:05.872Z",
-  "week_start": "2026-05-17",
+  "updated_at": "2026-05-19T12:20:58.295Z",
+  "week_start": "2026-05-19",
   "model": "gemini-2.5-flash",
   "venues": [
     {
@@ -8,27 +8,72 @@
       "ig": "https://www.instagram.com/wearebastardspub/",
       "bairro": "Água Verde",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-05-24": [
+          {
+            "name": "9 Anos We Are Bastards com Os Caras do Charlie Brown",
+            "time": null,
+            "description": null
+          },
+          {
+            "name": "Aniversário 9 anos com Os Caras do Charlie Brown, Lady Die, Baile Brasa, Lenhado",
+            "time": null,
+            "description": null
+          },
+          {
+            "name": "Aniversário de 9 anos com shows",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-05-19": [
+          {
+            "name": "NIKO & GIU",
+            "time": "20:20:00Z",
+            "description": null
+          }
+        ],
+        "2026-05-20": [
+          {
+            "name": "GOLDEN ROCK",
+            "time": "20:20:00Z",
+            "description": null
+          }
+        ],
+        "2026-05-21": [
+          {
+            "name": "GRAN VERANO",
+            "time": "20:20:00Z",
+            "description": null
+          }
+        ],
+        "2026-05-22": [
+          {
+            "name": "LELY TRIO",
+            "time": "20:00:00Z",
+            "description": null
+          },
+          {
+            "name": "SONORA 4",
+            "time": "22:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-05-23": [
+          {
+            "name": "ÍSIS DRESCH E BANDA",
+            "time": "21:30:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Cross Roads",
       "ig": "https://www.instagram.com/barcrossroads/",
       "bairro": "Água Verde",
       "cat": "Gourmet",
-      "events": {
-        "2026-05-17": [
-          {
-            "name": "Thunder Originals",
-            "time": "15:00:00.000000000Z",
-            "description": null
-          },
-          {
-            "name": "Relespublica no Thunder Originals",
-            "time": "15:00:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Hard Rock",
@@ -36,38 +81,55 @@
       "bairro": "Batel",
       "cat": "Gourmet",
       "events": {
-        "2026-05-17": [
-          {
-            "name": "Música ao vivo",
-            "time": null,
-            "description": null
-          }
-        ],
-        "2026-05-18": [
-          {
-            "name": "Música ao vivo",
-            "time": null,
-            "description": null
-          }
-        ],
         "2026-05-19": [
           {
-            "name": "Música ao vivo",
-            "time": null,
+            "name": "Banks",
+            "time": "19:30:00Z",
             "description": null
           }
         ],
         "2026-05-20": [
           {
-            "name": "Música ao vivo",
-            "time": null,
+            "name": "Karaokê Night com Banda Code:Fire",
+            "time": "19:30:00Z",
             "description": null
           }
         ],
         "2026-05-21": [
           {
-            "name": "Música ao vivo",
-            "time": null,
+            "name": "Velho Residente",
+            "time": "19:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-05-22": [
+          {
+            "name": "Banda Dug",
+            "time": "19:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-05-23": [
+          {
+            "name": "Marcela Juk",
+            "time": "12:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Veraneios Rock Brasil",
+            "time": "19:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-05-24": [
+          {
+            "name": "Gui Vianna",
+            "time": "12:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Radiophonics",
+            "time": "19:30:00Z",
             "description": null
           }
         ]
@@ -86,10 +148,65 @@
       "bairro": "Bom Retiro",
       "cat": "Gourmet",
       "events": {
-        "2026-05-17": [
+        "2026-05-19": [
           {
-            "name": "Lady Die",
+            "name": "LELY DUO",
+            "time": "19:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-05-20": [
+          {
+            "name": "VÁLVULA DUO",
+            "time": "19:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-05-21": [
+          {
+            "name": "HARD SOUL COMBO",
+            "time": "19:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-05-22": [
+          {
+            "name": "JUKEBOXX",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-05-23": [
+          {
+            "name": "Corrida Sprint F1",
+            "time": "12:30:00Z",
+            "description": null
+          },
+          {
+            "name": "ANACRÔNICA DUO",
             "time": "16:00:00Z",
+            "description": null
+          },
+          {
+            "name": "SYD VINÍCIUS",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-05-24": [
+          {
+            "name": "Exposição de carros e simulador de F1",
+            "time": "12:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Xima trio",
+            "time": "14:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Transmissão da F1",
+            "time": "16:30:00Z",
             "description": null
           }
         ]
@@ -101,20 +218,6 @@
       "bairro": "Cabral",
       "cat": "Gourmet",
       "events": {
-        "2026-05-17": [
-          {
-            "name": "Tap List",
-            "time": null,
-            "description": null
-          }
-        ],
-        "2026-05-18": [
-          {
-            "name": "Tap List",
-            "time": null,
-            "description": null
-          }
-        ],
         "2026-05-19": [
           {
             "name": "Tap List",
@@ -164,20 +267,7 @@
       "ig": "https://www.instagram.com/distrito.1340/",
       "bairro": "Seminário",
       "cat": "Gourmet",
-      "events": {
-        "2026-05-17": [
-          {
-            "name": "El Cartel (Rock Latino)",
-            "time": "20:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Right Back (Pop Punk / Skate Rock)",
-            "time": "22:00:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Barbarium",
@@ -216,29 +306,44 @@
       "ig": "https://www.instagram.com/jokerspub/",
       "bairro": "Centro",
       "cat": "Gourmet",
-      "events": {}
-    },
-    {
-      "nome": "Tork n' Roll",
-      "ig": "https://www.instagram.com/torkandroll/",
-      "bairro": "Rebouças",
-      "cat": "Palco e Show",
       "events": {
-        "2026-05-17": [
+        "2026-05-23": [
           {
-            "name": "Show O Grilo",
-            "time": "21:00:00.000Z",
+            "name": "Amélia - Especial Divas do Rock + DJ Set",
+            "time": "18:00:00Z",
             "description": null
           }
         ]
       }
     },
     {
+      "nome": "Tork n' Roll",
+      "ig": "https://www.instagram.com/torkandroll/",
+      "bairro": "Rebouças",
+      "cat": "Palco e Show",
+      "events": {}
+    },
+    {
       "nome": "Blood Rock",
       "ig": "https://www.instagram.com/bloodrockbar/",
       "bairro": "São Francisco",
       "cat": "Palco e Show",
-      "events": {}
+      "events": {
+        "2026-05-23": [
+          {
+            "name": "The Nightfall e Silent Force",
+            "time": "22:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-05-22": [
+          {
+            "name": "Tributo a My Chemical Romance, Asking Alexandria, A Day to Remember, Motionless",
+            "time": "21:00:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Seb's Rock Bar",
@@ -274,20 +379,7 @@
       "ig": "https://www.instagram.com/belvederecasadecultura/",
       "bairro": "São Francisco",
       "cat": "Palco e Show",
-      "events": {
-        "2026-05-17": [
-          {
-            "name": "Show Bite Me e Exception (Paramore e Avril Lavigne)",
-            "time": "20:00:00Z",
-            "description": null
-          },
-          {
-            "name": "AjudarEmos Fest II",
-            "time": null,
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Resistência",
@@ -324,15 +416,44 @@
       "bairro": "Capão Raso",
       "cat": "Raiz",
       "events": {
-        "2026-05-17": [
+        "2026-05-22": [
           {
-            "name": "Festival School of Rock",
-            "time": "14:00:00Z",
+            "name": "BANDITOS",
+            "time": "21:30:00Z",
             "description": null
           },
           {
-            "name": "FESTIVAL SCHOOL OF ROCK COM 14 BANDAS",
-            "time": "14:00:00Z",
+            "name": "BILLIE EILISH com Bela Prado",
+            "time": "23:00:00Z",
+            "description": null
+          },
+          {
+            "name": "BLINK 182 BRASIL",
+            "time": "00:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-05-23": [
+          {
+            "name": "GALLO JACK SHOW",
+            "time": "20:30:00Z",
+            "description": null
+          },
+          {
+            "name": "PUTZ HITS",
+            "time": "22:30:00Z",
+            "description": null
+          },
+          {
+            "name": "BON JOVI LOST HIGHWAY COVER",
+            "time": "01:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-05-24": [
+          {
+            "name": "NAMELESS",
+            "time": "20:30:00Z",
             "description": null
           }
         ]
