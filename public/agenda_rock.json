@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-19T12:20:58.295Z",
-  "week_start": "2026-05-19",
+  "updated_at": "2026-05-21T12:26:35.378Z",
+  "week_start": "2026-05-21",
   "model": "gemini-2.5-flash",
   "venues": [
     {
@@ -23,20 +23,6 @@
           {
             "name": "Aniversário de 9 anos com shows",
             "time": null,
-            "description": null
-          }
-        ],
-        "2026-05-19": [
-          {
-            "name": "NIKO & GIU",
-            "time": "20:20:00Z",
-            "description": null
-          }
-        ],
-        "2026-05-20": [
-          {
-            "name": "GOLDEN ROCK",
-            "time": "20:20:00Z",
             "description": null
           }
         ],
@@ -73,7 +59,34 @@
       "ig": "https://www.instagram.com/barcrossroads/",
       "bairro": "Água Verde",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-05-21": [
+          {
+            "name": "Crossroads Blues & Classics com Blues Revolution e Dose In Blues Duo",
+            "time": "18:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Blues and Classics",
+            "time": "19:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-05-22": [
+          {
+            "name": "Sulround, The Vedders e Drive True",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-05-23": [
+          {
+            "name": "Groove Qu�ntico, CPM 22 Cover Brasil e Os Caras do Charlie Brown",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Hard Rock",
@@ -81,20 +94,6 @@
       "bairro": "Batel",
       "cat": "Gourmet",
       "events": {
-        "2026-05-19": [
-          {
-            "name": "Banks",
-            "time": "19:30:00Z",
-            "description": null
-          }
-        ],
-        "2026-05-20": [
-          {
-            "name": "Karaokê Night com Banda Code:Fire",
-            "time": "19:30:00Z",
-            "description": null
-          }
-        ],
         "2026-05-21": [
           {
             "name": "Velho Residente",
@@ -140,7 +139,48 @@
       "ig": "https://www.instagram.com/sheridansirishpub/",
       "bairro": "Batel",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-05-21": [
+          {
+            "name": "Banks apresenta Rock on the Floor",
+            "time": "20:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Música de qualidade",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-05-22": [
+          {
+            "name": "Válvula Vapor, Candyman Club",
+            "time": "20:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-05-23": [
+          {
+            "name": "República Pine, Backstage",
+            "time": "20:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-05-26": [
+          {
+            "name": "Música de qualidade",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-05-27": [
+          {
+            "name": "Música de qualidade",
+            "time": null,
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Bastards Fábrica",
@@ -148,20 +188,6 @@
       "bairro": "Bom Retiro",
       "cat": "Gourmet",
       "events": {
-        "2026-05-19": [
-          {
-            "name": "LELY DUO",
-            "time": "19:30:00Z",
-            "description": null
-          }
-        ],
-        "2026-05-20": [
-          {
-            "name": "VÁLVULA DUO",
-            "time": "19:30:00Z",
-            "description": null
-          }
-        ],
         "2026-05-21": [
           {
             "name": "HARD SOUL COMBO",
@@ -218,20 +244,6 @@
       "bairro": "Cabral",
       "cat": "Gourmet",
       "events": {
-        "2026-05-19": [
-          {
-            "name": "Tap List",
-            "time": null,
-            "description": null
-          }
-        ],
-        "2026-05-20": [
-          {
-            "name": "Tap List",
-            "time": null,
-            "description": null
-          }
-        ],
         "2026-05-21": [
           {
             "name": "Tap List",
@@ -252,6 +264,34 @@
             "time": null,
             "description": null
           }
+        ],
+        "2026-05-24": [
+          {
+            "name": "Tap List",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-05-25": [
+          {
+            "name": "Tap List",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-05-26": [
+          {
+            "name": "Tap List",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-05-27": [
+          {
+            "name": "Tap List",
+            "time": null,
+            "description": null
+          }
         ]
       }
     },
@@ -267,7 +307,56 @@
       "ig": "https://www.instagram.com/distrito.1340/",
       "bairro": "Seminário",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-05-21": [
+          {
+            "name": "OPEN PRA MULHERADA",
+            "time": "19:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Rock in Duo",
+            "time": "19:30:00Z",
+            "description": null
+          },
+          {
+            "name": "República Pine",
+            "time": "22:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-05-22": [
+          {
+            "name": "Radiophonics",
+            "time": "21:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Lenhadores da Antártida",
+            "time": "00:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-05-23": [
+          {
+            "name": "Youngs AC/DC Cover",
+            "time": "21:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Hawks",
+            "time": "00:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-05-24": [
+          {
+            "name": "LongField",
+            "time": "21:00:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Barbarium",
@@ -289,12 +378,7 @@
             "description": null
           },
           {
-            "name": "Música ao vivo e drinks",
-            "time": null,
-            "description": null
-          },
-          {
-            "name": "Candyman Club, Minha Banda é uma Festa, Hus Cage, DJ Adriano",
+            "name": "Candyman Club",
             "time": "15:00:00Z",
             "description": null
           }
@@ -321,7 +405,27 @@
       "ig": "https://www.instagram.com/torkandroll/",
       "bairro": "Rebouças",
       "cat": "Palco e Show",
-      "events": {}
+      "events": {
+        "2026-05-22": [
+          {
+            "name": "Eu Vou na Urban",
+            "time": "21:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-05-23": [
+          {
+            "name": "Banda Top Tape",
+            "time": "21:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Nos Embalos de Sábado a Noite",
+            "time": "00:00:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Blood Rock",
@@ -351,24 +455,44 @@
       "bairro": "Boqueirão",
       "cat": "Palco e Show",
       "events": {
-        "2026-05-23": [
-          {
-            "name": "B2MIX de FlashBack",
-            "time": "23:00:00Z",
-            "description": null
-          }
-        ],
         "2026-05-21": [
           {
-            "name": "OPEN FOOD com bandas ao vivo",
+            "name": "Open Food com banda ao vivo",
+            "time": "19:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Rafa Gomes Acústico e Open Food",
             "time": "19:00:00Z",
             "description": null
           }
         ],
         "2026-05-22": [
           {
-            "name": "OPEN FOOD com bandas ao vivo",
+            "name": "Open Food com banda ao vivo",
             "time": "19:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Banda Backstage Tributos, Paulo Farias Acústico e Open Food",
+            "time": "19:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-05-23": [
+          {
+            "name": "BACK TO MIX com Marquinhos Espinosa, Guto Loureiro e DJ Madrox",
+            "time": "19:00:00Z",
+            "description": null
+          },
+          {
+            "name": "DJ MADROX",
+            "time": "21:00:00Z",
+            "description": null
+          },
+          {
+            "name": "B2MIX de FlashBack com Guto Loureiro e Marquinhos Espinosa",
+            "time": "23:00:00Z",
             "description": null
           }
         ]
@@ -387,24 +511,24 @@
       "bairro": "Bairro Alto",
       "cat": "Raiz",
       "events": {
-        "2026-05-19": [
-          {
-            "name": "Rodízio de Petiscos e Clipes no Telão",
-            "time": "18:00:00.000Z",
-            "description": null
-          }
-        ],
-        "2026-05-20": [
-          {
-            "name": "Rodízio de Petiscos e Clipes no Telão",
-            "time": "18:00:00.000Z",
-            "description": null
-          }
-        ],
         "2026-05-21": [
           {
             "name": "Rodízio de Petiscos e Clipes no Telão",
-            "time": "18:00:00.000Z",
+            "time": "18:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-05-26": [
+          {
+            "name": "Rodízio de Petiscos e Clipes no Telão",
+            "time": "18:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-05-27": [
+          {
+            "name": "Rodízio de Petiscos e Clipes no Telão",
+            "time": "18:00:00Z",
             "description": null
           }
         ]
