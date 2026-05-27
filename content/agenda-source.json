@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-25T12:35:01.938Z",
+  "generatedAt": "2026-05-27T12:22:53.007Z",
   "providers": {
     "instagram": "apify/instagram-api-scraper",
     "ai": "gemini-2.5-flash"
@@ -241,85 +241,93 @@
       "name": "Jokers",
       "instagram": "https://www.instagram.com/jokerspub/",
       "handle": "jokerspub",
-      "fetchedAt": "2026-05-23T10:43:30.704Z",
+      "fetchedAt": "2026-05-27T12:29:21.661Z",
       "posts": [
         {
-          "id": "DYqW25YkSqt",
-          "caption": "Sábado (23) a Banda Amelia traz um show incrível com um set especial em homenagem as Divas Do Rock 🤘🏻\n\nE também teremos DJ Set com outras divas 😍\n\nVai rolar Pitty, Rita Lee, Joan Jett, Janis Joplin, Alanis Morissette, Amy, Tina Turner e muito mais 🔥\n\nEntrada: R$ 20 (Mas com nome na lista é free, só mandar um direct para nós, beleza?)\n\nBora curtir uma noite incrível 😍🤘🏻\n\n📍Jokers Pub - Rua São Francisco 164\n📅 23 de Maio de 2026\n⏰Casa abre às 18h (Show às 22h)\n\n*Reservas: 41 3324-2351\n\n#oquefazeremcuritiba #rocknroll #divasdorock #vozesfemininas #jokerspub",
+          "id": "DY0dsFAjmUt",
+          "caption": "Dia 30 de maio a Specialites volta ao Jokers para mais um Baile tocando as joias 💎 da música jamaicana!\n\nVenha comemorar os 14 anos da Specialites dançando com a gente! 🎂\n\nNas pick-ups, DJ André Mod faz o serviço de chacoalhar as estruturas do coringa!\n\nE tem mais! Expositores irados vão estar junto com a gente nessa noite: Skaranguejo Vibes (Óculos e Acessórios), Prisco & Pepper (Tatoo e Piercing), May Flower (Highshop da Florzinha) e Ogra! (Zine).\n\nEntrada: R$ 20\n\nBora curtir uma noite incrível 😍🤘🏻\n\n📍Jokers Pub - Rua São Francisco 164\n📅 30 de Maio de 2026\n⏰Casa abre às 18h (Show às 22h)\n\n@skaranguejovibes\n@somosmayflower\n@erikapriscotattoo",
           "mediaType": "Image",
-          "timestamp": "2026-05-23T00:55:59.000Z",
-          "permalink": "https://www.instagram.com/p/DYqW25YkSqt/",
+          "timestamp": "2026-05-26T23:08:06.000Z",
+          "permalink": "https://www.instagram.com/p/DY0dsFAjmUt/",
           "images": [
-            "https://scontent-dfw5-1.cdninstagram.com/v/t51.82787-15/705326751_18465589636096325_5059404279775419077_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gHXp8c8KIrNCdBfzpHJjodnJPlcoDMnLTg6zSuYrtA-ZFMuJcB994tXBIoAYWF1510&_nc_ohc=Ng4QsYjPaaoQ7kNvwGhBVb-&_nc_gid=yhADKX8MciIzOuarFPW4vA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af4cBpCpcQUfprP4OgRrh1pxITuJNePny4sXHfD0eDpylg&oe=6A17411A&_nc_sid=10d13b"
+            "https://instagram.fagc1-2.fna.fbcdn.net/v/t39.30808-6/707125904_1487013793467887_7775837814616831170_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fagc1-2.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gF1dLoDjPPYQYe-tzUE2O3nuSJDh3QwsOIi_LvNdmhgcrhUg8F_zbEqzfkKee_PpgE&_nc_ohc=c8H3OlhL6DsQ7kNvwFm-QkG&_nc_gid=VKiT4tRPqqFSVsnvZyzsxg&edm=APs17CUAAAAA&ccb=7-5&oh=00_Af54osN2oRSRE5IbMlsUo44i5BoPCONQNOaaKfWCp5-k_Q&oe=6A1CA2FB&_nc_sid=10d13b"
           ],
           "handle": "jokerspub",
           "raw": {
             "ownerUsername": "jokerspub",
             "type": "Image",
-            "shortCode": "DYqW25YkSqt"
+            "shortCode": "DY0dsFAjmUt"
           },
           "analysis": {
             "relevant": true,
             "events": [
               {
-                "date": "2026-05-23",
-                "title": "Banda Amelia - Especial Divas do Rock",
-                "start_time": "22:00:00Z",
+                "date": "2026-05-30",
+                "title": "Show Specialites e DJ André Mod",
+                "start_time": "22:00:00.000000000Z",
                 "confidence": "high",
-                "evidence": "23 de Maio de 2026, Show às 22h"
+                "evidence": "30 de Maio de 2026, Show às 22h, Specialites + DJ André Mod"
               }
             ],
-            "windowMax": "2026-05-29"
+            "windowMax": "2026-06-02"
           }
         },
         {
-          "id": "DYp5EPziXfl",
-          "caption": "É HOJE!!!\n4 Anos de Black Bandana!\n\nE dessa vez com convidados!\nA gente vai comemorar com a Banda BRIANSTORM e vamos meter o louco com vocês mais uma vez lá no Jokers!\n\nEntrada: R$35\n\n📍 Local: Jokers Pub - Rua São Francisco 164\n📅 Data: 22de maio\n⏰ Horário: 18:00h (bandas as 21h)\n\n Whatsapp: 41 3324 2351",
-          "mediaType": "Sidecar",
-          "timestamp": "2026-05-22T20:35:40.000Z",
-          "permalink": "https://www.instagram.com/p/DYp5EPziXfl/",
-          "images": [
-            "https://scontent-lax7-1.cdninstagram.com/v/t51.82787-15/704697371_18465563815096325_2739316804809914741_n.webp?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-lax7-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gHyEWEFiITEB3eFzZ8DOrdCemJCSA0D_DPtH69cAbzXMNJujKoNHsZ8Y6baVQeEv_Q&_nc_ohc=TspjK1M37dIQ7kNvwGw6AVC&_nc_gid=dqplAG_6BT2PFwwCeza_jw&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af6xs0wMT3D6nE6rgscG1T9Wyh_vVPT1-IdhICmmlE1MDw&oe=6A176060&_nc_sid=10d13b"
-          ],
-          "handle": "jokerspub",
-          "raw": {
-            "ownerUsername": "jokerspub",
-            "type": "Sidecar",
-            "shortCode": "DYp5EPziXfl"
-          },
-          "analysis": {
-            "relevant": false,
-            "events": [],
-            "windowMax": "2026-05-29"
-          }
-        },
-        {
-          "id": "DYo88aJxpBi",
-          "caption": "",
+          "id": "DY0peQ2RMA5",
+          "caption": "Sexta, vamos curtir o melhor dos anos 90s e 00s com muito rock nacional e internacional com a banda @underedband\n\nEntrada: R$20(free ate 21h)\n\n📍 Local: Jokers Pub - Rua São Francisco 164\n📅 Data: 29 de maio\n⏰ Horário: 18:00h (banda as 22h)\n\n*Reserva: Whatsapp: 41 3324 2351",
           "mediaType": "Image",
-          "timestamp": "2026-05-22T11:50:21.000Z",
-          "permalink": "https://www.instagram.com/p/DYo88aJxpBi/",
+          "timestamp": "2026-05-27T00:51:06.000Z",
+          "permalink": "https://www.instagram.com/p/DY0peQ2RMA5/",
           "images": [
-            "https://scontent-dfw5-1.cdninstagram.com/v/t51.82787-15/704963697_18465483754096325_7871905571704184316_n.webp?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gHVd9p-Y3CWX2HNV3ichwUaKX-K5NUyhJ-euOlcw3zbIZPTMM06UuhDjro6xQu7iY6WjJ_psD8lCuBfe7OZQ_SW&_nc_ohc=--FoJgZ9La4Q7kNvwFN1RAZ&_nc_gid=Ar-N7pt82rHAQ65aYapEbQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af40yemMpxgjiJDnoU67lscIiQBrTIj3gT_9Mz2UKBdRXw&oe=6A175C62&_nc_sid=10d13b"
+            "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/707510322_18466349404096325_5037572925105300554_n.webp?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gFchBruLn7LYqrRr2zW9udnE2QgCCUB5hqsjX32M2wsaRrzHucBs3r0UdxqlNn3kWw&_nc_ohc=9OTZJ6WREMoQ7kNvwHfnivH&_nc_gid=l1exFdrBKCaowPoezb95ww&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af5DirrXapRf3jXdwqSZ5wa8Hb-r9ExVNXPJBvuf4ebO6w&oe=6A1CA408&_nc_sid=10d13b"
           ],
           "handle": "jokerspub",
           "raw": {
             "ownerUsername": "jokerspub",
             "type": "Image",
-            "shortCode": "DYo88aJxpBi"
+            "shortCode": "DY0peQ2RMA5"
           },
           "analysis": {
             "relevant": true,
             "events": [
               {
                 "date": "2026-05-29",
-                "title": "Moqueca de Peixe (Pescada Branca)",
-                "start_time": null,
+                "title": "Undered - Rock anos 90s e 00s",
+                "start_time": "18:00:00.000Z",
                 "confidence": "high",
-                "evidence": "SEXTA-FEIRA | PRATO DO DIA: MOQUECA DE PEIXE"
+                "evidence": "Sexta, 29 de maio, banda Undered, rock anos 90s e 00s"
               }
             ],
-            "windowMax": "2026-05-29"
+            "windowMax": "2026-06-02"
+          }
+        },
+        {
+          "id": "DY1QqUQvneF",
+          "caption": "Nas quartas, você encontra por aqui uma deliciosa Feijoada! Preparada com os melhores ingredientes nossa feijoada acompanha Arroz Branco, Bisteca, Farofa Crocante, Couve Refogada com Bacon, Banana à Milanesa, e Laranja. E é claro, não pode faltar aquele Caldinho de Feijão delicioso para abrir o apetite! Vem pro Jokers!\n\nTemos delivery!\n* Peça pelo Whatsapp: (41) 3324.2351\n* Ou por iFood\n\nJokers Pub: R. São Francisco, 164 - Centro",
+          "mediaType": "Image",
+          "timestamp": "2026-05-27T06:33:32.000Z",
+          "permalink": "https://www.instagram.com/p/DY1QqUQvneF/",
+          "images": [
+            "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/708754352_18466395910096325_8376032634165291016_n.webp?stp=dst-jpg_e15_tt6&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gFkGkqt4AXn_DI_wRlIigeMsuphownPUNb-UUDsZrIfa1RqfXf575yEWnNfywQyZc4&_nc_ohc=PPq1vhwQrMUQ7kNvwHQ692k&_nc_gid=XtcRlCOc1VFPWk8BS9iNDA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af7JXR8cayL8AHAc_LovvOnkte2imtm-qDkmF3Dvj_EKBg&oe=6A1CA832&_nc_sid=10d13b"
+          ],
+          "handle": "jokerspub",
+          "raw": {
+            "ownerUsername": "jokerspub",
+            "type": "Image",
+            "shortCode": "DY1QqUQvneF"
+          },
+          "analysis": {
+            "relevant": true,
+            "events": [
+              {
+                "date": "2026-05-27",
+                "title": "Feijoada",
+                "start_time": null,
+                "confidence": "high",
+                "evidence": "Nas quartas, você encontra por aqui uma deliciosa Feijoada!"
+              }
+            ],
+            "windowMax": "2026-06-02"
           }
         }
       ]
@@ -329,7 +337,7 @@
       "name": "Bastards Pub",
       "instagram": "https://www.instagram.com/wearebastardspub/",
       "handle": "wearebastardspub",
-      "fetchedAt": "2026-05-23T10:39:23.606Z",
+      "fetchedAt": "2026-05-27T12:23:41.316Z",
       "posts": [
         {
           "id": "DYp16tDlMgL",
@@ -338,7 +346,7 @@
           "timestamp": "2026-05-22T20:08:09.000Z",
           "permalink": "https://www.instagram.com/p/DYp16tDlMgL/",
           "images": [
-            "https://scontent-lga3-1.cdninstagram.com/v/t51.82787-15/706583236_18440514907139566_6334685055603977638_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gGDgoafzdvb1nmYCFmYiCIOYaEyYqpDCDLLDdT3dnsyV2MpYi-bIFpjCqhWBhur1jQ&_nc_ohc=9NCmNlwliscQ7kNvwHimEEX&_nc_gid=cpSXlSNlKykHUjdnKPkZpg&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af6MT8sz7vXnyPEnp9A52JAb-g3aNdZp5mwoyl0OQXeHUg&oe=6A174788&_nc_sid=10d13b"
+            "https://scontent-lax3-1.cdninstagram.com/v/t51.82787-15/706583236_18440514907139566_6334685055603977638_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gGAPRNOw9gzwCmQuG8hka_Fb5xSzXDylGYT-gCP-yCs8A3uzTcrb-WHYSpcjtNeZOs&_nc_ohc=Itc9pYicQF4Q7kNvwFMAJQb&_nc_gid=2YIp46btIxuymZH8kKUKgA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af4jZV5tsl1iiB7M-7QyCv9pXP_64BSqd-OcxIQIjtvzcA&oe=6A1CC5C8&_nc_sid=10d13b"
           ],
           "handle": "wearebastardspub",
           "raw": {
@@ -347,82 +355,87 @@
             "shortCode": "DYp16tDlMgL"
           },
           "analysis": {
-            "relevant": true,
-            "events": [
-              {
-                "date": "2026-05-24",
-                "title": "Aniversário de 9 anos",
-                "start_time": "15:00:00.000Z",
-                "confidence": "high",
-                "evidence": "24.05, Domingo, a partir das 15h"
-              }
-            ],
-            "windowMax": "2026-05-29"
+            "relevant": false,
+            "events": [],
+            "windowMax": "2026-06-02"
           }
         },
         {
-          "id": "DYQXKGwuQie",
-          "caption": "24.05 a seleção mais caótica do Brasil entra em campo. 🇧🇷🍻 O We Are Bastards faz 9 anos e a comemoração vai ser do jeito que a gente gosta! \n\nJá estão confirmados: 🔥 Os Caras do Charlie Brown\n🔥 Lady Die\n🔥 Baile Brasa\n🔥 Lenhadores da Antártida\n\nEntão corre garantir teu ingresso, porque depois vai ter gente tentando comprar até no acréscimo.\n\n📍 We Are Bastards 📅 24.05 🔥 FEITO PARA O CAOS.",
+          "id": "DYzyL_auoIR",
+          "caption": "O aquecimento já começou! Nesse último domingo, nos 9 anos do We Are Bastards, a gente fez o primeiro esquenta oficial da Copa. Agora os bares se preparam pro que vem aí: telão com transmissão dos jogos, música ao vivo, e caos coletivo liberado.\n Porque Copa do Mundo boa não se assiste sozinho.\nAqui, toda mesa vira arquibancada!",
           "mediaType": "Image",
-          "timestamp": "2026-05-12T22:39:13.000Z",
-          "permalink": "https://www.instagram.com/p/DYQXKGwuQie/",
+          "timestamp": "2026-05-26T16:48:30.000Z",
+          "permalink": "https://www.instagram.com/p/DYzyL_auoIR/",
           "images": [
-            "https://scontent-lga3-1.cdninstagram.com/v/t51.82787-15/695347553_18438870133139566_51230215506795967_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gEO1XJB1tzVjPQvmqdyNVUKsc87kB-3NhGk3YaWkCGrf-p8xO8Hfo_0dW_AWpXmBDw&_nc_ohc=lRtpxFQMUm4Q7kNvwHNRx5k&_nc_gid=hUFUv1NJxawt4P9khSYIdg&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af40puqga12g8heerdYXZjgsleX_zR1J1WRUY6GZ_gJxNQ&oe=6A17479C&_nc_sid=10d13b"
+            "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-15/707433439_18441185713139566_19609595261521431_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gE3OzlRXcxbd2KfhiBv5wh_7X1D6fg1u4wfB2JwvsduPsmrANJCFfWDpoGem7SSrdU&_nc_ohc=7joHEooRrIAQ7kNvwG5yN-H&_nc_gid=EYEQxwhSifC0fTeSrxE1Sw&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af6ZyUvn5JGpd00mtvF9SwuuzG7f5dNCavPG0Pq9x7JzVA&oe=6A1CB91F&_nc_sid=10d13b"
           ],
           "handle": "wearebastardspub",
           "raw": {
             "ownerUsername": "wearebastardspub",
             "type": "Image",
-            "shortCode": "DYQXKGwuQie"
+            "shortCode": "DYzyL_auoIR"
           },
           "analysis": {
-            "relevant": true,
-            "events": [
-              {
-                "date": "2026-05-24",
-                "title": "Aniversário de 9 anos",
-                "start_time": null,
-                "confidence": "high",
-                "evidence": "24.05, 9 anos, Os Caras do Charlie Brown, Lady Die, Baile Brasa, Lenhadores da Antártida"
-              }
-            ],
-            "windowMax": "2026-05-29"
+            "relevant": false,
+            "events": [],
+            "windowMax": "2026-06-02"
           }
         },
         {
-          "id": "DYfnFPhMzJY",
-          "caption": "Atenção: essa semana a casinha entra oficialmente em clima de ANIVERSÁRIO! Comemoração do We are Bastards chegando com clima de copa, shows pesados e muita bagunça organizada!\n\n🎟️ Segundo lote já tá voando.\nDepois não adianta chorar igual eliminação nos pênaltis.\n\n24.05 - 9 anos do We Are Bastards\nShows com:\n\n🔥 Os Caras do Charlie Brown\n🔥 Lady Die\n🔥 Baile Brasa\n🔥 Lenhadores da Antártida\n🔥 DJ Murta\n🔥 DJ Meio Suspeito",
+          "id": "DYxxAd6uIdA",
+          "caption": "Sobrevivemos aos 9 anos. Agora é hora de recuperar o fôlego do jeito Bastards: com chope gelado, som alto e nenhum arrependimento! \nVem conferir quem comanda o palco nessa semana!  Casinha aberta de terça a sábado, a partir das 18h!",
           "mediaType": "Image",
-          "timestamp": "2026-05-18T20:46:30.000Z",
-          "permalink": "https://www.instagram.com/p/DYfnFPhMzJY/",
+          "timestamp": "2026-05-25T21:59:22.000Z",
+          "permalink": "https://www.instagram.com/p/DYxxAd6uIdA/",
           "images": [
-            "https://scontent-lax3-1.cdninstagram.com/v/t51.82787-15/698283604_18439857982139566_6408868185697508990_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gHpaeNaJCVNQePp8PsgRfwS57AMZSySRiLD8NL7X9iZN-l_RWGk44U_xeQFzKbLSG4&_nc_ohc=AVg9Xygq6h0Q7kNvwFP5mNq&_nc_gid=TicHUPsTLDLcmthEWVI1dw&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af4A8-ZWX1zgQ9b1n3-Xo_UCLDF2ggjk33Y4jouRdlJ6dQ&oe=6A1750CB&_nc_sid=10d13b"
+            "https://scontent-phx1-1.cdninstagram.com/v/t51.82787-15/707693780_18441057595139566_5980658513721228707_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-phx1-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gFkVorhscAdRkxb7Xz8VwqWwgvEHUl1ARIRP0FTa_-Cwn2GgN-M9yXkt_AkV-pNMdQ&_nc_ohc=EVDURCW02mEQ7kNvwEWUOQv&_nc_gid=V3cDOfH6CSyyfEAYB3bTFQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af5LfXiGAxXdzSHTaTNWzymxYi-XQmYRjk_WgkTydgxyOg&oe=6A1CBF87&_nc_sid=10d13b"
           ],
           "handle": "wearebastardspub",
           "raw": {
             "ownerUsername": "wearebastardspub",
             "type": "Image",
-            "shortCode": "DYfnFPhMzJY"
+            "shortCode": "DYxxAd6uIdA"
           },
           "analysis": {
             "relevant": true,
             "events": [
               {
-                "date": "2026-05-23",
-                "title": "Ísis Dresch e Banda",
-                "start_time": "21:30:00Z",
+                "date": "2026-05-27",
+                "title": "Johaine Duo",
+                "start_time": "20:20:00Z",
                 "confidence": "high",
-                "evidence": "23/05 SÁB 18H ÍSIS DRESCH E BANDA SHOW 21H30"
+                "evidence": "27/05 Johaine Duo SHOW 20H20"
               },
               {
-                "date": "2026-05-24",
-                "title": "Aniversário de 9 anos",
-                "start_time": null,
+                "date": "2026-05-28",
+                "title": "Moonshine",
+                "start_time": "20:20:00Z",
                 "confidence": "high",
-                "evidence": "24.05 - 9 anos do We Are Bastards Shows com: Os Caras do Charlie Brown, Lady Die, Baile Brasa, Lenhadores da Antártida, DJ Murta, DJ Meio Suspeito"
+                "evidence": "28/05 Moonshine SHOW 20H20"
+              },
+              {
+                "date": "2026-05-29",
+                "title": "Leo e Duda Vaz",
+                "start_time": "20:00:00Z",
+                "confidence": "high",
+                "evidence": "29/05 Leo e Duda Vaz SHOW 20H00"
+              },
+              {
+                "date": "2026-05-29",
+                "title": "República Pine",
+                "start_time": "22:30:00Z",
+                "confidence": "high",
+                "evidence": "29/05 República Pine SHOW 22H30"
+              },
+              {
+                "date": "2026-05-30",
+                "title": "Baile Brasa",
+                "start_time": "21:30:00Z",
+                "confidence": "high",
+                "evidence": "30/05 Baile Brasa SHOW 21H30"
               }
             ],
-            "windowMax": "2026-05-29"
+            "windowMax": "2026-06-02"
           }
         }
       ]
@@ -432,77 +445,91 @@
       "name": "Hard Rock",
       "instagram": "https://www.instagram.com/hrccuritiba/",
       "handle": "hrccuritiba",
-      "fetchedAt": "2026-05-23T10:39:57.906Z",
+      "fetchedAt": "2026-05-27T12:25:08.056Z",
       "posts": [
         {
-          "id": "DYe-F06FaYN",
+          "id": "DYw50-FRPbl",
           "caption": "A trilha sonora da sua semana já está garantida!Nosso palco recebe shows ao vivo todos os dias! 🎸\n\nConfira a live music da semana e programe-se para viver momentos inesquecíveis ao som de boa música, gastronomia e aquela atmosfera que só o Hard tem! Te esperamos!\n\n⏰ Horários:\nSegunda a Quinta: 11h às 00h\nSexta: 11h à 1h\nSábado: 11h à 1h\nDomingo: 11h às 00h\n\n🎸 Entrada:\nA partir das 11h: R$15,00\nA partir das 18h: R$30,00\n\n📞: +55 41 98799-1178\n🎸: Música ao vivo todos os dias\n📍: R. Buenos Aires, 50 - Batel",
           "mediaType": "Image",
-          "timestamp": "2026-05-18T14:48:02.000Z",
-          "permalink": "https://www.instagram.com/p/DYe-F06FaYN/",
+          "timestamp": "2026-05-25T13:57:07.000Z",
+          "permalink": "https://www.instagram.com/p/DYw50-FRPbl/",
           "images": [
-            "https://instagram.fric1-2.fna.fbcdn.net/v/t51.82787-15/702335004_18582847204041953_8346579204552460516_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fric1-2.fna.fbcdn.net&_nc_cat=105&_nc_oc=Q6cZ2gGJJ9j9xkCC3cIBgdp9jNyeMztYh54EFDE89qz75dWBm7rIAGXrHE468IcHE_5tuwo1RVLtGARXzNuX1ifDDVCr&_nc_ohc=fJXdtPrbuKEQ7kNvwEL_DZ8&_nc_gid=38FM0R7-ONn0BI0K7Gc_8w&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af6pmXrW7kJSlWQTxLqHk5uZ_kiRjeXhhsi9LSZsxgQ2xw&oe=6A17677A&_nc_sid=10d13b"
+            "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/706794263_18584864257041953_1488906408715106516_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gHDLy4qQYfaTOSoS5sfpkMlhbW1lI226f6vfE1wfnz62nPvNJ-qlA-6CXIEViYt5aU&_nc_ohc=gxjiv_4gUUAQ7kNvwGIqZyP&_nc_gid=O0WsTdT23QoNXPFzDwz8Aw&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af6Mp-pQSQjvdQHk2_OUB1q23DJtq2mMRFajkxODVF2-7w&oe=6A1C9CC0&_nc_sid=10d13b"
           ],
           "handle": "hrccuritiba",
           "raw": {
             "ownerUsername": "hrccuritiba",
             "type": "Image",
-            "shortCode": "DYe-F06FaYN"
+            "shortCode": "DYw50-FRPbl"
           },
           "analysis": {
             "relevant": true,
             "events": [
               {
-                "date": "2026-05-23",
-                "title": "Marcela Juk",
-                "start_time": "12:30:00Z",
-                "confidence": "high",
-                "evidence": "23 SÁBADO MARCELA JUK | MAINFLOOR | 12H30"
-              },
-              {
-                "date": "2026-05-23",
-                "title": "Veraneios Rock Brasil",
+                "date": "2026-05-27",
+                "title": "JAM SESSION SCHOOL OF ROCK",
                 "start_time": "19:30:00Z",
                 "confidence": "high",
-                "evidence": "23 SÁBADO VERANEIOS ROCK BRASIL | MAIN FLOOR | 19H30"
+                "evidence": "27 QUARTA-FEIRA: JAM SESSION SCHOOL OF ROCK | 19:30"
               },
               {
-                "date": "2026-05-24",
-                "title": "Gui Vianna",
-                "start_time": "12:30:00Z",
-                "confidence": "high",
-                "evidence": "24 DOMINGO GUI VIANNA | MAINFLOOR | 12H30"
-              },
-              {
-                "date": "2026-05-24",
-                "title": "Radiophonics",
+                "date": "2026-05-28",
+                "title": "FRANBOESA TRIO",
                 "start_time": "19:30:00Z",
                 "confidence": "high",
-                "evidence": "24 DOMINGO RADIOPHONICS | MAIN FLOOR | 19H30"
+                "evidence": "28 QUINTA-FEIRA: FRANBOESA TRIO | 19:30"
+              },
+              {
+                "date": "2026-05-29",
+                "title": "JACKFLASH",
+                "start_time": "19:30:00Z",
+                "confidence": "high",
+                "evidence": "29 SEXTA-FEIRA: JACKFLASH | 19H30"
+              },
+              {
+                "date": "2026-05-30",
+                "title": "GUI VIANNA",
+                "start_time": "12:30:00Z",
+                "confidence": "high",
+                "evidence": "30 SÁBADO: GUI VIANNA | 12H30"
+              },
+              {
+                "date": "2026-05-30",
+                "title": "VICK VAPO ROCK",
+                "start_time": "19:30:00Z",
+                "confidence": "high",
+                "evidence": "30 SÁBADO: VICK VAPO ROCK | 19H30"
+              },
+              {
+                "date": "2026-05-31",
+                "title": "OVERLINE",
+                "start_time": "19:30:00Z",
+                "confidence": "high",
+                "evidence": "31 DOMINGO: OVERLINE | 19H30"
               }
             ],
-            "windowMax": "2026-05-29"
+            "windowMax": "2026-06-02"
           }
         },
         {
-          "id": "DYqBLDIt1c5",
-          "caption": "E aí, como começa a sua noite?\n\n🍺 Um chopp gelado\nou\n🍓 Uma Strawberry Basil Lemonade bem refrescante\n\nDuas escolhas, dois estilos, e a mesma vibe: aproveitar o momento do jeito certo.\n\nQual você escolhe hoje?",
-          "mediaType": "Image",
-          "timestamp": "2026-05-22T21:46:56.000Z",
-          "permalink": "https://www.instagram.com/p/DYqBLDIt1c5/",
+          "id": "DY0PGzJFPTW",
+          "caption": "Uma visita especial de uma banda que faz parte da história da música brasileira. 🎸✨\n\nRecebemos o Pato Fu no Hard Rock Cafe Curitiba para momentos incríveis, boa conversa e muita música envolvida\n\nO Hard Rock Cafe Curitiba fica ainda mais especial quando recebe artistas que atravessam gerações com autenticidade e personalidade únicas.",
+          "mediaType": "Sidecar",
+          "timestamp": "2026-05-26T21:00:02.000Z",
+          "permalink": "https://www.instagram.com/p/DY0PGzJFPTW/",
           "images": [
-            "https://scontent-phl2-1.cdninstagram.com/v/t51.82787-15/703948052_18584070142041953_6948389120627082222_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-phl2-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gE3mR990DuizgqYJQ54YJnthnv3fK8bHuWfpXfJEqA3yvUrqFjGaiQxl6rAF8Xb4fw&_nc_ohc=xzaQE4gsru4Q7kNvwF5dHRP&_nc_gid=4622qGHMDQbchmlHVnYovg&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af7bH4cHYY8hR86z0V3l1sskzcp0y0XuWNSfPOIoACjs_w&oe=6A175B35&_nc_sid=10d13b"
+            "https://scontent-hou1-1.cdninstagram.com/v/t51.82787-15/707329179_18585245227041953_711064451917137675_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-hou1-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gF6lF7o_DFAPkzfy7dgmJ2kLL6fdZW5xzpINyfS0_mkhCbr4SJrnlMLkYmN6mSrXBE&_nc_ohc=mUyU9tazu8kQ7kNvwE98aFH&_nc_gid=VuXtUaklvYLYy1NUDb-ErA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af4WKXB0-RDQTjnQr6BBba300XtCNA4yQ1Owjglnn1vZrg&oe=6A1CA62D&_nc_sid=10d13b"
           ],
           "handle": "hrccuritiba",
           "raw": {
             "ownerUsername": "hrccuritiba",
-            "type": "Image",
-            "shortCode": "DYqBLDIt1c5"
+            "type": "Sidecar",
+            "shortCode": "DY0PGzJFPTW"
           },
           "analysis": {
             "relevant": false,
             "events": [],
-            "windowMax": "2026-05-29"
+            "windowMax": "2026-06-02"
           }
         }
       ]
@@ -512,91 +539,91 @@
       "name": "Bastards Fábrica",
       "instagram": "https://www.instagram.com/bardafabricabastards/",
       "handle": "bardafabricabastards",
-      "fetchedAt": "2026-05-23T10:40:34.787Z",
+      "fetchedAt": "2026-05-27T12:26:04.102Z",
       "posts": [
         {
-          "id": "DYffOEURqJw",
-          "caption": "Agenda da semana no canil tá daquele jeito: chope gelado, rango de respeito, música ao vivo e motivo de sobra pra você não ficar em casa.\n\nNo fim de semana ainda tem emoção em alta velocidade por aqui! 🏁 O GP do Canadá invade o Bar da Fábrica com transmissão da Fórmula 1, simulador, exposição de carros e programação especial pra quem gosta de motor roncando e cerveja trincando.\n\n🏎️ Sábado tem Corrida Sprint - 12:30h\n🏁 Domingo tem transmissão da corrida principal + música ao vivo\n\nProgramação completa do domingo:\n12H - Exposição de carros e simulador de F1\n14H - Xima trio\n16:30H - Transmissão ao vivo",
+          "id": "DYxut70PeQZ",
+          "caption": "Agenda da semana no canil tá no ar, vira-lata! Tem almoço, chope gelado, música ao vivo e rango de respeito!\n\nCanil aberto de terça a domingo, a partir do meio-dia.\nEntrada free, espaço kids e pet friendly pra matilha inteira colar.",
           "mediaType": "Image",
-          "timestamp": "2026-05-18T19:37:50.000Z",
-          "permalink": "https://www.instagram.com/p/DYffOEURqJw/",
+          "timestamp": "2026-05-25T21:39:17.000Z",
+          "permalink": "https://www.instagram.com/p/DYxut70PeQZ/",
           "images": [
-            "https://scontent-hou1-1.cdninstagram.com/v/t51.82787-15/703297278_18109485806502869_4695806496573705640_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-hou1-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gFx3Iqps6BIQ-l-h4OAJht4t9g4a2vvvtHsEVbNGe7I9VvlLxfC4N7KmabfonlZzKc&_nc_ohc=gbXO2KiZfg8Q7kNvwEK8Qjf&_nc_gid=Mt2LRZQFglFULSy98ugHSw&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af60qcmqT4t2W9WiGNxUnYu5hYGRjTE20gvhleUrIR2_LQ&oe=6A175184&_nc_sid=10d13b"
+            "https://scontent-dfw5-1.cdninstagram.com/v/t51.82787-15/705790121_18110408948502869_1283973916878377887_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gHtWCRosv4Y34DTZ8IhsLISRKVSblZMbxuarPmgmoCAHWjKZc1rCw2U68OzVoQFlxU&_nc_ohc=jYPFy3zXwecQ7kNvwHIU1N9&_nc_gid=t8x5VSVBoDE_gnv2bNDuRA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af7pLyrKtE5SYMV-CmovSezC6iPM-O_d5l8aAX0WhZlIww&oe=6A1CA548&_nc_sid=10d13b"
           ],
           "handle": "bardafabricabastards",
           "raw": {
             "ownerUsername": "bardafabricabastards",
             "type": "Image",
-            "shortCode": "DYffOEURqJw"
+            "shortCode": "DYxut70PeQZ"
           },
           "analysis": {
             "relevant": true,
             "events": [
               {
-                "date": "2026-05-23",
-                "title": "Corrida Sprint (Fórmula 1)",
-                "start_time": "12:30:00Z",
+                "date": "2026-05-27",
+                "title": "ÍSIS DUO",
+                "start_time": "19:30:00Z",
                 "confidence": "high",
-                "evidence": "Sábado tem Corrida Sprint - 12:30h"
+                "evidence": "27/05 QUARTA ÍSIS DUO SHOW 19H30"
               },
               {
-                "date": "2026-05-23",
-                "title": "Show Anacrônica Duo",
-                "start_time": "16:00:00Z",
+                "date": "2026-05-28",
+                "title": "FOLKS TRIO",
+                "start_time": "19:30:00Z",
                 "confidence": "high",
-                "evidence": "23/05 SÁBADO ANACRÔNICA DUO SHOW 16H00"
+                "evidence": "28/05 QUINTA FOLKS TRIO SHOW 19H30"
               },
               {
-                "date": "2026-05-23",
-                "title": "Show Syd Vinícius",
+                "date": "2026-05-29",
+                "title": "VÁLVULA VAPOR",
                 "start_time": "20:00:00Z",
                 "confidence": "high",
-                "evidence": "23/05 SÁBADO SYD VINÍCIUS SHOW 20H00"
+                "evidence": "29/05 SEXTA VÁLVULA VAPOR SHOW 20H00"
               },
               {
-                "date": "2026-05-24",
-                "title": "Exposição de carros e simulador de F1",
-                "start_time": "12:00:00Z",
+                "date": "2026-05-30",
+                "title": "NIKO & GIU",
+                "start_time": "16:00:00Z",
                 "confidence": "high",
-                "evidence": "12H - Exposição de carros e simulador de F1"
+                "evidence": "30/05 SÁBADO NIKO & GIU SHOW 16H00"
               },
               {
-                "date": "2026-05-24",
-                "title": "Show Xima Trio",
-                "start_time": "14:00:00Z",
+                "date": "2026-05-30",
+                "title": "DANNI DISTLER E BANDA",
+                "start_time": "20:00:00Z",
                 "confidence": "high",
-                "evidence": "24/05 DOMINGO XIMA TRIO SHOW 14H00"
+                "evidence": "30/05 SÁBADO DANNI DISTLER E BANDA SHOW 20H00"
               },
               {
-                "date": "2026-05-24",
-                "title": "Transmissão GP do Canadá (F1)",
-                "start_time": "16:30:00Z",
+                "date": "2026-05-31",
+                "title": "SONORA 4",
+                "start_time": "16:00:00Z",
                 "confidence": "high",
-                "evidence": "16:30H - Transmissão ao vivo"
+                "evidence": "31/05 DOMINGO SONORA 4 SHOW 16H00"
               }
             ],
-            "windowMax": "2026-05-29"
+            "windowMax": "2026-06-02"
           }
         },
         {
-          "id": "DYmwLmLx7Td",
-          "caption": "A gente reuniu a equipe pra provar o cardápio novo. Perdemos completamente o controle da linguagem!  E você, já veio conferir o novo cardápio do Bar da Fábrica?",
-          "mediaType": "Video",
-          "timestamp": "2026-05-21T15:20:55.000Z",
-          "permalink": "https://www.instagram.com/p/DYmwLmLx7Td/",
+          "id": "DYrm0d4xn8Z",
+          "caption": "🏁 FIM DE SEMANA DE F1 NO CANIL! 🍻\n\n🔥 SÁBADO\nA transmissão da Sprint começa às 12h30, com largada prevista pras 13h. Perfeito pra chegar no almoço, abrir uma bera e assistir a corrida sprint sem precisar ouvir narrador de sofá.\n\n🏎️ DOMINGO\nA casinha abre ao meio-dia com almoço, chope trincando e clima de pré-grid. Às 14h tem música ao vivo no aquecimento e às 16h30 começa a transmissão da corrida principal. Largada prevista pras 17h. O dia todo tem simulador de corrida pra você desafiar a galera!\n\nEntrada free, espaço kids e pet friendly pra matilha inteira colar.",
+          "mediaType": "Image",
+          "timestamp": "2026-05-23T12:36:12.000Z",
+          "permalink": "https://www.instagram.com/p/DYrm0d4xn8Z/",
           "images": [
-            "https://scontent-ord5-2.cdninstagram.com/v/t51.71878-15/704558611_2973401839525348_4426771563928923504_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gHj14tCs3DPDXyfJFxkI7w3nhwKVwbBCdkgEvDWLpjhMoopX6El-lz-q0EEhy57ikFG3rKxsYSLBRuhtyPrsk70&_nc_ohc=N9N2cy2-0BwQ7kNvwGsDtxD&_nc_gid=OzUHwIu4HVMZdMMIMSTdMw&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af7f3gSoFhbkADitdYrmZ3eydLaZTPPt9Q9-lbr_LE0aOQ&oe=6A176F4B&_nc_sid=10d13b"
+            "https://scontent-mia3-2.cdninstagram.com/v/t51.82787-15/706054568_18110088071502869_6859809271393958421_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-mia3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gHANdZFsGLKr9fPLktNMEDyKMVF5VectBYYczQkCxtZ2kwC-6JnG-sBoPagDyqnrg4&_nc_ohc=YKV6j_kR_bUQ7kNvwHZfFmh&_nc_gid=fK_blXvHolOMbwlZVgvj8g&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af69r9z5SaucY5PlfxsiJLwnnbYuircq1jvVmg0hLhI9Xw&oe=6A1CC639&_nc_sid=10d13b"
           ],
           "handle": "bardafabricabastards",
           "raw": {
             "ownerUsername": "bardafabricabastards",
-            "type": "Video",
-            "shortCode": "DYmwLmLx7Td"
+            "type": "Image",
+            "shortCode": "DYrm0d4xn8Z"
           },
           "analysis": {
             "relevant": false,
             "events": [],
-            "windowMax": "2026-05-29"
+            "windowMax": "2026-06-02"
           }
         }
       ]
@@ -665,7 +692,7 @@
       "name": "Rock Pizza",
       "instagram": "https://www.instagram.com/rockpizzaroll.bar/",
       "handle": "rockpizzaroll.bar",
-      "fetchedAt": "2026-05-23T10:41:56.996Z",
+      "fetchedAt": "2026-05-27T12:27:23.647Z",
       "posts": [
         {
           "id": "https://www.instagram.com/rockpizzaroll.bar/",
@@ -683,7 +710,7 @@
           "analysis": {
             "relevant": false,
             "events": [],
-            "windowMax": "2026-05-29"
+            "windowMax": "2026-06-02"
           }
         }
       ]
@@ -765,8 +792,29 @@
       "name": "Barbarium",
       "instagram": "https://www.instagram.com/barbariumpub/",
       "handle": "barbariumpub",
-      "fetchedAt": "2026-05-23T10:42:41.235Z",
+      "fetchedAt": "2026-05-27T12:28:12.895Z",
       "posts": [
+        {
+          "id": "DYx63CZxcDa",
+          "caption": "😮‍💨",
+          "mediaType": "Video",
+          "timestamp": "2026-05-25T23:26:09.000Z",
+          "permalink": "https://www.instagram.com/p/DYx63CZxcDa/",
+          "images": [
+            "https://scontent-atl3-2.cdninstagram.com/v/t51.71878-15/707992693_916916941368266_3358088590016966693_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gGCxq_JQqGVxiLDQS89qwDUNx4NEs3tbVCavPGyJMTl3Wxj9347rOvtlutz9S--0Hs&_nc_ohc=ALh-YoZBCQgQ7kNvwGw05pG&_nc_gid=ZjY_MywYhMnk2uk-v1m1Jg&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af6vWzBDfRaMtRJ7tcdz5OJzBWJNnE5ekOcQHmptMilwjA&oe=6A1CC80E&_nc_sid=10d13b"
+          ],
+          "handle": "barbariumpub",
+          "raw": {
+            "ownerUsername": "barbariumpub",
+            "type": "Video",
+            "shortCode": "DYx63CZxcDa"
+          },
+          "analysis": {
+            "relevant": false,
+            "events": [],
+            "windowMax": "2026-06-02"
+          }
+        },
         {
           "id": "DU6GRKpkfpR",
           "caption": "Estávamos cobramos uma entradinha de R$10 sextas e sábados após 19:30 e a entrada já é free de terça a quinta e aos domingos. Mas de hoje em diante a entrada será free todos os dias. Nos dias que tem música ao vivo cobraremos um couvertzinho artístico de acordo com o cachê da banda que está se apresentando. Naquele esquema, saiu antes do som ao vivo não paga, chegou depois tbm não paga. Ao contrário de alguns lugares que cobram couvert como se fosse entrada de balada, cobraremos um valorzinho justo, sem abusos 🙌🏼\n-\nPara eventos específicos poderemos cobrar entrada, mas obviamente será informado antecipadamente como sempre. Preto no branco, sem enrolação ou surpresas.",
@@ -774,7 +822,7 @@
           "timestamp": "2026-02-18T17:33:18.000Z",
           "permalink": "https://www.instagram.com/p/DU6GRKpkfpR/",
           "images": [
-            "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/636623336_18558820828023710_6040206337534745032_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gGG-oxumEne0rlfKaMH7aKDna7u-wMIgFeHCqn8RD396pmvL8eYFvYlzMYdY1EanWw&_nc_ohc=q-GUOBdRgDYQ7kNvwHpA5t_&_nc_gid=qu80WVUjykzkeo7km5vcFA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af71ynlT8as2PHBWrXDtM6Gn7kQIaXExpTt4b-x4DUeHsQ&oe=6A174B1C&_nc_sid=10d13b"
+            "https://scontent-atl3-2.cdninstagram.com/v/t51.82787-15/636623336_18558820828023710_6040206337534745032_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gGpBehc2yTVHDAB_UT9WNgas0L-UeQxhDkVIEbWsT_EUqC2NjLxvYK-SMU1nAXht_g&_nc_ohc=ZbrUrhWnGcsQ7kNvwEkcUWQ&_nc_gid=Ez_UST7Zzf5NuFx60WEB0A&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af6PmoNR005pJHiGAXAMWuoNyVDLpmmiEZePmshV_cmmcw&oe=6A1CC95C&_nc_sid=10d13b"
           ],
           "handle": "barbariumpub",
           "raw": {
@@ -785,28 +833,7 @@
           "analysis": {
             "relevant": false,
             "events": [],
-            "windowMax": "2026-05-29"
-          }
-        },
-        {
-          "id": "DYhzRJAET-1",
-          "caption": "Da um close aí",
-          "mediaType": "Sidecar",
-          "timestamp": "2026-05-19T17:11:05.000Z",
-          "permalink": "https://www.instagram.com/p/DYhzRJAET-1/",
-          "images": [
-            "https://scontent-atl3-2.cdninstagram.com/v/t51.82787-15/704073155_18586985338023710_6227477455409999508_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gEdqSQSXKJ1f6Sgc9qaM6GQMNFvUkgq-302302c9Fp2M1Gk0BmTM1tXOhQjU6XAktc&_nc_ohc=x8vpC8mzbQ8Q7kNvwEYLLdZ&_nc_gid=PmGPlBv2r2s1gjDal7sigw&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af5yM7_6pO4vSeAAjOtCHmiJy1-3LMMd0gCQWrJxTNEnUg&oe=6A1760FA&_nc_sid=10d13b"
-          ],
-          "handle": "barbariumpub",
-          "raw": {
-            "ownerUsername": "barbariumpub",
-            "type": "Sidecar",
-            "shortCode": "DYhzRJAET-1"
-          },
-          "analysis": {
-            "relevant": false,
-            "events": [],
-            "windowMax": "2026-05-29"
+            "windowMax": "2026-06-02"
           }
         },
         {
@@ -816,7 +843,7 @@
           "timestamp": "2026-05-14T22:09:42.000Z",
           "permalink": "https://www.instagram.com/p/DYVdd-Ekebs/",
           "images": [
-            "https://scontent-lax3-1.cdninstagram.com/v/t51.82787-15/699532503_18585652381023710_2606774703403411755_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gFH_Hw_qvxuxPLCVnis_JHdMNzI8psspozYnUYtABxZ8pLpRhL6bMIYfOUmX6M46UE&_nc_ohc=vTiIPTPg-nIQ7kNvwF5wFzO&_nc_gid=5_VJ0qJfPDrSaR42SmQrWA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af5jnP0czJBZp6fvT4WCSwtD3AzHQFAKO_jr2tCZb2EWkA&oe=6A175ABB&_nc_sid=10d13b"
+            "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/699532503_18585652381023710_2606774703403411755_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gFcEthFUya3iEN829KDZJzQE07b0JT38UgZfEUWxoMtDaHEWW1XYE40ns-m_EOwbGU&_nc_ohc=nPrCslAE9DEQ7kNvwGU2BkG&_nc_gid=G89O6zslO0KPu_0q1khkfQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af64PJry7aNIXIkCS81hOkwxl0UpYBnav927P3OsSVQ4VQ&oe=6A1CA0BB&_nc_sid=10d13b"
           ],
           "handle": "barbariumpub",
           "raw": {
@@ -825,9 +852,24 @@
             "shortCode": "DYVdd-Ekebs"
           },
           "analysis": {
-            "relevant": false,
-            "events": [],
-            "windowMax": "2026-05-29"
+            "relevant": true,
+            "events": [
+              {
+                "date": "2026-05-30",
+                "title": "Final da Champions League",
+                "start_time": null,
+                "confidence": "high",
+                "evidence": "sábado dia 30/05 na final da Champions League"
+              },
+              {
+                "date": "2026-05-31",
+                "title": "Amistoso da seleção",
+                "start_time": null,
+                "confidence": "high",
+                "evidence": "domingo 31/05 no amistoso da seleção"
+              }
+            ],
+            "windowMax": "2026-06-02"
           }
         }
       ]
@@ -1057,85 +1099,93 @@
       "name": "Blood Rock",
       "instagram": "https://www.instagram.com/bloodrockbar/",
       "handle": "bloodrockbar",
-      "fetchedAt": "2026-05-23T10:44:14.823Z",
+      "fetchedAt": "2026-05-27T12:30:06.333Z",
       "posts": [
         {
-          "id": "DYo_SEpxorH",
-          "caption": "Neste Sábado, banda The Nightfall tocando Blind Guardian, Edguy, Helloween, Hammerfall e banda Silent Force tocando Epica, Nightwish, After Forever e Within Temptation\n\n👉 Abertura da casa 19:00\n👉 Happy hour com double de chopp e promo de burger até 21:00\n👉 Início da banda 22:00\n* Não fazemos reservas, somente ordem de chegada.\n* Entrada R$15",
-          "mediaType": "Image",
-          "timestamp": "2026-05-22T12:10:48.000Z",
-          "permalink": "https://www.instagram.com/p/DYo_SEpxorH/",
-          "images": [
-            "https://scontent-dfw5-2.cdninstagram.com/v/t51.82787-15/705137705_18597601102014364_148231093203039180_n.heic?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gFa3wYkO39QebtJwjfoh21krYvgZIXnLal4Wqzm0eYzu854UK6jVcWLxKMc34G7Up0&_nc_ohc=yXcFB--MlGUQ7kNvwFgTNAv&_nc_gid=A7AbWAWddA_AXIaHce-r6Q&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af7t7XYbquS2y5EHt0w4uEKemD9rmnddYw7zTmeXi6rxqg&oe=6A1769E3&_nc_sid=10d13b"
-          ],
-          "handle": "bloodrockbar",
-          "raw": {
-            "ownerUsername": "bloodrockbar",
-            "type": "Image",
-            "shortCode": "DYo_SEpxorH"
-          },
-          "analysis": {
-            "relevant": true,
-            "events": [
-              {
-                "date": "2026-05-23",
-                "title": "Shows The Nightfall e Silent Force",
-                "start_time": "22:00:00.000Z",
-                "confidence": "high",
-                "evidence": "SÁBADO 23 DE MAIO, Início da banda 22:00"
-              }
-            ],
-            "windowMax": "2026-05-29"
-          }
-        },
-        {
-          "id": "DYppZ1MRdaU",
-          "caption": "Atenção, blooders! Está lançada oficialmente a temporada do Quentão! E aí, bora espantar o frio das noites geladas curitibanas com o melhor quentão da cidade? Já marca aí quem é parceiro nessa! 🤘😊\n\n*Opção com ou sem marshmallow\n\n#quentao #baresdecuritiba #curitibanices #invernoémelhorqueverão #amocuritiba",
-          "mediaType": "Image",
-          "timestamp": "2026-05-22T18:18:51.000Z",
-          "permalink": "https://www.instagram.com/p/DYppZ1MRdaU/",
-          "images": [
-            "https://scontent-dfw5-2.cdninstagram.com/v/t51.82787-15/703075812_18597687661014364_1202557265187322722_n.heic?stp=dst-jpg_e35_s1080x1080_sh2.08_tt6&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gEMQIWwFlF0_tlBzsFdtFQ1DxLjhslo0qTdDqj3N_YihfFeECxiGI2UTn5lr3K_ZMc&_nc_ohc=CprkByE_xsEQ7kNvwEhwizx&_nc_gid=gDQSj4CxpqFX9BUDPAbiUQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af5qEmdWJW76cMoMdQRxyYOBlF6j_aq_nBqE4OyP-KDxkg&oe=6A1743E1&_nc_sid=10d13b"
-          ],
-          "handle": "bloodrockbar",
-          "raw": {
-            "ownerUsername": "bloodrockbar",
-            "type": "Image",
-            "shortCode": "DYppZ1MRdaU"
-          },
-          "analysis": {
-            "relevant": false,
-            "events": [],
-            "windowMax": "2026-05-29"
-          }
-        },
-        {
-          "id": "DYpTPlNRY_1",
-          "caption": "NESTE S�BADO no Blood<\u000f>\u0018<�>�\n\nUma noite dedicada ao Metal melodico, Power Metal e Metal sinfonico, depois de muitos pedidos, com NIGHTFALL - @thenightfallband - tocando classicos do Helloween, Stratovarius, Blind Guardian, HammerFall, Avantasia, Edguy e muito mais e a banda SILENT FORCE - @silentforcemetal - com Epica, Nightwish, Within Temptation e After Forever, pela primeira vez em um s�bado >\u0018<�>\u0018<�\n\nN�O PERCA, se programe para chegar cedo e sair tarde<\u000f <{>�>\u0018<�",
+          "id": "DYxcSePxiUE",
+          "caption": "Nesta Sexta-Feira, Avenged Sevenfold Cover Brasil e banda Burn In Out (Especial Korn e System of a Down)\n\n Abertura da casa 19:00\n👉 Happy hour com double de chopp e promo de burger até 21:00\n👉 Início das bandas 22:00\n* Não fazemos reservas, somente ordem de chegada.\n* Entrada R$15",
           "mediaType": "Video",
-          "timestamp": "2026-05-22T15:06:10.000Z",
-          "permalink": "https://www.instagram.com/p/DYpTPlNRY_1/",
+          "timestamp": "2026-05-25T18:59:39.000Z",
+          "permalink": "https://www.instagram.com/p/DYxcSePxiUE/",
           "images": [
-            "https://scontent-phl2-1.cdninstagram.com/v/t51.71878-15/705306271_1314157186780564_3010332512645877793_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-phl2-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gE2qTGu-aatVrWr7Fp_Sot9UYZ8Zn2-14MZ815Uva9pJJ7V4qSVUGgoRVc2jUrlOoI&_nc_ohc=am0R6DD3_3EQ7kNvwGHpL9m&_nc_gid=apztTfRW6K09o1P0PEmKDw&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af6VRkjV5yWVYA4rFYOam3YUZxwloyfiWkTYSEjvKr0rzA&oe=6A175E0E&_nc_sid=10d13b"
+            "https://scontent-atl3-2.cdninstagram.com/v/t51.82787-15/706745068_18598608886014364_7448499876747323526_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gETKuPZnrDBLYgNeU4TTr3g7N8dyjSrB1pZLjFCZCIaDW_iSwym6Lh90N6qN79hpto&_nc_ohc=V-te2gXmXAMQ7kNvwEIwjZq&_nc_gid=o_ksycEFu8LwhWA_C3KYtA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af4t3WjOaW3pyXVyXQL06Uc2dMAvJFzPES-e7xW7DA-E2Q&oe=6A1CB451&_nc_sid=10d13b"
           ],
           "handle": "bloodrockbar",
           "raw": {
             "ownerUsername": "bloodrockbar",
             "type": "Video",
-            "shortCode": "DYpTPlNRY_1"
+            "shortCode": "DYxcSePxiUE"
           },
           "analysis": {
             "relevant": true,
             "events": [
               {
-                "date": "2026-05-23",
-                "title": "NIGHTFALL e SILENT FORCE",
-                "start_time": null,
+                "date": "2026-05-29",
+                "title": "Avenged Sevenfold Cover Brasil e Burn In Out (Especial Korn e System of a Down)",
+                "start_time": "22:00:00Z",
                 "confidence": "high",
-                "evidence": "NESTE SÁBADO, NIGHTFALL, SILENT FORCE"
+                "evidence": "SEXTA 29 DE MAIO, Início das bandas 22:00"
               }
             ],
-            "windowMax": "2026-05-29"
+            "windowMax": "2026-06-02"
+          }
+        },
+        {
+          "id": "DYveP_YT4S_",
+          "caption": "Nests Sábado, Show de despedida da banda THE NOBS (Led Zeppelin Cover) Convidados especiais Veredicto/Mr Mojo The Doors\n\n Abertura da casa 19:00\n👉 Happy hour com double de chopp e promo de burger até 21:00\n👉 Início das bandas 22:00\n* Não fazemos reservas, somente ordem de chegada.\n* Entrada R$15",
+          "mediaType": "Image",
+          "timestamp": "2026-05-25T00:36:50.000Z",
+          "permalink": "https://www.instagram.com/p/DYveP_YT4S_/",
+          "images": [
+            "https://instagram.fagc1-2.fna.fbcdn.net/v/t51.82787-15/706676865_18598384819014364_69809556523135987_n.heic?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fagc1-2.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2gELU0dxBpX8swsIZ5-N41EdLAbI_WZwN8wOwxrtAu-ry3pjwRt2TZG4u8nB4-msNNU&_nc_ohc=zJoIqk4FZDUQ7kNvwGIYJg7&_nc_gid=DHj-9V7pyn9VHzc7XMnUag&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af6R3wLL60O77k5UYQmz7H--oGsYLAbeQwDhydlU9fy8fw&oe=6A1C9D8F&_nc_sid=10d13b"
+          ],
+          "handle": "bloodrockbar",
+          "raw": {
+            "ownerUsername": "bloodrockbar",
+            "type": "Image",
+            "shortCode": "DYveP_YT4S_"
+          },
+          "analysis": {
+            "relevant": true,
+            "events": [
+              {
+                "date": "2026-05-30",
+                "title": "Show de despedida THE NOBS (Led Zeppelin Cover) e convidados",
+                "start_time": "22:00:00Z",
+                "confidence": "high",
+                "evidence": "SÁBADO 30 DE MAIO, Início das bandas 22:00"
+              }
+            ],
+            "windowMax": "2026-06-02"
+          }
+        },
+        {
+          "id": "DYu42LNP9q0",
+          "caption": "Nesta Sexta-Feira, Avenged Sevenvold Cover Brasil e banda Burn In Out (Especial Korn e System of a Down)\n\n Abertura da casa 19:00\n👉 Happy hour com double de chopp e promo de burger até 21:00\n👉 Início das bandas 22:00\n* Não fazemos reservas, somente ordem de chegada.\n* Entrada R$15",
+          "mediaType": "Image",
+          "timestamp": "2026-05-24T19:09:59.000Z",
+          "permalink": "https://www.instagram.com/p/DYu42LNP9q0/",
+          "images": [
+            "https://scontent-mia5-1.cdninstagram.com/v/t51.82787-15/707464883_18598310032014364_1438482920410699754_n.heic?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-mia5-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gGj7ApmaUUrV1vq9sFhA7jdXqxrPoPJ5kPKQ6mcU42ptlrSwl2c1N_ooukKLLsmy64&_nc_ohc=SO0-TBX1W3kQ7kNvwFnGGyV&_nc_gid=srBUmJinUU_P666R67Zq1g&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af55hmz2R7UUe4l6Brb_NG3p5bV5xs8kDZIyGePoEkDJNw&oe=6A1CC964&_nc_sid=10d13b"
+          ],
+          "handle": "bloodrockbar",
+          "raw": {
+            "ownerUsername": "bloodrockbar",
+            "type": "Image",
+            "shortCode": "DYu42LNP9q0"
+          },
+          "analysis": {
+            "relevant": true,
+            "events": [
+              {
+                "date": "2026-05-29",
+                "title": "Avenged Sevenfold Cover Brasil e Burn In Out (Especial Korn e System of a Down)",
+                "start_time": "22:00:00.000Z",
+                "confidence": "high",
+                "evidence": "SEXTA 29 DE MAIO, Início das bandas 22:00"
+              }
+            ],
+            "windowMax": "2026-06-02"
           }
         }
       ]
@@ -1232,8 +1282,29 @@
       "name": "Belvedere",
       "instagram": "https://www.instagram.com/belvederecasadecultura/",
       "handle": "belvederecasadecultura",
-      "fetchedAt": "2026-05-23T10:45:11.096Z",
+      "fetchedAt": "2026-05-27T12:31:24.724Z",
       "posts": [
+        {
+          "id": "DYfvQovNScs",
+          "caption": "Belvedere apresenta:\nTigers Jaw\n\nA banda norteamericana retorna a Curitiba para única apresentação no Belvedere, dia 12 de outubro, apresentando o novo disco “Lost on You”.\nParticipação especial das bandas Not an Ideal Boy, Past Behavior e Vinca Major.\nÉ dia 12 de outubro (Feriado), no Belvedere, a partir das 18h.\n\nIngressos promocionais em @meapleapp (link na bio, stories e destaques).\n\nApoio: @ndp.live @bandadecasinha \n\nClassificação: 18 anos.",
+          "mediaType": "Image",
+          "timestamp": "2026-05-18T22:00:19.000Z",
+          "permalink": "https://www.instagram.com/p/DYfvQovNScs/",
+          "images": [
+            "https://scontent-atl3-3.cdninstagram.com/v/t51.82787-15/703914440_18348706063211039_2208061546566197732_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gE9tnjQ5XovRF5dl_jYlA9KqYsoelMUqJHFc_2FBRNspnO35YEyeYeBTX_1ULl-akw&_nc_ohc=_HkbuSJw7s4Q7kNvwGK7OBj&_nc_gid=Qg0ccUhi-qjEfuGtFkVS6Q&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af7ywKTWbVxoNdfOzYlndOgcPuDj2E74UupfQksOotZE4w&oe=6A1CBDFE&_nc_sid=10d13b"
+          ],
+          "handle": "belvederecasadecultura",
+          "raw": {
+            "ownerUsername": "belvederecasadecultura",
+            "type": "Image",
+            "shortCode": "DYfvQovNScs"
+          },
+          "analysis": {
+            "relevant": false,
+            "events": [],
+            "windowMax": "2026-06-02"
+          }
+        },
         {
           "id": "DYQMjwEM_LR",
           "caption": "Belvedere apresenta:\nHateen.\n\nA banda paulista retorna ao palco do BVDR no próximo dia 03 de junho (pré-feriado), a partir das 20h, para único show ao lado das bandas Vamps, Alty F4 e Donitas.\nO show promete, além dos clássicos da banda, músicas inéditas, jamais tocadas.\nUm show imperdível!\n\nIngressos disponíveis no link da bio e destaques.\n\nclassificação: 18 anos.",
@@ -1241,7 +1312,7 @@
           "timestamp": "2026-05-12T21:07:47.000Z",
           "permalink": "https://www.instagram.com/p/DYQMjwEM_LR/",
           "images": [
-            "https://instagram.fmem1-2.fna.fbcdn.net/v/t51.82787-15/693988950_18347970985211039_4758442103861964438_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fmem1-2.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gHNRfe8HXDTvxIebNH7jpM6NP7eI2_V6ntWsm-xsHC3wFhkDJauvw9O-R7Iq76QEpc&_nc_ohc=YocsxvsL4gEQ7kNvwEO7tyu&_nc_gid=7uFScSoJuS99g8WQpWOd5g&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af4xB1Uj_9gZr9FgGRd3gpoqUsN75a58AioUjqjsoIw8jw&oe=6A1751BF&_nc_sid=10d13b"
+            "https://scontent-atl3-3.cdninstagram.com/v/t51.82787-15/693988950_18347970985211039_4758442103861964438_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gHbtlPtGW2w_rc6cpYBRPz7t3kV3zxg_hs8qKuL3AmQ2BGe8xHbGXE_HF9HgUCE51Q&_nc_ohc=1Js9XZAlFrUQ7kNvwE7u42z&_nc_gid=WCRQTqLJHnG0deQ2s6pTww&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af7LD-H1H5_SK8DVgZeASXGRW9fVtZEdm2HuZEChMQTSsQ&oe=6A1CCFFF&_nc_sid=10d13b"
           ],
           "handle": "belvederecasadecultura",
           "raw": {
@@ -1252,7 +1323,7 @@
           "analysis": {
             "relevant": false,
             "events": [],
-            "windowMax": "2026-05-29"
+            "windowMax": "2026-06-02"
           }
         }
       ]
@@ -1314,69 +1385,77 @@
       "name": "Clay Highway",
       "instagram": "https://www.instagram.com/clayhighway/",
       "handle": "clayhighway",
-      "fetchedAt": "2026-05-23T10:45:50.201Z",
+      "fetchedAt": "2026-05-27T12:32:02.720Z",
       "posts": [
         {
-          "id": "DYnQkE3qfP2",
-          "caption": "",
+          "id": "DYwwt_exYZ6",
+          "caption": "🔥 SEMANA CLAY HIGHWAY BAR\nEssa semana tem três noites para cantar, lembrar e viver o rock no Clay.\n\n🇧🇷 29/05 Sexta | Brasil Hits\ncom Paralamas do Sucesso CWB + Rádio Vinil.  Uma noite de rock nacional, clássicos e hits para cantar junto.\n\n🔥 30/05 Sábado | A Era Que Marcou Uma Geração.  🎸 Burn in Out (Korn + Soad)\n🎸 Pearl Jam Ribeirão Cover\n🎸 Red Hot Experience. Rock, nostalgia e a energia dos anos 90/2000 no palco do Clay.\n\n🎤 31/05 Domingo \n🎸 Banda Velho Residentes. \nA tradição da casa fechando a semana com muito rock e aquele clima clássico do Clay.\n\nClay Highway Bar 🤘🏻😎\nViva o extraordinário.",
           "mediaType": "Image",
-          "timestamp": "2026-05-21T20:03:23.000Z",
-          "permalink": "https://www.instagram.com/p/DYnQkE3qfP2/",
+          "timestamp": "2026-05-25T12:37:28.000Z",
+          "permalink": "https://www.instagram.com/p/DYwwt_exYZ6/",
           "images": [
-            "https://scontent-phx1-1.cdninstagram.com/v/t51.82787-15/702729555_18139498165530354_5847426647355498892_n.webp?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-phx1-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gFlABWdzXQlyj7lPgDiKj62UUvGIJzlb9MXsaVYilDx3YU6axyjBy3IXhhMVBThAfI&_nc_ohc=B7yoheSX9YwQ7kNvwHiZQRZ&_nc_gid=PKi2tFaU_D1Zn44DFVklfQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af5Wk5dhw0H01EhusCOEZCD386jG3c_jdr0OMa06zTkH4w&oe=6A1742E2&_nc_sid=10d13b"
+            "https://scontent-sea1-1.cdninstagram.com/v/t51.82787-15/708304918_18139882162530354_4101744729200555782_n.webp?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gFxKuD6Khie160Qre0TbEaMducJhGAixm5zPImF1Dn80qh-8BmKIQXSlJtax8p6Uvs&_nc_ohc=j9PqgCPk70QQ7kNvwFXtloJ&_nc_gid=G3XBfPK0x-WSgpPkcIdDJQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af4T0eiqMrMArFxg3gCA8NgM2medJcdRQDuOkQ6uoaLf2w&oe=6A1CD202&_nc_sid=10d13b"
           ],
           "handle": "clayhighway",
           "raw": {
             "ownerUsername": "clayhighway",
             "type": "Image",
-            "shortCode": "DYnQkE3qfP2"
+            "shortCode": "DYwwt_exYZ6"
           },
           "analysis": {
             "relevant": false,
             "events": [],
-            "windowMax": "2026-05-29"
+            "windowMax": "2026-06-02"
           }
         },
         {
-          "id": "DYdYl_xjDXU",
-          "caption": "✔️ Clay Highway programação \n\n✅ SEX 22/05 - BILLIE EILISH + BLINK 182 + TWENTY ONE PILOTS\n🎸21:30 - BANDITOS\n🎸23:00 - BILLIE EILISH com Bela Prado\n🎸 00:00 - BLINK 182 BRASIL\n\n➖➖➖➖➖➖➖➖➖➖\n\n✅ SÁB 23/05 - ENERGY HITS\n🎸20:30 - GALLO JACK SHOW\n🎸22:30 - PUTZ HITS\n🎸01:00 - BON JOVI LOST HIGHWAY COVER\n\n➖➖➖➖➖➖➖➖➖➖\n\n✅ DOM 24/05 - NU METAL\n🎸 20:30 - NAMELESS\n\n➖➖➖➖➖➖➖➖➖➖\n\n🎟️ Ingressos promocionais antecipados incluem 01 chope cortesia (01° lote inteira)\n\n☎️ Whats 41 99677-5930\n\nCLAY HIGHWAY\n10 anos de noites inesquecíveis",
-          "mediaType": "Sidecar",
-          "timestamp": "2026-05-18T00:01:02.000Z",
-          "permalink": "https://www.instagram.com/p/DYdYl_xjDXU/",
-          "images": [
-            "https://scontent-lga3-3.cdninstagram.com/v/t51.82787-15/701651457_18139095613530354_4990461400940546255_n.webp?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gE2c5PH7MhZP4ScsjBnM3fm1FP5vfO51i_VQFbQI3yoeKkq0Mctlaj9VBTaMqULp3k&_nc_ohc=Q83vdq80bW0Q7kNvwGwcTd4&_nc_gid=M85bobDpB7zBC0SaVF2n7g&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af66x5IPETdNLhX1UYnIrYOLdC9dLhLuYUQGlHOMDTnWtA&oe=6A175E6D&_nc_sid=10d13b"
-          ],
-          "handle": "clayhighway",
-          "raw": {
-            "ownerUsername": "clayhighway",
-            "type": "Sidecar",
-            "shortCode": "DYdYl_xjDXU"
-          },
-          "analysis": {
-            "relevant": false,
-            "events": [],
-            "windowMax": "2026-05-29"
-          }
-        },
-        {
-          "id": "DYkaR95RvvB",
+          "id": "DY0X8KJxoCV",
           "caption": "",
           "mediaType": "Image",
-          "timestamp": "2026-05-20T17:30:30.000Z",
-          "permalink": "https://www.instagram.com/p/DYkaR95RvvB/",
+          "timestamp": "2026-05-26T22:17:54.000Z",
+          "permalink": "https://www.instagram.com/p/DY0X8KJxoCV/",
           "images": [
-            "https://scontent-atl3-1.cdninstagram.com/v/t51.82787-15/704558609_18139378186530354_3520110853617296365_n.webp?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gEA7NnPCDgF2wBcBrBi52i5lLH_lpcYwMJHDumNDsfZN_82Yr7Z1tm_eLXWcvSRvFA&_nc_ohc=VOzhuIx620IQ7kNvwGih77G&_nc_gid=4RJJkDl7ida-Vv5TPmxzUA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af76A9wFfTG6Xwpo06aUv5yybQE1uxE5MGgPne92d_y7dg&oe=6A17627A&_nc_sid=10d13b"
+            "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/707678791_18140031451530354_4022644219579529843_n.webp?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gGp3SYy1nnaoqjtUGbCrA-iD1BlC3IzobiYKD5I959SCINAvFIl5aPirftyCrdEt5g&_nc_ohc=MZmzyu5fo4UQ7kNvwHrOWlQ&_nc_gid=bd-l8dh5W4htrSwezKe3Zw&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af7cx_6ucTicq3YZJHEvM0LHJxidmDrzxh7mWozA7PnRUA&oe=6A1CBE1A&_nc_sid=10d13b"
           ],
           "handle": "clayhighway",
           "raw": {
             "ownerUsername": "clayhighway",
             "type": "Image",
-            "shortCode": "DYkaR95RvvB"
+            "shortCode": "DY0X8KJxoCV"
           },
           "analysis": {
             "relevant": false,
             "events": [],
-            "windowMax": "2026-05-29"
+            "windowMax": "2026-06-02"
+          }
+        },
+        {
+          "id": "DY0YHqsRms1",
+          "caption": "",
+          "mediaType": "Image",
+          "timestamp": "2026-05-26T22:19:28.000Z",
+          "permalink": "https://www.instagram.com/p/DY0YHqsRms1/",
+          "images": [
+            "https://scontent-mia3-1.cdninstagram.com/v/t51.82787-15/708927972_18140031559530354_4810582576110392928_n.webp?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-mia3-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gEu0oBsOylrKBhG0bRMx35b3wdAnHfw2LtvzXOW1wrBA__hTokT9mUJD20MPGiybHY&_nc_ohc=Fn39qtwdT8MQ7kNvwG-cW4K&_nc_gid=IUrlJy51cr4Ve6Vh3RYqeA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af63MLz2ZdVt1YsJ3pK_-A3Jm5OGgecab576L_661gTCyQ&oe=6A1CC35E&_nc_sid=10d13b"
+          ],
+          "handle": "clayhighway",
+          "raw": {
+            "ownerUsername": "clayhighway",
+            "type": "Image",
+            "shortCode": "DY0YHqsRms1"
+          },
+          "analysis": {
+            "relevant": true,
+            "events": [
+              {
+                "date": "2026-05-30",
+                "title": "Tributo Nu Metal + Grunge com Burn In Out, The Red Hot Experience e Pearl Jam Ribeirão Cover",
+                "start_time": null,
+                "confidence": "high",
+                "evidence": "SÁBADO 30/05, NU METAL + GRUNGE, com as bandas Burn In Out CWB, The Red Hot Experience SP, Pearl Jam Ribeirão Cover"
+              }
+            ],
+            "windowMax": "2026-06-02"
           }
         }
       ]
@@ -1437,48 +1516,27 @@
       "name": "Old Jack",
       "instagram": "https://www.instagram.com/oldjackgaragebar/",
       "handle": "oldjackgaragebar",
-      "fetchedAt": "2026-05-23T10:46:24.525Z",
+      "fetchedAt": "2026-05-27T12:32:34.798Z",
       "posts": [
         {
-          "id": "DYf2YQUFnOv",
-          "caption": "Bora de agenda?!\n\nEntão bora…\n\n🎤Quarta é dia de Karaokê aqui no Old!! \nMonte seu repertório e venha soltar a voz no palco do bar mais irado da cidade!\n\n🎸Quinta tem Country Music!\nA partir das 20:30h.\n\n🎸Sexta tem Flash Back para curtir muito e dançar um monte!\nA partir das 20:30h.\n\n🎸Sábado tem Pop Rock e Reggae para curtir aquela vibe!\nA partir das 20:30h!\n\n🎸Domingo tem pop rock!\nA partir das 18:30h.\n\nEntão já sabe né, chama todo mundo e vem curtir no bar mais Irado de Curitiba!🤘🏼\n\n🎫 Couvert quinta a domingo é de $12 mangos!\n🛑 Estacionamento Free todos os dias!\n\n🎂 Venha comemorar seu aniversário no Old!\n\n📲 Informações e reservas: (41) 98806-2180",
-          "mediaType": "Sidecar",
-          "timestamp": "2026-05-18T22:59:47.000Z",
-          "permalink": "https://www.instagram.com/p/DYf2YQUFnOv/",
-          "images": [
-            "https://scontent-dfw5-1.cdninstagram.com/v/t51.82787-15/703136331_18372296008205061_5486641288044003952_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gGLZwhRhh3x9p_E60b3Hs3BkLbtkMqDSpf-B0wH89-9We1y0D-tLogiKW1hf6I1RVo&_nc_ohc=N0aWm7IGZXoQ7kNvwEuNrOv&_nc_gid=kfbMxKX4B99sUeZsex7W2A&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af4hB3Kd4ztfWKcXJYldEgiQfPFb51iJv4hjuWL_QiSPFw&oe=6A174EB4&_nc_sid=10d13b"
-          ],
-          "handle": "oldjackgaragebar",
-          "raw": {
-            "ownerUsername": "oldjackgaragebar",
-            "type": "Sidecar",
-            "shortCode": "DYf2YQUFnOv"
-          },
-          "analysis": {
-            "relevant": false,
-            "events": [],
-            "windowMax": "2026-05-29"
-          }
-        },
-        {
-          "id": "DYnTyB4Scn_",
-          "caption": "POCKET FESTIVAL ROCK TOTAL neste domingo aqui no Old!!\n\nDuas bandas mandando ver no que há de melhor no rock nacional e internacional!!\n\n🎸17:30h Amplitude Rock - Rock Nacional\n\n🎸20:00h Diesel Rock - Rock Internacional.\n\nPromoção de Pilsen!\n\nAquela energia irada que você só encontra no Old!!\n\nEntão já sabe né, chama todo mundo e vem curtir com a gente!\n\nBar aberto às 16:00h!\nCouvert $12.\n\n@amplituderock \n@dieselrockclassic",
+          "id": "DY0abfzJQL_",
+          "caption": "Energia incrível, boa música e uma experiência única te esperam aqui no Old! 🍻🔥\n\nVenha nos fazer uma visita e viver esse clima irado!🤘🏼\n\n📞 Fone: (41) 98806-2180\n📍 Rua Luiz Leopoldo Landal, 117 – Novo Mundo",
           "mediaType": "Video",
-          "timestamp": "2026-05-21T20:39:03.000Z",
-          "permalink": "https://www.instagram.com/p/DYnTyB4Scn_/",
+          "timestamp": "2026-05-26T22:39:54.000Z",
+          "permalink": "https://www.instagram.com/p/DY0abfzJQL_/",
           "images": [
-            "https://scontent-mia5-1.cdninstagram.com/v/t51.71878-15/683499617_1784454392937745_4760325572959090796_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-mia5-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gFkVpUEJ0kXV5FKQpDZu-Gqedmz067vY8hqsYWfQKq1tE1fEOKI-bmUPBcwA9XW3c_LDQ7ee_kENvLudu3cyJhu&_nc_ohc=eQFgMPs4hxMQ7kNvwHIk_AQ&_nc_gid=WZrXQJF7yWXf0H5k_7KiiQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af7LFMkkTMZb65ig_6igbCMEf0F0oG3dp4l-yX1bmnZzAw&oe=6A176CE0&_nc_sid=10d13b"
+            "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/705246896_4236994846444842_6990982160895667678_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gGxQV8jC28YSTpVJexbxEOtzn7Qeej5Nl0xSJ12VzXX1r6AcF5hFhEevVOna5-NnE4&_nc_ohc=0mefyfaqliQQ7kNvwFaVchq&_nc_gid=I9gQ8tBj2cBxMDBQtGI-Dw&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af5UC3Xhe1-l1WD3HGu-nSFj-VYdds01yAC6qkv3lVRCPw&oe=6A1CAC41&_nc_sid=10d13b"
           ],
           "handle": "oldjackgaragebar",
           "raw": {
             "ownerUsername": "oldjackgaragebar",
             "type": "Video",
-            "shortCode": "DYnTyB4Scn_"
+            "shortCode": "DY0abfzJQL_"
           },
           "analysis": {
             "relevant": false,
             "events": [],
-            "windowMax": "2026-05-29"
+            "windowMax": "2026-06-02"
           }
         },
         {
@@ -1488,7 +1546,7 @@
           "timestamp": "2026-04-10T16:21:08.000Z",
           "permalink": "https://www.instagram.com/p/DW9SNlJEmC2/",
           "images": [
-            "https://scontent-dfw5-1.cdninstagram.com/v/t51.82787-15/669943882_18366915040205061_2434288097132086420_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gHQAy0lGJd6MhEbgv4_qXRyFzfCC-eKM9CoF10Z3gANyOr-vxfbTmYLg_SUe2ZrAD8&_nc_ohc=RPvtLGX_bioQ7kNvwHd8PzP&_nc_gid=QiiuqRWnw9f-btrAM23PMg&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af4qopQiapmoz5CDLc5VCf6ysFNhKuIsX7oxjfIImzgqyA&oe=6A173C85&_nc_sid=10d13b"
+            "https://scontent-ord5-3.cdninstagram.com/v/t51.82787-15/669943882_18366915040205061_2434288097132086420_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-ord5-3.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gGKAtG4DcF7-oo2VVjv8ARy3iGrtOQCaoNX7uMUE400hKdWBroxyyMxvbySfms1QRI&_nc_ohc=shWDycEDj_0Q7kNvwGbnX6L&_nc_gid=D8ZlfUYR0cK3YpXLByTaug&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af5NNh5WRHr8j05LxYJNwKli4kf4PFuVkSReMhaXiiuApA&oe=6A1CBAC5&_nc_sid=10d13b"
           ],
           "handle": "oldjackgaragebar",
           "raw": {
@@ -1499,7 +1557,7 @@
           "analysis": {
             "relevant": false,
             "events": [],
-            "windowMax": "2026-05-29"
+            "windowMax": "2026-06-02"
           }
         }
       ]
@@ -1537,29 +1595,8 @@
       "name": "92 Graus",
       "instagram": "https://www.instagram.com/92graus/",
       "handle": "92graus",
-      "fetchedAt": "2026-05-23T10:46:56.413Z",
+      "fetchedAt": "2026-05-27T12:33:08.115Z",
       "posts": [
-        {
-          "id": "DSKdXGkDrrN",
-          "caption": "34 ANOS DO 92 GRAUS 🎂🔥\n\nA festa continua neste final de semana! E tem show internacional no sábado. Confira o que vai rolar na casa, de sexta à domingo: \n\nSEXTA (12/12) – “Decola aí”, com as bandas Parabólica Rock Club, Stereo Overdrive, Ildefonsos e Scumbags, diretamente de SC. A casa abre às 20h e os ingressos antecipados promocionais estão à venda pelo @pixta.me, por R$ 20. \n\nSÁBADO (13/12) – O projeto solo Octopoulpe retorna ao palco do 92 Graus para apresentar sua mistura de math-rock e hardcore punk. A banda convidada é a Rádio Cadáver, que sobe ao palco às 21h. A casa abre às 20h e os ingressos antecipados estão à venda pelo Pixta e custam R$ 30. Corra para garantir o seu, na hora será outro valor.\n\nDOMINGO (14) – Para fechar a programação de aniversário, o 92 Graus recebe o “Crocomerd Fest”, com as bandas Siszmo, Visione Obscura e Crotch Rot. O bar abre às 16h e os ingressos custam R$ 20, direto na portaria. \n\nEconomize comprando seu ingresso antecipado, chegue cedo and be happy! 🤘\n\n#92graus #92graus34anos",
-          "mediaType": "Sidecar",
-          "timestamp": "2025-12-12T12:28:45.000Z",
-          "permalink": "https://www.instagram.com/p/DSKdXGkDrrN/",
-          "images": [
-            "https://scontent-atl3-3.cdninstagram.com/v/t51.82787-15/590411037_18517995100067193_5091404928896227564_n.webp?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gGw3HkPQifbPI7vUvNzlzNDX-NsyCTpwKMl0yR1tlpItOrfaR_y2xesw9oGttLYucY&_nc_ohc=JJdPDM1hfooQ7kNvwEEDae_&_nc_gid=YceM_ZHRarYrHM-BgmlfIQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af5-nxeimorKhHXNkOumBPJ7_Hsuq71ZnaxQbQlvAMHh2g&oe=6A1755D0&_nc_sid=10d13b"
-          ],
-          "handle": "92graus",
-          "raw": {
-            "ownerUsername": "92graus",
-            "type": "Sidecar",
-            "shortCode": "DSKdXGkDrrN"
-          },
-          "analysis": {
-            "relevant": false,
-            "events": [],
-            "windowMax": "2026-05-29"
-          }
-        },
         {
           "id": "DRzUwFXDnOq",
           "caption": "34 ANOS DO 92 GRAUS 🎂🔥\n\nEm dezembro, a casa completa 34 anos! Para comemorar, logo no primeiro final de semana do mês, o bar recebe várias atrações, de quinta-feira à domingo, com uma presença super especial no sábado. Confira: \n\nQUINTA (4/12) - A festa começa com osso street a partir das 18h e em seguida tem o show das bandas The Speakers e Barbatanas às 20h. A entrada é FREE! \n\nSEXTA (5/12) - A casa abre às 20h com 1h de double de gin tônica, cuba libre e vodka com energético. As bandas Muralha, Midnight Blue e Porttal tocam a partir das 21h. \nOs ingressos custam R$ 20 no local. \n\nSÁBADO (6/12) - É aniversário do 92 Graus, e a data merece uma comemoração especial. Diretamente do RJ, a Second Come retorna à Curitiba após 30 anos. \nPara acompanhar o baile, a banda Redlightz e o DJ Zé Colméia também se apresentam. \n🎟️ Os ingressos antecipados já estão disponíveis, por R$ 50. Para comprar, basta mandar uma mensagem no Whatsapp para (41) 99919-1492\n\nDOMINGO (7/12) - Para fechar o fds em grande estilo, a matinê dominical conta com presença de três bandas representantes da nova onda da música alternativa: Resp3x, Vinca Major e Stela. \nA casa abre às 16h e vai rolar 1h de double gin tônica, cuba libre e vodka com energético. \n🔗Os ingressos estão à venda pelo pixta.me. O link tá na bio, corre lá! \n\nVenha comemorar o aniversário do pub com a gente and be happy! 🤘\n\nPs: no próximo final de semana a festa continua… 🥳\n\n#92graus #92graus34anos",
@@ -1567,7 +1604,7 @@
           "timestamp": "2025-12-03T12:50:59.000Z",
           "permalink": "https://www.instagram.com/p/DRzUwFXDnOq/",
           "images": [
-            "https://scontent-ord5-3.cdninstagram.com/v/t51.82787-15/590410920_18516516487067193_1234801468435837745_n.webp?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-ord5-3.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gFRLfgxYzVtBMMsBqj7Phgjq2JJ63b4kNZJEwH_ICPM9IDgfAxsXuTr86GDkE0SGJA&_nc_ohc=Ng9ahJyqf1QQ7kNvwEwCqy0&_nc_gid=ZM3xuHsfe99vZ-8n4VthUg&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af5YDx2yyEuCbxAqwfJ-DdAjX6a1bWByxRXBJEN9jUg2EQ&oe=6A1754DD&_nc_sid=10d13b"
+            "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/590410920_18516516487067193_1234801468435837745_n.webp?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gFEM_VGbDrQiykSVUSyta8_fxI75c3dXMY5cE6x508nzPu9i45VseiZojpcdO-HNiA&_nc_ohc=bvMDVWrVmY8Q7kNvwHvXXZe&_nc_gid=xbgk_idYhdkQWoSL6-XUdg&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af4W7X1DsASRyveuBB9IYPgHfugpZJi55jbt4Jfo37JleA&oe=6A1CD31D&_nc_sid=10d13b"
           ],
           "handle": "92graus",
           "raw": {
@@ -1578,7 +1615,28 @@
           "analysis": {
             "relevant": false,
             "events": [],
-            "windowMax": "2026-05-29"
+            "windowMax": "2026-06-02"
+          }
+        },
+        {
+          "id": "DSKdXGkDrrN",
+          "caption": "34 ANOS DO 92 GRAUS 🎂🔥\n\nA festa continua neste final de semana! E tem show internacional no sábado. Confira o que vai rolar na casa, de sexta à domingo: \n\nSEXTA (12/12) – “Decola aí”, com as bandas Parabólica Rock Club, Stereo Overdrive, Ildefonsos e Scumbags, diretamente de SC. A casa abre às 20h e os ingressos antecipados promocionais estão à venda pelo @pixta.me, por R$ 20. \n\nSÁBADO (13/12) – O projeto solo Octopoulpe retorna ao palco do 92 Graus para apresentar sua mistura de math-rock e hardcore punk. A banda convidada é a Rádio Cadáver, que sobe ao palco às 21h. A casa abre às 20h e os ingressos antecipados estão à venda pelo Pixta e custam R$ 30. Corra para garantir o seu, na hora será outro valor.\n\nDOMINGO (14) – Para fechar a programação de aniversário, o 92 Graus recebe o “Crocomerd Fest”, com as bandas Siszmo, Visione Obscura e Crotch Rot. O bar abre às 16h e os ingressos custam R$ 20, direto na portaria. \n\nEconomize comprando seu ingresso antecipado, chegue cedo and be happy! 🤘\n\n#92graus #92graus34anos",
+          "mediaType": "Sidecar",
+          "timestamp": "2025-12-12T12:28:45.000Z",
+          "permalink": "https://www.instagram.com/p/DSKdXGkDrrN/",
+          "images": [
+            "https://instagram.fhio2-2.fna.fbcdn.net/v/t51.82787-15/590411037_18517995100067193_5091404928896227564_n.webp?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fhio2-2.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2gEwXabYAUEQ5Np3fW3JfmAnP6Y9Z788snlrdd9KGmT8oejruCUc3my4ayQ1gNdkwuk&_nc_ohc=03dVzYZxzPMQ7kNvwGTCdw9&_nc_gid=sJloxqbkzYhnNSZmhGP-0g&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af6oBxv6yWQ9pw5ReqbLF0N-fCBqsVw2yxbwZTDLIOAx2Q&oe=6A1C9BD0&_nc_sid=10d13b"
+          ],
+          "handle": "92graus",
+          "raw": {
+            "ownerUsername": "92graus",
+            "type": "Sidecar",
+            "shortCode": "DSKdXGkDrrN"
+          },
+          "analysis": {
+            "relevant": false,
+            "events": [],
+            "windowMax": "2026-06-02"
           }
         }
       ]
@@ -1594,16 +1652,40 @@
   },
   "errors": [
     {
-      "handle": "armazemgaragem",
-      "postId": "DKdFcRUMV1f",
+      "handle": "clayhighway",
+      "postId": "DYwwt_exYZ6",
       "provider": "gemini",
-      "message": "Gemini 429: {\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 8.086212998s.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"location\":\"global\",\"model\":\"gemini-2.5-flash\"},\"quotaValue\":\"20\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"8s\"}]}"
+      "message": "Gemini 429: {\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 20.876981006s.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"model\":\"gemini-2.5-flash\",\"location\":\"global\"},\"quotaValue\":\"20\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"20s\"}]}"
     },
     {
-      "handle": "armazemgaragem",
-      "postId": "DYkmtNRlHH1",
+      "handle": "clayhighway",
+      "postId": "DY0X8KJxoCV",
+      "provider": "gemini",
+      "message": "Gemini 429: {\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 13.955190822s.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"location\":\"global\",\"model\":\"gemini-2.5-flash\"},\"quotaValue\":\"20\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"13s\"}]}"
+    },
+    {
+      "handle": "oldjackgaragebar",
+      "postId": "DY0abfzJQL_",
+      "provider": "gemini",
+      "message": "Gemini 429: {\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 41.609640573s.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"model\":\"gemini-2.5-flash\",\"location\":\"global\"},\"quotaValue\":\"20\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"41s\"}]}"
+    },
+    {
+      "handle": "oldjackgaragebar",
+      "postId": "DW9SNlJEmC2",
       "provider": "gemini",
       "message": "Gemini 503: {\"code\":503,\"message\":\"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\"status\":\"UNAVAILABLE\"}"
+    },
+    {
+      "handle": "92graus",
+      "postId": "DRzUwFXDnOq",
+      "provider": "gemini",
+      "message": "Gemini 429: {\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 5.905627794s.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"model\":\"gemini-2.5-flash\",\"location\":\"global\"},\"quotaValue\":\"20\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"5s\"}]}"
+    },
+    {
+      "handle": "92graus",
+      "postId": "DSKdXGkDrrN",
+      "provider": "gemini",
+      "message": "Gemini 429: {\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 58.441470834s.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"location\":\"global\",\"model\":\"gemini-2.5-flash\"},\"quotaValue\":\"20\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"58s\"}]}"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-25T12:43:41.464Z",
-  "week_start": "2026-05-25",
+  "updated_at": "2026-05-27T12:33:08.177Z",
+  "week_start": "2026-05-27",
   "model": "gemini-2.5-flash",
   "venues": [
     {
@@ -8,7 +8,41 @@
       "ig": "https://www.instagram.com/wearebastardspub/",
       "bairro": "Água Verde",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-05-27": [
+          {
+            "name": "Johaine Duo",
+            "time": "20:20:00Z",
+            "description": null
+          }
+        ],
+        "2026-05-28": [
+          {
+            "name": "Moonshine",
+            "time": "20:20:00Z",
+            "description": null
+          }
+        ],
+        "2026-05-29": [
+          {
+            "name": "Leo e Duda Vaz",
+            "time": "20:00:00Z",
+            "description": null
+          },
+          {
+            "name": "República Pine",
+            "time": "22:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-05-30": [
+          {
+            "name": "Baile Brasa",
+            "time": "21:30:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Cross Roads",
@@ -30,7 +64,48 @@
       "ig": "https://www.instagram.com/hrccuritiba/",
       "bairro": "Batel",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-05-27": [
+          {
+            "name": "JAM SESSION SCHOOL OF ROCK",
+            "time": "19:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-05-28": [
+          {
+            "name": "FRANBOESA TRIO",
+            "time": "19:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-05-29": [
+          {
+            "name": "JACKFLASH",
+            "time": "19:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-05-30": [
+          {
+            "name": "GUI VIANNA",
+            "time": "12:30:00Z",
+            "description": null
+          },
+          {
+            "name": "VICK VAPO ROCK",
+            "time": "19:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-05-31": [
+          {
+            "name": "OVERLINE",
+            "time": "19:30:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Sheridans",
@@ -38,20 +113,6 @@
       "bairro": "Batel",
       "cat": "Gourmet",
       "events": {
-        "2026-05-25": [
-          {
-            "name": "U2 CWB",
-            "time": "20:30:00Z",
-            "description": null
-          }
-        ],
-        "2026-05-26": [
-          {
-            "name": "JOHAINE DUO",
-            "time": "20:30:00Z",
-            "description": null
-          }
-        ],
         "2026-05-27": [
           {
             "name": "MELO E ZIA",
@@ -127,22 +188,55 @@
       "ig": "https://www.instagram.com/bardafabricabastards/",
       "bairro": "Bom Retiro",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-05-27": [
+          {
+            "name": "ÍSIS DUO",
+            "time": "19:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-05-28": [
+          {
+            "name": "FOLKS TRIO",
+            "time": "19:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-05-29": [
+          {
+            "name": "VÁLVULA VAPOR",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-05-30": [
+          {
+            "name": "NIKO & GIU",
+            "time": "16:00:00Z",
+            "description": null
+          },
+          {
+            "name": "DANNI DISTLER E BANDA",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-05-31": [
+          {
+            "name": "SONORA 4",
+            "time": "16:00:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Maniacs",
       "ig": "https://www.instagram.com/bardamaniacs/",
       "bairro": "Cabral",
       "cat": "Gourmet",
-      "events": {
-        "2026-05-26": [
-          {
-            "name": "Chef Convidado Lênin Palhano",
-            "time": null,
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Rock Pizza",
@@ -163,7 +257,22 @@
       "ig": "https://www.instagram.com/barbariumpub/",
       "bairro": "Rebouças",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-05-30": [
+          {
+            "name": "Final da Champions League",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-05-31": [
+          {
+            "name": "Amistoso da seleção",
+            "time": null,
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Dobrucki",
@@ -196,9 +305,23 @@
       "bairro": "Centro",
       "cat": "Gourmet",
       "events": {
+        "2026-05-30": [
+          {
+            "name": "Show Specialites e DJ André Mod",
+            "time": "22:00:00.000000000Z",
+            "description": null
+          }
+        ],
         "2026-05-29": [
           {
-            "name": "Moqueca de Peixe (Pescada Branca)",
+            "name": "Undered - Rock anos 90s e 00s",
+            "time": "18:00:00.000Z",
+            "description": null
+          }
+        ],
+        "2026-05-27": [
+          {
+            "name": "Feijoada",
             "time": null,
             "description": null
           }
@@ -247,7 +370,22 @@
       "ig": "https://www.instagram.com/bloodrockbar/",
       "bairro": "São Francisco",
       "cat": "Palco e Show",
-      "events": {}
+      "events": {
+        "2026-05-29": [
+          {
+            "name": "Avenged Sevenfold Cover Brasil e Burn In Out (Especial Korn e System of a Down)",
+            "time": "22:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-05-30": [
+          {
+            "name": "Show de despedida THE NOBS (Led Zeppelin Cover) e convidados",
+            "time": "22:00:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Seb's Rock Bar",
@@ -284,13 +422,6 @@
       "bairro": "Bairro Alto",
       "cat": "Raiz",
       "events": {
-        "2026-05-26": [
-          {
-            "name": "Rodízio de Petiscos e Clipes no Telão",
-            "time": "18:00:00Z",
-            "description": null
-          }
-        ],
         "2026-05-27": [
           {
             "name": "Rodízio de Petiscos e Clipes no Telão",
@@ -312,7 +443,15 @@
       "ig": "https://www.instagram.com/clayhighway/",
       "bairro": "Capão Raso",
       "cat": "Raiz",
-      "events": {}
+      "events": {
+        "2026-05-30": [
+          {
+            "name": "Tributo Nu Metal + Grunge com Burn In Out, The Red Hot Experience e Pearl Jam Ri",
+            "time": null,
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Armazém Garage",
