@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-29T12:26:44.884Z",
-  "week_start": "2026-05-29",
+  "updated_at": "2026-05-31T11:08:42.944Z",
+  "week_start": "2026-05-31",
   "model": "gemini-2.5-flash",
   "venues": [
     {
@@ -9,22 +9,10 @@
       "bairro": "Água Verde",
       "cat": "Gourmet",
       "events": {
-        "2026-05-29": [
+        "2026-06-04": [
           {
-            "name": "Leo e Duda Vaz",
-            "time": "20:00:00Z",
-            "description": null
-          },
-          {
-            "name": "República Pine",
-            "time": "22:30:00Z",
-            "description": null
-          }
-        ],
-        "2026-05-30": [
-          {
-            "name": "Baile Brasa",
-            "time": "21:30:00Z",
+            "name": "Desliga essa P#rra",
+            "time": null,
             "description": null
           }
         ]
@@ -51,28 +39,9 @@
       "bairro": "Batel",
       "cat": "Gourmet",
       "events": {
-        "2026-05-29": [
-          {
-            "name": "JACKFLASH",
-            "time": "19:30:00Z",
-            "description": null
-          }
-        ],
-        "2026-05-30": [
-          {
-            "name": "GUI VIANNA",
-            "time": "12:30:00Z",
-            "description": null
-          },
-          {
-            "name": "VICK VAPO ROCK",
-            "time": "19:30:00Z",
-            "description": null
-          }
-        ],
         "2026-05-31": [
           {
-            "name": "OVERLINE",
+            "name": "Overline",
             "time": "19:30:00Z",
             "description": null
           }
@@ -84,62 +53,7 @@
       "ig": "https://www.instagram.com/sheridansirishpub/",
       "bairro": "Batel",
       "cat": "Gourmet",
-      "events": {
-        "2026-05-30": [
-          {
-            "name": "Final da Champions League",
-            "time": null,
-            "description": null
-          },
-          {
-            "name": "The Buckinghams",
-            "time": null,
-            "description": null
-          },
-          {
-            "name": "Válvula Vapor",
-            "time": "20:30:00Z",
-            "description": null
-          },
-          {
-            "name": "We Are Jukeboxx",
-            "time": "23:00:00Z",
-            "description": null
-          },
-          {
-            "name": "PSG X ARSENAL",
-            "time": "13:00:00Z",
-            "description": null
-          },
-          {
-            "name": "BUCKINGHAM DUO",
-            "time": "15:00:00Z",
-            "description": null
-          },
-          {
-            "name": "JUKEBOXX",
-            "time": "23:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-05-29": [
-          {
-            "name": "MTX MOFIRE BAND",
-            "time": "20:30:00Z",
-            "description": null
-          },
-          {
-            "name": "FIRECRACKER",
-            "time": "23:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Champions League",
-            "time": null,
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Bastards Fábrica",
@@ -147,28 +61,9 @@
       "bairro": "Bom Retiro",
       "cat": "Gourmet",
       "events": {
-        "2026-05-29": [
-          {
-            "name": "VÁLVULA VAPOR",
-            "time": "20:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-05-30": [
-          {
-            "name": "NIKO & GIU",
-            "time": "16:00:00Z",
-            "description": null
-          },
-          {
-            "name": "DANNI DISTLER E BANDA",
-            "time": "20:00:00Z",
-            "description": null
-          }
-        ],
         "2026-05-31": [
           {
-            "name": "SONORA 4",
+            "name": "Sonora 4",
             "time": "16:00:00Z",
             "description": null
           }
@@ -181,20 +76,6 @@
       "bairro": "Cabral",
       "cat": "Gourmet",
       "events": {
-        "2026-05-29": [
-          {
-            "name": "Burger Week com Combo Burger e chope",
-            "time": null,
-            "description": null
-          }
-        ],
-        "2026-05-30": [
-          {
-            "name": "Burger Week com Combo Burger e chope",
-            "time": null,
-            "description": null
-          }
-        ],
         "2026-05-31": [
           {
             "name": "Burger Week com Combo Burger e chope",
@@ -224,45 +105,6 @@
       "bairro": "Seminário",
       "cat": "Gourmet",
       "events": {
-        "2026-05-29": [
-          {
-            "name": "Banda Banks",
-            "time": "21:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Syd Vinicius",
-            "time": "00:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-05-30": [
-          {
-            "name": "Backstage Tributos",
-            "time": "21:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Bon Jovi Cover Brasil",
-            "time": "00:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Final Champions League",
-            "time": "13:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Show Backstage Tributos",
-            "time": "21:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Show Bon Jovi Cover Brasil",
-            "time": "00:00:00Z",
-            "description": null
-          }
-        ],
         "2026-05-31": [
           {
             "name": "Os Caras do CB",
@@ -278,13 +120,6 @@
       "bairro": "Rebouças",
       "cat": "Gourmet",
       "events": {
-        "2026-05-30": [
-          {
-            "name": "Final da Champions League",
-            "time": null,
-            "description": null
-          }
-        ],
         "2026-05-31": [
           {
             "name": "Amistoso da seleção",
@@ -300,13 +135,6 @@
       "bairro": "Rebouças",
       "cat": "Gourmet",
       "events": {
-        "2026-05-30": [
-          {
-            "name": "Música ao vivo",
-            "time": null,
-            "description": null
-          }
-        ],
         "2026-05-31": [
           {
             "name": "Candyman Club, Minha Banda é uma Festa, Hus Cage e DJ Adriano",
@@ -326,81 +154,21 @@
       "ig": "https://www.instagram.com/jokerspub/",
       "bairro": "Centro",
       "cat": "Gourmet",
-      "events": {
-        "2026-05-30": [
-          {
-            "name": "Show Specialites e DJ André Mod",
-            "time": "22:00:00.000000000Z",
-            "description": null
-          }
-        ],
-        "2026-05-29": [
-          {
-            "name": "Undered - Rock anos 90s e 00s",
-            "time": "18:00:00.000Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Tork n' Roll",
       "ig": "https://www.instagram.com/torkandroll/",
       "bairro": "Rebouças",
       "cat": "Palco e Show",
-      "events": {
-        "2026-05-29": [
-          {
-            "name": "EU NUNCA FUI TRISTE",
-            "time": "20:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Tributos Emo e Pop Punk",
-            "time": "20:00:00.000Z",
-            "description": null
-          }
-        ],
-        "2026-05-30": [
-          {
-            "name": "CAPITAL INICIAL COVER BR",
-            "time": "20:30:00Z",
-            "description": null
-          },
-          {
-            "name": "LEGI�O URBANA COVER com S�RGIO RAMOS",
-            "time": "22:15:00Z",
-            "description": null
-          },
-          {
-            "name": "GERA��O COCA COLA",
-            "time": "00:30:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Blood Rock",
       "ig": "https://www.instagram.com/bloodrockbar/",
       "bairro": "São Francisco",
       "cat": "Palco e Show",
-      "events": {
-        "2026-05-29": [
-          {
-            "name": "Avenged Sevenfold Cover Brasil e Burn In Out (Especial Korn e System of a Down)",
-            "time": "22:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-05-30": [
-          {
-            "name": "Show de despedida THE NOBS (Led Zeppelin Cover) e convidados",
-            "time": "22:00:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Seb's Rock Bar",
@@ -408,35 +176,6 @@
       "bairro": "Boqueirão",
       "cat": "Palco e Show",
       "events": {
-        "2026-05-29": [
-          {
-            "name": "Banda MR GOMES e Fabinho Oliveira Acústico",
-            "time": "19:00:00Z",
-            "description": null
-          },
-          {
-            "name": "OPEN FOOD com bandas ao vivo",
-            "time": "19:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-05-30": [
-          {
-            "name": "Sid Vinicius",
-            "time": "21:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Flash N' Back",
-            "time": "23:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Silvermoon",
-            "time": "01:00:00Z",
-            "description": null
-          }
-        ],
         "2026-06-04": [
           {
             "name": "OPEN FOOD com bandas ao vivo",
@@ -492,15 +231,7 @@
       "ig": "https://www.instagram.com/clayhighway/",
       "bairro": "Capão Raso",
       "cat": "Raiz",
-      "events": {
-        "2026-05-30": [
-          {
-            "name": "Tributo Nu Metal + Grunge com Burn In Out, The Red Hot Experience e Pearl Jam Ri",
-            "time": null,
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Armazém Garage",
@@ -508,30 +239,6 @@
       "bairro": "Santo Inácio",
       "cat": "Raiz",
       "events": {
-        "2026-05-29": [
-          {
-            "name": "Pigs & Diamonds (Pink Floyd Tribute)",
-            "time": "21:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-05-30": [
-          {
-            "name": "Apresentação das Bandas da Escola Édi Tolotti",
-            "time": null,
-            "description": null
-          },
-          {
-            "name": "Violet's Trio",
-            "time": null,
-            "description": null
-          },
-          {
-            "name": "Lely Quinn Band",
-            "time": null,
-            "description": null
-          }
-        ],
         "2026-05-31": [
           {
             "name": "Rockabilly Party",
