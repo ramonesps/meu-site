@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-31T11:08:42.944Z",
-  "week_start": "2026-05-31",
+  "updated_at": "2026-06-01T15:33:09.919Z",
+  "week_start": "2026-06-01",
   "model": "gemini-2.5-flash",
   "venues": [
     {
@@ -38,15 +38,7 @@
       "ig": "https://www.instagram.com/hrccuritiba/",
       "bairro": "Batel",
       "cat": "Gourmet",
-      "events": {
-        "2026-05-31": [
-          {
-            "name": "Overline",
-            "time": "19:30:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Sheridans",
@@ -60,15 +52,7 @@
       "ig": "https://www.instagram.com/bardafabricabastards/",
       "bairro": "Bom Retiro",
       "cat": "Gourmet",
-      "events": {
-        "2026-05-31": [
-          {
-            "name": "Sonora 4",
-            "time": "16:00:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Maniacs",
@@ -76,13 +60,6 @@
       "bairro": "Cabral",
       "cat": "Gourmet",
       "events": {
-        "2026-05-31": [
-          {
-            "name": "Burger Week com Combo Burger e chope",
-            "time": null,
-            "description": null
-          }
-        ],
         "2026-06-01": [
           {
             "name": "Burger Week com Combo Burger e chope",
@@ -104,57 +81,36 @@
       "ig": "https://www.instagram.com/distrito.1340/",
       "bairro": "Seminário",
       "cat": "Gourmet",
-      "events": {
-        "2026-05-31": [
-          {
-            "name": "Os Caras do CB",
-            "time": "21:00:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Barbarium",
       "ig": "https://www.instagram.com/barbariumpub/",
       "bairro": "Rebouças",
       "cat": "Gourmet",
-      "events": {
-        "2026-05-31": [
-          {
-            "name": "Amistoso da seleção",
-            "time": null,
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Dobrucki",
       "ig": "https://www.instagram.com/dobruckibar/",
       "bairro": "Rebouças",
       "cat": "Gourmet",
-      "events": {
-        "2026-05-31": [
-          {
-            "name": "Candyman Club, Minha Banda é uma Festa, Hus Cage e DJ Adriano",
-            "time": "15:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Música ao vivo e drinks",
-            "time": null,
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Jokers",
       "ig": "https://www.instagram.com/jokerspub/",
       "bairro": "Centro",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-06-06": [
+          {
+            "name": "Gitane Fest II",
+            "time": "18:00:00.000Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Tork n' Roll",
@@ -168,7 +124,29 @@
       "ig": "https://www.instagram.com/bloodrockbar/",
       "bairro": "São Francisco",
       "cat": "Palco e Show",
-      "events": {}
+      "events": {
+        "2026-06-05": [
+          {
+            "name": "Festa Grunge com 4 bandas",
+            "time": "21:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-06-06": [
+          {
+            "name": "Especial Big 4 (Tributo Metallica, Megadeth, Slayer, Anthrax)",
+            "time": "21:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-06-03": [
+          {
+            "name": "Banda Double Deck tocando The Cure, Smiths, Joy, Sisters of Mercy, The Mission,",
+            "time": "22:00:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Seb's Rock Bar",
@@ -190,7 +168,15 @@
       "ig": "https://www.instagram.com/belvederecasadecultura/",
       "bairro": "São Francisco",
       "cat": "Palco e Show",
-      "events": {}
+      "events": {
+        "2026-06-03": [
+          {
+            "name": "Hateen, Vamps, Alty F4 e Donitas",
+            "time": "20:00:00.000000000Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Resistência",
@@ -231,52 +217,27 @@
       "ig": "https://www.instagram.com/clayhighway/",
       "bairro": "Capão Raso",
       "cat": "Raiz",
-      "events": {}
+      "events": {
+        "2026-06-05": [
+          {
+            "name": "KING NOTHING (Tributo a Metallica)",
+            "time": "21:30:00Z",
+            "description": null
+          },
+          {
+            "name": "SLAYER TRIBUTO PROJECT (Com Marcello Pompeu)",
+            "time": "00:00:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Armazém Garage",
       "ig": "https://www.instagram.com/armazemgaragem/",
       "bairro": "Santo Inácio",
       "cat": "Raiz",
-      "events": {
-        "2026-05-31": [
-          {
-            "name": "Rockabilly Party",
-            "time": "10:00:00Z",
-            "description": null
-          },
-          {
-            "name": "The Washbros",
-            "time": "11:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Esquilos e Seus Grilos",
-            "time": "14:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Workshop de Dança / Tennessee Riders",
-            "time": "16:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Mr Gomes",
-            "time": "19:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Maquiagem e Penteado Express no Bazar Pin-up",
-            "time": null,
-            "description": null
-          },
-          {
-            "name": "Oficina de Arranjos Retrô de Flores para Cabelo",
-            "time": null,
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Old Jack",
