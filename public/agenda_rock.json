@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-01T15:33:09.919Z",
-  "week_start": "2026-06-01",
+  "updated_at": "2026-06-03T13:26:49.731Z",
+  "week_start": "2026-06-03",
   "model": "gemini-2.5-flash",
   "venues": [
     {
@@ -26,7 +26,7 @@
       "events": {
         "2026-06-04": [
           {
-            "name": "Electric Chicago Blues com Tony Caster & The Black Mouth Dogs",
+            "name": "Blues and Classics Grand Jam Finale",
             "time": "19:00:00Z",
             "description": null
           }
@@ -45,7 +45,46 @@
       "ig": "https://www.instagram.com/sheridansirishpub/",
       "bairro": "Batel",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-06-03": [
+          {
+            "name": "ROCK N' PILLS",
+            "time": "20:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-06-04": [
+          {
+            "name": "BANKS apresenta ROCK ON THE FLOOR",
+            "time": "20:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-06-05": [
+          {
+            "name": "VÁLVULA VAPOR",
+            "time": "20:30:00Z",
+            "description": null
+          },
+          {
+            "name": "BACKSTAGE",
+            "time": "23:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-06-06": [
+          {
+            "name": "BON JOVI COVER BRASIL",
+            "time": "20:30:00Z",
+            "description": null
+          },
+          {
+            "name": "CANDYMAN CLUB",
+            "time": "23:00:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Bastards Fábrica",
@@ -60,9 +99,51 @@
       "bairro": "Cabral",
       "cat": "Gourmet",
       "events": {
-        "2026-06-01": [
+        "2026-06-03": [
           {
-            "name": "Burger Week com Combo Burger e chope",
+            "name": "Tap List",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-06-04": [
+          {
+            "name": "Tap List",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-06-05": [
+          {
+            "name": "Tap List",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-06-06": [
+          {
+            "name": "Tap List",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-06-07": [
+          {
+            "name": "Tap List",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-06-08": [
+          {
+            "name": "Tap List",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-06-09": [
+          {
+            "name": "Tap List",
             "time": null,
             "description": null
           }
@@ -95,7 +176,20 @@
       "ig": "https://www.instagram.com/dobruckibar/",
       "bairro": "Rebouças",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-06-06": [
+          {
+            "name": "Candyman Club e outros - Anos 80 e 90",
+            "time": "15:00:00.000Z",
+            "description": null
+          },
+          {
+            "name": "Música ao vivo",
+            "time": null,
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Jokers",
@@ -117,7 +211,84 @@
       "ig": "https://www.instagram.com/torkandroll/",
       "bairro": "Rebouças",
       "cat": "Palco e Show",
-      "events": {}
+      "events": {
+        "2026-06-06": [
+          {
+            "name": "Violet - Clássicos do rock",
+            "time": "20:30:00Z",
+            "description": null
+          },
+          {
+            "name": "TNSHE - Tributo Feminino ao AC/DC",
+            "time": "22:45:00Z",
+            "description": null
+          },
+          {
+            "name": "OZZSTORN - Tributo Ozzy Osbourne",
+            "time": "00:45:00Z",
+            "description": null
+          },
+          {
+            "name": "Violet / Clássicos do Rock",
+            "time": "20:30:00Z",
+            "description": null
+          },
+          {
+            "name": "TN/SHE (Tributo Feminino ao AC/DC)",
+            "time": "22:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Ozzystorm (Ozzy Tribute)",
+            "time": "00:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-06-05": [
+          {
+            "name": "ZZ Brothers / ZZ Top Tribute (RS)",
+            "time": "20:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Motörspades / Motörhead Cover (SP)",
+            "time": "22:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Vulgar Power / Pantera Tribute",
+            "time": "00:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-06-07": [
+          {
+            "name": "Conexão Capivaras",
+            "time": "17:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Buffalos Jack",
+            "time": "18:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Motorblack",
+            "time": "19:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Desert Eagle",
+            "time": "20:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Linkin Park Concert Brasil",
+            "time": "22:00:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Blood Rock",
@@ -156,7 +327,36 @@
       "events": {
         "2026-06-04": [
           {
-            "name": "OPEN FOOD com bandas ao vivo",
+            "name": "Open Food com bandas ao vivo",
+            "time": "19:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-06-05": [
+          {
+            "name": "Open Food com bandas ao vivo",
+            "time": "19:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-06-03": [
+          {
+            "name": "BON JOVI COVER BRASIL",
+            "time": "19:00:00.000Z",
+            "description": null
+          },
+          {
+            "name": "Fabinho Oliveira (abertura)",
+            "time": "19:00:00.000Z",
+            "description": null
+          },
+          {
+            "name": "OPEN FOOD",
+            "time": "19:00:00.000Z",
+            "description": null
+          },
+          {
+            "name": "Show Bon Jovi Cover Brasil e Fabinho Oliveira",
             "time": "19:00:00Z",
             "description": null
           }
@@ -184,9 +384,9 @@
       "bairro": "Bairro Alto",
       "cat": "Raiz",
       "events": {
-        "2026-06-02": [
+        "2026-06-03": [
           {
-            "name": "Rodízio de Petiscos",
+            "name": "Rodízio de petiscos",
             "time": null,
             "description": null
           },
@@ -196,17 +396,27 @@
             "description": null
           }
         ],
-        "2026-06-03": [
+        "2026-06-04": [
           {
-            "name": "Rodízio de Petiscos",
+            "name": "Rodízio de petiscos",
             "time": null,
+            "description": null
+          },
+          {
+            "name": "Clipes no telão",
+            "time": "18:00:00Z",
             "description": null
           }
         ],
-        "2026-06-04": [
+        "2026-06-09": [
           {
-            "name": "Rodízio de Petiscos",
+            "name": "Rodízio de petiscos",
             "time": null,
+            "description": null
+          },
+          {
+            "name": "Clipes no telão",
+            "time": "18:00:00Z",
             "description": null
           }
         ]
@@ -237,7 +447,15 @@
       "ig": "https://www.instagram.com/armazemgaragem/",
       "bairro": "Santo Inácio",
       "cat": "Raiz",
-      "events": {}
+      "events": {
+        "2026-06-03": [
+          {
+            "name": "Garagem do Humor com Cicero Viana",
+            "time": "20:30:00.000000000Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Old Jack",
