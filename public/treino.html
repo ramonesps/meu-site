@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Guia de Treino — Full Body 3x</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@500;600;700&family=Barlow:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --ink:#1b1e24; --slate:#2a2e37; --amber:#f0a020; --amber-d:#c47e0c;
+    --paper:#f7f4ee; --card:#ffffff; --line:#d9d3c7; --muted:#6c6a64;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{font-family:'Barlow',sans-serif;background:#e9e5dc;color:var(--ink);padding:24px}
+  .day{
+    background:var(--paper);max-width:860px;margin:0 auto 28px;padding:30px 34px 38px;
+    box-shadow:0 4px 18px rgba(0,0,0,.12);border-radius:4px;
+  }
+  .hd{display:flex;align-items:flex-end;justify-content:space-between;border-bottom:3px solid var(--ink);padding-bottom:12px;margin-bottom:6px}
+  .hd h1{font-family:'Oswald';font-weight:700;font-size:30px;letter-spacing:.5px;text-transform:uppercase;line-height:1}
+  .hd h1 span{color:var(--amber-d)}
+  .hd .sub{font-family:'Oswald';font-weight:500;font-size:13px;color:var(--muted);text-transform:uppercase;letter-spacing:1.5px}
+  .meta{font-size:13px;color:var(--muted);margin:8px 0 18px;font-weight:500}
+  .meta b{color:var(--ink)}
+  .ex{display:flex;gap:18px;align-items:center;padding:12px 0;border-bottom:1px solid var(--line)}
+  .ex:last-child{border-bottom:none}
+  .figs{display:flex;gap:6px;flex:0 0 auto}
+  .figbox{width:96px;text-align:center}
+  .figbox svg{width:96px;height:100px;display:block;background:#fff;border:1px solid var(--line);border-radius:6px}
+  .figbox .lab{font-family:'Oswald';font-size:9px;font-weight:600;letter-spacing:1px;color:#fff;background:var(--slate);padding:2px 0;border-radius:0 0 4px 4px;margin-top:-1px}
+  .figbox .lab.e{background:var(--amber-d)}
+  .info{flex:1}
+  .info .name{font-family:'Oswald';font-weight:600;font-size:18px;text-transform:uppercase;letter-spacing:.3px}
+  .info .scheme{display:inline-block;font-family:'Oswald';font-weight:600;font-size:12px;color:#fff;background:var(--ink);padding:2px 9px;border-radius:3px;margin:3px 0 5px;letter-spacing:.5px}
+  .info .cue{font-size:13.5px;color:#33363d;line-height:1.4}
+  .info .cue b{color:var(--amber-d)}
+  .info .vid{display:inline-flex;align-items:center;gap:5px;margin-top:6px;font-family:'Oswald';font-weight:600;font-size:11px;letter-spacing:.5px;text-transform:uppercase;color:var(--amber-d);text-decoration:none;border:1.5px solid var(--amber);border-radius:4px;padding:3px 9px}
+  .info .vid:hover{background:var(--amber);color:#fff}
+  .info .vid svg{width:11px;height:11px}
+  @media print{.info .vid{border-color:#999;color:#555}}
+  .fin{margin-top:14px;background:var(--ink);color:#fff;padding:12px 16px;border-radius:6px}
+  .fin .t{font-family:'Oswald';font-weight:600;letter-spacing:1px;color:var(--amber);font-size:13px;text-transform:uppercase}
+  .fin .d{font-size:13.5px;margin-top:3px;line-height:1.4}
+  .foot{margin-top:16px;font-size:11px;color:var(--muted);text-align:center;font-style:italic}
+  @media print{
+    body{background:#fff;padding:0}
+    .day{box-shadow:none;margin:0;max-width:100%;page-break-after:always;border-radius:0;min-height:100vh}
+    .day:last-child{page-break-after:auto}
+  }
+  @page{margin:12mm}
+</style>
+</head>
+<body>
+<div id="root"></div>
+<script>
+const NS="http://www.w3.org/2000/svg";
+
+// ---------- FRONT view renderer ----------
+function front(p){
+  const seg=(a,b,w)=>`<line x1="${a[0]}" y1="${a[1]}" x2="${b[0]}" y2="${b[1]}" stroke="#2a2e37" stroke-width="${w}" stroke-linecap="round"/>`;
+  let s=`<svg viewBox="0 0 200 210" xmlns="${NS}">`;
+  s+=p.eq||"";
+  // legs
+  s+=seg(p.pv,p.hL,7)+seg(p.pv,p.hR,7);
+  s+=seg(p.hL,p.kL,7)+seg(p.kL,p.aL,6);
+  s+=seg(p.hR,p.kR,7)+seg(p.kR,p.aR,6);
+  // torso
+  s+=seg(p.nk,p.pv,9);
+  // shoulders
+  s+=seg(p.sL,p.sR,7);
+  // arms
+  s+=seg(p.sL,p.eL,5)+seg(p.eL,p.wL,5);
+  s+=seg(p.sR,p.eR,5)+seg(p.eR,p.wR,5);
+  // head
+  s+=`<circle cx="${p.hd[0]}" cy="${p.hd[1]}" r="${p.hd[2]}" fill="#2a2e37"/>`;
+  s+="</svg>";
+  return s;
+}
+// ---------- SIDE view renderer ----------
+function side(p){
+  const seg=(a,b,w)=>`<line x1="${a[0]}" y1="${a[1]}" x2="${b[0]}" y2="${b[1]}" stroke="#2a2e37" stroke-width="${w}" stroke-linecap="round"/>`;
+  let s=`<svg viewBox="0 0 200 210" xmlns="${NS}">`;
+  s+=p.eq||"";
+  // back leg (lighter)
+  if(p.kn2){
+    s+=`<line x1="${p.hip[0]}" y1="${p.hip[1]}" x2="${p.kn2[0]}" y2="${p.kn2[1]}" stroke="#9aa0ab" stroke-width="6" stroke-linecap="round"/>`;
+    s+=`<line x1="${p.kn2[0]}" y1="${p.kn2[1]}" x2="${p.an2[0]}" y2="${p.an2[1]}" stroke="#9aa0ab" stroke-width="5" stroke-linecap="round"/>`;
+  }
+  // front leg
+  s+=seg(p.hip,p.kn,7)+seg(p.kn,p.an,6);
+  // torso
+  s+=seg(p.nk,p.pv,9);
+  // arm
+  s+=seg(p.sh,p.el,5)+seg(p.el,p.wr,5);
+  if(p.el2){s+=seg(p.sh,p.el2,5)+seg(p.el2,p.wr2,5);}
+  // head
+  s+=`<circle cx="${p.hd[0]}" cy="${p.hd[1]}" r="${p.hd[2]}" fill="#2a2e37"/>`;
+  s+="</svg>";
+  return s;
+}
+// equipment helpers
+const bar=(x1,y1,x2,y2)=>`<line x1="${x1}" y1="${y1}" x2="${x2}" y2="${y2}" stroke="${'#c47e0c'}" stroke-width="4" stroke-linecap="round"/>`+
+  `<circle cx="${x1}" cy="${y1}" r="6" fill="#f0a020"/><circle cx="${x2}" cy="${y2}" r="6" fill="#f0a020"/>`;
+const db=(x,y)=>`<rect x="${x-7}" y="${y-3.5}" width="14" height="7" rx="2" fill="#f0a020"/><rect x="${x-9}" y="${y-6}" width="3.5" height="12" rx="1.5" fill="#c47e0c"/><rect x="${x+5.5}" y="${y-6}" width="3.5" height="12" rx="1.5" fill="#c47e0c"/>`;
+const ball=(x,y,r)=>`<circle cx="${x}" cy="${y}" r="${r}" fill="#f0a020" stroke="#c47e0c" stroke-width="2"/>`;
+const kb=(x,y,r)=>`<circle cx="${x}" cy="${y}" r="${r}" fill="#3a3e47"/><path d="M ${x-r*0.6} ${y-r*0.4} Q ${x} ${y-r*1.6} ${x+r*0.6} ${y-r*0.4}" fill="none" stroke="#3a3e47" stroke-width="3"/>`;
+const cable=(x1,y1,x2,y2)=>`<line x1="${x1}" y1="${y1}" x2="${x2}" y2="${y2}" stroke="#8a8f99" stroke-width="2" stroke-dasharray="3 3"/>`;
+const rect=(x,y,w,h)=>`<rect x="${x}" y="${y}" width="${w}" height="${h}" rx="3" fill="#d8dadf" stroke="#b6b9c0" stroke-width="1.5"/>`;
+
+// ===== DATA =====
+const DAYS=[
+{
+  title:"Treino A", sub:"Full Body — Empurrar + Posterior",
+  meta:"<b>Aquecimento:</b> 5 min bike + mobilidade de ombro/quadril. &nbsp;|&nbsp; Super-séries (A/B): descanso 60s entre os pares.",
+  ex:[
+    {name:"Supino reto (barra)", scheme:"4 × 8–10", cue:"<b>Início:</b> barra estendida sobre o peito. <b>Fim:</b> desça até tocar o peito, cotovelos ~45°. Pés firmes, escápulas retraídas.",
+     view:"side",
+     S:{hd:[48,118,12],nk:[62,121],sh:[74,123],pv:[122,126],hip:[126,126],kn:[152,108],an:[152,140],kn2:[152,112],an2:[148,142],el:[76,98],wr:[78,80],eq:rect(40,130,116,9)+bar(58,78,98,78)},
+     E:{hd:[48,118,12],nk:[62,121],sh:[74,123],pv:[122,126],hip:[126,126],kn:[152,108],an:[152,140],kn2:[152,112],an2:[148,142],el:[66,110],wr:[78,116],eq:rect(40,130,116,9)+bar(60,114,98,114)}},
+    {name:"Remada baixa (polia)", scheme:"4 × 10–12", cue:"<b>Início:</b> braços à frente, tronco ereto. <b>Fim:</b> puxe o punho ao abdômen, cotovelos rentes ao corpo, aperte as escápulas.",
+     view:"side",
+     S:{hd:[92,40,12],nk:[94,56],sh:[95,64],pv:[98,116],hip:[100,118],kn:[140,120],an:[150,150],kn2:[140,124],an2:[150,154],el:[80,84],wr:[58,96],eq:cable(28,118,58,96)},
+     E:{hd:[92,40,12],nk:[94,56],sh:[95,64],pv:[98,116],hip:[100,118],kn:[140,120],an:[150,150],kn2:[140,124],an2:[150,154],el:[106,86],wr:[84,98],eq:cable(28,118,84,98)}},
+    {name:"Desenvolvimento (halteres)", scheme:"3 × 10–12", cue:"<b>Início:</b> halteres na altura dos ombros. <b>Fim:</b> empurre acima da cabeça sem travar o cotovelo. Não arqueie a lombar.",
+     view:"front",
+     S:{hd:[100,36,13],nk:[100,52],sL:[83,61],sR:[117,61],eL:[74,72],eR:[126,72],wL:[78,58],wR:[122,58],pv:[100,118],hL:[89,120],hR:[111,120],kL:[87,158],kR:[113,158],aL:[87,196],aR:[113,196],eq:db(78,58)+db(122,58)},
+     E:{hd:[100,36,13],nk:[100,52],sL:[83,61],sR:[117,61],eL:[88,40],eR:[112,40],wL:[92,22],wR:[108,22],pv:[100,118],hL:[89,120],hR:[111,120],kL:[87,158],kR:[113,158],aL:[87,196],aR:[113,196],eq:db(92,22)+db(108,22)}},
+    {name:"Puxada alta (polia)", scheme:"3 × 10–12", cue:"<b>Início:</b> braços estendidos acima. <b>Fim:</b> traga a barra ao peito, peito aberto, cotovelos para baixo e para trás.",
+     view:"front",
+     S:{hd:[100,40,13],nk:[100,56],sL:[83,64],sR:[117,64],eL:[70,55],eR:[130,55],wL:[64,32],wR:[136,32],pv:[100,120],hL:[89,122],hR:[111,122],kL:[87,160],kR:[113,160],aL:[87,196],aR:[113,196],eq:bar(60,30,140,30)+cable(100,2,100,30)},
+     E:{hd:[100,42,13],nk:[100,58],sL:[83,66],sR:[117,66],eL:[78,80],eR:[122,80],wL:[82,66],wR:[118,66],pv:[100,120],hL:[89,122],hR:[111,122],kL:[87,160],kR:[113,160],aL:[87,196],aR:[113,196],eq:bar(78,64,122,64)+cable(100,2,100,40)}},
+    {name:"Leg press (IFLP3)", scheme:"3 × 12–15", cue:"<b>Início:</b> joelhos flexionados ~90°. <b>Fim:</b> estenda sem travar. Joelhos alinhados aos pés, lombar apoiada.",
+     view:"side",
+     S:{hd:[44,150,12],nk:[58,144],sh:[66,140],pv:[96,128],hip:[100,126],kn:[120,96],an:[140,90],kn2:[120,102],an2:[140,96],el:[70,150],wr:[66,166],eq:rect(134,70,16,30)},
+     E:{hd:[44,150,12],nk:[58,144],sh:[66,140],pv:[96,128],hip:[100,126],kn:[145,86],an:[174,72],kn2:[145,92],an2:[174,78],el:[70,150],wr:[66,166],eq:rect(168,54,16,30)}},
+    {name:"Tríceps pushdown (polia)", scheme:"3 × 12", cue:"<b>Início:</b> cotovelos colados ao corpo, antebraços a 90°. <b>Fim:</b> estenda só o cotovelo até embaixo. Tronco estável.",
+     view:"front",
+     S:{hd:[100,36,13],nk:[100,52],sL:[83,61],sR:[117,61],eL:[88,86],eR:[112,86],wL:[92,64],wR:[108,64],pv:[100,118],hL:[89,120],hR:[111,120],kL:[87,158],kR:[113,158],aL:[87,196],aR:[113,196],eq:bar(86,62,114,62)+cable(100,4,100,62)},
+     E:{hd:[100,36,13],nk:[100,52],sL:[83,61],sR:[117,61],eL:[88,90],eR:[112,90],wL:[92,114],wR:[108,114],pv:[100,118],hL:[89,120],hR:[111,120],kL:[87,158],kR:[113,158],aL:[87,196],aR:[113,196],eq:bar(86,114,114,114)+cable(100,4,100,90)}}
+  ],
+  fin:{t:"Finisher — Corda Naval", d:"6 rounds: 20s ondas intensas / 20s descanso. Meio agachado, core firme, alterne ondas simétricas."}
+},
+{
+  title:"Treino B", sub:"Full Body — Pernas + Core",
+  meta:"<b>Aquecimento:</b> 5 min bike + agachamento livre e mobilidade de tornozelo. &nbsp;|&nbsp; Super-séries (A/B): descanso 60s.",
+  ex:[
+    {name:"Agachamento / Leg press pesado", scheme:"4 × 10", cue:"<b>Início:</b> em pé, pés na largura dos ombros. <b>Fim:</b> desça até coxas paralelas, joelhos seguindo os pés, peito erguido.",
+     view:"front",
+     S:{hd:[100,36,13],nk:[100,52],sL:[83,58],sR:[117,58],eL:[80,70],eR:[120,70],wL:[82,58],wR:[118,58],pv:[100,118],hL:[89,120],hR:[111,120],kL:[87,158],kR:[113,158],aL:[87,196],aR:[113,196],eq:bar(70,56,130,56)},
+     E:{hd:[100,60,13],nk:[100,76],sL:[84,84],sR:[116,84],eL:[80,94],eR:[120,94],wL:[82,82],wR:[118,82],pv:[100,140],hL:[90,142],hR:[110,142],kL:[78,166],kR:[122,166],aL:[82,196],aR:[118,196],eq:bar(70,80,130,80)}},
+    {name:"Mesa flexora", scheme:"4 × 12", cue:"<b>Início:</b> deitado, pernas estendidas. <b>Fim:</b> traga os calcanhares ao glúteo controlando. Quadril apoiado, sem dar tranco.",
+     view:"side",
+     S:{hd:[48,116,12],nk:[60,120],sh:[70,122],pv:[120,124],hip:[126,124],kn:[150,124],an:[178,124],el:[60,131],wr:[46,133],eq:rect(40,128,120,9)},
+     E:{hd:[48,116,12],nk:[60,120],sh:[70,122],pv:[120,124],hip:[126,124],kn:[150,124],an:[150,92],el:[60,131],wr:[46,133],eq:rect(40,128,120,9)}},
+    {name:"Avanço / Passada (halteres)", scheme:"3 × 10 por perna", cue:"<b>Início:</b> em pé, halteres ao lado. <b>Fim:</b> passo à frente, joelho de trás quase ao chão, tronco vertical.",
+     view:"side",
+     S:{hd:[88,40,12],nk:[92,55],sh:[93,63],el:[93,92],wr:[93,118],pv:[97,116],hip:[98,118],kn:[98,158],an:[101,196],kn2:[92,158],an2:[85,196],eq:db(93,120)},
+     E:{hd:[84,58,12],nk:[88,72],sh:[89,80],el:[89,108],wr:[89,130],pv:[92,128],hip:[94,130],kn:[120,150],an:[120,196],kn2:[70,168],an2:[58,196],eq:db(89,132)}},
+    {name:"Cadeira extensora", scheme:"3 × 15", cue:"<b>Início:</b> joelhos flexionados. <b>Fim:</b> estenda até a perna reta, segure 1s no topo. Movimento controlado.",
+     view:"side",
+     S:{hd:[78,46,12],nk:[82,60],sh:[84,68],el:[80,96],wr:[78,112],pv:[92,108],hip:[96,110],kn:[140,112],an:[140,150],eq:rect(36,108,58,9)},
+     E:{hd:[78,46,12],nk:[82,60],sh:[84,68],el:[80,96],wr:[78,112],pv:[92,108],hip:[96,110],kn:[140,112],an:[180,108],eq:rect(36,108,58,9)}},
+    {name:"Wall ball", scheme:"3 × 15", cue:"<b>Início:</b> agachado, bola no peito. <b>Fim:</b> estenda explosivo e arremesse a bola acima. Receba amortecendo no agachamento.",
+     view:"front",
+     S:{hd:[100,60,13],nk:[100,76],sL:[84,84],sR:[116,84],eL:[86,92],eR:[114,92],wL:[92,98],wR:[108,98],pv:[100,140],hL:[90,142],hR:[110,142],kL:[78,166],kR:[122,166],aL:[82,196],aR:[118,196],eq:ball(100,100,13)},
+     E:{hd:[100,36,13],nk:[100,52],sL:[83,60],sR:[117,60],eL:[90,42],eR:[110,42],wL:[94,24],wR:[106,24],pv:[100,118],hL:[89,120],hR:[111,120],kL:[87,158],kR:[113,158],aL:[87,196],aR:[113,196],eq:ball(100,18,13)}},
+    {name:"Prancha (antebraço)", scheme:"3 × 40s", cue:"<b>Posição:</b> apoio nos antebraços e pontas dos pés. <b>Mantenha:</b> corpo em linha reta (linha tracejada), abdômen e glúteo contraídos, sem cair o quadril.",
+     view:"side",
+     S:{hd:[40,140,11],nk:[54,144],sh:[64,146],el:[60,170],wr:[44,172],pv:[120,158],hip:[126,160],kn:[156,168],an:[182,176]},
+     E:{hd:[40,140,11],nk:[54,144],sh:[64,146],el:[60,170],wr:[44,172],pv:[120,158],hip:[126,160],kn:[156,168],an:[182,176],eq:`<line x1="46" y1="140" x2="184" y2="178" stroke="#f0a020" stroke-width="2" stroke-dasharray="5 4"/>`}}
+  ],
+  fin:{t:"Finisher — Kettlebell Swing", d:"5 × 15 repetições. Movimento de quadril (hinge), não de braço. Glúteo dispara a kettlebell até a altura do ombro."}
+},
+{
+  title:"Treino C", sub:"Full Body — Puxar + Condicionamento",
+  meta:"<b>Aquecimento:</b> 5 min bike + rotação de tronco e ativação de dorsais. &nbsp;|&nbsp; Super-séries (A/B): descanso 60s.",
+  ex:[
+    {name:"Puxada alta (pegada aberta)", scheme:"4 × 10", cue:"<b>Início:</b> braços estendidos, pegada larga. <b>Fim:</b> barra ao alto do peito, ombros para trás e para baixo.",
+     view:"front",
+     S:{hd:[100,40,13],nk:[100,56],sL:[83,64],sR:[117,64],eL:[68,54],eR:[132,54],wL:[60,32],wR:[140,32],pv:[100,120],hL:[89,122],hR:[111,122],kL:[87,160],kR:[113,160],aL:[87,196],aR:[113,196],eq:bar(56,30,144,30)+cable(100,2,100,30)},
+     E:{hd:[100,42,13],nk:[100,58],sL:[83,66],sR:[117,66],eL:[76,80],eR:[124,80],wL:[80,66],wR:[120,66],pv:[100,120],hL:[89,122],hR:[111,122],kL:[87,160],kR:[113,160],aL:[87,196],aR:[113,196],eq:bar(76,64,124,64)+cable(100,2,100,40)}},
+    {name:"Voador / Pec contractor", scheme:"4 × 12", cue:"<b>Início:</b> braços abertos na linha do peito. <b>Fim:</b> feche à frente apertando o peitoral, leve flexão de cotovelo fixa.",
+     view:"front",
+     S:{hd:[100,40,13],nk:[100,56],sL:[83,64],sR:[117,64],eL:[64,66],eR:[136,66],wL:[50,66],wR:[150,66],pv:[100,118],hL:[89,120],hR:[111,120],kL:[87,158],kR:[113,158],aL:[87,196],aR:[113,196]},
+     E:{hd:[100,40,13],nk:[100,56],sL:[83,64],sR:[117,64],eL:[86,68],eR:[114,68],wL:[96,72],wR:[104,72],pv:[100,118],hL:[89,120],hR:[111,120],kL:[87,158],kR:[113,158],aL:[87,196],aR:[113,196]}},
+    {name:"Remada curvada (barra)", scheme:"3 × 10–12", cue:"<b>Início:</b> tronco inclinado ~45°, braços pendendo. <b>Fim:</b> puxe a barra ao abdômen, cotovelos rentes, lombar neutra.",
+     view:"side",
+     S:{hd:[72,66,12],nk:[80,78],sh:[86,84],pv:[112,108],hip:[114,110],kn:[112,150],an:[116,192],kn2:[106,150],an2:[100,192],el:[88,108],wr:[90,132],eq:bar(72,132,108,132)},
+     E:{hd:[72,66,12],nk:[80,78],sh:[86,84],pv:[112,108],hip:[114,110],kn:[112,150],an:[116,192],kn2:[106,150],an2:[100,192],el:[98,94],wr:[88,106],eq:bar(70,106,106,106)}},
+    {name:"Rosca direta (barra W)", scheme:"3 × 12", cue:"<b>Início:</b> braços estendidos, cotovelos fixos ao lado. <b>Fim:</b> flexione até os ombros sem balançar o tronco.",
+     view:"front",
+     S:{hd:[100,36,13],nk:[100,52],sL:[83,61],sR:[117,61],eL:[80,90],eR:[120,90],wL:[82,116],wR:[118,116],pv:[100,118],hL:[89,120],hR:[111,120],kL:[87,158],kR:[113,158],aL:[87,196],aR:[113,196],eq:bar(80,118,120,118)},
+     E:{hd:[100,36,13],nk:[100,52],sL:[83,61],sR:[117,61],eL:[82,92],eR:[118,92],wL:[88,66],wR:[112,66],pv:[100,118],hL:[89,120],hR:[111,120],kL:[87,158],kR:[113,158],aL:[87,196],aR:[113,196],eq:bar(88,64,112,64)}},
+    {name:"Crossover (polia média)", scheme:"3 × 15", cue:"<b>Início:</b> braços abertos puxando dos cabos altos. <b>Fim:</b> traga as mãos à frente do quadril, cruzando levemente. Peito contraído.",
+     view:"front",
+     S:{hd:[100,38,13],nk:[100,54],sL:[83,62],sR:[117,62],eL:[66,64],eR:[134,64],wL:[52,52],wR:[148,52],pv:[100,118],hL:[89,120],hR:[111,120],kL:[87,158],kR:[113,158],aL:[87,196],aR:[113,196],eq:cable(4,8,52,52)+cable(196,8,148,52)},
+     E:{hd:[100,38,13],nk:[100,54],sL:[83,62],sR:[117,62],eL:[88,92],eR:[112,92],wL:[98,104],wR:[102,104],pv:[100,118],hL:[89,120],hR:[111,120],kL:[87,158],kR:[113,158],aL:[87,196],aR:[113,196],eq:cable(4,8,98,104)+cable(196,8,102,104)}},
+    {name:"Elevação lateral (halteres)", scheme:"3 × 15", cue:"<b>Início:</b> halteres ao lado do corpo. <b>Fim:</b> eleve até a linha dos ombros, leve flexão de cotovelo, sem usar impulso.",
+     view:"front",
+     S:{hd:[100,36,13],nk:[100,52],sL:[83,61],sR:[117,61],eL:[79,90],eR:[121,90],wL:[77,118],wR:[123,118],pv:[100,118],hL:[89,120],hR:[111,120],kL:[87,158],kR:[113,158],aL:[87,196],aR:[113,196],eq:db(77,118)+db(123,118)},
+     E:{hd:[100,36,13],nk:[100,52],sL:[83,61],sR:[117,61],eL:[72,72],eR:[128,72],wL:[54,66],wR:[146,66],pv:[100,118],hL:[89,120],hR:[111,120],kL:[87,158],kR:[113,158],aL:[87,196],aR:[113,196],eq:db(54,66)+db(146,66)}}
+  ],
+  fin:{t:"Finisher — Circuito Metabólico (3 voltas)", d:"Corda naval 20s → Kettlebell swing 15 → Agachamento livre 15. Descanso 60s entre voltas."}
+}
+];
+
+// render
+const root=document.getElementById("root");
+DAYS.forEach(d=>{
+  const sec=document.createElement("section");
+  sec.className="day";
+  let h=`<div class="hd"><h1>${d.title.replace(/(\w)$/,'<span>$1</span>')}</h1><div class="sub">${d.sub}</div></div>`;
+  h+=`<div class="meta">${d.meta}</div>`;
+  d.ex.forEach(e=>{
+    const r=e.view==="front"?front:side;
+    const q=encodeURIComponent(e.name.replace(/\s*\([^)]*\)/g,"").trim()+" execução correta");
+    const url="https://www.youtube.com/results?search_query="+q;
+    h+=`<div class="ex">
+      <div class="figs">
+        <div class="figbox"><div>${r(e.S)}</div><div class="lab">INÍCIO</div></div>
+        <div class="figbox"><div>${r(e.E)}</div><div class="lab e">FIM</div></div>
+      </div>
+      <div class="info">
+        <div class="name">${e.name}</div>
+        <div class="scheme">${e.scheme}</div>
+        <div class="cue">${e.cue}</div>
+        <a class="vid" href="${url}" target="_blank" rel="noopener"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>Ver vídeo</a>
+      </div>
+    </div>`;
+  });
+  h+=`<div class="fin"><div class="t">${d.fin.t}</div><div class="d">${d.fin.d}</div></div>`;
+  h+=`<div class="foot">Homem 38a · objetivo condicionamento/emagrecimento · 3×/semana · 45 min — chegue a 1–2 reps da falha nas séries A e B. Cardio extra opcional: 10–15 min de bike ao final.</div>`;
+  sec.innerHTML=h;
+  root.appendChild(sec);
+});
+</script>
+</body>
+</html>
