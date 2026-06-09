@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-05T12:18:49.367Z",
-  "week_start": "2026-06-05",
+  "updated_at": "2026-06-09T12:17:03.025Z",
+  "week_start": "2026-06-09",
   "model": "gemini-2.5-flash",
   "venues": [
     {
@@ -9,22 +9,15 @@
       "bairro": "Água Verde",
       "cat": "Gourmet",
       "events": {
-        "2026-06-05": [
+        "2026-06-13": [
           {
-            "name": "Gui Tosin",
-            "time": "20:00:00Z",
+            "name": "Copa dos Vira-Latas: Brasil x Marrocos",
+            "time": null,
             "description": null
           },
           {
-            "name": "Lenhadores da Antártida",
-            "time": "22:30:00Z",
-            "description": null
-          }
-        ],
-        "2026-06-06": [
-          {
-            "name": "República Pine",
-            "time": "21:30:00Z",
+            "name": "Show Os Caras do Charlie Brown",
+            "time": null,
             "description": null
           }
         ]
@@ -43,17 +36,83 @@
       "bairro": "Batel",
       "cat": "Gourmet",
       "events": {
-        "2026-06-06": [
+        "2026-06-09": [
           {
-            "name": "Transmissão de jogo: Brasil x Egito (Amistoso)",
-            "time": "19:00:00Z",
+            "name": "FRANBOESA TRIO",
+            "time": "19:30:00Z",
             "description": null
           }
         ],
         "2026-06-11": [
           {
-            "name": "Transmissão de jogo: México x África do Sul",
+            "name": "DISCIPLINA OPTATIVA",
+            "time": "19:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Jogo: México x Africa do Sul",
             "time": "16:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-06-12": [
+          {
+            "name": "LARISSA CARANGI E BANDA END TIMES",
+            "time": "19:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Jogo: Canadá x Bósnia e Herzegovina",
+            "time": "16:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-06-13": [
+          {
+            "name": "BANDA FRANBOESA",
+            "time": "12:30:00Z",
+            "description": null
+          },
+          {
+            "name": "BRASIL X MARROCOS",
+            "time": "19:00:00Z",
+            "description": null
+          },
+          {
+            "name": "BANDA ASGARD",
+            "time": "21:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Jogo: Catar x Suíça",
+            "time": "16:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Jogo: Brasil x Marrocos",
+            "time": "19:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-06-14": [
+          {
+            "name": "NETO",
+            "time": "12:30:00Z",
+            "description": null
+          },
+          {
+            "name": "ELVIS ROCK BAND",
+            "time": "19:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Jogo: Alemanha x Curaçao",
+            "time": "14:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Jogo: Países Baixos x Japão",
+            "time": "17:00:00Z",
             "description": null
           }
         ]
@@ -64,32 +123,7 @@
       "ig": "https://www.instagram.com/sheridansirishpub/",
       "bairro": "Batel",
       "cat": "Gourmet",
-      "events": {
-        "2026-06-05": [
-          {
-            "name": "VÁLVULA VAPOR",
-            "time": "20:30:00Z",
-            "description": null
-          },
-          {
-            "name": "BACKSTAGE",
-            "time": "23:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-06-06": [
-          {
-            "name": "BON JOVI COVER BRASIL",
-            "time": "20:30:00Z",
-            "description": null
-          },
-          {
-            "name": "CANDYMAN CLUB",
-            "time": "23:00:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Bastards Fábrica",
@@ -97,33 +131,69 @@
       "bairro": "Bom Retiro",
       "cat": "Gourmet",
       "events": {
-        "2026-06-05": [
+        "2026-06-13": [
           {
-            "name": "Candyman Club",
-            "time": "20:00:00Z",
+            "name": "Jogo Brasil x Marrocos",
+            "time": null,
             "description": null
-          }
-        ],
-        "2026-06-06": [
+          },
           {
-            "name": "Válvula Duo",
+            "name": "Show Anacrônica Duo",
             "time": "16:00:00Z",
             "description": null
           },
           {
-            "name": "Brasil x Egito",
+            "name": "Show Syd Vinicius",
+            "time": "21:00:00Z",
+            "description": null
+          },
+          {
+            "name": "ANACRÔNICA DUO",
+            "time": "16:00:00Z",
+            "description": null
+          },
+          {
+            "name": "BRASIL X MARROCOS",
             "time": "19:00:00Z",
             "description": null
           },
           {
-            "name": "Drive True",
+            "name": "SYD VINÍCIUS",
             "time": "21:00:00Z",
             "description": null
           }
         ],
-        "2026-06-07": [
+        "2026-06-09": [
           {
-            "name": "Ochtop Trio",
+            "name": "LELY DUO",
+            "time": "19:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-06-10": [
+          {
+            "name": "ÍSIS DUO",
+            "time": "19:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-06-11": [
+          {
+            "name": "DANNI DISTLER TRIO",
+            "time": "19:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-06-12": [
+          {
+            "name": "SONORA 4",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-06-14": [
+          {
+            "name": "LENHADORES TRIO",
             "time": "16:00:00Z",
             "description": null
           }
@@ -136,34 +206,6 @@
       "bairro": "Cabral",
       "cat": "Gourmet",
       "events": {
-        "2026-06-05": [
-          {
-            "name": "Tap List",
-            "time": null,
-            "description": null
-          }
-        ],
-        "2026-06-06": [
-          {
-            "name": "Tap List",
-            "time": null,
-            "description": null
-          }
-        ],
-        "2026-06-07": [
-          {
-            "name": "Tap List",
-            "time": null,
-            "description": null
-          }
-        ],
-        "2026-06-08": [
-          {
-            "name": "Tap List",
-            "time": null,
-            "description": null
-          }
-        ],
         "2026-06-09": [
           {
             "name": "Tap List",
@@ -199,15 +241,17 @@
       "ig": "https://www.instagram.com/dobruckibar/",
       "bairro": "Rebouças",
       "cat": "Gourmet",
+      "events": {}
+    },
+    {
+      "nome": "Jokers",
+      "ig": "https://www.instagram.com/jokerspub/",
+      "bairro": "Centro",
+      "cat": "Gourmet",
       "events": {
-        "2026-06-06": [
+        "2026-06-09": [
           {
-            "name": "Candyman Club e outros - Anos 80 e 90",
-            "time": "15:00:00.000Z",
-            "description": null
-          },
-          {
-            "name": "Música ao vivo",
+            "name": "Prato do dia: Costelinha de porco com barbecue",
             "time": null,
             "description": null
           }
@@ -215,117 +259,33 @@
       }
     },
     {
-      "nome": "Jokers",
-      "ig": "https://www.instagram.com/jokerspub/",
-      "bairro": "Centro",
-      "cat": "Gourmet",
-      "events": {}
-    },
-    {
       "nome": "Tork n' Roll",
       "ig": "https://www.instagram.com/torkandroll/",
       "bairro": "Rebouças",
       "cat": "Palco e Show",
-      "events": {
-        "2026-06-06": [
-          {
-            "name": "Violet - Clássicos do rock",
-            "time": "20:30:00Z",
-            "description": null
-          },
-          {
-            "name": "TNSHE - Tributo Feminino ao AC/DC",
-            "time": "22:45:00Z",
-            "description": null
-          },
-          {
-            "name": "OZZSTORN - Tributo Ozzy Osbourne",
-            "time": "00:45:00Z",
-            "description": null
-          },
-          {
-            "name": "Violet / Clássicos do Rock",
-            "time": "20:30:00Z",
-            "description": null
-          },
-          {
-            "name": "TN/SHE (Tributo Feminino ao AC/DC)",
-            "time": "22:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Ozzystorm (Ozzy Tribute)",
-            "time": "00:30:00Z",
-            "description": null
-          }
-        ],
-        "2026-06-05": [
-          {
-            "name": "ZZ Brothers / ZZ Top Tribute (RS)",
-            "time": "20:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Motörspades / Motörhead Cover (SP)",
-            "time": "22:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Vulgar Power / Pantera Tribute",
-            "time": "00:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-06-07": [
-          {
-            "name": "Conexão Capivaras",
-            "time": "17:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Buffalos Jack",
-            "time": "18:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Motorblack",
-            "time": "19:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Desert Eagle",
-            "time": "20:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Linkin Park Concert Brasil",
-            "time": "22:00:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Blood Rock",
       "ig": "https://www.instagram.com/bloodrockbar/",
       "bairro": "São Francisco",
       "cat": "Palco e Show",
-      "events": {}
+      "events": {
+        "2026-06-13": [
+          {
+            "name": "System of a Down GENOCIDE Cover Brasil",
+            "time": "21:30:00.000Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Seb's Rock Bar",
       "ig": "https://www.instagram.com/sebas_rock_bar/",
       "bairro": "Boqueirão",
       "cat": "Palco e Show",
-      "events": {
-        "2026-06-05": [
-          {
-            "name": "Open Food com bandas ao vivo",
-            "time": "19:00:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Belvedere",
@@ -359,7 +319,44 @@
       "ig": "https://www.instagram.com/clayhighway/",
       "bairro": "Capão Raso",
       "cat": "Raiz",
-      "events": {}
+      "events": {
+        "2026-06-12": [
+          {
+            "name": "Coração Pirata Roupa Nova",
+            "time": "21:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Varal do Wando",
+            "time": "00:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-06-13": [
+          {
+            "name": "Jogo do Brasil",
+            "time": null,
+            "description": null
+          },
+          {
+            "name": "Banda RW Pop rock",
+            "time": "21:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Banda Raimunda + convidados (especial Raimundos)",
+            "time": "00:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-06-14": [
+          {
+            "name": "Banda Pinkpop estreia (HITS 90 a 2020)",
+            "time": "20:30:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Armazém Garage",
