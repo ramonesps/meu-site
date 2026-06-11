@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-09T12:17:03.025Z",
-  "week_start": "2026-06-09",
+  "updated_at": "2026-06-11T12:59:34.285Z",
+  "week_start": "2026-06-11",
   "model": "gemini-2.5-flash",
   "venues": [
     {
@@ -28,7 +28,46 @@
       "ig": "https://www.instagram.com/barcrossroads/",
       "bairro": "Água Verde",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-06-13": [
+          {
+            "name": "Transmissão dos jogos do Brasil",
+            "time": null,
+            "description": null
+          },
+          {
+            "name": "Rock\n’n\n’Goal: Brasil x Marrocos",
+            "time": "17:00:00.000Z",
+            "description": null
+          }
+        ],
+        "2026-06-14": [
+          {
+            "name": "Edição especial do Thunderstruck",
+            "time": null,
+            "description": null
+          },
+          {
+            "name": "Thunder Rock N' Goal Vai Brasil!",
+            "time": "15:00:00.000Z",
+            "description": null
+          }
+        ],
+        "2026-06-11": [
+          {
+            "name": "Crossroads Southern Roots",
+            "time": "20:00:00.000Z",
+            "description": null
+          }
+        ],
+        "2026-06-12": [
+          {
+            "name": "Noite dos Solteiros Anos 2000",
+            "time": "20:00:00.000Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Hard Rock",
@@ -36,13 +75,6 @@
       "bairro": "Batel",
       "cat": "Gourmet",
       "events": {
-        "2026-06-09": [
-          {
-            "name": "FRANBOESA TRIO",
-            "time": "19:30:00Z",
-            "description": null
-          }
-        ],
         "2026-06-11": [
           {
             "name": "DISCIPLINA OPTATIVA",
@@ -123,7 +155,34 @@
       "ig": "https://www.instagram.com/sheridansirishpub/",
       "bairro": "Batel",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-06-11": [
+          {
+            "name": "FIRE ON THE FLOOR",
+            "time": "20:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-06-12": [
+          {
+            "name": "LOVE ROCKS com Sheridan's Music Club",
+            "time": "20:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-06-13": [
+          {
+            "name": "Jogos da Copa: Brasil x Marrocos",
+            "time": "19:00:00Z",
+            "description": null
+          },
+          {
+            "name": "LELY AND THE BAND",
+            "time": "21:00:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Bastards Fábrica",
@@ -163,20 +222,6 @@
             "description": null
           }
         ],
-        "2026-06-09": [
-          {
-            "name": "LELY DUO",
-            "time": "19:30:00Z",
-            "description": null
-          }
-        ],
-        "2026-06-10": [
-          {
-            "name": "ÍSIS DUO",
-            "time": "19:30:00Z",
-            "description": null
-          }
-        ],
         "2026-06-11": [
           {
             "name": "DANNI DISTLER TRIO",
@@ -205,15 +250,7 @@
       "ig": "https://www.instagram.com/bardamaniacs/",
       "bairro": "Cabral",
       "cat": "Gourmet",
-      "events": {
-        "2026-06-09": [
-          {
-            "name": "Tap List",
-            "time": null,
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Rock Pizza",
@@ -227,7 +264,101 @@
       "ig": "https://www.instagram.com/distrito.1340/",
       "bairro": "Seminário",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-06-11": [
+          {
+            "name": "Open para Mulherada",
+            "time": "19:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Lançamento do Telão e Estreia da Copa",
+            "time": null,
+            "description": null
+          },
+          {
+            "name": "Vini Moreno | Rock & Pop Rock",
+            "time": "19:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Os Caras do CB | Charlie Brown Jr.",
+            "time": "22:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-06-12": [
+          {
+            "name": "Festa dos Solteiros",
+            "time": null,
+            "description": null
+          },
+          {
+            "name": "Bon Jovi Cover Brasil",
+            "time": "21:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Candyman Club | Post Punk Tribute",
+            "time": "00:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-06-13": [
+          {
+            "name": "Pré-jogo com DJ Rafael Trucker",
+            "time": "18:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Brasil x Marrocos | Copa do Mundo",
+            "time": "19:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Válvula Vapor | Rock Nacional",
+            "time": "21:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Rádio Vinil | Hits do Rock Nacional",
+            "time": "00:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-06-14": [
+          {
+            "name": "Sonora 4 | Pop Rock",
+            "time": "19:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Firecracker | Pop Rock e Hits 2000",
+            "time": "21:30:00Z",
+            "description": null
+          },
+          {
+            "name": "UFC Freedom 250",
+            "time": "22:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Sonora 4",
+            "time": "19:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Firecracker",
+            "time": "21:30:00Z",
+            "description": null
+          },
+          {
+            "name": "UFC Freedom 250 ao vivo em telão gigante",
+            "time": "22:00:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Barbarium",
@@ -241,17 +372,10 @@
       "ig": "https://www.instagram.com/dobruckibar/",
       "bairro": "Rebouças",
       "cat": "Gourmet",
-      "events": {}
-    },
-    {
-      "nome": "Jokers",
-      "ig": "https://www.instagram.com/jokerspub/",
-      "bairro": "Centro",
-      "cat": "Gourmet",
       "events": {
-        "2026-06-09": [
+        "2026-06-13": [
           {
-            "name": "Prato do dia: Costelinha de porco com barbecue",
+            "name": "Música ao vivo",
             "time": null,
             "description": null
           }
@@ -259,11 +383,58 @@
       }
     },
     {
+      "nome": "Jokers",
+      "ig": "https://www.instagram.com/jokerspub/",
+      "bairro": "Centro",
+      "cat": "Gourmet",
+      "events": {}
+    },
+    {
       "nome": "Tork n' Roll",
       "ig": "https://www.instagram.com/torkandroll/",
       "bairro": "Rebouças",
       "cat": "Palco e Show",
-      "events": {}
+      "events": {
+        "2026-06-13": [
+          {
+            "name": "Transmissão Jogo Brasil x Marrocos",
+            "time": "19:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Dj Crazy",
+            "time": "20:45:00Z",
+            "description": null
+          },
+          {
+            "name": "DELOREAN",
+            "time": "22:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Transmissão Jogo Copa do Mundo Brasil x Marrocos",
+            "time": "19:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Dj Crazy Night",
+            "time": "20:45:00Z",
+            "description": null
+          },
+          {
+            "name": "Show DELOREAN",
+            "time": "23:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-06-12": [
+          {
+            "name": "Te Conheço desde o Orkut",
+            "time": "21:00:00.000000000Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Blood Rock",
@@ -285,7 +456,22 @@
       "ig": "https://www.instagram.com/sebas_rock_bar/",
       "bairro": "Boqueirão",
       "cat": "Palco e Show",
-      "events": {}
+      "events": {
+        "2026-06-11": [
+          {
+            "name": "Open Food com bandas ao vivo",
+            "time": "19:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-06-12": [
+          {
+            "name": "Open Food com bandas ao vivo",
+            "time": "19:00:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Belvedere",
@@ -299,20 +485,7 @@
       "ig": "https://www.instagram.com/resistenciarock/",
       "bairro": "Bairro Alto",
       "cat": "Raiz",
-      "events": {
-        "2026-06-09": [
-          {
-            "name": "Rodízio de petiscos",
-            "time": null,
-            "description": null
-          },
-          {
-            "name": "Clipes no telão",
-            "time": "18:00:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Clay Highway",
