@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-11T12:59:34.285Z",
-  "week_start": "2026-06-11",
+  "updated_at": "2026-06-13T11:27:44.764Z",
+  "week_start": "2026-06-13",
   "model": "gemini-2.5-flash",
   "venues": [
     {
@@ -11,13 +11,13 @@
       "events": {
         "2026-06-13": [
           {
-            "name": "Copa dos Vira-Latas: Brasil x Marrocos",
-            "time": null,
+            "name": "Copa do Mundo: Brasil x Marrocos",
+            "time": "18:00:00Z",
             "description": null
           },
           {
-            "name": "Show Os Caras do Charlie Brown",
-            "time": null,
+            "name": "Show com Os Caras do Charlie Brown",
+            "time": "21:30:00Z",
             "description": null
           }
         ]
@@ -52,20 +52,6 @@
             "time": "15:00:00.000Z",
             "description": null
           }
-        ],
-        "2026-06-11": [
-          {
-            "name": "Crossroads Southern Roots",
-            "time": "20:00:00.000Z",
-            "description": null
-          }
-        ],
-        "2026-06-12": [
-          {
-            "name": "Noite dos Solteiros Anos 2000",
-            "time": "20:00:00.000Z",
-            "description": null
-          }
         ]
       }
     },
@@ -75,75 +61,51 @@
       "bairro": "Batel",
       "cat": "Gourmet",
       "events": {
-        "2026-06-11": [
-          {
-            "name": "DISCIPLINA OPTATIVA",
-            "time": "19:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Jogo: México x Africa do Sul",
-            "time": "16:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-06-12": [
-          {
-            "name": "LARISSA CARANGI E BANDA END TIMES",
-            "time": "19:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Jogo: Canadá x Bósnia e Herzegovina",
-            "time": "16:00:00Z",
-            "description": null
-          }
-        ],
         "2026-06-13": [
           {
-            "name": "BANDA FRANBOESA",
+            "name": "Banda Franboesa",
             "time": "12:30:00Z",
             "description": null
           },
           {
-            "name": "BRASIL X MARROCOS",
+            "name": "Brasil x Marrocos",
             "time": "19:00:00Z",
             "description": null
           },
           {
-            "name": "BANDA ASGARD",
+            "name": "Banda Asgard",
             "time": "21:00:00Z",
             "description": null
           },
           {
-            "name": "Jogo: Catar x Suíça",
+            "name": "Transmissão de jogo: Catar x Suíça",
             "time": "16:00:00Z",
             "description": null
           },
           {
-            "name": "Jogo: Brasil x Marrocos",
+            "name": "Transmissão de jogo: Brasil x Marrocos",
             "time": "19:00:00Z",
             "description": null
           }
         ],
         "2026-06-14": [
           {
-            "name": "NETO",
+            "name": "Neto",
             "time": "12:30:00Z",
             "description": null
           },
           {
-            "name": "ELVIS ROCK BAND",
+            "name": "Elvis Rock Band",
             "time": "19:30:00Z",
             "description": null
           },
           {
-            "name": "Jogo: Alemanha x Curaçao",
+            "name": "Transmissão de jogo: Alemanha x Curaçao",
             "time": "14:00:00Z",
             "description": null
           },
           {
-            "name": "Jogo: Países Baixos x Japão",
+            "name": "Transmissão de jogo: Países Baixos x Japão",
             "time": "17:00:00Z",
             "description": null
           }
@@ -156,20 +118,6 @@
       "bairro": "Batel",
       "cat": "Gourmet",
       "events": {
-        "2026-06-11": [
-          {
-            "name": "FIRE ON THE FLOOR",
-            "time": "20:30:00Z",
-            "description": null
-          }
-        ],
-        "2026-06-12": [
-          {
-            "name": "LOVE ROCKS com Sheridan's Music Club",
-            "time": "20:30:00Z",
-            "description": null
-          }
-        ],
         "2026-06-13": [
           {
             "name": "Jogos da Copa: Brasil x Marrocos",
@@ -192,54 +140,40 @@
       "events": {
         "2026-06-13": [
           {
-            "name": "Jogo Brasil x Marrocos",
+            "name": "Copa do Mundo",
             "time": null,
             "description": null
           },
           {
-            "name": "Show Anacrônica Duo",
-            "time": "16:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Show Syd Vinicius",
-            "time": "21:00:00Z",
+            "name": "Música ao vivo",
+            "time": null,
             "description": null
           },
           {
             "name": "ANACRÔNICA DUO",
-            "time": "16:00:00Z",
+            "time": "16:00:00.000Z",
             "description": null
           },
           {
             "name": "BRASIL X MARROCOS",
-            "time": "19:00:00Z",
+            "time": "19:00:00.000Z",
             "description": null
           },
           {
             "name": "SYD VINÍCIUS",
-            "time": "21:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-06-11": [
-          {
-            "name": "DANNI DISTLER TRIO",
-            "time": "19:30:00Z",
-            "description": null
-          }
-        ],
-        "2026-06-12": [
-          {
-            "name": "SONORA 4",
-            "time": "20:00:00Z",
+            "time": "21:00:00.000Z",
             "description": null
           }
         ],
         "2026-06-14": [
           {
             "name": "LENHADORES TRIO",
-            "time": "16:00:00Z",
+            "time": "16:00:00.000Z",
+            "description": null
+          },
+          {
+            "name": "GP Barcelona Catalunha",
+            "time": "10:00:00.000Z",
             "description": null
           }
         ]
@@ -265,45 +199,6 @@
       "bairro": "Seminário",
       "cat": "Gourmet",
       "events": {
-        "2026-06-11": [
-          {
-            "name": "Open para Mulherada",
-            "time": "19:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Lançamento do Telão e Estreia da Copa",
-            "time": null,
-            "description": null
-          },
-          {
-            "name": "Vini Moreno | Rock & Pop Rock",
-            "time": "19:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Os Caras do CB | Charlie Brown Jr.",
-            "time": "22:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-06-12": [
-          {
-            "name": "Festa dos Solteiros",
-            "time": null,
-            "description": null
-          },
-          {
-            "name": "Bon Jovi Cover Brasil",
-            "time": "21:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Candyman Club | Post Punk Tribute",
-            "time": "00:00:00Z",
-            "description": null
-          }
-        ],
         "2026-06-13": [
           {
             "name": "Pré-jogo com DJ Rafael Trucker",
@@ -365,7 +260,57 @@
       "ig": "https://www.instagram.com/barbariumpub/",
       "bairro": "Rebouças",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-06-13": [
+          {
+            "name": "Copa 2026",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-06-14": [
+          {
+            "name": "Copa 2026",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-06-15": [
+          {
+            "name": "Copa 2026",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-06-16": [
+          {
+            "name": "Copa 2026",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-06-17": [
+          {
+            "name": "Copa 2026",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-06-18": [
+          {
+            "name": "Copa 2026",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-06-19": [
+          {
+            "name": "Copa 2026",
+            "time": null,
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Dobrucki",
@@ -387,7 +332,25 @@
       "ig": "https://www.instagram.com/jokerspub/",
       "bairro": "Centro",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-06-13": [
+          {
+            "name": "Feijoada",
+            "time": null,
+            "description": null
+          },
+          {
+            "name": "Jogo do Brasil",
+            "time": null,
+            "description": null
+          },
+          {
+            "name": "Show Geração Coca-Cola Hits 80",
+            "time": "21:00:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Tork n' Roll",
@@ -426,13 +389,6 @@
             "time": "23:00:00Z",
             "description": null
           }
-        ],
-        "2026-06-12": [
-          {
-            "name": "Te Conheço desde o Orkut",
-            "time": "21:00:00.000000000Z",
-            "description": null
-          }
         ]
       }
     },
@@ -442,10 +398,22 @@
       "bairro": "São Francisco",
       "cat": "Palco e Show",
       "events": {
+        "2026-06-19": [
+          {
+            "name": "LOVE METAL",
+            "time": null,
+            "description": null
+          }
+        ],
         "2026-06-13": [
           {
             "name": "System of a Down GENOCIDE Cover Brasil",
-            "time": "21:30:00.000Z",
+            "time": "22:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Transmissão do jogo do Brasil",
+            "time": "18:00:00Z",
             "description": null
           }
         ]
@@ -456,22 +424,7 @@
       "ig": "https://www.instagram.com/sebas_rock_bar/",
       "bairro": "Boqueirão",
       "cat": "Palco e Show",
-      "events": {
-        "2026-06-11": [
-          {
-            "name": "Open Food com bandas ao vivo",
-            "time": "19:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-06-12": [
-          {
-            "name": "Open Food com bandas ao vivo",
-            "time": "19:00:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Belvedere",
@@ -493,18 +446,6 @@
       "bairro": "Capão Raso",
       "cat": "Raiz",
       "events": {
-        "2026-06-12": [
-          {
-            "name": "Coração Pirata Roupa Nova",
-            "time": "21:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Varal do Wando",
-            "time": "00:00:00Z",
-            "description": null
-          }
-        ],
         "2026-06-13": [
           {
             "name": "Jogo do Brasil",
@@ -517,14 +458,14 @@
             "description": null
           },
           {
-            "name": "Banda Raimunda + convidados (especial Raimundos)",
+            "name": "Banda Raimunda (especial Raimundos)",
             "time": "00:00:00Z",
             "description": null
           }
         ],
         "2026-06-14": [
           {
-            "name": "Banda Pinkpop estreia (HITS 90 a 2020)",
+            "name": "Banda Pinkpop estreia",
             "time": "20:30:00Z",
             "description": null
           }
@@ -543,7 +484,32 @@
       "ig": "https://www.instagram.com/oldjackgaragebar/",
       "bairro": "Novo Mundo",
       "cat": "Raiz",
-      "events": {}
+      "events": {
+        "2026-06-13": [
+          {
+            "name": "Radio Waves (Pop Rock)",
+            "time": "17:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Jogo do Brasil x Marrocos",
+            "time": "19:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Sonora 4 (Pop Rock e Reggae)",
+            "time": "21:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-06-14": [
+          {
+            "name": "Ochtop (Pop Rock)",
+            "time": "18:30:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Animals Pub",
