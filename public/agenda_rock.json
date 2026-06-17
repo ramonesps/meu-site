@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-15T15:27:17.240Z",
-  "week_start": "2026-06-15",
+  "updated_at": "2026-06-17T13:01:34.312Z",
+  "week_start": "2026-06-17",
   "model": "gemini-2.5-flash",
   "venues": [
     {
@@ -8,7 +8,46 @@
       "ig": "https://www.instagram.com/wearebastardspub/",
       "bairro": "Água Verde",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-06-17": [
+          {
+            "name": "LELY DUO",
+            "time": "20:20:00Z",
+            "description": null
+          }
+        ],
+        "2026-06-18": [
+          {
+            "name": "XIMA TRIO",
+            "time": "20:20:00Z",
+            "description": null
+          }
+        ],
+        "2026-06-19": [
+          {
+            "name": "OCHTOP",
+            "time": "19:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Jogo Brasil x Haiti (Copa)",
+            "time": "21:30:00Z",
+            "description": null
+          },
+          {
+            "name": "BACKSTAGE",
+            "time": "23:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-06-20": [
+          {
+            "name": "FOLKS TRIO",
+            "time": "21:30:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Cross Roads",
@@ -30,7 +69,93 @@
       "ig": "https://www.instagram.com/hrccuritiba/",
       "bairro": "Batel",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-06-17": [
+          {
+            "name": "Transmissão de jogo: Portugal x RD do Congo",
+            "time": "14:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Transmissão de jogo: Inglaterra x Croácia",
+            "time": "17:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Karaoke Night com Code.Fire",
+            "time": "19:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-06-18": [
+          {
+            "name": "Transmissão de jogo: Tchéquia x África do Sul",
+            "time": "13:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Transmissão de jogo: Suíça x Bósnia e Herzegovina",
+            "time": "16:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Radiophonics",
+            "time": "19:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-06-19": [
+          {
+            "name": "Transmissão de jogo: Estados Unidos x Austrália",
+            "time": "16:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Transmissão de jogo: Brasil x Haiti",
+            "time": "21:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Banda Asgard",
+            "time": "19:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Brasil x Haiti",
+            "time": "21:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Transmissão de jogo",
+            "time": "21:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-06-20": [
+          {
+            "name": "Marcela Juk",
+            "time": "12:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Banda Scoopers",
+            "time": "19:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-06-21": [
+          {
+            "name": "Marcela Juk",
+            "time": "12:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Cash Vibes",
+            "time": "19:30:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Sheridans",
@@ -38,25 +163,6 @@
       "bairro": "Batel",
       "cat": "Gourmet",
       "events": {
-        "2026-06-15": [
-          {
-            "name": "U2 CWB + CLÁSSICOS ON THE FLOOR",
-            "time": "20:30:00Z",
-            "description": null
-          },
-          {
-            "name": "U2 CWB + Clássicos",
-            "time": "20:30:00.000000000Z",
-            "description": null
-          }
-        ],
-        "2026-06-16": [
-          {
-            "name": "ASGARD DUO",
-            "time": "20:30:00Z",
-            "description": null
-          }
-        ],
         "2026-06-17": [
           {
             "name": "FIRECRACKER apresenta FIRE ON THE FLOOR",
@@ -117,7 +223,53 @@
       "ig": "https://www.instagram.com/bardafabricabastards/",
       "bairro": "Bom Retiro",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-06-17": [
+          {
+            "name": "Niko e Giu",
+            "time": "19:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-06-18": [
+          {
+            "name": "Moonshine",
+            "time": "19:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-06-19": [
+          {
+            "name": "Válvula Vapor",
+            "time": "19:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Jogo Brasil x Haiti",
+            "time": "21:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-06-20": [
+          {
+            "name": "Johaine Duo",
+            "time": "16:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Hawks",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-06-21": [
+          {
+            "name": "Danni Distler Duo",
+            "time": "16:00:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Maniacs",
@@ -146,37 +298,9 @@
       "bairro": "Rebouças",
       "cat": "Gourmet",
       "events": {
-        "2026-06-15": [
-          {
-            "name": "Copa 2026",
-            "time": null,
-            "description": null
-          }
-        ],
-        "2026-06-16": [
-          {
-            "name": "Copa 2026",
-            "time": null,
-            "description": null
-          }
-        ],
-        "2026-06-17": [
-          {
-            "name": "Copa 2026",
-            "time": null,
-            "description": null
-          }
-        ],
-        "2026-06-18": [
-          {
-            "name": "Copa 2026",
-            "time": null,
-            "description": null
-          }
-        ],
         "2026-06-19": [
           {
-            "name": "Copa 2026",
+            "name": "Jogo de futebol",
             "time": null,
             "description": null
           }
@@ -208,7 +332,15 @@
       "ig": "https://www.instagram.com/jokerspub/",
       "bairro": "Centro",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-06-23": [
+          {
+            "name": "Bife \\u00e0 Francesa (Prato do dia)",
+            "time": null,
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Tork n' Roll",
@@ -258,10 +390,44 @@
       "bairro": "São Francisco",
       "cat": "Palco e Show",
       "events": {
+        "2026-06-20": [
+          {
+            "name": "Especial Slipknot, Korn e Deftones",
+            "time": "21:30:00.000Z",
+            "description": null
+          },
+          {
+            "name": "Flash Tattoo & Body Piercing",
+            "time": null,
+            "description": null
+          },
+          {
+            "name": "Tributo SLIPKNOT + Korn e Deftones",
+            "time": null,
+            "description": null
+          }
+        ],
         "2026-06-19": [
           {
-            "name": "LOVE METAL",
+            "name": "Flash Tattoo & Body Piercing",
             "time": null,
+            "description": null
+          },
+          {
+            "name": "Jogo do Brasil",
+            "time": null,
+            "description": null
+          },
+          {
+            "name": "Tributos a Rush e Pink Floyd",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-06-17": [
+          {
+            "name": "Roland Grapow com Royal Rage e Evil Politicians",
+            "time": "19:00:00Z",
             "description": null
           }
         ]
@@ -308,7 +474,54 @@
       "ig": "https://www.instagram.com/clayhighway/",
       "bairro": "Capão Raso",
       "cat": "Raiz",
-      "events": {}
+      "events": {
+        "2026-06-19": [
+          {
+            "name": "Jogo do Brasil x Haiti",
+            "time": "21:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Banda StarAce",
+            "time": "23:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-06-20": [
+          {
+            "name": "Banda Sex Machine",
+            "time": "20:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Banda Delorean",
+            "time": "22:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Banda Matilda",
+            "time": "23:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-06-21": [
+          {
+            "name": "Conexão Capivaras",
+            "time": "20:00:00Z",
+            "description": null
+          },
+          {
+            "name": "The ShiftShaders",
+            "time": "21:00:00Z",
+            "description": null
+          },
+          {
+            "name": "The Last Sun",
+            "time": "22:00:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Armazém Garage",
