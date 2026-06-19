@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-17T13:01:34.312Z",
-  "week_start": "2026-06-17",
+  "updated_at": "2026-06-19T12:58:39.142Z",
+  "week_start": "2026-06-19",
   "model": "gemini-2.5-flash",
   "venues": [
     {
@@ -9,20 +9,6 @@
       "bairro": "Água Verde",
       "cat": "Gourmet",
       "events": {
-        "2026-06-17": [
-          {
-            "name": "LELY DUO",
-            "time": "20:20:00Z",
-            "description": null
-          }
-        ],
-        "2026-06-18": [
-          {
-            "name": "XIMA TRIO",
-            "time": "20:20:00Z",
-            "description": null
-          }
-        ],
         "2026-06-19": [
           {
             "name": "OCHTOP",
@@ -57,6 +43,50 @@
       "events": {
         "2026-06-19": [
           {
+            "name": "Sonora 4",
+            "time": "19:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Transmissão da Copa: Brasil x Haiti",
+            "time": "21:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Os Caras do Charlie Brown",
+            "time": "19:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Transmissão de jogo do Brasil",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-06-20": [
+          {
+            "name": "Vitrola Vintage",
+            "time": "20:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Lely Quinn Band",
+            "time": "20:00:00Z",
+            "description": null
+          },
+          {
+            "name": "República Pine",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-06-24": [
+          {
+            "name": "Resultado da promoção Rock'n Goal",
+            "time": null,
+            "description": null
+          },
+          {
             "name": "Transmissão de jogo do Brasil",
             "time": null,
             "description": null
@@ -70,40 +100,6 @@
       "bairro": "Batel",
       "cat": "Gourmet",
       "events": {
-        "2026-06-17": [
-          {
-            "name": "Transmissão de jogo: Portugal x RD do Congo",
-            "time": "14:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Transmissão de jogo: Inglaterra x Croácia",
-            "time": "17:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Karaoke Night com Code.Fire",
-            "time": "19:30:00Z",
-            "description": null
-          }
-        ],
-        "2026-06-18": [
-          {
-            "name": "Transmissão de jogo: Tchéquia x África do Sul",
-            "time": "13:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Transmissão de jogo: Suíça x Bósnia e Herzegovina",
-            "time": "16:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Radiophonics",
-            "time": "19:30:00Z",
-            "description": null
-          }
-        ],
         "2026-06-19": [
           {
             "name": "Transmissão de jogo: Estados Unidos x Austrália",
@@ -163,56 +159,32 @@
       "bairro": "Batel",
       "cat": "Gourmet",
       "events": {
-        "2026-06-17": [
-          {
-            "name": "FIRECRACKER apresenta FIRE ON THE FLOOR",
-            "time": "20:30:00Z",
-            "description": null
-          }
-        ],
-        "2026-06-18": [
-          {
-            "name": "BANKS apresenta ROCK ON THE FLOOR",
-            "time": "20:30:00Z",
-            "description": null
-          }
-        ],
         "2026-06-19": [
           {
-            "name": "EDDIE FOSTER",
+            "name": "Eddie Foster",
             "time": "19:00:00Z",
             "description": null
           },
           {
-            "name": "BRASIL X HAITI",
+            "name": "Brasil x Haiti",
             "time": "21:30:00Z",
             "description": null
           },
           {
-            "name": "DELOREAN",
+            "name": "Delorean",
             "time": "23:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Jogo Brasil x Haiti",
-            "time": "21:30:00Z",
-            "description": null
-          },
-          {
-            "name": "DJ Set Vivi Pickler",
-            "time": null,
             "description": null
           }
         ],
         "2026-06-20": [
           {
-            "name": "ANACRONICA",
+            "name": "Anacronica",
             "time": "19:00:00Z",
             "description": null
           },
           {
-            "name": "SYD VINÍÍICUS",
-            "time": "21:00:00Z",
+            "name": "Syd Viníícus",
+            "time": null,
             "description": null
           }
         ]
@@ -224,20 +196,6 @@
       "bairro": "Bom Retiro",
       "cat": "Gourmet",
       "events": {
-        "2026-06-17": [
-          {
-            "name": "Niko e Giu",
-            "time": "19:30:00Z",
-            "description": null
-          }
-        ],
-        "2026-06-18": [
-          {
-            "name": "Moonshine",
-            "time": "19:30:00Z",
-            "description": null
-          }
-        ],
         "2026-06-19": [
           {
             "name": "Válvula Vapor",
@@ -276,7 +234,15 @@
       "ig": "https://www.instagram.com/bardamaniacs/",
       "bairro": "Cabral",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-06-19": [
+          {
+            "name": "Brasil x Haiti",
+            "time": "21:30:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Rock Pizza",
@@ -290,7 +256,25 @@
       "ig": "https://www.instagram.com/distrito.1340/",
       "bairro": "Seminário",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-06-21": [
+          {
+            "name": "Califórnia Fest - Campeonato Tony Hawk’s Pro Skater",
+            "time": null,
+            "description": null
+          },
+          {
+            "name": "Show Da Rua",
+            "time": "19:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Show Os Caras do CB",
+            "time": "21:30:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Barbarium",
@@ -315,13 +299,20 @@
       "events": {
         "2026-06-20": [
           {
-            "name": "Candyman Club",
-            "time": "15:00:00Z",
+            "name": "Música ao vivo",
+            "time": null,
             "description": null
-          },
+          }
+        ],
+        "2026-06-21": [
           {
             "name": "Música ao vivo",
             "time": null,
+            "description": null
+          },
+          {
+            "name": "Noite anos 80 e 90 com Candyman Club e convidados",
+            "time": "15:00:00Z",
             "description": null
           }
         ]
@@ -348,37 +339,22 @@
       "bairro": "Rebouças",
       "cat": "Palco e Show",
       "events": {
-        "2026-06-20": [
+        "2026-06-19": [
           {
-            "name": "Pitty Cover BR",
-            "time": "20:30:00Z",
+            "name": "Transmissão ao vivo (Brasil x Haiti), DJ Frá, Foir Strokers",
+            "time": "18:00:00Z",
             "description": null
           },
           {
-            "name": "Os Caras do Charlie Brown",
-            "time": "22:15:00Z",
-            "description": null
-          },
-          {
-            "name": "Raimunda (Cover Raimundos)",
-            "time": "00:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Pitty Cover Brasil, Os Caras do Charlie Brown, Raimunda",
-            "time": "20:00:00Z",
-            "description": null
-          },
-          {
-            "name": "RAIMUNDA",
-            "time": "00:30:00Z",
+            "name": "Promoção Double Caipirinha",
+            "time": null,
             "description": null
           }
         ],
-        "2026-06-19": [
+        "2026-06-20": [
           {
-            "name": "Transmissão Brasil x Haiti, DJ Frá, Foir Strokers",
-            "time": "18:00:00Z",
+            "name": "Pitty Cover Brasil, Os Caras do Charlie Brown, Raimunda",
+            "time": "20:00:00Z",
             "description": null
           }
         ]
@@ -423,13 +399,6 @@
             "time": null,
             "description": null
           }
-        ],
-        "2026-06-17": [
-          {
-            "name": "Roland Grapow com Royal Rage e Evil Politicians",
-            "time": "19:00:00Z",
-            "description": null
-          }
         ]
       }
     },
@@ -439,17 +408,51 @@
       "bairro": "Boqueirão",
       "cat": "Palco e Show",
       "events": {
-        "2026-06-18": [
+        "2026-06-19": [
+          {
+            "name": "Festival da Tainha e Coração Pirata Roupa Nova Cover",
+            "time": "19:00:00Z",
+            "description": null
+          },
           {
             "name": "OPEN FOOD com bandas ao vivo",
-            "time": "19:00:00Z",
+            "time": "19:00:00.000Z",
             "description": null
           }
         ],
-        "2026-06-19": [
+        "2026-06-20": [
+          {
+            "name": "Minha Banda é Uma Festa",
+            "time": "20:20:00Z",
+            "description": null
+          },
+          {
+            "name": "Transmissão Brasil X Haiti",
+            "time": "21:20:00Z",
+            "description": null
+          },
+          {
+            "name": "Show Minha Banda é uma Festa",
+            "time": "20:20:00Z",
+            "description": null
+          },
+          {
+            "name": "Show",
+            "time": "23:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-06-21": [
+          {
+            "name": "Os Embalos de Sebaldo a Noite (Festa FLASHBACK)",
+            "time": "21:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-06-25": [
           {
             "name": "OPEN FOOD com bandas ao vivo",
-            "time": "19:00:00Z",
+            "time": "19:00:00.000Z",
             "description": null
           }
         ]
@@ -528,22 +531,7 @@
       "ig": "https://www.instagram.com/armazemgaragem/",
       "bairro": "Santo Inácio",
       "cat": "Raiz",
-      "events": {
-        "2026-06-20": [
-          {
-            "name": "Abertura do bar",
-            "time": "15:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-06-21": [
-          {
-            "name": "Abertura do bar",
-            "time": "15:00:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Old Jack",
