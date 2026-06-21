@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-19T12:58:39.142Z",
-  "week_start": "2026-06-19",
+  "updated_at": "2026-06-21T11:55:53.603Z",
+  "week_start": "2026-06-21",
   "model": "gemini-2.5-flash",
   "venues": [
     {
@@ -8,32 +8,7 @@
       "ig": "https://www.instagram.com/wearebastardspub/",
       "bairro": "Água Verde",
       "cat": "Gourmet",
-      "events": {
-        "2026-06-19": [
-          {
-            "name": "OCHTOP",
-            "time": "19:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Jogo Brasil x Haiti (Copa)",
-            "time": "21:30:00Z",
-            "description": null
-          },
-          {
-            "name": "BACKSTAGE",
-            "time": "23:30:00Z",
-            "description": null
-          }
-        ],
-        "2026-06-20": [
-          {
-            "name": "FOLKS TRIO",
-            "time": "21:30:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Cross Roads",
@@ -41,45 +16,6 @@
       "bairro": "Água Verde",
       "cat": "Gourmet",
       "events": {
-        "2026-06-19": [
-          {
-            "name": "Sonora 4",
-            "time": "19:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Transmissão da Copa: Brasil x Haiti",
-            "time": "21:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Os Caras do Charlie Brown",
-            "time": "19:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Transmissão de jogo do Brasil",
-            "time": null,
-            "description": null
-          }
-        ],
-        "2026-06-20": [
-          {
-            "name": "Vitrola Vintage",
-            "time": "20:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Lely Quinn Band",
-            "time": "20:00:00Z",
-            "description": null
-          },
-          {
-            "name": "República Pine",
-            "time": "20:00:00Z",
-            "description": null
-          }
-        ],
         "2026-06-24": [
           {
             "name": "Resultado da promoção Rock'n Goal",
@@ -100,45 +36,6 @@
       "bairro": "Batel",
       "cat": "Gourmet",
       "events": {
-        "2026-06-19": [
-          {
-            "name": "Transmissão de jogo: Estados Unidos x Austrália",
-            "time": "16:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Transmissão de jogo: Brasil x Haiti",
-            "time": "21:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Banda Asgard",
-            "time": "19:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Brasil x Haiti",
-            "time": "21:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Transmissão de jogo",
-            "time": "21:30:00Z",
-            "description": null
-          }
-        ],
-        "2026-06-20": [
-          {
-            "name": "Marcela Juk",
-            "time": "12:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Banda Scoopers",
-            "time": "19:00:00Z",
-            "description": null
-          }
-        ],
         "2026-06-21": [
           {
             "name": "Marcela Juk",
@@ -158,37 +55,7 @@
       "ig": "https://www.instagram.com/sheridansirishpub/",
       "bairro": "Batel",
       "cat": "Gourmet",
-      "events": {
-        "2026-06-19": [
-          {
-            "name": "Eddie Foster",
-            "time": "19:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Brasil x Haiti",
-            "time": "21:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Delorean",
-            "time": "23:30:00Z",
-            "description": null
-          }
-        ],
-        "2026-06-20": [
-          {
-            "name": "Anacronica",
-            "time": "19:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Syd Viníícus",
-            "time": null,
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Bastards Fábrica",
@@ -196,30 +63,6 @@
       "bairro": "Bom Retiro",
       "cat": "Gourmet",
       "events": {
-        "2026-06-19": [
-          {
-            "name": "Válvula Vapor",
-            "time": "19:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Jogo Brasil x Haiti",
-            "time": "21:30:00Z",
-            "description": null
-          }
-        ],
-        "2026-06-20": [
-          {
-            "name": "Johaine Duo",
-            "time": "16:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Hawks",
-            "time": "20:00:00Z",
-            "description": null
-          }
-        ],
         "2026-06-21": [
           {
             "name": "Danni Distler Duo",
@@ -234,15 +77,7 @@
       "ig": "https://www.instagram.com/bardamaniacs/",
       "bairro": "Cabral",
       "cat": "Gourmet",
-      "events": {
-        "2026-06-19": [
-          {
-            "name": "Brasil x Haiti",
-            "time": "21:30:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Rock Pizza",
@@ -281,15 +116,7 @@
       "ig": "https://www.instagram.com/barbariumpub/",
       "bairro": "Rebouças",
       "cat": "Gourmet",
-      "events": {
-        "2026-06-19": [
-          {
-            "name": "Jogo de futebol",
-            "time": null,
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Dobrucki",
@@ -297,13 +124,6 @@
       "bairro": "Rebouças",
       "cat": "Gourmet",
       "events": {
-        "2026-06-20": [
-          {
-            "name": "Música ao vivo",
-            "time": null,
-            "description": null
-          }
-        ],
         "2026-06-21": [
           {
             "name": "Música ao vivo",
@@ -324,9 +144,9 @@
       "bairro": "Centro",
       "cat": "Gourmet",
       "events": {
-        "2026-06-23": [
+        "2026-06-27": [
           {
-            "name": "Bife \\u00e0 Francesa (Prato do dia)",
+            "name": "Feijoada",
             "time": null,
             "description": null
           }
@@ -338,69 +158,14 @@
       "ig": "https://www.instagram.com/torkandroll/",
       "bairro": "Rebouças",
       "cat": "Palco e Show",
-      "events": {
-        "2026-06-19": [
-          {
-            "name": "Transmissão ao vivo (Brasil x Haiti), DJ Frá, Foir Strokers",
-            "time": "18:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Promoção Double Caipirinha",
-            "time": null,
-            "description": null
-          }
-        ],
-        "2026-06-20": [
-          {
-            "name": "Pitty Cover Brasil, Os Caras do Charlie Brown, Raimunda",
-            "time": "20:00:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Blood Rock",
       "ig": "https://www.instagram.com/bloodrockbar/",
       "bairro": "São Francisco",
       "cat": "Palco e Show",
-      "events": {
-        "2026-06-20": [
-          {
-            "name": "Especial Slipknot, Korn e Deftones",
-            "time": "21:30:00.000Z",
-            "description": null
-          },
-          {
-            "name": "Flash Tattoo & Body Piercing",
-            "time": null,
-            "description": null
-          },
-          {
-            "name": "Tributo SLIPKNOT + Korn e Deftones",
-            "time": null,
-            "description": null
-          }
-        ],
-        "2026-06-19": [
-          {
-            "name": "Flash Tattoo & Body Piercing",
-            "time": null,
-            "description": null
-          },
-          {
-            "name": "Jogo do Brasil",
-            "time": null,
-            "description": null
-          },
-          {
-            "name": "Tributos a Rush e Pink Floyd",
-            "time": null,
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Seb's Rock Bar",
@@ -408,40 +173,6 @@
       "bairro": "Boqueirão",
       "cat": "Palco e Show",
       "events": {
-        "2026-06-19": [
-          {
-            "name": "Festival da Tainha e Coração Pirata Roupa Nova Cover",
-            "time": "19:00:00Z",
-            "description": null
-          },
-          {
-            "name": "OPEN FOOD com bandas ao vivo",
-            "time": "19:00:00.000Z",
-            "description": null
-          }
-        ],
-        "2026-06-20": [
-          {
-            "name": "Minha Banda é Uma Festa",
-            "time": "20:20:00Z",
-            "description": null
-          },
-          {
-            "name": "Transmissão Brasil X Haiti",
-            "time": "21:20:00Z",
-            "description": null
-          },
-          {
-            "name": "Show Minha Banda é uma Festa",
-            "time": "20:20:00Z",
-            "description": null
-          },
-          {
-            "name": "Show",
-            "time": "23:30:00Z",
-            "description": null
-          }
-        ],
         "2026-06-21": [
           {
             "name": "Os Embalos de Sebaldo a Noite (Festa FLASHBACK)",
@@ -477,54 +208,7 @@
       "ig": "https://www.instagram.com/clayhighway/",
       "bairro": "Capão Raso",
       "cat": "Raiz",
-      "events": {
-        "2026-06-19": [
-          {
-            "name": "Jogo do Brasil x Haiti",
-            "time": "21:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Banda StarAce",
-            "time": "23:30:00Z",
-            "description": null
-          }
-        ],
-        "2026-06-20": [
-          {
-            "name": "Banda Sex Machine",
-            "time": "20:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Banda Delorean",
-            "time": "22:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Banda Matilda",
-            "time": "23:30:00Z",
-            "description": null
-          }
-        ],
-        "2026-06-21": [
-          {
-            "name": "Conexão Capivaras",
-            "time": "20:00:00Z",
-            "description": null
-          },
-          {
-            "name": "The ShiftShaders",
-            "time": "21:00:00Z",
-            "description": null
-          },
-          {
-            "name": "The Last Sun",
-            "time": "22:00:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Armazém Garage",
