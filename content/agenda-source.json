@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-21T11:47:37.001Z",
+  "generatedAt": "2026-06-23T12:09:52.891Z",
   "providers": {
     "instagram": "apify/instagram-api-scraper",
     "ai": "gemini-2.5-flash"
@@ -10,72 +10,8 @@
       "name": "Cross Roads",
       "instagram": "https://www.instagram.com/barcrossroads/",
       "handle": "barcrossroads",
-      "fetchedAt": "2026-06-19T12:51:30.837Z",
+      "fetchedAt": "2026-06-23T12:10:34.350Z",
       "posts": [
-        {
-          "id": "DZqExa2Fh7c",
-          "caption": "AGENDA DA SEMANA NA ÁREA 🤘\n\nQuinta: Especial Gipsy Kings & Flamenco Tradicional com Rodriggo Vivaz, Andrea Gutierrez, Murilo Da Rós e banda.\nAlém da música, a noite conta com cardápio especial de culinária espanhola.\n🎟️ Ingressos (link na bio)\n\nSexta:\nSonora 4 (pop, rock e reggae) + transmissão de Brasil x Haiti no telão + Os Caras do Charlie Brown (especial Charlie Brown Jr.)\n🎟️ Ingressos (link na bio)\n\nSábado: Comemoração de 10 anos da República Pine\nVitrola Vintage (rock nacional e internacional) + Lely Quinn Band (rock’n’roll) + República Pine com versões rock de clássicos do pop.\n🎟️ R$30",
-          "mediaType": "Sidecar",
-          "timestamp": "2026-06-16T18:49:21.000Z",
-          "permalink": "https://www.instagram.com/p/DZqExa2Fh7c/",
-          "images": [
-            "https://scontent-lax3-1.cdninstagram.com/v/t51.82787-15/724164315_18601995574003532_1565248880077383269_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHSfmxECyOd2-Y3lT-EHGCwjPAyU07uiT1Q83GvG7zrasi978UuEak7ddt6eWfsiro&_nc_ohc=iNFnaYWta0YQ7kNvwGDzZj5&_nc_gid=oo-AHqFlmWkwFmVUmW1d9g&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af9mvyHrmgufAwvn9BgrAReRM-rb80DXzGt23QKzRqB-cg&oe=6A3B19A4&_nc_sid=10d13b"
-          ],
-          "handle": "barcrossroads",
-          "raw": {
-            "ownerUsername": "barcrossroads",
-            "type": "Sidecar",
-            "shortCode": "DZqExa2Fh7c"
-          },
-          "analysis": {
-            "relevant": true,
-            "events": [
-              {
-                "date": "2026-06-19",
-                "title": "Sonora 4",
-                "start_time": "19:00:00Z",
-                "confidence": "high",
-                "evidence": "19/Junho Sexta 19h: Sonora 4"
-              },
-              {
-                "date": "2026-06-19",
-                "title": "Transmissão da Copa: Brasil x Haiti",
-                "start_time": "21:30:00Z",
-                "confidence": "high",
-                "evidence": "Transmissão da Copa Brasil x Haiti às 21h30"
-              },
-              {
-                "date": "2026-06-19",
-                "title": "Os Caras do Charlie Brown",
-                "start_time": "19:00:00Z",
-                "confidence": "high",
-                "evidence": "19/Junho Sexta 19h: Os Caras do Charlie Brown"
-              },
-              {
-                "date": "2026-06-20",
-                "title": "Vitrola Vintage",
-                "start_time": "20:00:00Z",
-                "confidence": "high",
-                "evidence": "20/Junho Sábado 20h: Vitrola Vintage"
-              },
-              {
-                "date": "2026-06-20",
-                "title": "Lely Quinn Band",
-                "start_time": "20:00:00Z",
-                "confidence": "high",
-                "evidence": "20/Junho Sábado 20h: Lely Quinn Band"
-              },
-              {
-                "date": "2026-06-20",
-                "title": "República Pine",
-                "start_time": "20:00:00Z",
-                "confidence": "high",
-                "evidence": "20/Junho Sábado 20h: República Pine"
-              }
-            ],
-            "windowMax": "2026-06-25"
-          }
-        },
         {
           "id": "DZvJzlsljqk",
           "caption": "Para celebrar a Copa, montamos um kit especial com 2 camisetas exclusivas do Cross Rock’n Goal + um vinho inspirado em lendas do futebol.\n\nPra participar é simples:\n\n⚽ Responda nos comentários as perguntas do post.\n❤ Chame os amigos para curtirem sua resposta.\n🏆 O comentário mais curtido leva o kit.\n\n📅 O resultado será divulgado no dia 24/06.\n\nPorque o jogo termina. O rock continua.",
@@ -83,7 +19,7 @@
           "timestamp": "2026-06-18T18:09:32.000Z",
           "permalink": "https://www.instagram.com/p/DZvJzlsljqk/",
           "images": [
-            "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/725199020_18602592205003532_6022872263601722180_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHWUvoaxantzofNZBWxia8CsABbSQf01bhzztLe10WniiFzWQyQKHHE3SL3SSEjVVE&_nc_ohc=utswot5FhucQ7kNvwGEqvc0&_nc_gid=8HlQBAO8syXmfi3Ht2sjeA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af-Xs0NAamjI7k_A5gmCen2EERVR7RzyOLEdjppcxarhOA&oe=6A3AFDAC&_nc_sid=10d13b"
+            "https://scontent-xxc1-1.cdninstagram.com/v/t51.82787-15/725199020_18602592205003532_6022872263601722180_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-xxc1-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gEZVubOUvc4IJnCmOeQwzwFnbI9yYSLt_K3mDLk8M8jjGyQprjy-_YuZbyrGnpxhlc&_nc_ohc=YvLRXOWCypgQ7kNvwHok9Jx&_nc_gid=J_We1EyvGVJPLPieOpxkug&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af9KQ6B-joyQOwRl868jGLyKAsgVaO1wil0QaAYMLbLtmg&oe=6A4043AC&_nc_sid=10d13b"
           ],
           "handle": "barcrossroads",
           "raw": {
@@ -92,17 +28,30 @@
             "shortCode": "DZvJzlsljqk"
           },
           "analysis": {
-            "relevant": true,
-            "events": [
-              {
-                "date": "2026-06-24",
-                "title": "Resultado da promoção Rock'n Goal",
-                "start_time": null,
-                "confidence": "high",
-                "evidence": "O resultado será divulgado no dia 24/06."
-              }
-            ],
-            "windowMax": "2026-06-25"
+            "relevant": false,
+            "events": [],
+            "windowMax": "2026-06-29"
+          }
+        },
+        {
+          "id": "DZqExa2Fh7c",
+          "caption": "AGENDA DA SEMANA NA ÁREA 🤘\n\nQuinta: Especial Gipsy Kings & Flamenco Tradicional com Rodriggo Vivaz, Andrea Gutierrez, Murilo Da Rós e banda.\nAlém da música, a noite conta com cardápio especial de culinária espanhola.\n🎟️ Ingressos (link na bio)\n\nSexta:\nSonora 4 (pop, rock e reggae) + transmissão de Brasil x Haiti no telão + Os Caras do Charlie Brown (especial Charlie Brown Jr.)\n🎟️ Ingressos (link na bio)\n\nSábado: Comemoração de 10 anos da República Pine\nVitrola Vintage (rock nacional e internacional) + Lely Quinn Band (rock’n’roll) + República Pine com versões rock de clássicos do pop.\n🎟️ R$30",
+          "mediaType": "Sidecar",
+          "timestamp": "2026-06-16T18:49:21.000Z",
+          "permalink": "https://www.instagram.com/p/DZqExa2Fh7c/",
+          "images": [
+            "https://scontent-phx1-1.cdninstagram.com/v/t51.82787-15/724164315_18601995574003532_1565248880077383269_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-phx1-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gGhhci6eZFqqaFlRfWRfUCIkxh7GvkJruV8m9q8yRI8rQdJ99_HcbhzwzgdQ8GJjm4&_nc_ohc=oGshiSS4hJ0Q7kNvwEcwZxi&_nc_gid=G8JgXDk-tPZWqdAGWxnX4A&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af8D5jnCJ3okmzfUhtldv2Lbq2UXOt5y9b9OG-haI3nrJQ&oe=6A405FA4&_nc_sid=10d13b"
+          ],
+          "handle": "barcrossroads",
+          "raw": {
+            "ownerUsername": "barcrossroads",
+            "type": "Sidecar",
+            "shortCode": "DZqExa2Fh7c"
+          },
+          "analysis": {
+            "relevant": false,
+            "events": [],
+            "windowMax": "2026-06-29"
           }
         },
         {
@@ -112,7 +61,7 @@
           "timestamp": "2026-06-04T16:15:54.000Z",
           "permalink": "https://www.instagram.com/p/DZK5rDZFuC9/",
           "images": [
-            "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/716809899_18598600861003532_1752527815793158490_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gFn2GjTslIS0ed2gj6qO7ngcCg3Xt9oArx_mOJQzXBe02zgwygkyj8cTyehnEz7k9o&_nc_ohc=ZjptBRNTMWoQ7kNvwF5A2uz&_nc_gid=-ldvrT-ykpEMxCKYNn64qg&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af9pIe7iKjREUFocIPiTLUfMgFy2rmBzBKhDm8KuH4s6rA&oe=6A3B14EA&_nc_sid=10d13b"
+            "https://scontent-atl3-3.cdninstagram.com/v/t51.82787-15/716809899_18598600861003532_1752527815793158490_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHFrZvPH-ziqWT7ebFB7aQjvlmhM0-BnShT0Sjo_JF81OmsnQ38hBOxgKWgnwyP8so&_nc_ohc=jtXN-FVdrWsQ7kNvwG-YUGh&_nc_gid=XAGv8bGxtrnkvGwOpxCXzQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af80d1SVr5dbk42fX3fSs7fZ4S3Z2dGD0pEQLSJGEdmFMg&oe=6A405AEA&_nc_sid=10d13b"
           ],
           "handle": "barcrossroads",
           "raw": {
@@ -124,21 +73,14 @@
             "relevant": true,
             "events": [
               {
-                "date": "2026-06-19",
-                "title": "Transmissão de jogo do Brasil",
-                "start_time": null,
-                "confidence": "high",
-                "evidence": "Transmissão dos jogos do Brasil nos dias 13, 19 e 24/06"
-              },
-              {
                 "date": "2026-06-24",
-                "title": "Transmissão de jogo do Brasil",
+                "title": "Transmissão dos jogos do Brasil",
                 "start_time": null,
                 "confidence": "high",
-                "evidence": "Transmissão dos jogos do Brasil nos dias 13, 19 e 24/06"
+                "evidence": "Transmissão dos jogos do Brasil nos dias... 24/06"
               }
             ],
-            "windowMax": "2026-06-25"
+            "windowMax": "2026-06-29"
           }
         }
       ]
@@ -148,105 +90,126 @@
       "name": "Sheridans",
       "instagram": "https://www.instagram.com/sheridansirishpub/",
       "handle": "sheridansirishpub",
-      "fetchedAt": "2026-06-19T12:52:24.052Z",
+      "fetchedAt": "2026-06-23T12:11:33.935Z",
       "posts": [
         {
-          "id": "DZsL5u7k00t",
-          "caption": "Hoje a noite vai ser quente no Sheridan's! 🔥 \n\nÉ dia de FIRE ON THE FLOOR com a incrível @firecrackerband! Daquele jeito que vocês viram por aqui e adoraram: banda no meio da pista, galera em volta e uma energia simplesmente contagiante. 🎸\n\nChegue cedo para aproveitar o melhor da noite:\n🍻 Happy Hour a partir das 18h até 19h30.\n\nChame a galera e vem viver essa experiência com a gente! ☘️🎶",
-          "mediaType": "Image",
-          "timestamp": "2026-06-17T14:30:09.000Z",
-          "permalink": "https://www.instagram.com/p/DZsL5u7k00t/",
-          "images": [
-            "https://scontent-sea5-1.cdninstagram.com/v/t39.30808-6/724818452_1438809778277587_2840706464483626163_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gHTHZiiupqS6vWi6wWeCQlpVJQPY5BalvswcB7dn2DNjAl5d4vnY5CVws3GcaQZl4w&_nc_ohc=hFrvAN1c3RUQ7kNvwGykNtI&_nc_gid=E9QiCtDk8ki-PA87i6ZRyA&edm=APs17CUAAAAA&ccb=7-5&oh=00_Af-vhhBNoxgPfpoUTYGmrbS2qFDTCO-Y2f59Y7SQSYzj4g&oe=6A3B1410&_nc_sid=10d13b"
-          ],
-          "handle": "sheridansirishpub",
-          "raw": {
-            "ownerUsername": "sheridansirishpub",
-            "type": "Image",
-            "shortCode": "DZsL5u7k00t"
-          },
-          "analysis": {
-            "relevant": false,
-            "events": [],
-            "windowMax": "2026-06-25"
-          }
-        },
-        {
-          "id": "DZuwsmSDabo",
-          "caption": "A quinta já chegou e com ela nosso agito garantido 🎸🔥 \n\nHoje tem ROCK ON THE FLOOR com a incrível @banda_banks, trazendo toda a energia para o meio da pista e transformando a noite em uma experiência daquelas que só o Sheridan's tem!\n\nChame a galera e venha curtir de pertinho!\n\n🍻 Abrimos às 18h\n⏰ Happy Hour até 19h30\n\nNão dá pra ficar de fora! ☘️🎶",
-          "mediaType": "Image",
-          "timestamp": "2026-06-18T14:30:09.000Z",
-          "permalink": "https://www.instagram.com/p/DZuwsmSDabo/",
-          "images": [
-            "https://scontent-dfw6-1.cdninstagram.com/v/t39.30808-6/725106845_1439731184852113_4631882448143457959_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-dfw6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gFXmX2H8fCKNzC97hlWqjqQAkF_v2W37Fb2uPGsLxfCQr1iADlXBMBd7vOEWx-czRI&_nc_ohc=nNpUHmGqgskQ7kNvwHqpdiD&_nc_gid=n955yFfKjcCdCUuYTgClzQ&edm=APs17CUAAAAA&ccb=7-5&oh=00_Af_vo4WQsfuL3l6hoqyK165snUDC9clcF5doq7mbxXyTPA&oe=6A3AFEEC&_nc_sid=10d13b"
-          ],
-          "handle": "sheridansirishpub",
-          "raw": {
-            "ownerUsername": "sheridansirishpub",
-            "type": "Image",
-            "shortCode": "DZuwsmSDabo"
-          },
-          "analysis": {
-            "relevant": false,
-            "events": [],
-            "windowMax": "2026-06-25"
-          }
-        },
-        {
-          "id": "DZkdhzik92b",
-          "caption": "Vai começar mais uma semana daquelas no Sheridan's! 🔥 \n\nTem música boa, novidades, muita diversão e, claro, jogo do Brasil para a gente torcer junto e fazer aquele fervo que só acontece por aqui. 🇧🇷⚽🍻\n\nConfira a programação, chame os amigos e prepare-se porque essa semana promete do começo ao fim.\n\nVemmmm! 🎸🔥",
+          "id": "DZ5Btf6lxvx",
+          "caption": "Tem mais jogo, mais música e mais motivos para vir pro Sheridan's! ⚽🎸🍻\n\nA programação da semana está daquele jeito: cheia de atrações, energia boa e aquele fervo que só tem aqui!\n\nConfere o que preparamos e vem curtir com a gente! 🔥☘️",
           "mediaType": "Sidecar",
-          "timestamp": "2026-06-14T14:30:14.000Z",
-          "permalink": "https://www.instagram.com/p/DZkdhzik92b/",
+          "timestamp": "2026-06-22T14:11:12.000Z",
+          "permalink": "https://www.instagram.com/p/DZ5Btf6lxvx/",
           "images": [
-            "https://scontent-atl3-3.cdninstagram.com/v/t39.30808-6/722960810_1435986258559939_8799652387418800271_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gFrCiIUxFTHIdATsqqHQyH3S6decNnP8RtgpOYOcME9LMMqT3E-Hf31w_OMt1zIj44&_nc_ohc=5CMa0aMaIvQQ7kNvwHj_d79&_nc_gid=DDoZFxxLUkViJAov2Sqxwg&edm=APs17CUAAAAA&ccb=7-5&oh=00_Af-1v5hMinE10ynWPVUeHA56a8CrdbA9nny9b5_9oZTw8g&oe=6A3B1664&_nc_sid=10d13b"
+            "https://instagram.fagc3-1.fna.fbcdn.net/v/t39.30808-6/729716444_1443747417783823_8086435372302344647_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=instagram.fagc3-1.fna.fbcdn.net&_nc_cat=107&_nc_oc=Q6cZ2gGP4NlUC_fhy_321ibUfsaeSMKf_hwc3rh1aU6QLPpdZNFSDeELrmAYzkCF2iAvnDQ&_nc_ohc=iDsc58a_mIUQ7kNvwEhpmTO&_nc_gid=-tJXB-AuXGgQLsJTPrCaTA&edm=APs17CUAAAAA&ccb=7-5&oh=00_Af9nXD9OUDNatrEWVZmbRCjMQJcKv3-tve8u6kvm4EFgbw&oe=6A403668&_nc_sid=10d13b"
           ],
           "handle": "sheridansirishpub",
           "raw": {
             "ownerUsername": "sheridansirishpub",
             "type": "Sidecar",
-            "shortCode": "DZkdhzik92b"
+            "shortCode": "DZ5Btf6lxvx"
           },
           "analysis": {
             "relevant": true,
             "events": [
               {
-                "date": "2026-06-19",
-                "title": "Eddie Foster",
+                "date": "2026-06-23",
+                "title": "Thiago Filla",
+                "start_time": "20:30:00Z",
+                "confidence": "high",
+                "evidence": "TER 23.06 THIAGO FILLA (20H30)"
+              },
+              {
+                "date": "2026-06-24",
+                "title": "Brasil x Escócia",
                 "start_time": "19:00:00Z",
                 "confidence": "high",
-                "evidence": "SEX 19.06 Eddie Foster (19H)"
+                "evidence": "QUA 24.06 BRASIL x ESCÓCIA (19H)"
               },
               {
-                "date": "2026-06-19",
-                "title": "Brasil x Haiti",
-                "start_time": "21:30:00Z",
-                "confidence": "high",
-                "evidence": "SEX 19.06 BRASIL X HAITI (21H30)"
-              },
-              {
-                "date": "2026-06-19",
-                "title": "Delorean",
-                "start_time": "23:30:00Z",
-                "confidence": "high",
-                "evidence": "SEX 19.06 DELOREAN (23H30)"
-              },
-              {
-                "date": "2026-06-20",
-                "title": "Anacronica",
-                "start_time": "19:00:00Z",
-                "confidence": "high",
-                "evidence": "SÁB 20.06 ANACRONICA (19H)"
-              },
-              {
-                "date": "2026-06-20",
-                "title": "Syd Viníícus",
+                "date": "2026-06-24",
+                "title": "Válvula Vapor",
                 "start_time": null,
+                "confidence": "medium",
+                "evidence": "QUA 24.06 VÁLVULA VAPOR (APROX 21H)"
+              },
+              {
+                "date": "2026-06-25",
+                "title": "Banks apresenta Rock on the Floor",
+                "start_time": "20:30:00Z",
                 "confidence": "high",
-                "evidence": "SÁB 20.06 SYD VINÍÍICUS (APROX. 21H)"
+                "evidence": "QUI 25.06 BANKS apresenta ROCK ON THE FLOOR (20H30)"
+              },
+              {
+                "date": "2026-06-26",
+                "title": "Lenhadores da Antártida",
+                "start_time": "20:30:00Z",
+                "confidence": "high",
+                "evidence": "SEX 26.06 LENHADORES DA ANTÁRTIDA (20H30)"
+              },
+              {
+                "date": "2026-06-26",
+                "title": "Backstage",
+                "start_time": "23:00:00Z",
+                "confidence": "high",
+                "evidence": "SEX 26.06 BACKSTAGE (23H)"
+              },
+              {
+                "date": "2026-06-27",
+                "title": "Audiophone",
+                "start_time": "20:30:00Z",
+                "confidence": "high",
+                "evidence": "SÁB 27.06 AUDIOPHONE (20H30)"
+              },
+              {
+                "date": "2026-06-27",
+                "title": "Firecracker",
+                "start_time": "23:00:00Z",
+                "confidence": "high",
+                "evidence": "SÁB 27.06 FIRECRACKER (23H)"
               }
             ],
-            "windowMax": "2026-06-25"
+            "windowMax": "2026-06-29"
+          }
+        },
+        {
+          "id": "DZ5B0_piUe2",
+          "caption": "Preparaaa o coração porque quarta-feira (24/06) tem mais Brasil! 🇧🇷🔥\n\nO jogo rola às 19h e a gente já começa o esquenta mais cedo: abrimos às 18h, com Happy Hour até 19h30 para você entrar no clima da torcida. 🍻⚽\n\nE quando o jogo acabar, o fervo continua com @valvulavapor comandando a noite! 🎸🔥\n\nGaranta sua mesa e venha torcer, cantar e comemorar com a gente!\n\n📲 Reservas: (41) 9979-6000",
+          "mediaType": "Sidecar",
+          "timestamp": "2026-06-22T14:12:14.000Z",
+          "permalink": "https://www.instagram.com/p/DZ5B0_piUe2/",
+          "images": [
+            "https://scontent-atl3-2.cdninstagram.com/v/t39.30808-6/727393945_1443748487783716_3819680651199624584_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gEcfwotwMmjulpMhRYzE81GZkViubWmBABdumpJ669T643GqcEUDWawezw9wWElIQ8&_nc_ohc=9OKCI8WNnYAQ7kNvwGe0jhQ&_nc_gid=uXmL4FTjsN2OltOIMIkAXw&edm=APs17CUAAAAA&ccb=7-5&oh=00_Af8VZOW9IALL3ChqIwsAEgVV1cRgPEb2jTxy6QD0YIKGdA&oe=6A4038FB&_nc_sid=10d13b"
+          ],
+          "handle": "sheridansirishpub",
+          "raw": {
+            "ownerUsername": "sheridansirishpub",
+            "type": "Sidecar",
+            "shortCode": "DZ5B0_piUe2"
+          },
+          "analysis": {
+            "relevant": false,
+            "events": [],
+            "windowMax": "2026-06-29"
+          }
+        },
+        {
+          "id": "DZ5YTWuH2BQ",
+          "caption": "egunda-feira é dia de clássico no Sheridan's! 🎸S\n\nHoje tem @u2covercwb + clássicos do rock em um formato que vocês já sabem que a gente ama: ON THE FLOOR. Eles no meio da pista, a galera em volta e aquela energia única que transforma o show em uma experiência de verdade. 🔥\n\nVem começar a semana com música boa, chope gelado e muito rock!\n\n🍻 Abrimos às 18h\n⏰ Happy Hour até 19h30\n\nNos vemos na pista! 🤘",
+          "mediaType": "Image",
+          "timestamp": "2026-06-22T17:28:38.000Z",
+          "permalink": "https://www.instagram.com/p/DZ5YTWuH2BQ/",
+          "images": [
+            "https://scontent-lga3-1.cdninstagram.com/v/t39.30808-6/727788180_1443884814436750_7802032141923251703_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gFRjy3s40VlZc8g3I4w_uRvRCEr34crjRUdiorv18EYH34GSysvOdrY8A2zBBNxxgI&_nc_ohc=oNpgHdq-ylwQ7kNvwEnGcUv&_nc_gid=pVu2nwKlbz4LeNKVhuGbIg&edm=APs17CUAAAAA&ccb=7-5&oh=00_Af8_CQKv-gFKkpssA9bB4yyZGnKzB4gHWQVSQPYF25yDcw&oe=6A405BEF&_nc_sid=10d13b"
+          ],
+          "handle": "sheridansirishpub",
+          "raw": {
+            "ownerUsername": "sheridansirishpub",
+            "type": "Image",
+            "shortCode": "DZ5YTWuH2BQ"
+          },
+          "analysis": {
+            "relevant": false,
+            "events": [],
+            "windowMax": "2026-06-29"
           }
         }
       ]
@@ -512,58 +475,8 @@
       "name": "Maniacs",
       "instagram": "https://www.instagram.com/bardamaniacs/",
       "handle": "bardamaniacs",
-      "fetchedAt": "2026-06-19T12:53:14.311Z",
+      "fetchedAt": "2026-06-23T12:12:47.122Z",
       "posts": [
-        {
-          "id": "DZuma6HlCd_",
-          "caption": "Brasiiil! 🇧🇷⚽\nJogo tenso, resultado que deixou gosto de quero mais, e aqui na Maniacs rolou aquele clima que só rola quando todo mundo tá na mesma vibe. A tela de 5x3 lotada, chope gelado, a galera gritando junto, comida quentinha saindo da cozinha, André Pionteke com espetinhos e DJ animando antes e depois.\nMas o melhor ainda tá por vir. Próximos jogos? Já tá rolando. Manda um whats pra reservar sua mesa, chama a turma e garante seu lugar no maior clima de futebol de Curitiba.\nLoucos por cerveja, loucos por futebol. E o Bar da Maniacs é o lugar onde isso acontece. 🍺",
-          "mediaType": "Sidecar",
-          "timestamp": "2026-06-18T13:00:20.000Z",
-          "permalink": "https://www.instagram.com/p/DZuma6HlCd_/",
-          "images": [
-            "https://scontent-hou1-1.cdninstagram.com/v/t39.30808-6/726970098_1674766394652198_1249032073741872566_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-hou1-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gEArc13cFyIiU6HWJzcupec68xKKpjRv8y3z7U5dRHYZ0-auDxayQSW9gCHEVK0mCA&_nc_ohc=uXT8qGEmcpAQ7kNvwHnTgGd&_nc_gid=ZqbPnZM1Dg7Ee-lNqZzadA&edm=APs17CUAAAAA&ccb=7-5&oh=00_Af_kizO2VQkG4HZ2fGU8GBVV4WqfrI8LIZr0rSwY6rSBLg&oe=6A3AFA3D&_nc_sid=10d13b"
-          ],
-          "handle": "bardamaniacs",
-          "raw": {
-            "ownerUsername": "bardamaniacs",
-            "type": "Sidecar",
-            "shortCode": "DZuma6HlCd_"
-          },
-          "analysis": {
-            "relevant": false,
-            "events": [],
-            "windowMax": "2026-06-25"
-          }
-        },
-        {
-          "id": "DZsqzgTjFIk",
-          "caption": "Não vai assistir Brasil x Haiti em qualquer lugar não hein! Vem na Maniacs! 🇧🇷\nTelão 5x3m, DJ, chope fluindo. Preparamos tudo pra experiência ser inesquecível.\nReserva: R$50/pessoa nas mesas internas (vira consumação). Mesa coletiva, gente boa, vibe completa.\nReservas pelo Whats. Nos vemos lá 🍺",
-          "mediaType": "Sidecar",
-          "timestamp": "2026-06-17T19:00:10.000Z",
-          "permalink": "https://www.instagram.com/p/DZsqzgTjFIk/",
-          "images": [
-            "https://scontent-det1-1.cdninstagram.com/v/t39.30808-6/721297305_1668589095269928_8869994218756902917_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-det1-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGaZdsBxz_X1xhybuFKcp23HPLFR-Js96-vT1owl1szlt0KzAvgZQO8m1_H6Uze5Fg&_nc_ohc=Mr2ligBiZOsQ7kNvwHuKRyk&_nc_gid=64acGz_ojHpqKGcZuoYsOA&edm=APs17CUAAAAA&ccb=7-5&oh=00_Af8ZP0VuDVgcF-Mri_yAvbkN7YTnpC_CfSYyQF_SnHT0aQ&oe=6A3B0E0F&_nc_sid=10d13b"
-          ],
-          "handle": "bardamaniacs",
-          "raw": {
-            "ownerUsername": "bardamaniacs",
-            "type": "Sidecar",
-            "shortCode": "DZsqzgTjFIk"
-          },
-          "analysis": {
-            "relevant": true,
-            "events": [
-              {
-                "date": "2026-06-19",
-                "title": "Brasil x Haiti",
-                "start_time": "21:30:00Z",
-                "confidence": "high",
-                "evidence": "19/06 às 21h30 BRASIL HAITI"
-              }
-            ],
-            "windowMax": "2026-06-25"
-          }
-        },
         {
           "id": "DZkTRkoges2",
           "caption": "Tem coisa mais honesta do que um hambúrguer com um chope gelado na mesa? \n\nSabia que a nossa IPA foi feita pra harmonizar exatamente com isso? O amargor cítrico corta a gordura do burger e prepara o paladar pra próxima mordida. \n\nVem pro Bar e pede essa combinação perfeita.",
@@ -571,7 +484,7 @@
           "timestamp": "2026-06-14T13:00:39.000Z",
           "permalink": "https://www.instagram.com/p/DZkTRkoges2/",
           "images": [
-            "https://scontent-dfw6-2.cdninstagram.com/v/t39.30808-6/722296584_1668582178603953_2811492620736634217_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-dfw6-2.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gEX6pzNHQkYl0WsROxoZ2WLPPMbSTQs_ryW7jZXEKyVmLwSiH4-6I0NMlI5Dss3_0I&_nc_ohc=IZtAaNHbTAwQ7kNvwEE8Z3r&_nc_gid=tK1DI5wQT5agncjjzVFCVg&edm=APs17CUAAAAA&ccb=7-5&oh=00_Af9isogWFcZBsMW3LKy5svhQu_XyelOiJbm-QxaLRIOBNw&oe=6A3B24FF&_nc_sid=10d13b"
+            "https://scontent-ord5-3.cdninstagram.com/v/t39.30808-6/722296584_1668582178603953_2811492620736634217_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-ord5-3.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gHVmdY-YODPE76zwLKrJ5J7wbGasTsY8SJO8rQTXf9m409lEkjHT8Fg2ZAfTISBZkY&_nc_ohc=jJvvDsCQYiEQ7kNvwE4H_kB&_nc_gid=q77L7Z4No0tYHbNhG9ySlA&edm=APs17CUAAAAA&ccb=7-5&oh=00_Af9_pdLjL28iSOztmt4YVbxOX5Zy9oDDh9MHuuN9dNbeKg&oe=6A4032BF&_nc_sid=10d13b"
           ],
           "handle": "bardamaniacs",
           "raw": {
@@ -582,7 +495,49 @@
           "analysis": {
             "relevant": false,
             "events": [],
-            "windowMax": "2026-06-25"
+            "windowMax": "2026-06-29"
+          }
+        },
+        {
+          "id": "DZsqzgTjFIk",
+          "caption": "Não vai assistir Brasil x Haiti em qualquer lugar não hein! Vem na Maniacs! 🇧🇷\nTelão 5x3m, DJ, chope fluindo. Preparamos tudo pra experiência ser inesquecível.\nReserva: R$50/pessoa nas mesas internas (vira consumação). Mesa coletiva, gente boa, vibe completa.\nReservas pelo Whats. Nos vemos lá 🍺",
+          "mediaType": "Sidecar",
+          "timestamp": "2026-06-17T19:00:10.000Z",
+          "permalink": "https://www.instagram.com/p/DZsqzgTjFIk/",
+          "images": [
+            "https://scontent-iad6-1.cdninstagram.com/v/t39.30808-6/721297305_1668589095269928_8869994218756902917_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gEiuXQrEutw-cYf0Q5RHy80aq-58VPM09XJPtDFz9xyOhfOpJnZeYoyX_jbtrzL8qk&_nc_ohc=XXDNIixdGuwQ7kNvwELnW6n&_nc_gid=fwQ1oO8gF3sbG2pyXPDLbw&edm=APs17CUAAAAA&ccb=7-5&oh=00_Af9q4MrIASkbDYPCddVLoOnYwsPGCdDCJvj98y-9d2X3Zw&oe=6A40540F&_nc_sid=10d13b"
+          ],
+          "handle": "bardamaniacs",
+          "raw": {
+            "ownerUsername": "bardamaniacs",
+            "type": "Sidecar",
+            "shortCode": "DZsqzgTjFIk"
+          },
+          "analysis": {
+            "relevant": false,
+            "events": [],
+            "windowMax": "2026-06-29"
+          }
+        },
+        {
+          "id": "DZuma6HlCd_",
+          "caption": "Brasiiil! 🇧🇷⚽\nJogo tenso, resultado que deixou gosto de quero mais, e aqui na Maniacs rolou aquele clima que só rola quando todo mundo tá na mesma vibe. A tela de 5x3 lotada, chope gelado, a galera gritando junto, comida quentinha saindo da cozinha, André Pionteke com espetinhos e DJ animando antes e depois.\nMas o melhor ainda tá por vir. Próximos jogos? Já tá rolando. Manda um whats pra reservar sua mesa, chama a turma e garante seu lugar no maior clima de futebol de Curitiba.\nLoucos por cerveja, loucos por futebol. E o Bar da Maniacs é o lugar onde isso acontece. 🍺",
+          "mediaType": "Sidecar",
+          "timestamp": "2026-06-18T13:00:20.000Z",
+          "permalink": "https://www.instagram.com/p/DZuma6HlCd_/",
+          "images": [
+            "https://instagram.flas1-2.fna.fbcdn.net/v/t39.30808-6/726970098_1674766394652198_1249032073741872566_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=instagram.flas1-2.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2gEMExIu0m55X_N4sKmFnN0hLnD5nif3yvjGapnmXRrdXgcIaxu-CNayuv6RPDNjp9U&_nc_ohc=vHKTkQaPL2QQ7kNvwHPMxzE&_nc_gid=-R_ZdyT6d0nr7S5evaRPPw&edm=APs17CUAAAAA&ccb=7-5&oh=00_Af9DhEy7xD4l2Kmz3ZPNpCDw6mHCJSl_squp-G_jfPcRSA&oe=6A40403D&_nc_sid=10d13b"
+          ],
+          "handle": "bardamaniacs",
+          "raw": {
+            "ownerUsername": "bardamaniacs",
+            "type": "Sidecar",
+            "shortCode": "DZuma6HlCd_"
+          },
+          "analysis": {
+            "relevant": false,
+            "events": [],
+            "windowMax": "2026-06-29"
           }
         }
       ]
@@ -620,27 +575,27 @@
       "name": "Distrito 1340",
       "instagram": "https://www.instagram.com/distrito.1340/",
       "handle": "distrito.1340",
-      "fetchedAt": "2026-06-19T12:54:05.167Z",
+      "fetchedAt": "2026-06-23T12:13:27.809Z",
       "posts": [
         {
-          "id": "DZqD4min9qb",
-          "caption": "Se prepara, reúna a galera e venha viver mais uma semana de muito rock, cerveja gelada e experiências aqui no DISTRITO 1340! 🎸🍻\n\n🔥QUINTA 18/06 - OPEN PRA MULHERADA (19h às 21h por R$20)\n🍺 Chopp • 🍷 Vinho • 🍾 Espumante • 🍸 Gin • 🥂 Moscow Mule liberados para elas\n19h00 – Fusão 80\n22h30 – Syd Vinicius\n\n⚽SEXTA 19/06 - Dia de trocer juntos pelo Brasil!\n18h Pré-jogo com DJ Rafael Trucker e bateria de torcida\n19h – Rádio Vinil\n21h30 – Brasil em campo nos telões do Distrito\n00h – Radiophonics\n\n⚡ SÁBADO 20/06\n21h – Drive True\n00h – Lady Die\n\n🛹 DOMINGO 21/06 - Califórnia Fest com especial Dia Mundial do Skate\n19h - Banda Da Rua - Especial Tony Hawk's Pro Skater\n21h30 - Os Caras do Charlie Brown\n\n🎟️ Entrada R$25 após 21h (quinta a sábado) | Domingo FREE\n\n👉 Chama a Galera e marca quem vai com você e PARTIU DISTRITO! ⚡🍻🎸\n\n📞 Informações e Reservas: (41) 99222-1340\n📍 R. Maj. Heitor Guimarães, 1130 – Campina do Siqueira, Curitiba/PR\n\n#Distrito1340 #RockCuritiba #AgendaDistrito1340 #VivaORock #CuritibaRock",
-          "mediaType": "Sidecar",
-          "timestamp": "2026-06-16T18:41:36.000Z",
-          "permalink": "https://www.instagram.com/p/DZqD4min9qb/",
+          "id": "DZ5mAt0hH0G",
+          "caption": "QUARTA 24/06 � DIA DE BRASIL E CASTROL FAN ROCK FEST NO DISTRITO 1340!�\n\nA Sele��o entra em campo contra a Esc�cia e o lugar certo para viver cada lance � no Distrito 1340! >\u0018=%\n\nTorcida vibrando, tel�o ligado, cerveja gelada, rock n\u0019 roll e aquela energia que transforma uma partida em uma verdadeira festa. <{<�\n\n=% PROGRAMA��O:\n� 17h \u0013 Pr�-jogo com Dj Rafael Trucker e bateria de torcida(� 19h \u0013 Brasil x Esc�cia(<� 21h \u0013 MTX Mo Fire Band(>\u0018 00h \u0013 Candyman Clube\n\nVista a camisa da sele��o, chama a galera e venha fazer parte da maior torcida rock\u0019n\u0019roll de Curitiba!\nPorque quando o Brasil joga, o Distrito vira est�dio. \nE quando o jogo acaba, a festa continua. =%<z\n\nPARTIU DISTRITO! >\u0018<�\n\n=� Informa��es e Reservas: (41) 99222-1340\n=� R. Maj. Heitor Guimar�es, 1130 \u0013 Campina do Siqueira, Curitiba/PR\n\n#CastrolFanRockFest #BrasilxEscocia #Distrito1340 #CopaNoDistrito #PartiuDistrito",
+          "mediaType": "Image",
+          "timestamp": "2026-06-22T19:29:56.000Z",
+          "permalink": "https://www.instagram.com/p/DZ5mAt0hH0G/",
           "images": [
-            "https://scontent-lga3-3.cdninstagram.com/v/t39.30808-6/724757947_1448212597332692_8191169906931565172_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gFibk_bDRwa6RT5v0khJ_GMzDYENqk0A4LG4vktRobE_BSKBCYIjfjnO5wT3_hVEUo&_nc_ohc=j-Bb22MPADUQ7kNvwFxbope&_nc_gid=EsIDTHbHmxM6V7kf0McYXQ&edm=APs17CUAAAAA&ccb=7-5&oh=00_Af_EoZd4g0BILyqySat8irR_5s0ghrZkovOtElrE_GJtjg&oe=6A3B243B&_nc_sid=10d13b"
+            "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/729768994_18331390852251636_4071336516947129722_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gHHl8gWOagcORLWF2vMRdxbcziEweqjrmfvbfiRXiBeynOezh6DHQI77VzFpuTCAv0&_nc_ohc=dcurHzTjBFoQ7kNvwEcG5hO&_nc_gid=6sRRg2b7ZuCbIydeA7K55w&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af9lQwFLl4Bs8iudioNZF6eT9ct26OXQ7NIL0oKN0ZUDHA&oe=6A4039F8&_nc_sid=10d13b"
           ],
           "handle": "distrito.1340",
           "raw": {
             "ownerUsername": "distrito.1340",
-            "type": "Sidecar",
-            "shortCode": "DZqD4min9qb"
+            "type": "Image",
+            "shortCode": "DZ5mAt0hH0G"
           },
           "analysis": {
             "relevant": false,
             "events": [],
-            "windowMax": "2026-06-25"
+            "windowMax": "2026-06-29"
           }
         },
         {
@@ -650,7 +605,7 @@
           "timestamp": "2026-06-19T11:15:36.000Z",
           "permalink": "https://www.instagram.com/p/DZw-yTpxDFv/",
           "images": [
-            "https://scontent-mia5-2.cdninstagram.com/v/t51.71878-15/722953926_1420157999863584_7039847446628591824_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-mia5-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gH-PGwYVMfs5luVaOU8PaO7IGFuwgokDs-Y-STVj8J0SF3HLYAGxgmTJ9rySrsvAOg&_nc_ohc=PLZuQ6kM4dQQ7kNvwGbxE8H&_nc_gid=tCOlQczwck25EU1Il4E4gQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af83dNUw2n4hyHNi8qDAkxdUNPrTQYkUheml4dVNO_k1-Q&oe=6A3B00A6&_nc_sid=10d13b"
+            "https://scontent-bos5-1.cdninstagram.com/v/t51.71878-15/722953926_1420157999863584_7039847446628591824_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGZfHNICHPmkBPWb0GVHUBtly_ZUBIiZ0n4Jmm2U2aSEi9aBUcavKjokMNRA5ibL3o&_nc_ohc=LqIkCQvAy6EQ7kNvwGDCqOS&_nc_gid=3-FDWgRNYVmKIYvtnVAfUw&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af9p-mvNKsSSZRiUoio2COVMJQyOrPaGGoW63waAxnQ1ZA&oe=6A4046A6&_nc_sid=10d13b"
           ],
           "handle": "distrito.1340",
           "raw": {
@@ -661,50 +616,28 @@
           "analysis": {
             "relevant": false,
             "events": [],
-            "windowMax": "2026-06-25"
+            "windowMax": "2026-06-29"
           }
         },
         {
-          "id": "DZvlexekXta",
-          "caption": "🛹 DOMINGO É DIA DE CALIFÓRNIA FEST ESPECIAL NO DISTRITO! ☀️\n\nO espírito das ruas, das pistas e do rock toma conta da casa em uma edição especial pelo Dia Mundial do Skate! 🤘🔥\n\nPrepare-se para uma noite com muita música, atitude e aquela energia que só quem vive o skate e o rock conhece. 🖤\n\n🎸 Programação:\nCom Tony Hawk’s Pro Skater Campeonato rolando no telão do Distrito!\n\n19h – Da Rua com repretório especial\n🔥 As trilhas sonoras que marcaram gerações de skatistas e gamers.\n\n21h30 – Os Caras do CB\nClássicos que vão fazer a galera cantar do começo ao fim.\n\n📞 Informações e Reservas: (41) 99222-1340\n\n📍 R. Maj. Heitor Guimarães, 1130 – Campina do Siqueira, Curitiba/PR\n\n#CaliforniaFest #DiaMundialDoSkate #Distrito1340 #SkateAndRock #CuritibaRock",
-          "mediaType": "Video",
-          "timestamp": "2026-06-18T22:11:45.000Z",
-          "permalink": "https://www.instagram.com/p/DZvlexekXta/",
+          "id": "DZ2UyNAjJYl",
+          "caption": "🛹🔥 GO SKATEBOARDING DAY NO DISTRITO 1340! 🔥🛹\n\nO skate nunca foi só um esporte.\n\nÉ atitude. É liberdade. É amizade. É trilha sonora alta no fone, manobra até o último minuto e aquela sensação de que o mundo inteiro pode virar uma pista.\n\nNo dia 21 de junho, celebramos o Dia Mundial do Skate e fazemos um brinde a todos que cresceram entre shapes riscados, tênis gastos e muito rock'n'roll. 🤘\n\nEntão hoje é dia de comemorar no Distrito 1340!\n\nCom o Califórnia especial Dia mundial do skate e rolando campeonato no telão.\n\n19hrs Da Rua “ Especial Tony Hawk’s Pro Skater “\n21:30 Os Caras do CB\n\n🍻 Porque skate e rock sempre falaram a mesma língua.\n\n📞 Informações e Reservas: (41) 99222-1340\n📍 R. Maj. Heitor Guimarães, 1130 – Campina do Siqueira, Curitiba/PR\n\n#GoSkateboardingDay #Distrito1340 #SkateAndRock #SkateLife #VemProDistrito",
+          "mediaType": "Image",
+          "timestamp": "2026-06-21T13:00:10.000Z",
+          "permalink": "https://www.instagram.com/p/DZ2UyNAjJYl/",
           "images": [
-            "https://scontent-lax3-2.cdninstagram.com/v/t51.82787-15/726411803_18330820390251636_7187494960437240981_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-lax3-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gHKXSLk5UDpLM9Lxz6SXDGk07QvI2MDlJM4nQgQ9_V6gnoiusRxvZTFqx0iyMzbRBY&_nc_ohc=ItDJul1xtZkQ7kNvwFeqCLS&_nc_gid=7MxVzqMon8ktjlDBnPAfWg&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af9rqprjHsGUZBtiMorZniONSheSHllFmdhoD_YDnsDbCg&oe=6A3B29E8&_nc_sid=10d13b"
+            "https://scontent-dfw5-1.cdninstagram.com/v/t39.30808-6/727001857_1450058007148151_1132843272188581545_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gFTVhaqMlzZZ4OWNykxfN_UXoyvKUFFSDsOX4ILWNcKdA4S5g_t4O0NCt0qqH6pnnbtWiVxroQ9220zAJc7GqNg&_nc_ohc=MStxUbQkGB8Q7kNvwGD1f-Q&_nc_gid=jf6mARxCfDdbu7-96G0hfg&edm=APs17CUAAAAA&ccb=7-5&oh=00_Af_NiH1vXapQrMUibNRz0YT3R_Op0PLBLFjwgjDkcepUsw&oe=6A405EEC&_nc_sid=10d13b"
           ],
           "handle": "distrito.1340",
           "raw": {
             "ownerUsername": "distrito.1340",
-            "type": "Video",
-            "shortCode": "DZvlexekXta"
+            "type": "Image",
+            "shortCode": "DZ2UyNAjJYl"
           },
           "analysis": {
-            "relevant": true,
-            "events": [
-              {
-                "date": "2026-06-21",
-                "title": "Califórnia Fest - Campeonato Tony Hawk’s Pro Skater",
-                "start_time": null,
-                "confidence": "high",
-                "evidence": "Tony Hawk’s Pro Skater Campeonato rolando no telão"
-              },
-              {
-                "date": "2026-06-21",
-                "title": "Show Da Rua",
-                "start_time": "19:00:00Z",
-                "confidence": "high",
-                "evidence": "19h – Da Rua com repretório especial"
-              },
-              {
-                "date": "2026-06-21",
-                "title": "Show Os Caras do CB",
-                "start_time": "21:30:00Z",
-                "confidence": "high",
-                "evidence": "21h30 – Os Caras do CB"
-              }
-            ],
-            "windowMax": "2026-06-25"
+            "relevant": false,
+            "events": [],
+            "windowMax": "2026-06-29"
           }
         }
       ]
@@ -786,7 +719,7 @@
       "name": "Dobrucki",
       "instagram": "https://www.instagram.com/dobruckibar/",
       "handle": "dobruckibar",
-      "fetchedAt": "2026-06-19T12:55:09.048Z",
+      "fetchedAt": "2026-06-23T12:14:09.263Z",
       "posts": [
         {
           "id": "DU3DOpdjit3",
@@ -795,7 +728,7 @@
           "timestamp": "2026-02-17T13:09:01.000Z",
           "permalink": "https://www.instagram.com/p/DU3DOpdjit3/",
           "images": [
-            "https://scontent-lga3-3.cdninstagram.com/v/t51.82787-15/629217561_18558510928000118_8019458908232669090_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gHGhaxE4nuvk56SPWsJlQQ0soTGqCzHE1ydacvIqTKyE4wPuZ1Pf8zgechnbibdS5I&_nc_ohc=3Ai2EivTnpQQ7kNvwG0320A&_nc_gid=oQMVBE5XYC0yoqnF1VoC9g&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af8qmnJ6thY-oiSLoy6KcotzKGY7eT1tFKdJORXXyE24oA&oe=6A3AF986&_nc_sid=10d13b"
+            "https://scontent-atl3-2.cdninstagram.com/v/t51.82787-15/629217561_18558510928000118_8019458908232669090_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gFW5q7dASpmdCFRIv5OnGWk4TdOBItYcM9EscGhP1F41sfCdUq8e4yx0nkrwrw19IY&_nc_ohc=22_iU3PWUMgQ7kNvwE6Ga3_&_nc_gid=fzuXpiqsJAPfUv2FOf3Zxw&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af_ZCDVo5Oql9T55PQrRTL-TLGo0WKWNgwwB5RBUbhEiYQ&oe=6A403F86&_nc_sid=10d13b"
           ],
           "handle": "dobruckibar",
           "raw": {
@@ -804,17 +737,9 @@
             "shortCode": "DU3DOpdjit3"
           },
           "analysis": {
-            "relevant": true,
-            "events": [
-              {
-                "date": "2026-06-20",
-                "title": "Música ao vivo",
-                "start_time": null,
-                "confidence": "high",
-                "evidence": "tem Dobrucki todos os sábados."
-              }
-            ],
-            "windowMax": "2026-06-25"
+            "relevant": false,
+            "events": [],
+            "windowMax": "2026-06-29"
           }
         },
         {
@@ -824,7 +749,7 @@
           "timestamp": "2026-02-12T15:41:56.000Z",
           "permalink": "https://www.instagram.com/p/DUqcwMEjgQu/",
           "images": [
-            "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/628907013_18557017831000118_5455675279968610679_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gG-r8oPX0Kkjvf1IOf44Y68iDqy4zqv6f8TJJJeOgz402rwR5d_1Pm-VCqs90innfk&_nc_ohc=OpXCQA007vAQ7kNvwEjq41d&_nc_gid=n2uXCamlbukwuiLmP6yt3g&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af-W2tj8BpB7N4iofo4S3xcLu2AguShYRZhr2gR3DWh3zg&oe=6A3B062B&_nc_sid=10d13b"
+            "https://scontent-atl3-2.cdninstagram.com/v/t51.82787-15/628907013_18557017831000118_5455675279968610679_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gHDr9BrZw2edaDW3fKuViaJgg92Ext0ALQXDFHC1oEmom37Aaj_ZLxiUW5NNXFcmDo&_nc_ohc=75948EY6AV4Q7kNvwEnov7X&_nc_gid=8JOfB9xeftXgbl5mbNkYZA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af8qfyftCuHhIEfJu0YHafaogvjiuZ9GcroD33U3vVBFPA&oe=6A404C2B&_nc_sid=10d13b"
           ],
           "handle": "dobruckibar",
           "raw": {
@@ -833,17 +758,9 @@
             "shortCode": "DUqcwMEjgQu"
           },
           "analysis": {
-            "relevant": true,
-            "events": [
-              {
-                "date": "2026-06-21",
-                "title": "Música ao vivo",
-                "start_time": null,
-                "confidence": "high",
-                "evidence": "tem Dobrucki todos os sábados"
-              }
-            ],
-            "windowMax": "2026-06-25"
+            "relevant": false,
+            "events": [],
+            "windowMax": "2026-06-29"
           }
         },
         {
@@ -853,7 +770,7 @@
           "timestamp": "2026-03-05T22:28:19.000Z",
           "permalink": "https://www.instagram.com/p/DVhP9BEiR6D/",
           "images": [
-            "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/641759690_18564449611000118_8338346318577898829_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gHpM84rHs-WAkfkSjgktNumB0kzg4C5Gn075Q0CxEBKpAuJPyLrlSoNef6nlfr2oUI&_nc_ohc=YQJPYhaACgQQ7kNvwEvrl7o&_nc_gid=Mhb9bYL4nUjkEligeWYPHQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af8hy1aCbx5SregmJ9saRn2RXsLqMD8LpIe5WTR68FbBtg&oe=6A3AFB1C&_nc_sid=10d13b"
+            "https://scontent-dfw6-1.cdninstagram.com/v/t51.82787-15/641759690_18564449611000118_8338346318577898829_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-dfw6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gECJTRaUp59yoBNtf2ofkRuRIQESdCbK_RtQPN7YPkEesxfx0-um0yVe-cS6i0FkpM&_nc_ohc=OoUoiavW6H4Q7kNvwEj0JIJ&_nc_gid=YT75P3GtK1N3UEQGVnBWZw&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af9hXevxK5nmnOttVfEvf0zzAdY3fpSPkjmnbpHv0koqgw&oe=6A40411C&_nc_sid=10d13b"
           ],
           "handle": "dobruckibar",
           "raw": {
@@ -862,17 +779,9 @@
             "shortCode": "DVhP9BEiR6D"
           },
           "analysis": {
-            "relevant": true,
-            "events": [
-              {
-                "date": "2026-06-21",
-                "title": "Noite anos 80 e 90 com Candyman Club e convidados",
-                "start_time": "15:00:00Z",
-                "confidence": "high",
-                "evidence": "Sábado tem @candymanclub; ABERTURA 15h00"
-              }
-            ],
-            "windowMax": "2026-06-25"
+            "relevant": false,
+            "events": [],
+            "windowMax": "2026-06-29"
           }
         }
       ]
@@ -882,92 +791,48 @@
       "name": "Tork n' Roll",
       "instagram": "https://www.instagram.com/torkandroll/",
       "handle": "torkandroll",
-      "fetchedAt": "2026-06-19T12:55:59.353Z",
+      "fetchedAt": "2026-06-23T12:14:39.823Z",
       "posts": [
         {
-          "id": "DZlPsa9JxQR",
-          "caption": "19.06 SEXTA FEIRA \n🇧🇷Transmissão do jogo da copa do mundo\n\n👉18h00 abertura bar + DJ FRA\n🎸20h30 1ª Parte @four_strokes_garage (Marcelus MOTOROCKER) \n⚽️21h30 Transmissão Jogo\n🎸23h15 2º Parte @four_strokes_garage (Marcelus MOTOROCKER) \n\nVendas antecipadas COMPRE INGRESSOS\n\n😃TODOS PODEM PAGAR MEIA\nSeguidores instagram @torkandroll, (ou) todos que se enquadrem por lei (estudantes, professores, PCD, idosos, policiais…), (ou) doação de 1kg alimento não perecível, (ou)convidados aniversário ..\n\nTork And Roll\nO Maior Bar de Rock da América Latina #emcuritiba\n📍Av Marechal Floriano Peixoto, 1695\nWhatsapp 41 99807137",
-          "mediaType": "Video",
-          "timestamp": "2026-06-14T21:49:21.000Z",
-          "permalink": "https://www.instagram.com/p/DZlPsa9JxQR/",
+          "id": "DZ6YUb9jvNi",
+          "caption": "SÁBADO 27 de Junho, a maior homenagem da América latina ao Nu metal retorna ao palco do Tork n Roll.\n\nConfira todos os vídeos e fotos no nosso insta @numetalexperiencetour\n\nTRIBUTOS:\nA noite terá um total de 4 horas de show sem intervalo, homenageando as bandas Linkin park, Slipknot, Limp Bizkt e System Of a down. Também haverá um bloco com músicas das bandas Sepultura Korn e Deftones.\n\nE pra completar essa noite histórica da forma que ela merece: ESKRÖTA(SP), referência no metal nacional, com um show brutal e cheio de atitude.\n\nHORÁRIO:\nAbertura da casa: 20:00h\nInício do show: 21:30h\n\nVENDAS:\nDigite no navegador: https://meaple.com.br/numetalexperiencetour/curitiba\n\nInformações: (81) 99951-7560 / (41) 99807137 (WhatsApp)\n\n*Menores de 18 anos,\nA entrada de MENORES de 18 anos é permitida, desde que devidamente acompanhadas dos pais (pagante e presentes no evento)/ responsáveis legais.\nApresentar documentos na entrada.\n\n* Responsáveis legais pai ou mãe, poderão autorizar um adulto responsável (pagante e presente) atravéz de carta de próprio punho com firma reconhecida em cartório ou gov.br . Na entrada será necessário apresentar a carta impressa (não será aceita no celular) e cópia impressa documentos ( RG) de quem assinou, menor e responsável autorizado.",
+          "mediaType": "Sidecar",
+          "timestamp": "2026-06-23T02:48:00.000Z",
+          "permalink": "https://www.instagram.com/p/DZ6YUb9jvNi/",
           "images": [
-            "https://scontent-sjc6-1.cdninstagram.com/v/t51.71878-15/722469497_1462621599215888_8154847579887057263_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gG8CurTbgf0hxIsnxMXQWhvMCz1BQdc9-DrW8A9ZhEgw72v08VHxIvmfZcEENr_zJY&_nc_ohc=FSCV6dWt_7EQ7kNvwHZfYxz&_nc_gid=DpbJSUya1qEpbON2B4jSSg&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af9RArccxieZ4A8GtYtdmIlkxUQ7l8XoRIOO8-PqXIjE6A&oe=6A3B2A71&_nc_sid=10d13b"
+            "https://scontent-atl3-2.cdninstagram.com/v/t51.82787-15/729618389_18367046923232153_2104211499027000571_n.webp?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gF_QSVEOrsp1tWE92vLMPvbZiZiwh2pxXjWgz0sj82nbO9TUFkLpyHM1dxTBg0RTLc&_nc_ohc=rjiw9_OzWmUQ7kNvwGJoHn9&_nc_gid=-6UKYGzjKxPA-nSz1936iQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af_Q70sBNqNtkISCdJ3m8XkwwJIjXWfpSR6eTLBftM6ORw&oe=6A4036C0&_nc_sid=10d13b"
           ],
           "handle": "torkandroll",
           "raw": {
             "ownerUsername": "torkandroll",
-            "type": "Video",
-            "shortCode": "DZlPsa9JxQR"
+            "type": "Sidecar",
+            "shortCode": "DZ6YUb9jvNi"
           },
           "analysis": {
             "relevant": false,
             "events": [],
-            "windowMax": "2026-06-25"
+            "windowMax": "2026-06-29"
           }
         },
         {
-          "id": "DZdRiFypKbq",
-          "caption": "Programação Tork and Roll",
+          "id": "DZ6o_6DO_C1",
+          "caption": ">\u0018=�26.06 SEXTA\nINVAS�O BODEBORWN\n\n<�2030 FADE OUT/ Hard'n Heavy\n<�22h30 MADE IN CWB / Cover Iron Maiden\n<�00h30 KING NOTHING /Tributo Metallica\n\n >>Antecipada COMPRE INGRESSOS\nR$ 20 reais e ganha um chopp pilsen cortesia\nhttps://compreingressos.com.br/evento/invasao-bodebrown\n\nou\nNa portaria R$ 25 reais\nOs valores acima informado j� s�o de meia entrada\n\nOs valores acima informados j� s�o de meia entrada\n\n=\u0003TODOS PODEM PAGAR MEIA\nSeguidores instagram @torkandroll, todos que se enquadrem por lei (estudantes, professores, PCD, idosos, policiais&), doa��o de 1kg alimento n�o perec�vel, convidados anivers�rio ..\n\nTork And Roll\nO Maior Bar de Rock da Am�rica Latina #emcuritiba\n=�Av Marechal Floriano Peixoto, 1695\nWhatsapp 41 99807137",
           "mediaType": "Image",
-          "timestamp": "2026-06-11T19:31:03.000Z",
-          "permalink": "https://www.instagram.com/p/DZdRiFypKbq/",
+          "timestamp": "2026-06-23T05:13:47.000Z",
+          "permalink": "https://www.instagram.com/p/DZ6o_6DO_C1/",
           "images": [
-            "https://scontent-mia3-2.cdninstagram.com/v/t51.82787-15/722217688_18365261224232153_3074478491741547209_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-mia3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gFXjZE1Yxi20ks5QqSnTH_jkYGhScbCf92dLFudppbORDxG7kI0k0MtPunzllQEU0E&_nc_ohc=clu1YwhkY3sQ7kNvwFEQc5b&_nc_gid=Tfm1iBdMUI-vaxK_IppxzQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af9kUcxaoAQg9ZJ-W5lUBecR-OE0eubk_Hlxd0jOX8ds-Q&oe=6A3AF7F6&_nc_sid=10d13b"
+            "https://scontent-atl3-2.cdninstagram.com/v/t51.82787-15/729607856_18367059037232153_1784234102940043648_n.webp?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gHk9IsvLaUbTW8_OqLfc1VBxBRsP0Oj1lrhdKmIquVKEIv0Uu2YiqqUS9rF6kwihNM&_nc_ohc=T25u1ppjVEEQ7kNvwHPYl06&_nc_gid=HQw9bvEkLVOAuJfL3uGUYw&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af-pCX_OWuaT9u21bAldIkw5_O8TAAfYi5Y6NfA1uuumSA&oe=6A40548F&_nc_sid=10d13b"
           ],
           "handle": "torkandroll",
           "raw": {
             "ownerUsername": "torkandroll",
             "type": "Image",
-            "shortCode": "DZdRiFypKbq"
+            "shortCode": "DZ6o_6DO_C1"
           },
           "analysis": {
-            "relevant": true,
-            "events": [
-              {
-                "date": "2026-06-19",
-                "title": "Transmissão ao vivo (Brasil x Haiti), DJ Frá, Foir Strokers",
-                "start_time": "18:00:00Z",
-                "confidence": "high",
-                "evidence": "19.06 SEXTA Abre às 18h"
-              },
-              {
-                "date": "2026-06-20",
-                "title": "Pitty Cover Brasil, Os Caras do Charlie Brown, Raimunda",
-                "start_time": "20:00:00Z",
-                "confidence": "high",
-                "evidence": "20.06 SÁBADO Abre às 20h"
-              }
-            ],
-            "windowMax": "2026-06-25"
-          }
-        },
-        {
-          "id": "DZxGp7EOFEO",
-          "caption": "<x� PROMO��O DOUBLE CAIPIRINHA! \nDurante os 90 minutos de jogo, a torcida manda no ritmo! =%\n\n=I Pediu 1 caipirinha de cacha�a >>Ganha outro na faixa! \n\nChama a galera e vem torcer com a gente! >\u0018=%\n\n�\u000fmas aten��o! V�lido para Compra e retirada somente durante o 1� e 2� tempo do jogo do Brasil x Haiti \n\nVem pro Tork",
-          "mediaType": "Image",
-          "timestamp": "2026-06-19T12:22:56.000Z",
-          "permalink": "https://www.instagram.com/p/DZxGp7EOFEO/",
-          "images": [
-            "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/727799456_18366421765232153_8293711616710768523_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gFoy9dUYOpHUNAFcaBnySwZyvNmspa4iOaeIiVE5-MnI9UXJjdTp7qvx7h9HrVSnXQ&_nc_ohc=TFA8QD05RtcQ7kNvwHzZYYw&_nc_gid=MxKisC_hkFRa4pcg4bO84A&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af-Jd2VYqNYjj25UKFb0mhFWhvF6e_E1_ywW7Mln9I9cqg&oe=6A3B17D5&_nc_sid=10d13b"
-          ],
-          "handle": "torkandroll",
-          "raw": {
-            "ownerUsername": "torkandroll",
-            "type": "Image",
-            "shortCode": "DZxGp7EOFEO"
-          },
-          "analysis": {
-            "relevant": true,
-            "events": [
-              {
-                "date": "2026-06-19",
-                "title": "Promoção Double Caipirinha",
-                "start_time": null,
-                "confidence": "high",
-                "evidence": "VÁLIDO 19.06 DURANTE O JOGO"
-              }
-            ],
-            "windowMax": "2026-06-25"
+            "relevant": false,
+            "events": [],
+            "windowMax": "2026-06-29"
           }
         }
       ]
@@ -1049,56 +914,56 @@
       "name": "Seb's Rock Bar",
       "instagram": "https://www.instagram.com/sebas_rock_bar/",
       "handle": "sebas_rock_bar",
-      "fetchedAt": "2026-06-19T12:57:09.583Z",
+      "fetchedAt": "2026-06-23T12:15:24.624Z",
       "posts": [
         {
-          "id": "DZtAi7fxpw0",
-          "caption": "<� PROGRAMA��O DA SEMANA \u0013 SEBAS ROCK BAR \n\n=% QUINTA-FEIRA (FESTIVAL DA TAINHA)\n\nNo palco CORA��O PIRATA ROUPA NOVA COVER \n\n<}\u000f Open Food \n\n=� R$ 54,90 por pessoa\n� Das 19h �s 22h \u0013 coma � vontade!\n\n<V Card�pio Open Food:\n=\u001fTainha Frita \n=\u001fPirao de tainha \n>i Carne de on�a\n=% Cora��o na brasa\n<- Lingui�a na brasa\n<W Sobrecoxa na brasa (vinho branco)\n<W Tulipa frita\n<_ Batata frita\n=� Polenta frita\n>� Anel de cebola\n>� P�o de alho\n\n=V Abertura da casa: 19h\n\n;\n\n<� SEXTA-FEIRA (transmiss�o Brasil X Haiti)\n\nENTRADA GRATUITA \n\n<� Banda MINHA BANDA � UMA FESTA \n\nHOR�RIOS \n\n19:00 Abertura da casa \n20:20 Minha banda � uma festa \n21:20 Transmiss�o com �udio Brasil X Haiti \n23:30 Minha banda � uma festa \n01:00 Encerramento da casa \n\nOBS: Nessa sexta n�o teremos OPEN FOOD.\n;\n\n=% S�BADO \u0013 \n\nOS EMBALOS DE SEBALDO A NOITE (Festa FLASHBACK)\n\n19:00 Abertura da casa \n21:00 HZ3MUSIC (Anos 90)\n23:00 Adriano Pagani (2000)\n03:00 Encerramento da casa\n\nEntrada 35,00\n\nInforma��es e reservas via WhatsApp 41 999161134 \nEndere�o Rua Anne Frank 3644 Boqueir�o Curitiba \n\n;\n\n=� Reservas: (41) 99916-1134\n<\u0010 www.sebasrockbar.com.br\n\n=� Sebas Rock Bar \u0013 Curitiba",
-          "mediaType": "Video",
-          "timestamp": "2026-06-17T22:11:11.000Z",
-          "permalink": "https://www.instagram.com/p/DZtAi7fxpw0/",
+          "id": "DZ5AwUpkW95",
+          "caption": "<� PROGRAMA��O DA SEMANA \u0013 SEBAS ROCK BAR\n\n=I QUARTA FEIRA \n TRANSMISS�O BRASIL X ESC�CIA \nENTRADA GRATUITA \n\n=V Abertura da casa: 17:40\n\n=% QUINTA-FEIRA \n\nNo palco XIMA ROCK \n\n<}\u000f Open Food \n\n=� R$ 54,90 por pessoa\n� Das 19h �s 22h \u0013 coma � vontade!\n\n<V Card�pio Open Food:\n>i Carne de on�a\n=% Cora��o na brasa\n<- Lingui�a na brasa\n<W Sobrecoxa na brasa (vinho branco)\n<W Tulipa frita\n<_ Batata frita\n=� Polenta frita\n>� Anel de cebola\n>� P�o de alho\n\n=V Abertura da casa: 19h\n\n;\n\n<� SEXTA-FEIRA \n<� Banda AO IVO E A CORES (TRIBUTO AO IVO RODRIGUES) com Rodrigo Vivaz.\n<� Abertura: Fabinho Oliveira \n\n<}\u000f Open Food \n\n=� R$ 54,90 por pessoa\n� Das 19h �s 22h \u0013 coma � vontade!\n\n<V Card�pio Open Food:\n>i Carne de on�a\n=% Cora��o na brasa\n<- Lingui�a na brasa\n<W Sobrecoxa na brasa (vinho branco)\n<W Tulipa frita\n<_ Batata frita\n=� Polenta frita\n>� Anel de cebola\n>� P�o de alho\n\n=V Abertura da casa: 19h\n\n;\n\n=% S�BADO \u0013 \n\nBandas Delorean, FlashnBack e Double Deck \n\n19:00 Abertura da casa \n21:00 Double Deck \n23:00 Delorean \n01:00 FlashnBack \n03:00 Encerramento da casa \n\nEntrada 30,00\n\nInforma��es e reservas via WhatsApp 41 999161134 \nEndere�o Rua Anne Frank 3644 Boqueir�o Curitiba \n\n;\n\n=� Reservas: (41) 99916-1134\n<\u0010 www.sebasrockbar.com.br\n\n=� Sebas Rock Bar \u0013 Curitiba",
+          "mediaType": "Sidecar",
+          "timestamp": "2026-06-22T14:02:51.000Z",
+          "permalink": "https://www.instagram.com/p/DZ5AwUpkW95/",
           "images": [
-            "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/726508407_26901927732817728_7395296494819317563_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gEOjqWmP7Fqr9wzicVa-Wl37onjxFsYpfP4TOnOsS_POrjT8iZnPbZVBD2X2T7KSyc&_nc_ohc=TadrXEpZ55AQ7kNvwFG5Gco&_nc_gid=osVUrOLvXDymZz4vNiIomQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af_dKywa4_wCmnkgcG3RnYLp6yfBFMrNKITTnI3G_9Ty_Q&oe=6A3B2A1B&_nc_sid=10d13b"
+            "https://scontent-mia3-2.cdninstagram.com/v/t51.82787-15/728213080_18428726395132997_3013385270382871386_n.jpg?stp=dst-jpg_e35_s1080x1080_sh2.08_tt6&_nc_ht=scontent-mia3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gHv9p7sDk2ovzkoBniYScfac12YbO3oY5tJhdypI_MpNkWmY1v9NJQBDjflSycGYgw&_nc_ohc=TwJausDfVjkQ7kNvwEz52DB&_nc_gid=Gd2pEJ3poCk2IOwQGZK7Sw&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af-TI85HPdi2OBNVK2y8RZ63maNH6QdrsEnPV2otcEHhIw&oe=6A40561A&_nc_sid=10d13b"
           ],
           "handle": "sebas_rock_bar",
           "raw": {
             "ownerUsername": "sebas_rock_bar",
-            "type": "Video",
-            "shortCode": "DZtAi7fxpw0"
+            "type": "Sidecar",
+            "shortCode": "DZ5AwUpkW95"
           },
           "analysis": {
             "relevant": true,
             "events": [
               {
-                "date": "2026-06-19",
-                "title": "Festival da Tainha e Coração Pirata Roupa Nova Cover",
+                "date": "2026-06-24",
+                "title": "Transmissão Brasil x Escócia",
+                "start_time": "17:40:00Z",
+                "confidence": "high",
+                "evidence": "QUARTA FEIRA TRANSMISS�O BRASIL X ESC�CIA"
+              },
+              {
+                "date": "2026-06-25",
+                "title": "Xima Rock",
                 "start_time": "19:00:00Z",
                 "confidence": "high",
-                "evidence": "QUINTA-FEIRA (FESTIVAL DA TAINHA) No palco CORA��O PIRATA ROUPA NOVA COVER Das 19h"
+                "evidence": "QUINTA-FEIRA No palco XIMA ROCK"
               },
               {
-                "date": "2026-06-20",
-                "title": "Minha Banda é Uma Festa",
-                "start_time": "20:20:00Z",
+                "date": "2026-06-26",
+                "title": "AO IVO E A CORES",
+                "start_time": "19:00:00Z",
                 "confidence": "high",
-                "evidence": "Banda MINHA BANDA É UMA FESTA HORÁRIOS 20:20"
+                "evidence": "SEXTA-FEIRA Banda AO IVO E A CORES"
               },
               {
-                "date": "2026-06-20",
-                "title": "Transmissão Brasil X Haiti",
-                "start_time": "21:20:00Z",
-                "confidence": "high",
-                "evidence": "SEXTA-FEIRA (transmissão Brasil X Haiti) 21:20 Transmissão"
-              },
-              {
-                "date": "2026-06-21",
-                "title": "Os Embalos de Sebaldo a Noite (Festa FLASHBACK)",
+                "date": "2026-06-27",
+                "title": "Bandas Delorean, FlashnBack e Double Deck",
                 "start_time": "21:00:00Z",
                 "confidence": "high",
-                "evidence": "SÁBADO OS EMBALOS DE SEBALDO A NOITE (Festa FLASHBACK) 21:00 HZ3MUSIC"
+                "evidence": "SÁBADO Bandas Delorean, FlashnBack e Double Deck"
               }
             ],
-            "windowMax": "2026-06-25"
+            "windowMax": "2026-06-29"
           }
         },
         {
@@ -1108,7 +973,7 @@
           "timestamp": "2026-05-27T18:58:25.000Z",
           "permalink": "https://www.instagram.com/p/DY2lzwZRDvh/",
           "images": [
-            "https://scontent-sea1-1.cdninstagram.com/v/t51.71878-15/708135071_1617741082859454_8710003642219405857_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gEnehOKDWIoE_Wl0lRdamb1a2JcaxrOSJhXnhd25UhUhRsb8DjuxvlovdzYm-8ojLY&_nc_ohc=dfT2Abzi4P8Q7kNvwFIM8gK&_nc_gid=sFh2co6lU8hcPKnJBaCvMg&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af_zxVvZDwZYeHlRDAkyzF0VMYFN6p7JTHJ0WdHGz97mKQ&oe=6A3AF4D8&_nc_sid=10d13b"
+            "https://scontent-atl3-1.cdninstagram.com/v/t51.71878-15/708135071_1617741082859454_8710003642219405857_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gHftStOSU93y4p8zg_QGzTLvOU2nZGRgsL0V-_75GPkYhzrZmzEoChU1dWQKQdpwaY&_nc_ohc=PXDXsFO8TdUQ7kNvwG-jz_Q&_nc_gid=wp_6HGDY5tZhS7DcAobMrg&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af-7WfIpBaxOBvtWli5e0MIY8TwhyVM1hT-kfmo9L7cf8A&oe=6A403AD8&_nc_sid=10d13b"
           ],
           "handle": "sebas_rock_bar",
           "raw": {
@@ -1120,64 +985,21 @@
             "relevant": true,
             "events": [
               {
-                "date": "2026-06-19",
-                "title": "OPEN FOOD com bandas ao vivo",
-                "start_time": "19:00:00.000Z",
-                "confidence": "high",
-                "evidence": "Quinta e Sexta-feira, Das 19h às 22h"
-              },
-              {
                 "date": "2026-06-25",
-                "title": "OPEN FOOD com bandas ao vivo",
-                "start_time": "19:00:00.000Z",
+                "title": "Open Food com bandas ao vivo",
+                "start_time": "19:00:00Z",
                 "confidence": "high",
-                "evidence": "Quinta e Sexta-feira, Das 19h às 22h"
-              }
-            ],
-            "windowMax": "2026-06-25"
-          }
-        },
-        {
-          "id": "DZuehzGRne8",
-          "caption": "🇧🇷 BRASIL x HAITI NO SEBAS ROCK BAR 🇧🇷\n\n🎟️ ENTRADA GRATUITA\n\n🎶 Minha Banda é uma Festa\n⚽ Transmissão com áudio do jogo Brasil x Haiti\n\n⏰ Programação:\n19h – Abertura\n20h20 – Show\n21h20 – Brasil x Haiti\n23h30 – Show\n01h – Encerramento\n\n⚠️ Nesta sexta não teremos Open Food.",
-          "mediaType": "Video",
-          "timestamp": "2026-06-18T11:51:56.000Z",
-          "permalink": "https://www.instagram.com/p/DZuehzGRne8/",
-          "images": [
-            "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/725750909_18427985569132997_6492162921907722703_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gF9QGc0CvDoMpr-FosedVzKB0yhKTaNwnw3wUN2No-kkSJI6Y8YCVeoGQNqPWyXLl8&_nc_ohc=BJGc5kYL62sQ7kNvwHxbEx_&_nc_gid=UyB0VIph_iVHQ2d3Z8y81w&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af_yuhRCHtHJWO-T_4zdlmThqDyD9MTK1eQoZlqWTZtpmA&oe=6A3B0BAF&_nc_sid=10d13b"
-          ],
-          "handle": "sebas_rock_bar",
-          "raw": {
-            "ownerUsername": "sebas_rock_bar",
-            "type": "Video",
-            "shortCode": "DZuehzGRne8"
-          },
-          "analysis": {
-            "relevant": true,
-            "events": [
-              {
-                "date": "2026-06-20",
-                "title": "Show Minha Banda é uma Festa",
-                "start_time": "20:20:00Z",
-                "confidence": "high",
-                "evidence": "20h20 – Show, Minha Banda é uma Festa"
+                "evidence": "Quinta e Sexta-feira, Das 19h às 22h, Sempre com bandas ao vivo!"
               },
               {
-                "date": "2026-06-20",
-                "title": "Transmissão Brasil x Haiti",
-                "start_time": "21:20:00Z",
+                "date": "2026-06-26",
+                "title": "Open Food com bandas ao vivo",
+                "start_time": "19:00:00Z",
                 "confidence": "high",
-                "evidence": "21h20 – Brasil x Haiti"
-              },
-              {
-                "date": "2026-06-20",
-                "title": "Show",
-                "start_time": "23:30:00Z",
-                "confidence": "high",
-                "evidence": "23h30 – Show"
+                "evidence": "Quinta e Sexta-feira, Das 19h às 22h, Sempre com bandas ao vivo!"
               }
             ],
-            "windowMax": "2026-06-25"
+            "windowMax": "2026-06-29"
           }
         }
       ]
@@ -1238,7 +1060,7 @@
       "name": "Resistência",
       "instagram": "https://www.instagram.com/resistenciarock/",
       "handle": "resistenciarock",
-      "fetchedAt": "2026-06-19T12:57:27.401Z",
+      "fetchedAt": "2026-06-23T12:15:43.408Z",
       "posts": [
         {
           "id": "DV9FExVEZMY",
@@ -1247,7 +1069,7 @@
           "timestamp": "2026-03-16T17:52:03.000Z",
           "permalink": "https://www.instagram.com/p/DV9FExVEZMY/",
           "images": [
-            "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/652698746_18311013478257664_7557881405772746435_n.webp?stp=dst-jpg_e15_fr_s1080x1080_tt6&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gEubuF53by0yMMWt-dN3E6eYIeqss1vKs_0BV1nUojQfXTMWwWJ3Y1cITyJZkqdXkw&_nc_ohc=CzgSj1p_IawQ7kNvwGPI7G5&_nc_gid=EG4N0DNlqGoMqQ7SQtKuZA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af9xhSCJACvTlBgeNNPStPpYKoVYM9Ee2-7gWvlr5L138g&oe=6A3B0FB1&_nc_sid=10d13b"
+            "https://scontent-den2-1.cdninstagram.com/v/t51.82787-15/652698746_18311013478257664_7557881405772746435_n.webp?stp=dst-jpg_e15_fr_s1080x1080_tt6&_nc_ht=scontent-den2-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gFSE2FwWDnu_bDviXdodjK2i9Q4rVVEOdhvxQrv0ujRZsrKEXHLJ6sXbXumRWhLrBw&_nc_ohc=5WHME2RC3cQQ7kNvwGWQNhH&_nc_gid=byc3VdICfPPCleAkoEmnsw&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af_41bP1xEGBulfeP9u2WAoX3CBr_Lv9jb0BQvfVMgut7g&oe=6A4055B1&_nc_sid=10d13b"
           ],
           "handle": "resistenciarock",
           "raw": {
@@ -1258,7 +1080,7 @@
           "analysis": {
             "relevant": false,
             "events": [],
-            "windowMax": "2026-06-25"
+            "windowMax": "2026-06-29"
           }
         }
       ]
@@ -1340,69 +1162,48 @@
       "name": "Armazém Garage",
       "instagram": "https://www.instagram.com/armazemgaragem/",
       "handle": "armazemgaragem",
-      "fetchedAt": "2026-06-19T12:58:01.663Z",
+      "fetchedAt": "2026-06-23T12:16:19.824Z",
       "posts": [
         {
-          "id": "DZvKeneFHmI",
-          "caption": "Dia de jogo é dia de Armazém Garagem! ⚽🇧🇷\n\nBrasil x Haiti começa às 21h30, e o melhor lugar para acompanhar cada lance já está definido. Reúna a turma, vista a camisa da seleção e venha torcer com a gente em um ambiente feito para quem vive a emoção do futebol do início ao fim.\n\nPor aqui você encontra:\n\n📺 Telão gigante de 4x3m\n📺 TVs espalhadas por todo o bar\n🍺 Chopp Brasileira Lager com preço de Pilsen\n🍟 Batata frita grátis na compra de qualquer sanduíche\n🎶 Música ao vivo antes e depois da partida\n🎟️ Entrada gratuita\n🚗 Estacionamento grátis\n\nChame os amigos e venha transformar mais uma noite de jogo em uma grande festa. 🍻⚽\n\n🕕 Quarta a sexta - a partir das 18h\n🕒 Sábado e domingo - a partir das 15h\n📍 Rodovia Curitiba - Ponta Grossa BR-277, 2630 - Santo Inácio\n📞 Reservas, eventos e informações: (41) 99133-4414\n\n#armazemgaragembar #futebol #torcida #rockbar",
-          "mediaType": "Sidecar",
-          "timestamp": "2026-06-18T18:15:25.000Z",
-          "permalink": "https://www.instagram.com/p/DZvKeneFHmI/",
+          "id": "DZ5v0wlu6aB",
+          "caption": "A Festa Junina do Armazém Garagem já tem data marcada! Nos dias 27 e 28 de junho, você vai viver a melhor festa junina no estilo country da região! Prepare o chapéu e a bota porque a programação está imperdível.\n\nTeremos comidas típicas, quentão, brincadeiras para a criançada, muita diversão e aquele clima country que só o Armazém Garagem sabe proporcionar. 🌽🤠\n\nReúna a família, chame os amigos e venha aproveitar dois dias de muita música, alegria e tradição com a gente. Esperamos você no Armazém Garagem! 🧡\n\n🕕 Quarta a sexta - a partir das 18h\n🕒 Sábado e domingo - a partir das 11h\n📍 Rodovia Curitiba - Ponta Grossa Br-277, 2630 - Santo Inácio\n📞 Reservas, eventos e informações: 41 99133-4414\n\n#armazemgaragembar #rockbar #carrosantigos #festajunina",
+          "mediaType": "Image",
+          "timestamp": "2026-06-22T20:56:53.000Z",
+          "permalink": "https://www.instagram.com/p/DZ5v0wlu6aB/",
           "images": [
-            "https://instagram.fagc1-2.fna.fbcdn.net/v/t51.82787-15/726582496_18593289091024452_4853133217502500482_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=instagram.fagc1-2.fna.fbcdn.net&_nc_cat=100&_nc_oc=Q6cZ2gEoCkCbrNXz7A_KEsnegxGwYLSIcFkntat4FMKw9bfG2cDFQa5JbuX0M8Wr7EhrYPw&_nc_ohc=1xvh5UuEPrUQ7kNvwG4m-sH&_nc_gid=1MBIKOvWUH45JNDq41CF1g&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af-MQ7gP9wKCKoAYkQQjFGR6mRZMB5cFJ-Vds1CHYZiJRQ&oe=6A3B1C7F&_nc_sid=10d13b"
+            "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/730105155_18594638323024452_2391379911211534498_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gHXXV27Z6dyCvwAXNAsAHPS3LsDzSrE_fU5xIgnElgALHt6YvqZ09iiyjcZ6rvRI3U&_nc_ohc=2SBxva0C1IwQ7kNvwH-sq5g&_nc_gid=Au1mG8nWkEC6MLoJeH3prQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af83vh9tBxMNz_W3ZP8zb8-cl0owNG-Bb3TxhE7LChqcpw&oe=6A4062FA&_nc_sid=10d13b"
           ],
           "handle": "armazemgaragem",
           "raw": {
             "ownerUsername": "armazemgaragem",
-            "type": "Sidecar",
-            "shortCode": "DZvKeneFHmI"
+            "type": "Image",
+            "shortCode": "DZ5v0wlu6aB"
           },
           "analysis": {
             "relevant": false,
             "events": [],
-            "windowMax": "2026-06-25"
+            "windowMax": "2026-06-29"
           }
         },
         {
-          "id": "DZr7HWFDkBC",
-          "caption": "Tem programação boa chegando no Armazém Garagem. Chama a galera e vem aproveitar! 🤘 \n\n🕕 Quarta a sexta - a partir das 18h\n🕒 Sábado e domingo - a partir das 15h\n📍 Rodovia Curitiba - Ponta Grossa Br-277, 2630 - Santo Inácio\n📞 Reservas, eventos e informações: 41 99133-4414\n\n#armazemgaragembar #rockbar #carrosantigos #agendasemanal",
-          "mediaType": "Sidecar",
-          "timestamp": "2026-06-17T12:03:27.000Z",
-          "permalink": "https://www.instagram.com/p/DZr7HWFDkBC/",
-          "images": [
-            "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/723197164_18592868980024452_6714311842069645523_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gF6Tgref9uluXwewby84aHhLwX9MdGTQc78lK0cTCuGgz_8Qvm1WR5HRnAGKi_t0Vc&_nc_ohc=9SYpaUJcKmIQ7kNvwFFJIsQ&_nc_gid=btGvW-H3D-lpM9u-pA9BNQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af8Almk2zG7qThqIOc8R15LEF29lQqaPxMMYY-Dbfcwtsg&oe=6A3B0DCD&_nc_sid=10d13b"
-          ],
-          "handle": "armazemgaragem",
-          "raw": {
-            "ownerUsername": "armazemgaragem",
-            "type": "Sidecar",
-            "shortCode": "DZr7HWFDkBC"
-          },
-          "analysis": {
-            "relevant": false,
-            "events": [],
-            "windowMax": "2026-06-25"
-          }
-        },
-        {
-          "id": "DZpnFTlOzH8",
-          "caption": "E teve casamento ao estilo Las Vegas com o Elvis @rogeriocordoni do nosso cliente e amigo @valmateus.\nExperiência assim você encontra somente no Garagem \n\n🎥 🎥 @willivemaker",
+          "id": "DZ6T7yDOi3A",
+          "caption": "Quer ganhar uma batata frita e um chopp? \nFaça 26 embaixadinha na quarta-feira dia de \nBrasil 🇧🇷 vs Escócia 🏴󠁧󠁢󠁳󠁣󠁴󠁿 e garanta sua batata e seu chope! \nVenha assistir a seleção aqui no @armazemgaragem",
           "mediaType": "Video",
-          "timestamp": "2026-06-16T14:33:12.000Z",
-          "permalink": "https://www.instagram.com/p/DZpnFTlOzH8/",
+          "timestamp": "2026-06-23T02:12:51.000Z",
+          "permalink": "https://www.instagram.com/p/DZ6T7yDOi3A/",
           "images": [
-            "https://scontent-atl3-3.cdninstagram.com/v/t51.71878-15/722934826_1347567526737129_8372743010838928330_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gGWLA24U3bUV_S1eZFTG8uBWOSBlHT4vFFWvHum0HgUxLnhGncIExTAIWWxL17QQtw&_nc_ohc=4rl7AeYSYQcQ7kNvwGe_Eh7&_nc_gid=dkIFVIIlDQrzPvk8-102JA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af-2xsDHuTu0169VE7TtBtZtDq2nNkBABlbIc8Eueo87cg&oe=6A3B1CAB&_nc_sid=10d13b"
+            "https://scontent-lax3-2.cdninstagram.com/v/t51.82787-15/729503538_18594700951024452_6115240222207371618_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-lax3-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGzHcsrhoovEf0AvvMF5RnyDkBJ2fX7n9k3Vx1kUq97qOX2-QbV4dk8AK0Hh74JXng&_nc_ohc=Rvmiq0sfvgEQ7kNvwFl0lZR&_nc_gid=J2NV3nPMW9ta7ehHugwL9g&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af_FwxshFu5Tcoc9L8-xgZx08yg1XlkOR2BC_DqcTMRcBA&oe=6A4056F3&_nc_sid=10d13b"
           ],
           "handle": "armazemgaragem",
           "raw": {
             "ownerUsername": "armazemgaragem",
             "type": "Video",
-            "shortCode": "DZpnFTlOzH8"
+            "shortCode": "DZ6T7yDOi3A"
           },
           "analysis": {
             "relevant": false,
             "events": [],
-            "windowMax": "2026-06-25"
+            "windowMax": "2026-06-29"
           }
         }
       ]
@@ -1484,7 +1285,7 @@
       "name": "Animals Pub",
       "instagram": "https://www.instagram.com/theanimalspub/",
       "handle": "theanimalspub",
-      "fetchedAt": "2026-06-19T12:58:17.073Z",
+      "fetchedAt": "2026-06-23T12:16:39.789Z",
       "posts": [
         {
           "id": "https://www.instagram.com/theanimalspub/",
@@ -1502,7 +1303,7 @@
           "analysis": {
             "relevant": false,
             "events": [],
-            "windowMax": "2026-06-25"
+            "windowMax": "2026-06-29"
           }
         }
       ]
@@ -1563,46 +1364,118 @@
       "name": "Olds Pub",
       "instagram": "https://www.instagram.com/oldspuboficial/",
       "handle": "oldspuboficial",
-      "fetchedAt": "2026-06-19T12:58:39.081Z",
+      "fetchedAt": "2026-06-23T12:16:58.370Z",
       "posts": []
     }
   },
   "errors": [
     {
-      "handle": "clayhighway",
-      "postId": "DZkKQlCRvdt",
+      "handle": "barcrossroads",
+      "postId": "DZvJzlsljqk",
       "provider": "gemini",
-      "message": "Gemini 429: {\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 37.041144906s.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"model\":\"gemini-2.5-flash\",\"location\":\"global\"},\"quotaValue\":\"20\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"37s\"}]}"
+      "message": "Gemini 503: {\"code\":503,\"message\":\"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\"status\":\"UNAVAILABLE\"}"
     },
     {
-      "handle": "clayhighway",
-      "postId": "DZlolhnDBbv",
+      "handle": "barcrossroads",
+      "postId": "DZqExa2Fh7c",
       "provider": "gemini",
-      "message": "Gemini 429: {\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 30.036518694s.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"model\":\"gemini-2.5-flash\",\"location\":\"global\"},\"quotaValue\":\"20\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"30s\"}]}"
+      "message": "Gemini 503: {\"code\":503,\"message\":\"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\"status\":\"UNAVAILABLE\"}"
     },
     {
-      "handle": "oldjackgaragebar",
-      "postId": "DZqaq2YuW6Q",
+      "handle": "sheridansirishpub",
+      "postId": "DZ5B0_piUe2",
       "provider": "gemini",
-      "message": "Gemini 429: {\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 53.20380811s.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"model\":\"gemini-2.5-flash\",\"location\":\"global\"},\"quotaValue\":\"20\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"53s\"}]}"
+      "message": "Gemini 503: {\"code\":503,\"message\":\"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\"status\":\"UNAVAILABLE\"}"
     },
     {
-      "handle": "oldjackgaragebar",
-      "postId": "DZn_mGSFsME",
+      "handle": "sheridansirishpub",
+      "postId": "DZ5YTWuH2BQ",
       "provider": "gemini",
-      "message": "Gemini 429: {\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 46.353606525s.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"location\":\"global\",\"model\":\"gemini-2.5-flash\"},\"quotaValue\":\"20\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"46s\"}]}"
+      "message": "Gemini 503: {\"code\":503,\"message\":\"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\"status\":\"UNAVAILABLE\"}"
     },
     {
-      "handle": "92graus",
-      "postId": "DRzUwFXDnOq",
+      "handle": "bardamaniacs",
+      "postId": "DZkTRkoges2",
       "provider": "gemini",
-      "message": "Gemini 429: {\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 20.302737735s.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"model\":\"gemini-2.5-flash\",\"location\":\"global\"},\"quotaValue\":\"20\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"20s\"}]}"
+      "message": "Gemini 503: {\"code\":503,\"message\":\"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\"status\":\"UNAVAILABLE\"}"
     },
     {
-      "handle": "92graus",
-      "postId": "DSKdXGkDrrN",
+      "handle": "bardamaniacs",
+      "postId": "DZsqzgTjFIk",
       "provider": "gemini",
-      "message": "Gemini 429: {\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 12.978485209s.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"location\":\"global\",\"model\":\"gemini-2.5-flash\"},\"quotaValue\":\"20\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"12s\"}]}"
+      "message": "Gemini 503: {\"code\":503,\"message\":\"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\"status\":\"UNAVAILABLE\"}"
+    },
+    {
+      "handle": "distrito.1340",
+      "postId": "DZ5mAt0hH0G",
+      "provider": "gemini",
+      "message": "Gemini 503: {\"code\":503,\"message\":\"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\"status\":\"UNAVAILABLE\"}"
+    },
+    {
+      "handle": "distrito.1340",
+      "postId": "DZw-yTpxDFv",
+      "provider": "gemini",
+      "message": "Gemini 503: {\"code\":503,\"message\":\"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\"status\":\"UNAVAILABLE\"}"
+    },
+    {
+      "handle": "distrito.1340",
+      "postId": "DZ2UyNAjJYl",
+      "provider": "gemini",
+      "message": "Gemini 503: {\"code\":503,\"message\":\"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\"status\":\"UNAVAILABLE\"}"
+    },
+    {
+      "handle": "dobruckibar",
+      "postId": "DU3DOpdjit3",
+      "provider": "gemini",
+      "message": "Gemini 503: {\"code\":503,\"message\":\"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\"status\":\"UNAVAILABLE\"}"
+    },
+    {
+      "handle": "dobruckibar",
+      "postId": "DUqcwMEjgQu",
+      "provider": "gemini",
+      "message": "Gemini 503: {\"code\":503,\"message\":\"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\"status\":\"UNAVAILABLE\"}"
+    },
+    {
+      "handle": "dobruckibar",
+      "postId": "DVhP9BEiR6D",
+      "provider": "gemini",
+      "message": "Gemini 503: {\"code\":503,\"message\":\"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\"status\":\"UNAVAILABLE\"}"
+    },
+    {
+      "handle": "torkandroll",
+      "postId": "DZ6YUb9jvNi",
+      "provider": "gemini",
+      "message": "Gemini 503: {\"code\":503,\"message\":\"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\"status\":\"UNAVAILABLE\"}"
+    },
+    {
+      "handle": "torkandroll",
+      "postId": "DZ6o_6DO_C1",
+      "provider": "gemini",
+      "message": "Gemini 503: {\"code\":503,\"message\":\"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\"status\":\"UNAVAILABLE\"}"
+    },
+    {
+      "handle": "resistenciarock",
+      "postId": "DV9FExVEZMY",
+      "provider": "gemini",
+      "message": "Gemini 429: {\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 23.116858657s.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"location\":\"global\",\"model\":\"gemini-2.5-flash\"},\"quotaValue\":\"20\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"23s\"}]}"
+    },
+    {
+      "handle": "armazemgaragem",
+      "postId": "DZ5v0wlu6aB",
+      "provider": "gemini",
+      "message": "Gemini 503: {\"code\":503,\"message\":\"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\"status\":\"UNAVAILABLE\"}"
+    },
+    {
+      "handle": "armazemgaragem",
+      "postId": "DZ6T7yDOi3A",
+      "provider": "gemini",
+      "message": "Gemini 429: {\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 46.700883282s.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"location\":\"global\",\"model\":\"gemini-2.5-flash\"},\"quotaValue\":\"20\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"46s\"}]}"
+    },
+    {
+      "handle": "theanimalspub",
+      "postId": "https://www.instagram.com/theanimalspub/",
+      "provider": "gemini",
+      "message": "Gemini 429: {\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 26.736211691s.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"location\":\"global\",\"model\":\"gemini-2.5-flash\"},\"quotaValue\":\"20\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"26s\"}]}"
     }
   ]
 }

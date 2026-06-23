@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-21T11:55:53.603Z",
-  "week_start": "2026-06-21",
+  "updated_at": "2026-06-23T12:16:58.433Z",
+  "week_start": "2026-06-23",
   "model": "gemini-2.5-flash",
   "venues": [
     {
@@ -18,12 +18,7 @@
       "events": {
         "2026-06-24": [
           {
-            "name": "Resultado da promoção Rock'n Goal",
-            "time": null,
-            "description": null
-          },
-          {
-            "name": "Transmissão de jogo do Brasil",
+            "name": "Transmissão dos jogos do Brasil",
             "time": null,
             "description": null
           }
@@ -35,42 +30,72 @@
       "ig": "https://www.instagram.com/hrccuritiba/",
       "bairro": "Batel",
       "cat": "Gourmet",
-      "events": {
-        "2026-06-21": [
-          {
-            "name": "Marcela Juk",
-            "time": "12:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Cash Vibes",
-            "time": "19:30:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Sheridans",
       "ig": "https://www.instagram.com/sheridansirishpub/",
       "bairro": "Batel",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-06-23": [
+          {
+            "name": "Thiago Filla",
+            "time": "20:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-06-24": [
+          {
+            "name": "Brasil x Escócia",
+            "time": "19:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Válvula Vapor",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-06-25": [
+          {
+            "name": "Banks apresenta Rock on the Floor",
+            "time": "20:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-06-26": [
+          {
+            "name": "Lenhadores da Antártida",
+            "time": "20:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Backstage",
+            "time": "23:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-06-27": [
+          {
+            "name": "Audiophone",
+            "time": "20:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Firecracker",
+            "time": "23:00:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Bastards Fábrica",
       "ig": "https://www.instagram.com/bardafabricabastards/",
       "bairro": "Bom Retiro",
       "cat": "Gourmet",
-      "events": {
-        "2026-06-21": [
-          {
-            "name": "Danni Distler Duo",
-            "time": "16:00:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Maniacs",
@@ -91,25 +116,7 @@
       "ig": "https://www.instagram.com/distrito.1340/",
       "bairro": "Seminário",
       "cat": "Gourmet",
-      "events": {
-        "2026-06-21": [
-          {
-            "name": "Califórnia Fest - Campeonato Tony Hawk’s Pro Skater",
-            "time": null,
-            "description": null
-          },
-          {
-            "name": "Show Da Rua",
-            "time": "19:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Show Os Caras do CB",
-            "time": "21:30:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Barbarium",
@@ -123,20 +130,7 @@
       "ig": "https://www.instagram.com/dobruckibar/",
       "bairro": "Rebouças",
       "cat": "Gourmet",
-      "events": {
-        "2026-06-21": [
-          {
-            "name": "Música ao vivo",
-            "time": null,
-            "description": null
-          },
-          {
-            "name": "Noite anos 80 e 90 com Candyman Club e convidados",
-            "time": "15:00:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Jokers",
@@ -173,17 +167,41 @@
       "bairro": "Boqueirão",
       "cat": "Palco e Show",
       "events": {
-        "2026-06-21": [
+        "2026-06-24": [
           {
-            "name": "Os Embalos de Sebaldo a Noite (Festa FLASHBACK)",
-            "time": "21:00:00Z",
+            "name": "Transmissão Brasil x Escócia",
+            "time": "17:40:00Z",
             "description": null
           }
         ],
         "2026-06-25": [
           {
-            "name": "OPEN FOOD com bandas ao vivo",
-            "time": "19:00:00.000Z",
+            "name": "Xima Rock",
+            "time": "19:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Open Food com bandas ao vivo",
+            "time": "19:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-06-26": [
+          {
+            "name": "AO IVO E A CORES",
+            "time": "19:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Open Food com bandas ao vivo",
+            "time": "19:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-06-27": [
+          {
+            "name": "Bandas Delorean, FlashnBack e Double Deck",
+            "time": "21:00:00Z",
             "description": null
           }
         ]
