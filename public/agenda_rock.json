@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-23T12:16:58.433Z",
-  "week_start": "2026-06-23",
+  "updated_at": "2026-06-25T11:51:41.551Z",
+  "week_start": "2026-06-25",
   "model": "gemini-2.5-flash",
   "venues": [
     {
@@ -8,29 +8,87 @@
       "ig": "https://www.instagram.com/wearebastardspub/",
       "bairro": "Água Verde",
       "cat": "Gourmet",
-      "events": {}
-    },
-    {
-      "nome": "Cross Roads",
-      "ig": "https://www.instagram.com/barcrossroads/",
-      "bairro": "Água Verde",
-      "cat": "Gourmet",
       "events": {
-        "2026-06-24": [
+        "2026-06-25": [
           {
-            "name": "Transmissão dos jogos do Brasil",
-            "time": null,
+            "name": "Moonshine",
+            "time": "20:20:00Z",
+            "description": null
+          }
+        ],
+        "2026-06-26": [
+          {
+            "name": "Danni Distler Trio",
+            "time": "20:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Candyman Club",
+            "time": "22:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-06-27": [
+          {
+            "name": "Syd Vinicius",
+            "time": "21:30:00Z",
             "description": null
           }
         ]
       }
     },
     {
+      "nome": "Cross Roads",
+      "ig": "https://www.instagram.com/barcrossroads/",
+      "bairro": "Água Verde",
+      "cat": "Gourmet",
+      "events": {}
+    },
+    {
       "nome": "Hard Rock",
       "ig": "https://www.instagram.com/hrccuritiba/",
       "bairro": "Batel",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-06-25": [
+          {
+            "name": "PENNYBACK TRIO",
+            "time": "19:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-06-26": [
+          {
+            "name": "BANDA DUG",
+            "time": "19:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-06-27": [
+          {
+            "name": "MARCELA JUK",
+            "time": "12:30:00Z",
+            "description": null
+          },
+          {
+            "name": "FROYD ROCK BRASIL",
+            "time": "19:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-06-28": [
+          {
+            "name": "NETO",
+            "time": "12:30:00Z",
+            "description": null
+          },
+          {
+            "name": "VERANEIOS ROCK BRASIL",
+            "time": "19:30:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Sheridans",
@@ -38,25 +96,6 @@
       "bairro": "Batel",
       "cat": "Gourmet",
       "events": {
-        "2026-06-23": [
-          {
-            "name": "Thiago Filla",
-            "time": "20:30:00Z",
-            "description": null
-          }
-        ],
-        "2026-06-24": [
-          {
-            "name": "Brasil x Escócia",
-            "time": "19:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Válvula Vapor",
-            "time": null,
-            "description": null
-          }
-        ],
         "2026-06-25": [
           {
             "name": "Banks apresenta Rock on the Floor",
@@ -95,7 +134,41 @@
       "ig": "https://www.instagram.com/bardafabricabastards/",
       "bairro": "Bom Retiro",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-06-25": [
+          {
+            "name": "Lenhadores Trio",
+            "time": "19:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-06-26": [
+          {
+            "name": "Folks Trio",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-06-27": [
+          {
+            "name": "Duda Vaz",
+            "time": "16:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Baile Brasa",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-06-28": [
+          {
+            "name": "Brazuca Trio",
+            "time": "16:00:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Maniacs",
@@ -138,10 +211,10 @@
       "bairro": "Centro",
       "cat": "Gourmet",
       "events": {
-        "2026-06-27": [
+        "2026-06-26": [
           {
-            "name": "Feijoada",
-            "time": null,
+            "name": "Rock Night com Delta Creed e Hell Kabong",
+            "time": "18:00:00Z",
             "description": null
           }
         ]
@@ -159,7 +232,15 @@
       "ig": "https://www.instagram.com/bloodrockbar/",
       "bairro": "São Francisco",
       "cat": "Palco e Show",
-      "events": {}
+      "events": {
+        "2026-06-27": [
+          {
+            "name": "Dirty Jack (AC/DC Cover) e Ozzstorm (Ozzy Cover)",
+            "time": "21:30:00.000Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Seb's Rock Bar",
@@ -167,13 +248,6 @@
       "bairro": "Boqueirão",
       "cat": "Palco e Show",
       "events": {
-        "2026-06-24": [
-          {
-            "name": "Transmissão Brasil x Escócia",
-            "time": "17:40:00Z",
-            "description": null
-          }
-        ],
         "2026-06-25": [
           {
             "name": "Xima Rock",
@@ -240,7 +314,51 @@
       "ig": "https://www.instagram.com/oldjackgaragebar/",
       "bairro": "Novo Mundo",
       "cat": "Raiz",
-      "events": {}
+      "events": {
+        "2026-06-26": [
+          {
+            "name": "Banda Radiowaves",
+            "time": "19:00:00.000Z",
+            "description": null
+          },
+          {
+            "name": "Jogo BRASIL x Haiti",
+            "time": "21:30:00.000Z",
+            "description": null
+          },
+          {
+            "name": "DJ B2",
+            "time": null,
+            "description": null
+          },
+          {
+            "name": "Rewolvers (Pop Rock)",
+            "time": "20:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-06-25": [
+          {
+            "name": "Country Night Live",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-06-27": [
+          {
+            "name": "Creephead (Rock 90's)",
+            "time": "20:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-06-28": [
+          {
+            "name": "Ochtop (Pop Rock)",
+            "time": "18:30:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Animals Pub",
