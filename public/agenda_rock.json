@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-27T11:07:23.202Z",
-  "week_start": "2026-06-27",
+  "updated_at": "2026-06-29T13:18:37.240Z",
+  "week_start": "2026-06-29",
   "model": "gemini-2.5-flash",
   "venues": [
     {
@@ -9,10 +9,15 @@
       "bairro": "Água Verde",
       "cat": "Gourmet",
       "events": {
-        "2026-06-27": [
+        "2026-06-29": [
           {
-            "name": "Syd Vinicius",
-            "time": "21:30:00Z",
+            "name": "Brasil x Japão",
+            "time": "14:00:00.000Z",
+            "description": null
+          },
+          {
+            "name": "Show com Anacrônica",
+            "time": null,
             "description": null
           }
         ]
@@ -24,18 +29,6 @@
       "bairro": "Água Verde",
       "cat": "Gourmet",
       "events": {
-        "2026-06-27": [
-          {
-            "name": "Os Caras do Charlie Brown + Backstage",
-            "time": "20:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Noite de Rock",
-            "time": "20:00:00.000Z",
-            "description": null
-          }
-        ],
         "2026-07-02": [
           {
             "name": "Aniversário de 29 anos",
@@ -67,32 +60,7 @@
       "ig": "https://www.instagram.com/hrccuritiba/",
       "bairro": "Batel",
       "cat": "Gourmet",
-      "events": {
-        "2026-06-27": [
-          {
-            "name": "MARCELA JUK",
-            "time": "12:30:00Z",
-            "description": null
-          },
-          {
-            "name": "FROYD ROCK BRASIL",
-            "time": "19:30:00Z",
-            "description": null
-          }
-        ],
-        "2026-06-28": [
-          {
-            "name": "NETO",
-            "time": "12:30:00Z",
-            "description": null
-          },
-          {
-            "name": "VERANEIOS ROCK BRASIL",
-            "time": "19:30:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Sheridans",
@@ -107,22 +75,15 @@
       "bairro": "Bom Retiro",
       "cat": "Gourmet",
       "events": {
-        "2026-06-27": [
+        "2026-06-29": [
           {
-            "name": "Duda Vaz",
-            "time": "16:00:00Z",
+            "name": "Brasil x Japão (jogo)",
+            "time": "14:00:00Z",
             "description": null
           },
           {
-            "name": "Baile Brasa",
-            "time": "20:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-06-28": [
-          {
-            "name": "Brazuca Trio",
-            "time": "16:00:00Z",
+            "name": "Lely Trio (show)",
+            "time": null,
             "description": null
           }
         ]
@@ -140,20 +101,6 @@
             "time": "14:00:00.000Z",
             "description": null
           },
-          {
-            "name": "Tap List",
-            "time": null,
-            "description": null
-          }
-        ],
-        "2026-06-27": [
-          {
-            "name": "Tap List",
-            "time": null,
-            "description": null
-          }
-        ],
-        "2026-06-28": [
           {
             "name": "Tap List",
             "time": null,
@@ -224,30 +171,6 @@
             "time": "14:00:00.000000000Z",
             "description": null
           }
-        ],
-        "2026-06-27": [
-          {
-            "name": "Esquadrão Flash Hits",
-            "time": "21:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Audiostrada",
-            "time": "00:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-06-28": [
-          {
-            "name": "Right Back",
-            "time": "19:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Fourstance",
-            "time": "21:30:00Z",
-            "description": null
-          }
         ]
       }
     },
@@ -256,66 +179,44 @@
       "ig": "https://www.instagram.com/barbariumpub/",
       "bairro": "Rebouças",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-06-29": [
+          {
+            "name": "Jogo do Brasil",
+            "time": "12:00:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Dobrucki",
       "ig": "https://www.instagram.com/dobruckibar/",
       "bairro": "Rebouças",
       "cat": "Gourmet",
-      "events": {
-        "2026-06-27": [
-          {
-            "name": "Música ao vivo",
-            "time": null,
-            "description": null
-          },
-          {
-            "name": "Música ao vivo e drinks",
-            "time": null,
-            "description": null
-          },
-          {
-            "name": "Candyman Club e atrações",
-            "time": "15:00:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Jokers",
       "ig": "https://www.instagram.com/jokerspub/",
       "bairro": "Centro",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-06-29": [
+          {
+            "name": "Jogo do Brasil e almoço",
+            "time": null,
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Tork n' Roll",
       "ig": "https://www.instagram.com/torkandroll/",
       "bairro": "Rebouças",
       "cat": "Palco e Show",
-      "events": {
-        "2026-06-27": [
-          {
-            "name": "NU METAL EXPERIENCE TOUR e Banda Eskröta",
-            "time": "20:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Nu Metal Experience Tour com Eskröta e tributos",
-            "time": "21:30:00Z",
-            "description": null
-          }
-        ],
-        "2026-06-28": [
-          {
-            "name": "Palco 180BPM, Apresentação de Alunos e Nelson Faria",
-            "time": "15:00:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Blood Rock",
@@ -323,10 +224,17 @@
       "bairro": "São Francisco",
       "cat": "Palco e Show",
       "events": {
-        "2026-06-27": [
+        "2026-07-04": [
           {
-            "name": "Dirty Jack (AC/DC Cover) e Ozzstorm (Ozzy Cover)",
-            "time": "21:30:00.000Z",
+            "name": "Linkin Park Cover NEW DIVIDE",
+            "time": "22:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-07-03": [
+          {
+            "name": "Shows com Slave The Machine e Asgard",
+            "time": "22:00:00Z",
             "description": null
           }
         ]
@@ -356,13 +264,6 @@
           {
             "name": "AO IVO E A CORES (TRIBUTO AO IVO RODRIGUES) e Open Food",
             "time": "19:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-06-27": [
-          {
-            "name": "Bandas Delorean, FlashnBack e Double Deck",
-            "time": "21:00:00Z",
             "description": null
           }
         ]
@@ -409,7 +310,20 @@
       "ig": "https://www.instagram.com/clayhighway/",
       "bairro": "Capão Raso",
       "cat": "Raiz",
-      "events": {}
+      "events": {
+        "2026-07-01": [
+          {
+            "name": "Transmissão jogo do Brasil x Haiti",
+            "time": "21:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Show da banda STAR ACE",
+            "time": "23:30:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Armazém Garage",
@@ -424,17 +338,10 @@
       "bairro": "Novo Mundo",
       "cat": "Raiz",
       "events": {
-        "2026-06-27": [
+        "2026-06-29": [
           {
-            "name": "Creephead (Rock 90's)",
-            "time": "20:30:00Z",
-            "description": null
-          }
-        ],
-        "2026-06-28": [
-          {
-            "name": "Ochtop (Pop Rock)",
-            "time": "18:30:00Z",
+            "name": "Jogo Brasil x Japão",
+            "time": "12:30:00.000Z",
             "description": null
           }
         ]
@@ -445,15 +352,7 @@
       "ig": "https://www.instagram.com/theanimalspub/",
       "bairro": "Bacacheri",
       "cat": "Raiz",
-      "events": {
-        "2026-06-27": [
-          {
-            "name": "Show com Banda Rock N' Roll",
-            "time": "22:00:00.000000000Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "92 Graus",
