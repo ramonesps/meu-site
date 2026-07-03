@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-01T12:19:29.661Z",
-  "week_start": "2026-07-01",
+  "updated_at": "2026-07-03T11:47:03.421Z",
+  "week_start": "2026-07-03",
   "model": "gemini-2.5-flash",
   "venues": [
     {
@@ -8,7 +8,34 @@
       "ig": "https://www.instagram.com/wearebastardspub/",
       "bairro": "Água Verde",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-07-03": [
+          {
+            "name": "FIRECRACKER",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-07-04": [
+          {
+            "name": "BAD BAX",
+            "time": "21:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-07-05": [
+          {
+            "name": "Brasil x Noruega (transmissão)",
+            "time": "17:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Lady Die",
+            "time": "19:00:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Cross Roads",
@@ -16,18 +43,6 @@
       "bairro": "Água Verde",
       "cat": "Gourmet",
       "events": {
-        "2026-07-02": [
-          {
-            "name": "Blues & Classics com Mudslide Blues",
-            "time": "20:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Aniversário de 29 anos",
-            "time": null,
-            "description": null
-          }
-        ],
         "2026-07-03": [
           {
             "name": "Anacrônica, Válvula Vapor e Sexofone",
@@ -91,7 +106,44 @@
       "ig": "https://www.instagram.com/hrccuritiba/",
       "bairro": "Batel",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-07-03": [
+          {
+            "name": "JACKFLASH",
+            "time": "19:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-07-04": [
+          {
+            "name": "BANDA JACKFLASH",
+            "time": "12:30:00Z",
+            "description": null
+          },
+          {
+            "name": "SHOW BANDA MALTA",
+            "time": "18:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-07-05": [
+          {
+            "name": "RENAN HENRIQUE",
+            "time": "12:30:00Z",
+            "description": null
+          },
+          {
+            "name": "A DEAF IN EAR",
+            "time": "19:30:00Z",
+            "description": null
+          },
+          {
+            "name": "BRASIL X NORUEGA",
+            "time": "17:00:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Sheridans",
@@ -99,20 +151,6 @@
       "bairro": "Batel",
       "cat": "Gourmet",
       "events": {
-        "2026-07-01": [
-          {
-            "name": "Melo e Zia",
-            "time": "20:30:00Z",
-            "description": null
-          }
-        ],
-        "2026-07-02": [
-          {
-            "name": "Banks apresenta Rock on the Floor",
-            "time": "20:30:00Z",
-            "description": null
-          }
-        ],
         "2026-07-03": [
           {
             "name": "Take Off",
@@ -151,7 +189,44 @@
       "ig": "https://www.instagram.com/bardafabricabastards/",
       "bairro": "Bom Retiro",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-07-03": [
+          {
+            "name": "ZOIO TRIO ESTREIA",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-07-04": [
+          {
+            "name": "NIKO E GIU",
+            "time": "16:00:00Z",
+            "description": null
+          },
+          {
+            "name": "SONORA 4",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-07-05": [
+          {
+            "name": "DANNI DISTLER TRIO",
+            "time": "15:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Brasil x Noruega",
+            "time": "17:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Baile Brasa",
+            "time": "19:00:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Maniacs",
@@ -220,18 +295,6 @@
             "description": null
           }
         ],
-        "2026-07-02": [
-          {
-            "name": "Eddie Foster Solo",
-            "time": "19:30:00Z",
-            "description": null
-          },
-          {
-            "name": "República Pine",
-            "time": "22:30:00Z",
-            "description": null
-          }
-        ],
         "2026-07-03": [
           {
             "name": "Sonora 4",
@@ -263,7 +326,62 @@
       "ig": "https://www.instagram.com/barbariumpub/",
       "bairro": "Rebouças",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-07-03": [
+          {
+            "name": "Jogos da Copa 2026",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-07-04": [
+          {
+            "name": "Jogos da Copa 2026",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-07-05": [
+          {
+            "name": "Jogos da Copa 2026",
+            "time": null,
+            "description": null
+          },
+          {
+            "name": "Jogo",
+            "time": "15:00:00.000000000Z",
+            "description": null
+          }
+        ],
+        "2026-07-06": [
+          {
+            "name": "Jogos da Copa 2026",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-07-07": [
+          {
+            "name": "Jogos da Copa 2026",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-07-08": [
+          {
+            "name": "Jogos da Copa 2026",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-07-09": [
+          {
+            "name": "Jogos da Copa 2026",
+            "time": null,
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Dobrucki",
@@ -290,7 +408,15 @@
       "ig": "https://www.instagram.com/jokerspub/",
       "bairro": "Centro",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-07-09": [
+          {
+            "name": "Ossobuco com Polenta Branca Cremosa",
+            "time": null,
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Tork n' Roll",
@@ -335,17 +461,10 @@
       "bairro": "São Francisco",
       "cat": "Palco e Show",
       "events": {
-        "2026-07-04": [
-          {
-            "name": "Linkin Park Cover NEW DIVIDE",
-            "time": "22:00:00Z",
-            "description": null
-          }
-        ],
         "2026-07-03": [
           {
             "name": "Shows com Slave The Machine e Asgard",
-            "time": "22:00:00Z",
+            "time": "22:00:00.000Z",
             "description": null
           }
         ]
@@ -357,13 +476,6 @@
       "bairro": "Boqueirão",
       "cat": "Palco e Show",
       "events": {
-        "2026-07-02": [
-          {
-            "name": "Junior Stemposki e Open Food",
-            "time": "19:00:00Z",
-            "description": null
-          }
-        ],
         "2026-07-03": [
           {
             "name": "Banda Backstage, Xima Rock e Open Food",
@@ -410,15 +522,24 @@
       "bairro": "Capão Raso",
       "cat": "Raiz",
       "events": {
-        "2026-07-01": [
+        "2026-07-03": [
           {
-            "name": "Transmissão jogo do Brasil x Haiti",
-            "time": "21:30:00Z",
+            "name": "SLIPKNOT + RAMMSTEIN NIGHT",
+            "time": null,
             "description": null
-          },
+          }
+        ],
+        "2026-07-04": [
           {
-            "name": "Show da banda STAR ACE",
-            "time": "23:30:00Z",
+            "name": "MIRO PENNA E SUA LEGI�O URBANA",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-07-05": [
+          {
+            "name": "CURITIBA AUTORAL LAB",
+            "time": null,
             "description": null
           }
         ]
@@ -444,7 +565,20 @@
       "ig": "https://www.instagram.com/oldjackgaragebar/",
       "bairro": "Novo Mundo",
       "cat": "Raiz",
-      "events": {}
+      "events": {
+        "2026-07-06": [
+          {
+            "name": "Jogo de futebol",
+            "time": "17:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Show de banda",
+            "time": null,
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Animals Pub",
