@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-05T11:14:10.598Z",
-  "week_start": "2026-07-05",
+  "updated_at": "2026-07-07T12:03:30.411Z",
+  "week_start": "2026-07-07",
   "model": "gemini-2.5-flash",
   "venues": [
     {
@@ -8,20 +8,7 @@
       "ig": "https://www.instagram.com/wearebastardspub/",
       "bairro": "Água Verde",
       "cat": "Gourmet",
-      "events": {
-        "2026-07-05": [
-          {
-            "name": "Brasil x Noruega (transmissão)",
-            "time": "17:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Lady Die",
-            "time": "19:00:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Cross Roads",
@@ -36,20 +23,65 @@
       "bairro": "Batel",
       "cat": "Gourmet",
       "events": {
-        "2026-07-05": [
+        "2026-07-07": [
           {
-            "name": "RENAN HENRIQUE",
-            "time": "12:30:00Z",
-            "description": null
-          },
-          {
-            "name": "A DEAF IN EAR",
+            "name": "Peça sua música com Rádio Rock",
             "time": "19:30:00Z",
             "description": null
           },
           {
-            "name": "BRASIL X NORUEGA",
+            "name": "Jogo: Argentina x Egito",
+            "time": "13:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-07-08": [
+          {
+            "name": "Karaoke Night com Code:Fire",
+            "time": "19:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-07-09": [
+          {
+            "name": "Pennyback Trio",
+            "time": "19:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Jogo: França x Marrocos",
             "time": "17:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-07-10": [
+          {
+            "name": "Scoopers",
+            "time": "19:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-07-11": [
+          {
+            "name": "Gui Vianna",
+            "time": "12:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Banda Asgard",
+            "time": "21:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-07-12": [
+          {
+            "name": "Renan Henrique",
+            "time": "12:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Banda Asgard",
+            "time": "19:30:00Z",
             "description": null
           }
         ]
@@ -60,70 +92,21 @@
       "ig": "https://www.instagram.com/sheridansirishpub/",
       "bairro": "Batel",
       "cat": "Gourmet",
-      "events": {
-        "2026-07-05": [
-          {
-            "name": "Abertura da casa",
-            "time": "15:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Show Válvula Vapor",
-            "time": "15:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Transmissão Jogo Brasil x Noruega",
-            "time": "17:00:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Bastards Fábrica",
       "ig": "https://www.instagram.com/bardafabricabastards/",
       "bairro": "Bom Retiro",
       "cat": "Gourmet",
-      "events": {
-        "2026-07-05": [
-          {
-            "name": "DANNI DISTLER TRIO",
-            "time": "15:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Brasil x Noruega",
-            "time": "17:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Baile Brasa",
-            "time": "19:00:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Maniacs",
       "ig": "https://www.instagram.com/bardamaniacs/",
       "bairro": "Cabral",
       "cat": "Gourmet",
-      "events": {
-        "2026-07-05": [
-          {
-            "name": "Jogo do Brasil",
-            "time": null,
-            "description": null
-          },
-          {
-            "name": "Jogo Brasil x Noruega",
-            "time": "17:00:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Rock Pizza",
@@ -137,103 +120,14 @@
       "ig": "https://www.instagram.com/distrito.1340/",
       "bairro": "Seminário",
       "cat": "Gourmet",
-      "events": {
-        "2026-07-05": [
-          {
-            "name": "Abertura da casa",
-            "time": "12:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Feijoada com MTX Mo Fire Band",
-            "time": "13:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Batucada",
-            "time": "16:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Jogo do Brasil x Noruega no telão",
-            "time": "17:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Syd Vinicius",
-            "time": "20:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Válvula Vapor",
-            "time": "22:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Feijoada + MTX Mo Fire Band",
-            "time": "13:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Batucada da torcida",
-            "time": "16:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Brasil x Noruega no telão",
-            "time": "17:00:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Barbarium",
       "ig": "https://www.instagram.com/barbariumpub/",
       "bairro": "Rebouças",
       "cat": "Gourmet",
-      "events": {
-        "2026-07-05": [
-          {
-            "name": "Jogos da Copa 2026",
-            "time": null,
-            "description": null
-          },
-          {
-            "name": "Jogo",
-            "time": "15:00:00.000000000Z",
-            "description": null
-          }
-        ],
-        "2026-07-06": [
-          {
-            "name": "Jogos da Copa 2026",
-            "time": null,
-            "description": null
-          }
-        ],
-        "2026-07-07": [
-          {
-            "name": "Jogos da Copa 2026",
-            "time": null,
-            "description": null
-          }
-        ],
-        "2026-07-08": [
-          {
-            "name": "Jogos da Copa 2026",
-            "time": null,
-            "description": null
-          }
-        ],
-        "2026-07-09": [
-          {
-            "name": "Jogos da Copa 2026",
-            "time": null,
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Dobrucki",
@@ -266,10 +160,22 @@
       "bairro": "Centro",
       "cat": "Gourmet",
       "events": {
-        "2026-07-09": [
+        "2026-07-11": [
           {
-            "name": "Ossobuco com Polenta Branca Cremosa",
+            "name": "Festa Top of the Pops com Major Tom e Rock Attack",
             "time": null,
+            "description": null
+          }
+        ],
+        "2026-07-10": [
+          {
+            "name": "Culto & Grosso (Tributo The Cult e Aniversário)",
+            "time": "22:00:00.000Z",
+            "description": null
+          },
+          {
+            "name": "JoeCrow (Rock 90s e 2000s)",
+            "time": "22:00:00.000Z",
             "description": null
           }
         ]
@@ -280,22 +186,29 @@
       "ig": "https://www.instagram.com/torkandroll/",
       "bairro": "Rebouças",
       "cat": "Palco e Show",
-      "events": {
-        "2026-07-05": [
-          {
-            "name": "Transmissão do jogo Brasil x Noruega e Música ao Vivo",
-            "time": "16:00:00.000Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Blood Rock",
       "ig": "https://www.instagram.com/bloodrockbar/",
       "bairro": "São Francisco",
       "cat": "Palco e Show",
-      "events": {}
+      "events": {
+        "2026-07-10": [
+          {
+            "name": "Dia Mundial do Rock com covers de System of a Down, Avenged e Rammstein",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-07-11": [
+          {
+            "name": "Dia Mundial do Rock com Motorhead, Metallica, Iron Maiden e Black Sabbath",
+            "time": null,
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Seb's Rock Bar",
@@ -331,15 +244,7 @@
       "ig": "https://www.instagram.com/clayhighway/",
       "bairro": "Capão Raso",
       "cat": "Raiz",
-      "events": {
-        "2026-07-05": [
-          {
-            "name": "CURITIBA AUTORAL LAB",
-            "time": null,
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Armazém Garage",
@@ -353,20 +258,7 @@
       "ig": "https://www.instagram.com/oldjackgaragebar/",
       "bairro": "Novo Mundo",
       "cat": "Raiz",
-      "events": {
-        "2026-07-06": [
-          {
-            "name": "Jogo de futebol",
-            "time": "17:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Show de banda",
-            "time": null,
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Animals Pub",
