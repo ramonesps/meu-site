@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-07T12:03:30.411Z",
-  "week_start": "2026-07-07",
+  "updated_at": "2026-07-09T12:17:56.450Z",
+  "week_start": "2026-07-09",
   "model": "gemini-2.5-flash",
   "venues": [
     {
@@ -15,7 +15,36 @@
       "ig": "https://www.instagram.com/barcrossroads/",
       "bairro": "Água Verde",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-07-09": [
+          {
+            "name": "Roadhouse Rockabilly",
+            "time": "18:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-07-10": [
+          {
+            "name": "90’s Classics",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-07-11": [
+          {
+            "name": "Especial Elvis, Beatles & Stones",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-07-12": [
+          {
+            "name": "Thunderstruck – Edição Dia Mundial do Rock",
+            "time": "14:00:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Hard Rock",
@@ -23,25 +52,6 @@
       "bairro": "Batel",
       "cat": "Gourmet",
       "events": {
-        "2026-07-07": [
-          {
-            "name": "Peça sua música com Rádio Rock",
-            "time": "19:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Jogo: Argentina x Egito",
-            "time": "13:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-07-08": [
-          {
-            "name": "Karaoke Night com Code:Fire",
-            "time": "19:30:00Z",
-            "description": null
-          }
-        ],
         "2026-07-09": [
           {
             "name": "Pennyback Trio",
@@ -92,7 +102,39 @@
       "ig": "https://www.instagram.com/sheridansirishpub/",
       "bairro": "Batel",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-07-09": [
+          {
+            "name": "BANKS apresenta ROCK ON THE FLOOR",
+            "time": "20:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-07-10": [
+          {
+            "name": "DOUBLE DECK",
+            "time": "20:30:00Z",
+            "description": null
+          },
+          {
+            "name": "CANDYMAN CLUB",
+            "time": "23:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-07-11": [
+          {
+            "name": "LELY QUINN BAND",
+            "time": "20:30:00Z",
+            "description": null
+          },
+          {
+            "name": "BACKSTAGE",
+            "time": "23:00:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Bastards Fábrica",
@@ -106,7 +148,15 @@
       "ig": "https://www.instagram.com/bardamaniacs/",
       "bairro": "Cabral",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-07-12": [
+          {
+            "name": "Jogo do Brasil",
+            "time": null,
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Rock Pizza",
@@ -120,7 +170,61 @@
       "ig": "https://www.instagram.com/distrito.1340/",
       "bairro": "Seminário",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-07-10": [
+          {
+            "name": "Banda Leevre Especial Rita Lee",
+            "time": "21:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Bank",
+            "time": "00:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Banda Leevre - Especial Rita Lee",
+            "time": "21:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Bank's - Especial Beatles",
+            "time": "00:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-07-09": [
+          {
+            "name": "Rock in Duo",
+            "time": "19:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Hawks",
+            "time": "22:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-07-11": [
+          {
+            "name": "Fusão 80",
+            "time": "21:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Pennyback",
+            "time": "00:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-07-12": [
+          {
+            "name": "Banda Nameless",
+            "time": "21:30:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Barbarium",
@@ -137,18 +241,18 @@
       "events": {
         "2026-07-11": [
           {
+            "name": "Candyman Club, Minha Banda é uma Festa, Hus Cage e DJ Adriano",
+            "time": "15:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Dobrucki Aberto",
+            "time": null,
+            "description": null
+          },
+          {
             "name": "Música ao vivo",
             "time": null,
-            "description": null
-          },
-          {
-            "name": "Música ao vivo e drinks",
-            "time": null,
-            "description": null
-          },
-          {
-            "name": "Candyman Club e convidados",
-            "time": "15:00:00.000000000Z",
             "description": null
           }
         ]
@@ -186,7 +290,52 @@
       "ig": "https://www.instagram.com/torkandroll/",
       "bairro": "Rebouças",
       "cat": "Palco e Show",
-      "events": {}
+      "events": {
+        "2026-07-11": [
+          {
+            "name": "Cazuza",
+            "time": "21:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Legião Urbana com Sergio Ramos",
+            "time": "22:45:00Z",
+            "description": null
+          },
+          {
+            "name": "Encontro de Lendas",
+            "time": "21:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Tributo a Cazuza",
+            "time": "21:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Tributo a Legião Urbana",
+            "time": "22:45:00Z",
+            "description": null
+          },
+          {
+            "name": "Legião Urbana / Sergio Ramos",
+            "time": "22:45:00Z",
+            "description": null
+          },
+          {
+            "name": "Capital Inicial cover Brasil",
+            "time": "00:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-07-12": [
+          {
+            "name": "Capital Inicial cover Brasil",
+            "time": "00:30:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Blood Rock",
@@ -216,10 +365,10 @@
       "bairro": "Boqueirão",
       "cat": "Palco e Show",
       "events": {
-        "2026-07-11": [
+        "2026-07-09": [
           {
-            "name": "Abertura DJ Jeison Sales",
-            "time": null,
+            "name": "Show Coração Pirata (Cover Roupa Nova)",
+            "time": "20:00:00.000Z",
             "description": null
           }
         ]
@@ -251,7 +400,15 @@
       "ig": "https://www.instagram.com/armazemgaragem/",
       "bairro": "Santo Inácio",
       "cat": "Raiz",
-      "events": {}
+      "events": {
+        "2026-07-10": [
+          {
+            "name": "Banda Paranoia - Tributo Raul Seixas",
+            "time": "21:00:00.000Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Old Jack",
