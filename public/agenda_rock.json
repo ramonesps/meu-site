@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-09T12:17:56.450Z",
-  "week_start": "2026-07-09",
+  "updated_at": "2026-07-11T10:27:43.190Z",
+  "week_start": "2026-07-11",
   "model": "gemini-2.5-flash",
   "venues": [
     {
@@ -8,7 +8,15 @@
       "ig": "https://www.instagram.com/wearebastardspub/",
       "bairro": "Água Verde",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-07-11": [
+          {
+            "name": "DRIVE TRUE",
+            "time": "21:30:00.000Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Cross Roads",
@@ -16,20 +24,6 @@
       "bairro": "Água Verde",
       "cat": "Gourmet",
       "events": {
-        "2026-07-09": [
-          {
-            "name": "Roadhouse Rockabilly",
-            "time": "18:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-07-10": [
-          {
-            "name": "90’s Classics",
-            "time": "20:00:00Z",
-            "description": null
-          }
-        ],
         "2026-07-11": [
           {
             "name": "Especial Elvis, Beatles & Stones",
@@ -52,25 +46,6 @@
       "bairro": "Batel",
       "cat": "Gourmet",
       "events": {
-        "2026-07-09": [
-          {
-            "name": "Pennyback Trio",
-            "time": "19:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Jogo: França x Marrocos",
-            "time": "17:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-07-10": [
-          {
-            "name": "Scoopers",
-            "time": "19:30:00Z",
-            "description": null
-          }
-        ],
         "2026-07-11": [
           {
             "name": "Gui Vianna",
@@ -103,25 +78,6 @@
       "bairro": "Batel",
       "cat": "Gourmet",
       "events": {
-        "2026-07-09": [
-          {
-            "name": "BANKS apresenta ROCK ON THE FLOOR",
-            "time": "20:30:00Z",
-            "description": null
-          }
-        ],
-        "2026-07-10": [
-          {
-            "name": "DOUBLE DECK",
-            "time": "20:30:00Z",
-            "description": null
-          },
-          {
-            "name": "CANDYMAN CLUB",
-            "time": "23:00:00Z",
-            "description": null
-          }
-        ],
         "2026-07-11": [
           {
             "name": "LELY QUINN BAND",
@@ -141,7 +97,37 @@
       "ig": "https://www.instagram.com/bardafabricabastards/",
       "bairro": "Bom Retiro",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-07-11": [
+          {
+            "name": "Transmissão de jogo: Noruega x Inglaterra",
+            "time": "18:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Transmissão de jogo: Argentina x Suíça",
+            "time": "22:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Johaine Duo",
+            "time": "16:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Hawks",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-07-12": [
+          {
+            "name": "Gran Verano",
+            "time": "16:00:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Maniacs",
@@ -171,40 +157,6 @@
       "bairro": "Seminário",
       "cat": "Gourmet",
       "events": {
-        "2026-07-10": [
-          {
-            "name": "Banda Leevre Especial Rita Lee",
-            "time": "21:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Bank",
-            "time": "00:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Banda Leevre - Especial Rita Lee",
-            "time": "21:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Bank's - Especial Beatles",
-            "time": "00:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-07-09": [
-          {
-            "name": "Rock in Duo",
-            "time": "19:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Hawks",
-            "time": "22:30:00Z",
-            "description": null
-          }
-        ],
         "2026-07-11": [
           {
             "name": "Fusão 80",
@@ -270,18 +222,6 @@
             "time": null,
             "description": null
           }
-        ],
-        "2026-07-10": [
-          {
-            "name": "Culto & Grosso (Tributo The Cult e Aniversário)",
-            "time": "22:00:00.000Z",
-            "description": null
-          },
-          {
-            "name": "JoeCrow (Rock 90s e 2000s)",
-            "time": "22:00:00.000Z",
-            "description": null
-          }
         ]
       }
     },
@@ -343,16 +283,9 @@
       "bairro": "São Francisco",
       "cat": "Palco e Show",
       "events": {
-        "2026-07-10": [
-          {
-            "name": "Dia Mundial do Rock com covers de System of a Down, Avenged e Rammstein",
-            "time": null,
-            "description": null
-          }
-        ],
         "2026-07-11": [
           {
-            "name": "Dia Mundial do Rock com Motorhead, Metallica, Iron Maiden e Black Sabbath",
+            "name": "Dia Mundial do Rock com Motorhead, Metallica, Iron Maiden, Black Sabbath",
             "time": null,
             "description": null
           }
@@ -364,15 +297,7 @@
       "ig": "https://www.instagram.com/sebas_rock_bar/",
       "bairro": "Boqueirão",
       "cat": "Palco e Show",
-      "events": {
-        "2026-07-09": [
-          {
-            "name": "Show Coração Pirata (Cover Roupa Nova)",
-            "time": "20:00:00.000Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Belvedere",
@@ -393,22 +318,29 @@
       "ig": "https://www.instagram.com/clayhighway/",
       "bairro": "Capão Raso",
       "cat": "Raiz",
-      "events": {}
+      "events": {
+        "2026-07-11": [
+          {
+            "name": "Festa Dia Mundial do Rock",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-07-12": [
+          {
+            "name": "Pakidermes, Seventeen Sunsets e Dual Chip",
+            "time": null,
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Armazém Garage",
       "ig": "https://www.instagram.com/armazemgaragem/",
       "bairro": "Santo Inácio",
       "cat": "Raiz",
-      "events": {
-        "2026-07-10": [
-          {
-            "name": "Banda Paranoia - Tributo Raul Seixas",
-            "time": "21:00:00.000Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Old Jack",
