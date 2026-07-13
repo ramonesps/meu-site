@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-11T10:27:43.190Z",
-  "week_start": "2026-07-11",
+  "updated_at": "2026-07-13T12:18:58.992Z",
+  "week_start": "2026-07-13",
   "model": "gemini-2.5-flash",
   "venues": [
     {
@@ -8,69 +8,21 @@
       "ig": "https://www.instagram.com/wearebastardspub/",
       "bairro": "Água Verde",
       "cat": "Gourmet",
-      "events": {
-        "2026-07-11": [
-          {
-            "name": "DRIVE TRUE",
-            "time": "21:30:00.000Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Cross Roads",
       "ig": "https://www.instagram.com/barcrossroads/",
       "bairro": "Água Verde",
       "cat": "Gourmet",
-      "events": {
-        "2026-07-11": [
-          {
-            "name": "Especial Elvis, Beatles & Stones",
-            "time": "20:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-07-12": [
-          {
-            "name": "Thunderstruck – Edição Dia Mundial do Rock",
-            "time": "14:00:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Hard Rock",
       "ig": "https://www.instagram.com/hrccuritiba/",
       "bairro": "Batel",
       "cat": "Gourmet",
-      "events": {
-        "2026-07-11": [
-          {
-            "name": "Gui Vianna",
-            "time": "12:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Banda Asgard",
-            "time": "21:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-07-12": [
-          {
-            "name": "Renan Henrique",
-            "time": "12:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Banda Asgard",
-            "time": "19:30:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Sheridans",
@@ -78,14 +30,54 @@
       "bairro": "Batel",
       "cat": "Gourmet",
       "events": {
-        "2026-07-11": [
+        "2026-07-13": [
           {
-            "name": "LELY QUINN BAND",
+            "name": "U2 CWB + Classics on the Floor",
+            "time": "20:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-07-14": [
+          {
+            "name": "Kako Chibinski e Fábio Fala",
+            "time": "20:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-07-15": [
+          {
+            "name": "Melo e Lely Quinn",
+            "time": "20:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-07-16": [
+          {
+            "name": "Banks apresenta Rock on the Floor",
+            "time": "20:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-07-17": [
+          {
+            "name": "Bon Jovi Cover Brasil",
             "time": "20:30:00Z",
             "description": null
           },
           {
-            "name": "BACKSTAGE",
+            "name": "Backstage",
+            "time": "23:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-07-18": [
+          {
+            "name": "Rádio Vinil",
+            "time": "20:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Firecracker",
             "time": "23:00:00Z",
             "description": null
           }
@@ -97,37 +89,7 @@
       "ig": "https://www.instagram.com/bardafabricabastards/",
       "bairro": "Bom Retiro",
       "cat": "Gourmet",
-      "events": {
-        "2026-07-11": [
-          {
-            "name": "Transmissão de jogo: Noruega x Inglaterra",
-            "time": "18:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Transmissão de jogo: Argentina x Suíça",
-            "time": "22:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Johaine Duo",
-            "time": "16:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Hawks",
-            "time": "20:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-07-12": [
-          {
-            "name": "Gran Verano",
-            "time": "16:00:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Maniacs",
@@ -135,10 +97,29 @@
       "bairro": "Cabral",
       "cat": "Gourmet",
       "events": {
-        "2026-07-12": [
+        "2026-07-19": [
           {
             "name": "Jogo do Brasil",
             "time": null,
+            "description": null
+          },
+          {
+            "name": "Final da Copa",
+            "time": "16:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-07-14": [
+          {
+            "name": "Semifinais da Copa",
+            "time": "16:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-07-15": [
+          {
+            "name": "Semifinais da Copa",
+            "time": "16:00:00Z",
             "description": null
           }
         ]
@@ -157,22 +138,10 @@
       "bairro": "Seminário",
       "cat": "Gourmet",
       "events": {
-        "2026-07-11": [
+        "2026-07-18": [
           {
-            "name": "Fusão 80",
-            "time": "21:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Pennyback",
-            "time": "00:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-07-12": [
-          {
-            "name": "Banda Nameless",
-            "time": "21:30:00Z",
+            "name": "Rock N' Roça",
+            "time": "16:00:00Z",
             "description": null
           }
         ]
@@ -191,19 +160,19 @@
       "bairro": "Rebouças",
       "cat": "Gourmet",
       "events": {
-        "2026-07-11": [
+        "2026-07-18": [
           {
-            "name": "Candyman Club, Minha Banda é uma Festa, Hus Cage e DJ Adriano",
-            "time": "15:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Dobrucki Aberto",
-            "time": null,
+            "name": "Candyman Club, Minha Banda é uma Festa, Hus Cage, DJ Adriano",
+            "time": "15:00:00.000000000Z",
             "description": null
           },
           {
             "name": "Música ao vivo",
+            "time": null,
+            "description": null
+          },
+          {
+            "name": "Música ao vivo e drinks",
             "time": null,
             "description": null
           }
@@ -215,15 +184,7 @@
       "ig": "https://www.instagram.com/jokerspub/",
       "bairro": "Centro",
       "cat": "Gourmet",
-      "events": {
-        "2026-07-11": [
-          {
-            "name": "Festa Top of the Pops com Major Tom e Rock Attack",
-            "time": null,
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Tork n' Roll",
@@ -231,47 +192,24 @@
       "bairro": "Rebouças",
       "cat": "Palco e Show",
       "events": {
-        "2026-07-11": [
+        "2026-07-13": [
           {
-            "name": "Cazuza",
-            "time": "21:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Legião Urbana com Sergio Ramos",
-            "time": "22:45:00Z",
-            "description": null
-          },
-          {
-            "name": "Encontro de Lendas",
-            "time": "21:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Tributo a Cazuza",
-            "time": "21:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Tributo a Legião Urbana",
-            "time": "22:45:00Z",
-            "description": null
-          },
-          {
-            "name": "Legião Urbana / Sergio Ramos",
-            "time": "22:45:00Z",
-            "description": null
-          },
-          {
-            "name": "Capital Inicial cover Brasil",
-            "time": "00:30:00Z",
+            "name": "Dia Mundial do Rock",
+            "time": "19:00:00Z",
             "description": null
           }
         ],
-        "2026-07-12": [
+        "2026-07-17": [
           {
-            "name": "Capital Inicial cover Brasil",
-            "time": "00:30:00Z",
+            "name": "The Black Parede",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-07-18": [
+          {
+            "name": "Pra Sempre Cringe",
+            "time": "19:00:00Z",
             "description": null
           }
         ]
@@ -282,15 +220,7 @@
       "ig": "https://www.instagram.com/bloodrockbar/",
       "bairro": "São Francisco",
       "cat": "Palco e Show",
-      "events": {
-        "2026-07-11": [
-          {
-            "name": "Dia Mundial do Rock com Motorhead, Metallica, Iron Maiden, Black Sabbath",
-            "time": null,
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Seb's Rock Bar",
@@ -318,22 +248,7 @@
       "ig": "https://www.instagram.com/clayhighway/",
       "bairro": "Capão Raso",
       "cat": "Raiz",
-      "events": {
-        "2026-07-11": [
-          {
-            "name": "Festa Dia Mundial do Rock",
-            "time": null,
-            "description": null
-          }
-        ],
-        "2026-07-12": [
-          {
-            "name": "Pakidermes, Seventeen Sunsets e Dual Chip",
-            "time": null,
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Armazém Garage",
