@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-13T12:18:58.992Z",
-  "week_start": "2026-07-13",
+  "updated_at": "2026-07-15T11:03:17.866Z",
+  "week_start": "2026-07-15",
   "model": "gemini-2.5-flash",
   "venues": [
     {
@@ -22,7 +22,92 @@
       "ig": "https://www.instagram.com/hrccuritiba/",
       "bairro": "Batel",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-07-15": [
+          {
+            "name": "Aberto",
+            "time": "11:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Evento Fechado - Master of Voices",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-07-16": [
+          {
+            "name": "Aberto",
+            "time": "11:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Pennyback Trio",
+            "time": "19:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-07-17": [
+          {
+            "name": "Aberto",
+            "time": "11:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Scoopers",
+            "time": "19:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-07-18": [
+          {
+            "name": "Aberto",
+            "time": "11:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Gui Vianna",
+            "time": "12:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Disciplina Optativa",
+            "time": "19:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-07-19": [
+          {
+            "name": "Aberto",
+            "time": "11:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Transmissão da Final",
+            "time": "16:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Banda Asgard",
+            "time": "19:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-07-20": [
+          {
+            "name": "Aberto",
+            "time": "11:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-07-21": [
+          {
+            "name": "Aberto",
+            "time": "11:00:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Sheridans",
@@ -30,20 +115,6 @@
       "bairro": "Batel",
       "cat": "Gourmet",
       "events": {
-        "2026-07-13": [
-          {
-            "name": "U2 CWB + Classics on the Floor",
-            "time": "20:30:00Z",
-            "description": null
-          }
-        ],
-        "2026-07-14": [
-          {
-            "name": "Kako Chibinski e Fábio Fala",
-            "time": "20:30:00Z",
-            "description": null
-          }
-        ],
         "2026-07-15": [
           {
             "name": "Melo e Lely Quinn",
@@ -105,13 +176,6 @@
           },
           {
             "name": "Final da Copa",
-            "time": "16:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-07-14": [
-          {
-            "name": "Semifinais da Copa",
             "time": "16:00:00Z",
             "description": null
           }
@@ -184,7 +248,15 @@
       "ig": "https://www.instagram.com/jokerspub/",
       "bairro": "Centro",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-07-17": [
+          {
+            "name": "Rock n' Blues com Great Scott e Jack Flash",
+            "time": "22:00:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Tork n' Roll",
@@ -192,13 +264,6 @@
       "bairro": "Rebouças",
       "cat": "Palco e Show",
       "events": {
-        "2026-07-13": [
-          {
-            "name": "Dia Mundial do Rock",
-            "time": "19:00:00Z",
-            "description": null
-          }
-        ],
         "2026-07-17": [
           {
             "name": "The Black Parede",
@@ -220,7 +285,15 @@
       "ig": "https://www.instagram.com/bloodrockbar/",
       "bairro": "São Francisco",
       "cat": "Palco e Show",
-      "events": {}
+      "events": {
+        "2026-07-18": [
+          {
+            "name": "Master of Reality (Black Sabbath Cover)",
+            "time": "22:00:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Seb's Rock Bar",
