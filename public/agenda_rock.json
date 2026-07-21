@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-19T10:46:39.989Z",
-  "week_start": "2026-07-19",
+  "updated_at": "2026-07-21T11:20:01.988Z",
+  "week_start": "2026-07-21",
   "model": "gemini-2.5-flash",
   "venues": [
     {
@@ -18,8 +18,8 @@
       "events": {
         "2026-07-23": [
           {
-            "name": "Cross Originals com Rabo de Galo, Favourite Dealer & Wes Ventura",
-            "time": "20:00:00.000000000Z",
+            "name": "CWKNOT (Especial Slipknot) e MEIN TEIL (Especial Rammstein)",
+            "time": "19:00:00Z",
             "description": null
           }
         ]
@@ -31,35 +31,6 @@
       "bairro": "Batel",
       "cat": "Gourmet",
       "events": {
-        "2026-07-19": [
-          {
-            "name": "The Xicos",
-            "time": "12:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Espanha x Argentina",
-            "time": "16:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Banda Asgard",
-            "time": "19:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Aberto para música e gastronomia",
-            "time": "11:00:00.000000000Z",
-            "description": null
-          }
-        ],
-        "2026-07-20": [
-          {
-            "name": "Aberto para música e gastronomia",
-            "time": "11:00:00.000000000Z",
-            "description": null
-          }
-        ],
         "2026-07-21": [
           {
             "name": "Aberto para música e gastronomia",
@@ -103,15 +74,63 @@
       "bairro": "Batel",
       "cat": "Gourmet",
       "events": {
-        "2026-07-20": [
+        "2026-07-24": [
           {
-            "name": "Dia do Amigo (Promo\\u00e7\\u00e3o Burger + IPA)",
+            "name": "BARRADOS NO SHERI - Silvermoon",
+            "time": "20:30:00Z",
+            "description": null
+          },
+          {
+            "name": "BARRADOS NO SHERI - Firecracker",
+            "time": "23:00:00Z",
+            "description": null
+          },
+          {
+            "name": "BARRADOS NO SHERI - Vivi Pickler",
             "time": null,
             "description": null
           },
           {
-            "name": "Friends on the Floor (Audiostrada)",
+            "name": "Silvermoon",
             "time": "20:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Firecracker",
+            "time": "23:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-07-21": [
+          {
+            "name": "Asgard Duo",
+            "time": "20:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-07-22": [
+          {
+            "name": "Paulo Vargas",
+            "time": "20:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-07-23": [
+          {
+            "name": "Banks apresenta Rock on the Floor",
+            "time": "20:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-07-25": [
+          {
+            "name": "Válvula Vapor",
+            "time": "20:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Lenhadores da Antártida",
+            "time": "23:00:00Z",
             "description": null
           }
         ]
@@ -122,30 +141,14 @@
       "ig": "https://www.instagram.com/bardafabricabastards/",
       "bairro": "Bom Retiro",
       "cat": "Gourmet",
-      "events": {
-        "2026-07-19": [
-          {
-            "name": "LENHADORES TRIO",
-            "time": "16:00:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Maniacs",
       "ig": "https://www.instagram.com/bardamaniacs/",
       "bairro": "Cabral",
       "cat": "Gourmet",
-      "events": {
-        "2026-07-19": [
-          {
-            "name": "Final da Copa",
-            "time": "16:00:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Rock Pizza",
@@ -160,20 +163,45 @@
       "bairro": "Seminário",
       "cat": "Gourmet",
       "events": {
-        "2026-07-19": [
+        "2026-07-25": [
           {
-            "name": "Final da Copa no telão",
+            "name": "Dia do Motociclista",
+            "time": null,
+            "description": null
+          },
+          {
+            "name": "Café da manhã gratuito",
+            "time": "10:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Serviços rápidos para motos",
+            "time": "10:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Almoço: Feijoada",
+            "time": "12:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Voz e violão",
+            "time": "13:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Banda no palco externo",
             "time": "16:00:00Z",
             "description": null
           },
           {
-            "name": "Sonora 4",
-            "time": "19:30:00Z",
+            "name": "Brincadeiras e atrações externas",
+            "time": "20:00:00Z",
             "description": null
           },
           {
-            "name": "LetsCore",
-            "time": "22:30:00Z",
+            "name": "Bandas no palco interno",
+            "time": null,
             "description": null
           }
         ]
@@ -184,22 +212,29 @@
       "ig": "https://www.instagram.com/barbariumpub/",
       "bairro": "Rebouças",
       "cat": "Gourmet",
-      "events": {
-        "2026-07-19": [
-          {
-            "name": "Final: Espanha vs Argentina",
-            "time": "16:00:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Dobrucki",
       "ig": "https://www.instagram.com/dobruckibar/",
       "bairro": "Rebouças",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-07-26": [
+          {
+            "name": "Música ao vivo",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-07-25": [
+          {
+            "name": "Candyman Club",
+            "time": "15:00:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Jokers",
@@ -228,15 +263,15 @@
       "bairro": "Boqueirão",
       "cat": "Palco e Show",
       "events": {
-        "2026-07-19": [
+        "2026-07-25": [
           {
-            "name": "Costelada no almoço e Banda Flash N' Back",
-            "time": null,
+            "name": "EVI GOFFIN",
+            "time": "22:00:00Z",
             "description": null
           },
           {
-            "name": "Transmissão da Final da Copa do Mundo",
-            "time": null,
+            "name": "Show EVI GOFFIN",
+            "time": "00:00:00Z",
             "description": null
           }
         ]
@@ -262,13 +297,6 @@
       "bairro": "Capão Raso",
       "cat": "Raiz",
       "events": {
-        "2026-07-19": [
-          {
-            "name": "CURITIBA AUTORAL LAB",
-            "time": null,
-            "description": null
-          }
-        ],
         "2026-07-24": [
           {
             "name": "Bruno Sutter executa 50 anos de Iron Maiden parte 2",
@@ -284,10 +312,15 @@
       "bairro": "Santo Inácio",
       "cat": "Raiz",
       "events": {
-        "2026-07-19": [
+        "2026-07-24": [
           {
-            "name": "Final da Copa do Mundo: Argentina x Espanha",
-            "time": "16:00:00.000000000Z",
+            "name": "Tributo ao Black Sabbath com Old Wizard",
+            "time": "20:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Cover do Kiss com Kiss Experience",
+            "time": "21:30:00Z",
             "description": null
           }
         ]
@@ -298,15 +331,7 @@
       "ig": "https://www.instagram.com/oldjackgaragebar/",
       "bairro": "Novo Mundo",
       "cat": "Raiz",
-      "events": {
-        "2026-07-19": [
-          {
-            "name": "OCHTOP (Pop Rock)",
-            "time": "19:00:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Animals Pub",
