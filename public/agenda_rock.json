@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-21T11:20:01.988Z",
-  "week_start": "2026-07-21",
+  "updated_at": "2026-07-23T11:21:57.838Z",
+  "week_start": "2026-07-23",
   "model": "gemini-2.5-flash",
   "venues": [
     {
@@ -8,7 +8,34 @@
       "ig": "https://www.instagram.com/wearebastardspub/",
       "bairro": "Água Verde",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-07-23": [
+          {
+            "name": "Moonshine",
+            "time": "20:20:00Z",
+            "description": null
+          }
+        ],
+        "2026-07-24": [
+          {
+            "name": "Sonora 4",
+            "time": "20:00:00Z",
+            "description": null
+          },
+          {
+            "name": "República Pine",
+            "time": "22:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-07-25": [
+          {
+            "name": "Baile Brasa",
+            "time": "21:30:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Cross Roads",
@@ -31,38 +58,41 @@
       "bairro": "Batel",
       "cat": "Gourmet",
       "events": {
-        "2026-07-21": [
-          {
-            "name": "Aberto para música e gastronomia",
-            "time": "11:00:00.000000000Z",
-            "description": null
-          }
-        ],
-        "2026-07-22": [
-          {
-            "name": "Aberto para música e gastronomia",
-            "time": "11:00:00.000000000Z",
-            "description": null
-          }
-        ],
         "2026-07-23": [
           {
-            "name": "Aberto para música e gastronomia",
-            "time": "11:00:00.000000000Z",
+            "name": "Scoopers",
+            "time": "19:30:00Z",
             "description": null
           }
         ],
         "2026-07-24": [
           {
-            "name": "Aberto para música e gastronomia",
-            "time": "11:00:00.000000000Z",
+            "name": "Rardiophonics",
+            "time": "19:30:00Z",
             "description": null
           }
         ],
         "2026-07-25": [
           {
-            "name": "Aberto para música e gastronomia",
-            "time": "11:00:00.000000000Z",
+            "name": "Gui Vianna",
+            "time": "12:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Banda Asgard",
+            "time": "19:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-07-26": [
+          {
+            "name": "Neto",
+            "time": "12:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Banda Asgard",
+            "time": "19:30:00Z",
             "description": null
           }
         ]
@@ -101,20 +131,6 @@
             "description": null
           }
         ],
-        "2026-07-21": [
-          {
-            "name": "Asgard Duo",
-            "time": "20:30:00Z",
-            "description": null
-          }
-        ],
-        "2026-07-22": [
-          {
-            "name": "Paulo Vargas",
-            "time": "20:30:00Z",
-            "description": null
-          }
-        ],
         "2026-07-23": [
           {
             "name": "Banks apresenta Rock on the Floor",
@@ -141,7 +157,20 @@
       "ig": "https://www.instagram.com/bardafabricabastards/",
       "bairro": "Bom Retiro",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-07-26": [
+          {
+            "name": "Arraiau Pet com Expositores",
+            "time": "11:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Arraiau Pet",
+            "time": "11:30:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Maniacs",
@@ -241,7 +270,22 @@
       "ig": "https://www.instagram.com/jokerspub/",
       "bairro": "Centro",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-07-24": [
+          {
+            "name": "Classe 96 Showcase",
+            "time": "18:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-07-23": [
+          {
+            "name": "Prato do dia: Alcatra grelhada",
+            "time": null,
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Tork n' Roll",
@@ -255,7 +299,20 @@
       "ig": "https://www.instagram.com/bloodrockbar/",
       "bairro": "São Francisco",
       "cat": "Palco e Show",
-      "events": {}
+      "events": {
+        "2026-07-25": [
+          {
+            "name": "WOTAN FOLK FESTIVAL",
+            "time": "19:00:00.000000000Z",
+            "description": null
+          },
+          {
+            "name": "Wotan Folk Festival e Feira Medieval",
+            "time": "19:00:00.000Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Seb's Rock Bar",
@@ -300,7 +357,7 @@
         "2026-07-24": [
           {
             "name": "Bruno Sutter executa 50 anos de Iron Maiden parte 2",
-            "time": "20:00:00.000000000Z",
+            "time": "20:00:00Z",
             "description": null
           }
         ]
