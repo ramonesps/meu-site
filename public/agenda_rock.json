@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-23T11:21:57.838Z",
-  "week_start": "2026-07-23",
+  "updated_at": "2026-07-25T10:47:06.720Z",
+  "week_start": "2026-07-25",
   "model": "gemini-2.5-flash",
   "venues": [
     {
@@ -9,25 +9,6 @@
       "bairro": "Água Verde",
       "cat": "Gourmet",
       "events": {
-        "2026-07-23": [
-          {
-            "name": "Moonshine",
-            "time": "20:20:00Z",
-            "description": null
-          }
-        ],
-        "2026-07-24": [
-          {
-            "name": "Sonora 4",
-            "time": "20:00:00Z",
-            "description": null
-          },
-          {
-            "name": "República Pine",
-            "time": "22:30:00Z",
-            "description": null
-          }
-        ],
         "2026-07-25": [
           {
             "name": "Baile Brasa",
@@ -43,10 +24,15 @@
       "bairro": "Água Verde",
       "cat": "Gourmet",
       "events": {
-        "2026-07-23": [
+        "2026-07-25": [
           {
-            "name": "CWKNOT (Especial Slipknot) e MEIN TEIL (Especial Rammstein)",
-            "time": "19:00:00Z",
+            "name": "Homenagem aos anos 70 com Gerson Conrad e Syd Vinícios",
+            "time": null,
+            "description": null
+          },
+          {
+            "name": "70's Rock com Gerson Conrad e Syd Vinícius",
+            "time": null,
             "description": null
           }
         ]
@@ -58,20 +44,6 @@
       "bairro": "Batel",
       "cat": "Gourmet",
       "events": {
-        "2026-07-23": [
-          {
-            "name": "Scoopers",
-            "time": "19:30:00Z",
-            "description": null
-          }
-        ],
-        "2026-07-24": [
-          {
-            "name": "Rardiophonics",
-            "time": "19:30:00Z",
-            "description": null
-          }
-        ],
         "2026-07-25": [
           {
             "name": "Gui Vianna",
@@ -104,48 +76,14 @@
       "bairro": "Batel",
       "cat": "Gourmet",
       "events": {
-        "2026-07-24": [
-          {
-            "name": "BARRADOS NO SHERI - Silvermoon",
-            "time": "20:30:00Z",
-            "description": null
-          },
-          {
-            "name": "BARRADOS NO SHERI - Firecracker",
-            "time": "23:00:00Z",
-            "description": null
-          },
-          {
-            "name": "BARRADOS NO SHERI - Vivi Pickler",
-            "time": null,
-            "description": null
-          },
-          {
-            "name": "Silvermoon",
-            "time": "20:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Firecracker",
-            "time": "23:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-07-23": [
-          {
-            "name": "Banks apresenta Rock on the Floor",
-            "time": "20:30:00Z",
-            "description": null
-          }
-        ],
         "2026-07-25": [
           {
-            "name": "Válvula Vapor",
+            "name": "VÁLVULA VAPOR",
             "time": "20:30:00Z",
             "description": null
           },
           {
-            "name": "Lenhadores da Antártida",
+            "name": "LENHADORES DA ANTÁRTIDA",
             "time": "23:00:00Z",
             "description": null
           }
@@ -199,38 +137,80 @@
             "description": null
           },
           {
+            "name": "Marcela Juk (Voz e Violão)",
+            "time": "13:30:00Z",
+            "description": null
+          },
+          {
+            "name": "R2 Band (Rock Clássico)",
+            "time": "16:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Esquadrão Flash Hits",
+            "time": "21:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Hawks",
+            "time": "00:00:00Z",
+            "description": null
+          },
+          {
             "name": "Café da manhã gratuito",
             "time": "10:00:00Z",
             "description": null
           },
           {
-            "name": "Serviços rápidos para motos",
+            "name": "Exposição de Harleys e motos exclusivas",
             "time": "10:00:00Z",
             "description": null
           },
           {
-            "name": "Almoço: Feijoada",
-            "time": "12:00:00Z",
+            "name": "Pit Stop Castrol para troca de óleo",
+            "time": "10:00:00Z",
             "description": null
           },
           {
-            "name": "Voz e violão",
-            "time": "13:00:00Z",
+            "name": "Oficina com serviços rápidos",
+            "time": "10:00:00Z",
             "description": null
           },
           {
-            "name": "Banda no palco externo",
-            "time": "16:00:00Z",
+            "name": "The Shine Bike Wash",
+            "time": "10:00:00Z",
             "description": null
           },
           {
-            "name": "Brincadeiras e atrações externas",
-            "time": "20:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Bandas no palco interno",
+            "name": "Feijoada na Cutelaria",
             "time": null,
+            "description": null
+          },
+          {
+            "name": "Show Marcela Juk (Voz e Violão)",
+            "time": "13:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Show R2 Band (Rock Clássico)",
+            "time": "16:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Show Esquadrão Flash Hits",
+            "time": "21:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Show Hawks",
+            "time": "00:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-07-26": [
+          {
+            "name": "Longfield",
+            "time": "21:30:00Z",
             "description": null
           }
         ]
@@ -254,12 +234,10 @@
             "name": "Música ao vivo",
             "time": null,
             "description": null
-          }
-        ],
-        "2026-07-25": [
+          },
           {
-            "name": "Candyman Club",
-            "time": "15:00:00Z",
+            "name": "Candyman Club e convidados",
+            "time": "15:00:00.000000000Z",
             "description": null
           }
         ]
@@ -270,29 +248,22 @@
       "ig": "https://www.instagram.com/jokerspub/",
       "bairro": "Centro",
       "cat": "Gourmet",
-      "events": {
-        "2026-07-24": [
-          {
-            "name": "Classe 96 Showcase",
-            "time": "18:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-07-23": [
-          {
-            "name": "Prato do dia: Alcatra grelhada",
-            "time": null,
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Tork n' Roll",
       "ig": "https://www.instagram.com/torkandroll/",
       "bairro": "Rebouças",
       "cat": "Palco e Show",
-      "events": {}
+      "events": {
+        "2026-07-25": [
+          {
+            "name": "Show Nazareth",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Blood Rock",
@@ -322,12 +293,24 @@
       "events": {
         "2026-07-25": [
           {
-            "name": "EVI GOFFIN",
-            "time": "22:00:00Z",
+            "name": "Open Food com música",
+            "time": "19:00:00Z",
             "description": null
           },
           {
-            "name": "Show EVI GOFFIN",
+            "name": "Abertura da casa",
+            "time": "19:00:00Z",
+            "description": null
+          },
+          {
+            "name": "DJ Madrox",
+            "time": "21:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-07-26": [
+          {
+            "name": "EVI GOFFIN",
             "time": "00:00:00Z",
             "description": null
           }
@@ -353,15 +336,7 @@
       "ig": "https://www.instagram.com/clayhighway/",
       "bairro": "Capão Raso",
       "cat": "Raiz",
-      "events": {
-        "2026-07-24": [
-          {
-            "name": "Bruno Sutter executa 50 anos de Iron Maiden parte 2",
-            "time": "20:00:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Armazém Garage",
@@ -369,15 +344,32 @@
       "bairro": "Santo Inácio",
       "cat": "Raiz",
       "events": {
-        "2026-07-24": [
+        "2026-07-25": [
           {
-            "name": "Tributo ao Black Sabbath com Old Wizard",
-            "time": "20:00:00Z",
+            "name": "Audiostrada Trio",
+            "time": "18:30:00Z",
             "description": null
           },
           {
-            "name": "Cover do Kiss com Kiss Experience",
-            "time": "21:30:00Z",
+            "name": "Toptape Flashback",
+            "time": "21:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Bazar das Pin-Ups",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-07-26": [
+          {
+            "name": "Dama de Paus",
+            "time": "16:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Gallo Jack Show",
+            "time": "19:00:00Z",
             "description": null
           }
         ]
