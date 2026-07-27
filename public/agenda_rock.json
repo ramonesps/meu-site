@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-25T10:47:06.720Z",
-  "week_start": "2026-07-25",
+  "updated_at": "2026-07-27T12:38:48.780Z",
+  "week_start": "2026-07-27",
   "model": "gemini-2.5-flash",
   "venues": [
     {
@@ -8,107 +8,35 @@
       "ig": "https://www.instagram.com/wearebastardspub/",
       "bairro": "Água Verde",
       "cat": "Gourmet",
-      "events": {
-        "2026-07-25": [
-          {
-            "name": "Baile Brasa",
-            "time": "21:30:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Cross Roads",
       "ig": "https://www.instagram.com/barcrossroads/",
       "bairro": "Água Verde",
       "cat": "Gourmet",
-      "events": {
-        "2026-07-25": [
-          {
-            "name": "Homenagem aos anos 70 com Gerson Conrad e Syd Vinícios",
-            "time": null,
-            "description": null
-          },
-          {
-            "name": "70's Rock com Gerson Conrad e Syd Vinícius",
-            "time": null,
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Hard Rock",
       "ig": "https://www.instagram.com/hrccuritiba/",
       "bairro": "Batel",
       "cat": "Gourmet",
-      "events": {
-        "2026-07-25": [
-          {
-            "name": "Gui Vianna",
-            "time": "12:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Banda Asgard",
-            "time": "19:30:00Z",
-            "description": null
-          }
-        ],
-        "2026-07-26": [
-          {
-            "name": "Neto",
-            "time": "12:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Banda Asgard",
-            "time": "19:30:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Sheridans",
       "ig": "https://www.instagram.com/sheridansirishpub/",
       "bairro": "Batel",
       "cat": "Gourmet",
-      "events": {
-        "2026-07-25": [
-          {
-            "name": "VÁLVULA VAPOR",
-            "time": "20:30:00Z",
-            "description": null
-          },
-          {
-            "name": "LENHADORES DA ANTÁRTIDA",
-            "time": "23:00:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Bastards Fábrica",
       "ig": "https://www.instagram.com/bardafabricabastards/",
       "bairro": "Bom Retiro",
       "cat": "Gourmet",
-      "events": {
-        "2026-07-26": [
-          {
-            "name": "Arraiau Pet com Expositores",
-            "time": "11:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Arraiau Pet",
-            "time": "11:30:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Maniacs",
@@ -129,92 +57,7 @@
       "ig": "https://www.instagram.com/distrito.1340/",
       "bairro": "Seminário",
       "cat": "Gourmet",
-      "events": {
-        "2026-07-25": [
-          {
-            "name": "Dia do Motociclista",
-            "time": null,
-            "description": null
-          },
-          {
-            "name": "Marcela Juk (Voz e Violão)",
-            "time": "13:30:00Z",
-            "description": null
-          },
-          {
-            "name": "R2 Band (Rock Clássico)",
-            "time": "16:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Esquadrão Flash Hits",
-            "time": "21:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Hawks",
-            "time": "00:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Café da manhã gratuito",
-            "time": "10:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Exposição de Harleys e motos exclusivas",
-            "time": "10:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Pit Stop Castrol para troca de óleo",
-            "time": "10:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Oficina com serviços rápidos",
-            "time": "10:00:00Z",
-            "description": null
-          },
-          {
-            "name": "The Shine Bike Wash",
-            "time": "10:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Feijoada na Cutelaria",
-            "time": null,
-            "description": null
-          },
-          {
-            "name": "Show Marcela Juk (Voz e Violão)",
-            "time": "13:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Show R2 Band (Rock Clássico)",
-            "time": "16:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Show Esquadrão Flash Hits",
-            "time": "21:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Show Hawks",
-            "time": "00:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-07-26": [
-          {
-            "name": "Longfield",
-            "time": "21:30:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Barbarium",
@@ -228,42 +71,29 @@
       "ig": "https://www.instagram.com/dobruckibar/",
       "bairro": "Rebouças",
       "cat": "Gourmet",
-      "events": {
-        "2026-07-26": [
-          {
-            "name": "Música ao vivo",
-            "time": null,
-            "description": null
-          },
-          {
-            "name": "Candyman Club e convidados",
-            "time": "15:00:00.000000000Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Jokers",
       "ig": "https://www.instagram.com/jokerspub/",
       "bairro": "Centro",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-08-01": [
+          {
+            "name": "The Zombie Show: Korn Cover Darmakhaos e DJs",
+            "time": "21:00:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Tork n' Roll",
       "ig": "https://www.instagram.com/torkandroll/",
       "bairro": "Rebouças",
       "cat": "Palco e Show",
-      "events": {
-        "2026-07-25": [
-          {
-            "name": "Show Nazareth",
-            "time": "20:00:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Blood Rock",
@@ -271,15 +101,17 @@
       "bairro": "São Francisco",
       "cat": "Palco e Show",
       "events": {
-        "2026-07-25": [
+        "2026-07-31": [
           {
-            "name": "WOTAN FOLK FESTIVAL",
-            "time": "19:00:00.000000000Z",
+            "name": "My Chemical Romance + Time to Dance + Revamp",
+            "time": "21:30:00Z",
             "description": null
-          },
+          }
+        ],
+        "2026-08-01": [
           {
-            "name": "Wotan Folk Festival e Feira Medieval",
-            "time": "19:00:00.000Z",
+            "name": "Year of Thrash 1986 com Tributos a Metallica, Slayer e Megadeth",
+            "time": "21:30:00Z",
             "description": null
           }
         ]
@@ -290,32 +122,7 @@
       "ig": "https://www.instagram.com/sebas_rock_bar/",
       "bairro": "Boqueirão",
       "cat": "Palco e Show",
-      "events": {
-        "2026-07-25": [
-          {
-            "name": "Open Food com música",
-            "time": "19:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Abertura da casa",
-            "time": "19:00:00Z",
-            "description": null
-          },
-          {
-            "name": "DJ Madrox",
-            "time": "21:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-07-26": [
-          {
-            "name": "EVI GOFFIN",
-            "time": "00:00:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Belvedere",
@@ -336,44 +143,27 @@
       "ig": "https://www.instagram.com/clayhighway/",
       "bairro": "Capão Raso",
       "cat": "Raiz",
-      "events": {}
+      "events": {
+        "2026-07-31": [
+          {
+            "name": "Raulzito Cover",
+            "time": "21:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Legião Urbana com Miro Penna",
+            "time": "00:00:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Armazém Garage",
       "ig": "https://www.instagram.com/armazemgaragem/",
       "bairro": "Santo Inácio",
       "cat": "Raiz",
-      "events": {
-        "2026-07-25": [
-          {
-            "name": "Audiostrada Trio",
-            "time": "18:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Toptape Flashback",
-            "time": "21:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Bazar das Pin-Ups",
-            "time": null,
-            "description": null
-          }
-        ],
-        "2026-07-26": [
-          {
-            "name": "Dama de Paus",
-            "time": "16:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Gallo Jack Show",
-            "time": "19:00:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Old Jack",
