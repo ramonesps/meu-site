@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-27T12:38:48.780Z",
-  "week_start": "2026-07-27",
+  "updated_at": "2026-07-29T11:38:43.849Z",
+  "week_start": "2026-07-29",
   "model": "gemini-2.5-flash",
   "venues": [
     {
@@ -15,7 +15,39 @@
       "ig": "https://www.instagram.com/barcrossroads/",
       "bairro": "Água Verde",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-08-01": [
+          {
+            "name": "Homenagem aos anos 70 com Gerson Conrad e Syd Vinícios",
+            "time": null,
+            "description": null
+          },
+          {
+            "name": "Especial Rock Nacional com Urbanus (tributo Barão Vermelho e Legião Urbana) e Vá",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-07-30": [
+          {
+            "name": "Crossroads Southern Roots com Jack Vermouth e Alabama Colts",
+            "time": "18:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Crossroads Southern Rock com Jack Vermouth (tributo Lynyrd Skynyrd) e Alabama Co",
+            "time": "18:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-07-31": [
+          {
+            "name": "Especial Rock 70/80/90 com Dream Theater Tributo Brasil, Acoustica Rock in Roll",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Hard Rock",
@@ -29,7 +61,46 @@
       "ig": "https://www.instagram.com/sheridansirishpub/",
       "bairro": "Batel",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-07-29": [
+          {
+            "name": "Eddie Foster",
+            "time": "20:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-07-30": [
+          {
+            "name": "Rock On The Floor com Banks",
+            "time": "20:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-07-31": [
+          {
+            "name": "Anne Glober",
+            "time": "20:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Backstage",
+            "time": "23:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-08-01": [
+          {
+            "name": "Acoustica",
+            "time": "20:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Sheridan's Music Club convida Paulo Nega Fulô, Eddie Firecracker e Zia Leme",
+            "time": "23:00:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Bastards Fábrica",
@@ -43,7 +114,57 @@
       "ig": "https://www.instagram.com/bardamaniacs/",
       "bairro": "Cabral",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-07-29": [
+          {
+            "name": "Taplist da semana",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-07-30": [
+          {
+            "name": "Taplist da semana",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-07-31": [
+          {
+            "name": "Taplist da semana",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-08-01": [
+          {
+            "name": "Taplist da semana",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-08-02": [
+          {
+            "name": "Taplist da semana",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-08-03": [
+          {
+            "name": "Taplist da semana",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-08-04": [
+          {
+            "name": "Taplist da semana",
+            "time": null,
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Rock Pizza",
@@ -57,7 +178,66 @@
       "ig": "https://www.instagram.com/distrito.1340/",
       "bairro": "Seminário",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-07-30": [
+          {
+            "name": "Open pra Mulherada",
+            "time": "19:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Syd Vinicius",
+            "time": "19:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Válvula Vapor",
+            "time": "22:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-07-31": [
+          {
+            "name": "Repescagem da Noite dos Solteiros",
+            "time": null,
+            "description": null
+          },
+          {
+            "name": "Pennyback",
+            "time": "21:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Silvermoon",
+            "time": "00:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-08-01": [
+          {
+            "name": "Freela",
+            "time": "21:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Lady Die",
+            "time": "00:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-08-02": [
+          {
+            "name": "Right Back | Tributo ao Sublime",
+            "time": "19:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Fourstance | Green Day & Blink-182",
+            "time": "22:30:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Barbarium",
@@ -71,7 +251,22 @@
       "ig": "https://www.instagram.com/dobruckibar/",
       "bairro": "Rebouças",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-08-01": [
+          {
+            "name": "Música ao vivo",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-08-02": [
+          {
+            "name": "Candyman Club",
+            "time": "15:00:00.000Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Jokers",
@@ -93,7 +288,32 @@
       "ig": "https://www.instagram.com/torkandroll/",
       "bairro": "Rebouças",
       "cat": "Palco e Show",
-      "events": {}
+      "events": {
+        "2026-08-01": [
+          {
+            "name": "Children of the Beast - Cover Iron Maiden",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-07-31": [
+          {
+            "name": "Tributo ao Foo Fighters (BREAKOUT)",
+            "time": "20:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Tributo ao Pearl Jam (RUSTYCAGE)",
+            "time": "21:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Cover Red Hot Chili Peppers (BLACK BANDANA)",
+            "time": "00:00:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Blood Rock",
@@ -122,7 +342,34 @@
       "ig": "https://www.instagram.com/sebas_rock_bar/",
       "bairro": "Boqueirão",
       "cat": "Palco e Show",
-      "events": {}
+      "events": {
+        "2026-07-30": [
+          {
+            "name": "Fabinho Oliveira acústico",
+            "time": "19:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-07-31": [
+          {
+            "name": "Banda FlashnBack e Junior Stemposki acústico",
+            "time": "19:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-08-01": [
+          {
+            "name": "Os Embalos do Sebaldo a Noite com DJ Madrox",
+            "time": null,
+            "description": null
+          },
+          {
+            "name": "Os Embalos de Sebaldo a Noite com DJ Madrox",
+            "time": "21:00:00.000Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Belvedere",
@@ -163,7 +410,58 @@
       "ig": "https://www.instagram.com/armazemgaragem/",
       "bairro": "Santo Inácio",
       "cat": "Raiz",
-      "events": {}
+      "events": {
+        "2026-07-29": [
+          {
+            "name": "Aula de Line Dance com Professora Ju Rech",
+            "time": "20:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Framboesa Country Acústico",
+            "time": "21:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-07-30": [
+          {
+            "name": "Golden Duo Rock Acústico",
+            "time": "21:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-07-31": [
+          {
+            "name": "Club Soda Flashback",
+            "time": "21:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-08-01": [
+          {
+            "name": "Toxina Hard Rock",
+            "time": "18:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Made in CWB Iron Maiden Cover",
+            "time": "21:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-08-02": [
+          {
+            "name": "Flat Rock Rock & Blues",
+            "time": "16:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Flash N Back Flashback",
+            "time": "19:00:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Old Jack",
