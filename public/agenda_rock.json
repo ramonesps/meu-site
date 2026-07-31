@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-29T11:38:43.849Z",
-  "week_start": "2026-07-29",
+  "updated_at": "2026-07-31T11:46:25.598Z",
+  "week_start": "2026-07-31",
   "model": "gemini-2.5-flash",
   "venues": [
     {
@@ -28,18 +28,6 @@
             "description": null
           }
         ],
-        "2026-07-30": [
-          {
-            "name": "Crossroads Southern Roots com Jack Vermouth e Alabama Colts",
-            "time": "18:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Crossroads Southern Rock com Jack Vermouth (tributo Lynyrd Skynyrd) e Alabama Co",
-            "time": "18:00:00Z",
-            "description": null
-          }
-        ],
         "2026-07-31": [
           {
             "name": "Especial Rock 70/80/90 com Dream Theater Tributo Brasil, Acoustica Rock in Roll",
@@ -62,20 +50,6 @@
       "bairro": "Batel",
       "cat": "Gourmet",
       "events": {
-        "2026-07-29": [
-          {
-            "name": "Eddie Foster",
-            "time": "20:30:00Z",
-            "description": null
-          }
-        ],
-        "2026-07-30": [
-          {
-            "name": "Rock On The Floor com Banks",
-            "time": "20:30:00Z",
-            "description": null
-          }
-        ],
         "2026-07-31": [
           {
             "name": "Anne Glober",
@@ -107,7 +81,34 @@
       "ig": "https://www.instagram.com/bardafabricabastards/",
       "bairro": "Bom Retiro",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-07-31": [
+          {
+            "name": "LADY DIE",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-08-01": [
+          {
+            "name": "FRAMBOESA TRIO",
+            "time": "16:00:00Z",
+            "description": null
+          },
+          {
+            "name": "SYD VINICIUS",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-08-02": [
+          {
+            "name": "RUSTY CAGE TRIO",
+            "time": "16:00:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Maniacs",
@@ -115,20 +116,6 @@
       "bairro": "Cabral",
       "cat": "Gourmet",
       "events": {
-        "2026-07-29": [
-          {
-            "name": "Taplist da semana",
-            "time": null,
-            "description": null
-          }
-        ],
-        "2026-07-30": [
-          {
-            "name": "Taplist da semana",
-            "time": null,
-            "description": null
-          }
-        ],
         "2026-07-31": [
           {
             "name": "Taplist da semana",
@@ -179,23 +166,6 @@
       "bairro": "Seminário",
       "cat": "Gourmet",
       "events": {
-        "2026-07-30": [
-          {
-            "name": "Open pra Mulherada",
-            "time": "19:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Syd Vinicius",
-            "time": "19:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Válvula Vapor",
-            "time": "22:30:00Z",
-            "description": null
-          }
-        ],
         "2026-07-31": [
           {
             "name": "Repescagem da Noite dos Solteiros",
@@ -276,7 +246,12 @@
       "events": {
         "2026-08-01": [
           {
-            "name": "The Zombie Show: Korn Cover Darmakhaos e DJs",
+            "name": "Prato do dia: Gnocchi de Batata",
+            "time": null,
+            "description": null
+          },
+          {
+            "name": "The Zombie Show com Korn Cover Darmakhaos",
             "time": "21:00:00Z",
             "description": null
           }
@@ -321,17 +296,29 @@
       "bairro": "São Francisco",
       "cat": "Palco e Show",
       "events": {
-        "2026-07-31": [
+        "2026-08-01": [
           {
-            "name": "My Chemical Romance + Time to Dance + Revamp",
+            "name": "Year of Thrash 1986 - Tributo a Metallica, Slayer e Megadeth",
             "time": "21:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Emo, Screamo e Post-Hardcore com Revamp, The Only Hope e Time To Dance",
+            "time": null,
             "description": null
           }
         ],
-        "2026-08-01": [
+        "2026-08-02": [
           {
-            "name": "Year of Thrash 1986 com Tributos a Metallica, Slayer e Megadeth",
-            "time": "21:30:00Z",
+            "name": "Year of Thrash com Tributrue, Megacoverdeth e Arsenal CWB",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-07-31": [
+          {
+            "name": "My Chemical Romance (The Only Hope) + Time to Dance (Panic, Simple Plan, Fallout",
+            "time": "21:30:00.000000000Z",
             "description": null
           }
         ]
@@ -343,13 +330,6 @@
       "bairro": "Boqueirão",
       "cat": "Palco e Show",
       "events": {
-        "2026-07-30": [
-          {
-            "name": "Fabinho Oliveira acústico",
-            "time": "19:30:00Z",
-            "description": null
-          }
-        ],
         "2026-07-31": [
           {
             "name": "Banda FlashnBack e Junior Stemposki acústico",
@@ -393,13 +373,22 @@
       "events": {
         "2026-07-31": [
           {
-            "name": "Raulzito Cover",
-            "time": "21:30:00Z",
+            "name": "Raul Seixas + Legião Urbana",
+            "time": null,
             "description": null
-          },
+          }
+        ],
+        "2026-08-01": [
           {
-            "name": "Legião Urbana com Miro Penna",
-            "time": "00:00:00Z",
+            "name": "A Santíssima Trindade do Rock",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-08-02": [
+          {
+            "name": "Curitiba Autoral Lab",
+            "time": null,
             "description": null
           }
         ]
@@ -411,25 +400,6 @@
       "bairro": "Santo Inácio",
       "cat": "Raiz",
       "events": {
-        "2026-07-29": [
-          {
-            "name": "Aula de Line Dance com Professora Ju Rech",
-            "time": "20:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Framboesa Country Acústico",
-            "time": "21:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-07-30": [
-          {
-            "name": "Golden Duo Rock Acústico",
-            "time": "21:00:00Z",
-            "description": null
-          }
-        ],
         "2026-07-31": [
           {
             "name": "Club Soda Flashback",
