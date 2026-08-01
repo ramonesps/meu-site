@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-31T11:46:25.598Z",
-  "week_start": "2026-07-31",
+  "updated_at": "2026-08-01T10:53:11.451Z",
+  "week_start": "2026-08-01",
   "model": "gemini-2.5-flash",
   "venues": [
     {
@@ -18,19 +18,7 @@
       "events": {
         "2026-08-01": [
           {
-            "name": "Homenagem aos anos 70 com Gerson Conrad e Syd Vinícios",
-            "time": null,
-            "description": null
-          },
-          {
-            "name": "Especial Rock Nacional com Urbanus (tributo Barão Vermelho e Legião Urbana) e Vá",
-            "time": "20:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-07-31": [
-          {
-            "name": "Especial Rock 70/80/90 com Dream Theater Tributo Brasil, Acoustica Rock in Roll",
+            "name": "Especial Rock Nacional",
             "time": "20:00:00Z",
             "description": null
           }
@@ -50,26 +38,14 @@
       "bairro": "Batel",
       "cat": "Gourmet",
       "events": {
-        "2026-07-31": [
-          {
-            "name": "Anne Glober",
-            "time": "20:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Backstage",
-            "time": "23:00:00Z",
-            "description": null
-          }
-        ],
         "2026-08-01": [
           {
-            "name": "Acoustica",
+            "name": "ACOUSTICA",
             "time": "20:30:00Z",
             "description": null
           },
           {
-            "name": "Sheridan's Music Club convida Paulo Nega Fulô, Eddie Firecracker e Zia Leme",
+            "name": "Sheridan's Music Club com Paulo Nega Fulô, Eddie Firecracker e Zia Leme",
             "time": "23:00:00Z",
             "description": null
           }
@@ -82,13 +58,6 @@
       "bairro": "Bom Retiro",
       "cat": "Gourmet",
       "events": {
-        "2026-07-31": [
-          {
-            "name": "LADY DIE",
-            "time": "20:00:00Z",
-            "description": null
-          }
-        ],
         "2026-08-01": [
           {
             "name": "FRAMBOESA TRIO",
@@ -116,38 +85,10 @@
       "bairro": "Cabral",
       "cat": "Gourmet",
       "events": {
-        "2026-07-31": [
-          {
-            "name": "Taplist da semana",
-            "time": null,
-            "description": null
-          }
-        ],
         "2026-08-01": [
           {
-            "name": "Taplist da semana",
-            "time": null,
-            "description": null
-          }
-        ],
-        "2026-08-02": [
-          {
-            "name": "Taplist da semana",
-            "time": null,
-            "description": null
-          }
-        ],
-        "2026-08-03": [
-          {
-            "name": "Taplist da semana",
-            "time": null,
-            "description": null
-          }
-        ],
-        "2026-08-04": [
-          {
-            "name": "Taplist da semana",
-            "time": null,
+            "name": "Cerveja na Panela",
+            "time": "11:00:00.000000000Z",
             "description": null
           }
         ]
@@ -166,23 +107,6 @@
       "bairro": "Seminário",
       "cat": "Gourmet",
       "events": {
-        "2026-07-31": [
-          {
-            "name": "Repescagem da Noite dos Solteiros",
-            "time": null,
-            "description": null
-          },
-          {
-            "name": "Pennyback",
-            "time": "21:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Silvermoon",
-            "time": "00:00:00Z",
-            "description": null
-          }
-        ],
         "2026-08-01": [
           {
             "name": "Freela",
@@ -222,17 +146,15 @@
       "bairro": "Rebouças",
       "cat": "Gourmet",
       "events": {
-        "2026-08-01": [
+        "2026-08-02": [
           {
             "name": "Música ao vivo",
             "time": null,
             "description": null
-          }
-        ],
-        "2026-08-02": [
+          },
           {
-            "name": "Candyman Club",
-            "time": "15:00:00.000Z",
+            "name": "Candyman Club e convidados",
+            "time": "15:00:00Z",
             "description": null
           }
         ]
@@ -266,25 +188,8 @@
       "events": {
         "2026-08-01": [
           {
-            "name": "Children of the Beast - Cover Iron Maiden",
+            "name": "Children of the Beast (Iron Maiden cover)",
             "time": null,
-            "description": null
-          }
-        ],
-        "2026-07-31": [
-          {
-            "name": "Tributo ao Foo Fighters (BREAKOUT)",
-            "time": "20:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Tributo ao Pearl Jam (RUSTYCAGE)",
-            "time": "21:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Cover Red Hot Chili Peppers (BLACK BANDANA)",
-            "time": "00:00:00Z",
             "description": null
           }
         ]
@@ -314,13 +219,6 @@
             "time": null,
             "description": null
           }
-        ],
-        "2026-07-31": [
-          {
-            "name": "My Chemical Romance (The Only Hope) + Time to Dance (Panic, Simple Plan, Fallout",
-            "time": "21:30:00.000000000Z",
-            "description": null
-          }
         ]
       }
     },
@@ -330,22 +228,22 @@
       "bairro": "Boqueirão",
       "cat": "Palco e Show",
       "events": {
-        "2026-07-31": [
+        "2026-08-06": [
           {
-            "name": "Banda FlashnBack e Junior Stemposki acústico",
-            "time": "19:30:00Z",
+            "name": "Open Food com Fabinho Oliveira Acústico",
+            "time": "19:00:00Z",
             "description": null
           }
         ],
         "2026-08-01": [
           {
-            "name": "Os Embalos do Sebaldo a Noite com DJ Madrox",
-            "time": null,
+            "name": "Open Food",
+            "time": "19:00:00Z",
             "description": null
           },
           {
-            "name": "Os Embalos de Sebaldo a Noite com DJ Madrox",
-            "time": "21:00:00.000Z",
+            "name": "Os Embalos do Sebaldo a Noite com DJ Madrox",
+            "time": null,
             "description": null
           }
         ]
@@ -371,13 +269,6 @@
       "bairro": "Capão Raso",
       "cat": "Raiz",
       "events": {
-        "2026-07-31": [
-          {
-            "name": "Raul Seixas + Legião Urbana",
-            "time": null,
-            "description": null
-          }
-        ],
         "2026-08-01": [
           {
             "name": "A Santíssima Trindade do Rock",
@@ -399,39 +290,7 @@
       "ig": "https://www.instagram.com/armazemgaragem/",
       "bairro": "Santo Inácio",
       "cat": "Raiz",
-      "events": {
-        "2026-07-31": [
-          {
-            "name": "Club Soda Flashback",
-            "time": "21:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-08-01": [
-          {
-            "name": "Toxina Hard Rock",
-            "time": "18:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Made in CWB Iron Maiden Cover",
-            "time": "21:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-08-02": [
-          {
-            "name": "Flat Rock Rock & Blues",
-            "time": "16:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Flash N Back Flashback",
-            "time": "19:00:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Old Jack",
