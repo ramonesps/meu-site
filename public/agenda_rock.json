@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-01T10:53:11.451Z",
-  "week_start": "2026-08-01",
+  "updated_at": "2026-08-03T12:38:43.292Z",
+  "week_start": "2026-08-03",
   "model": "gemini-2.5-flash",
   "venues": [
     {
@@ -15,15 +15,7 @@
       "ig": "https://www.instagram.com/barcrossroads/",
       "bairro": "Água Verde",
       "cat": "Gourmet",
-      "events": {
-        "2026-08-01": [
-          {
-            "name": "Especial Rock Nacional",
-            "time": "20:00:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Hard Rock",
@@ -37,20 +29,7 @@
       "ig": "https://www.instagram.com/sheridansirishpub/",
       "bairro": "Batel",
       "cat": "Gourmet",
-      "events": {
-        "2026-08-01": [
-          {
-            "name": "ACOUSTICA",
-            "time": "20:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Sheridan's Music Club com Paulo Nega Fulô, Eddie Firecracker e Zia Leme",
-            "time": "23:00:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Bastards Fábrica",
@@ -58,22 +37,10 @@
       "bairro": "Bom Retiro",
       "cat": "Gourmet",
       "events": {
-        "2026-08-01": [
+        "2026-08-09": [
           {
-            "name": "FRAMBOESA TRIO",
-            "time": "16:00:00Z",
-            "description": null
-          },
-          {
-            "name": "SYD VINICIUS",
-            "time": "20:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-08-02": [
-          {
-            "name": "RUSTY CAGE TRIO",
-            "time": "16:00:00Z",
+            "name": "São João Bastardo",
+            "time": null,
             "description": null
           }
         ]
@@ -84,15 +51,7 @@
       "ig": "https://www.instagram.com/bardamaniacs/",
       "bairro": "Cabral",
       "cat": "Gourmet",
-      "events": {
-        "2026-08-01": [
-          {
-            "name": "Cerveja na Panela",
-            "time": "11:00:00.000000000Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Rock Pizza",
@@ -106,32 +65,7 @@
       "ig": "https://www.instagram.com/distrito.1340/",
       "bairro": "Seminário",
       "cat": "Gourmet",
-      "events": {
-        "2026-08-01": [
-          {
-            "name": "Freela",
-            "time": "21:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Lady Die",
-            "time": "00:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-08-02": [
-          {
-            "name": "Right Back | Tributo ao Sublime",
-            "time": "19:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Fourstance | Green Day & Blink-182",
-            "time": "22:30:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Barbarium",
@@ -145,20 +79,7 @@
       "ig": "https://www.instagram.com/dobruckibar/",
       "bairro": "Rebouças",
       "cat": "Gourmet",
-      "events": {
-        "2026-08-02": [
-          {
-            "name": "Música ao vivo",
-            "time": null,
-            "description": null
-          },
-          {
-            "name": "Candyman Club e convidados",
-            "time": "15:00:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Jokers",
@@ -166,15 +87,27 @@
       "bairro": "Centro",
       "cat": "Gourmet",
       "events": {
-        "2026-08-01": [
+        "2026-08-07": [
           {
-            "name": "Prato do dia: Gnocchi de Batata",
-            "time": null,
+            "name": "Abertura da casa",
+            "time": "19:00:00Z",
             "description": null
           },
           {
-            "name": "The Zombie Show com Korn Cover Darmakhaos",
+            "name": "Steal This Banda",
             "time": "21:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Disaster(sic)",
+            "time": "22:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-08-08": [
+          {
+            "name": "RAMONES DAY",
+            "time": "21:00:00.000Z",
             "description": null
           }
         ]
@@ -185,15 +118,7 @@
       "ig": "https://www.instagram.com/torkandroll/",
       "bairro": "Rebouças",
       "cat": "Palco e Show",
-      "events": {
-        "2026-08-01": [
-          {
-            "name": "Children of the Beast (Iron Maiden cover)",
-            "time": null,
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Blood Rock",
@@ -201,22 +126,17 @@
       "bairro": "São Francisco",
       "cat": "Palco e Show",
       "events": {
-        "2026-08-01": [
+        "2026-08-07": [
           {
-            "name": "Year of Thrash 1986 - Tributo a Metallica, Slayer e Megadeth",
-            "time": "21:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Emo, Screamo e Post-Hardcore com Revamp, The Only Hope e Time To Dance",
-            "time": null,
+            "name": "Show Raimunda (Raimundos) e Nandu Costa (Charlie Brown Jr)",
+            "time": "22:00:00Z",
             "description": null
           }
         ],
-        "2026-08-02": [
+        "2026-08-08": [
           {
-            "name": "Year of Thrash com Tributrue, Megacoverdeth e Arsenal CWB",
-            "time": null,
+            "name": "Especial Slipknot e Linkin Park com Snot e Linkin Park Concert Br",
+            "time": "21:30:00.000Z",
             "description": null
           }
         ]
@@ -232,18 +152,6 @@
           {
             "name": "Open Food com Fabinho Oliveira Acústico",
             "time": "19:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-08-01": [
-          {
-            "name": "Open Food",
-            "time": "19:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Os Embalos do Sebaldo a Noite com DJ Madrox",
-            "time": null,
             "description": null
           }
         ]
@@ -269,17 +177,10 @@
       "bairro": "Capão Raso",
       "cat": "Raiz",
       "events": {
-        "2026-08-01": [
+        "2026-08-07": [
           {
-            "name": "A Santíssima Trindade do Rock",
-            "time": null,
-            "description": null
-          }
-        ],
-        "2026-08-02": [
-          {
-            "name": "Curitiba Autoral Lab",
-            "time": null,
+            "name": "Show Plebe Rude",
+            "time": "20:00:00.000000000Z",
             "description": null
           }
         ]
