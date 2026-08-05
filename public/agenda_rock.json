@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-03T12:38:43.292Z",
-  "week_start": "2026-08-03",
+  "updated_at": "2026-08-05T11:32:58.126Z",
+  "week_start": "2026-08-05",
   "model": "gemini-2.5-flash",
   "venues": [
     {
@@ -15,7 +15,29 @@
       "ig": "https://www.instagram.com/barcrossroads/",
       "bairro": "Água Verde",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-08-06": [
+          {
+            "name": "Crossroads Acoustics & Classics com Xima Duo e The Vedders",
+            "time": "18:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-08-07": [
+          {
+            "name": "Double Deck e Backstage com tributos",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-08-08": [
+          {
+            "name": "Delorean e Candyman Club",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Hard Rock",
@@ -29,7 +51,46 @@
       "ig": "https://www.instagram.com/sheridansirishpub/",
       "bairro": "Batel",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-08-05": [
+          {
+            "name": "ON THE FLOOR com Buckingham Duo",
+            "time": "20:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-08-06": [
+          {
+            "name": "ON THE FLOOR com Pennyback Trio",
+            "time": "20:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-08-07": [
+          {
+            "name": "Válvula Vapor",
+            "time": "20:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Silvermoon",
+            "time": "23:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-08-08": [
+          {
+            "name": "Double Deck",
+            "time": "20:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Lenhadores da Antártida",
+            "time": "23:00:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Bastards Fábrica",
@@ -51,7 +112,43 @@
       "ig": "https://www.instagram.com/bardamaniacs/",
       "bairro": "Cabral",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-08-05": [
+          {
+            "name": "Promoção Dia dos Pais com John Six",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-08-06": [
+          {
+            "name": "Promoção Dia dos Pais com John Six",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-08-07": [
+          {
+            "name": "Promoção Dia dos Pais com John Six",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-08-08": [
+          {
+            "name": "Promoção Dia dos Pais com John Six",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-08-09": [
+          {
+            "name": "Promoção Dia dos Pais com John Six",
+            "time": null,
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Rock Pizza",
@@ -65,7 +162,25 @@
       "ig": "https://www.instagram.com/distrito.1340/",
       "bairro": "Seminário",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-08-07": [
+          {
+            "name": "CPM 22 Cover Brasil",
+            "time": "20:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Os Caras do Charlie Brown",
+            "time": "22:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Lançamento da banda The Fábio Jr’s",
+            "time": "00:00:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Barbarium",
@@ -79,7 +194,20 @@
       "ig": "https://www.instagram.com/dobruckibar/",
       "bairro": "Rebouças",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-08-08": [
+          {
+            "name": "Candyman Club, Minha Banda é uma Festa, Hus Cage, DJ Adriano",
+            "time": "15:00:00.000000000Z",
+            "description": null
+          },
+          {
+            "name": "Música ao vivo",
+            "time": null,
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Jokers",
@@ -148,10 +276,20 @@
       "bairro": "Boqueirão",
       "cat": "Palco e Show",
       "events": {
-        "2026-08-06": [
+        "2026-08-08": [
           {
-            "name": "Open Food com Fabinho Oliveira Acústico",
-            "time": "19:00:00Z",
+            "name": "Show Candyman Club",
+            "time": "21:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Show Silvermoon",
+            "time": "23:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Show Backstage Tributos",
+            "time": "01:00:00Z",
             "description": null
           }
         ]
