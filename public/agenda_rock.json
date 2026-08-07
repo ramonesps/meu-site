@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-05T11:32:58.126Z",
-  "week_start": "2026-08-05",
+  "updated_at": "2026-08-07T10:16:08.906Z",
+  "week_start": "2026-08-07",
   "model": "gemini-2.5-flash",
   "venues": [
     {
@@ -8,7 +8,27 @@
       "ig": "https://www.instagram.com/wearebastardspub/",
       "bairro": "Água Verde",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-08-07": [
+          {
+            "name": "ZOIO TRIO",
+            "time": "20:00:00Z",
+            "description": null
+          },
+          {
+            "name": "LENHADORES DA ANTARTIDA",
+            "time": "22:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-08-08": [
+          {
+            "name": "BANDA FLASH N' BACK",
+            "time": "21:30:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Cross Roads",
@@ -16,13 +36,6 @@
       "bairro": "Água Verde",
       "cat": "Gourmet",
       "events": {
-        "2026-08-06": [
-          {
-            "name": "Crossroads Acoustics & Classics com Xima Duo e The Vedders",
-            "time": "18:00:00Z",
-            "description": null
-          }
-        ],
         "2026-08-07": [
           {
             "name": "Double Deck e Backstage com tributos",
@@ -44,7 +57,77 @@
       "ig": "https://www.instagram.com/hrccuritiba/",
       "bairro": "Batel",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-08-07": [
+          {
+            "name": "DUG",
+            "time": "19:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Funcionamento",
+            "time": "11:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-08-08": [
+          {
+            "name": "SHOW SHAWN JAMES",
+            "time": "14:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Funcionamento",
+            "time": "11:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-08-09": [
+          {
+            "name": "COMBO BREAKER",
+            "time": "12:30:00Z",
+            "description": null
+          },
+          {
+            "name": "BANDA ASGARD",
+            "time": "19:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Funcionamento",
+            "time": "11:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-08-10": [
+          {
+            "name": "Funcionamento",
+            "time": "11:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-08-11": [
+          {
+            "name": "Funcionamento",
+            "time": "11:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-08-12": [
+          {
+            "name": "Funcionamento",
+            "time": "11:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-08-13": [
+          {
+            "name": "Funcionamento",
+            "time": "11:00:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Sheridans",
@@ -52,20 +135,6 @@
       "bairro": "Batel",
       "cat": "Gourmet",
       "events": {
-        "2026-08-05": [
-          {
-            "name": "ON THE FLOOR com Buckingham Duo",
-            "time": "20:30:00Z",
-            "description": null
-          }
-        ],
-        "2026-08-06": [
-          {
-            "name": "ON THE FLOOR com Pennyback Trio",
-            "time": "20:30:00Z",
-            "description": null
-          }
-        ],
         "2026-08-07": [
           {
             "name": "Válvula Vapor",
@@ -100,8 +169,32 @@
       "events": {
         "2026-08-09": [
           {
-            "name": "São João Bastardo",
+            "name": "Programação Dia dos Pais",
             "time": null,
+            "description": null
+          },
+          {
+            "name": "BAILE BRASA",
+            "time": "16:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-08-07": [
+          {
+            "name": "ANACRÔNICA",
+            "time": "19:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-08-08": [
+          {
+            "name": "DANNI DISTLER DUO",
+            "time": "16:00:00Z",
+            "description": null
+          },
+          {
+            "name": "SONORA 4",
+            "time": "20:00:00Z",
             "description": null
           }
         ]
@@ -113,20 +206,6 @@
       "bairro": "Cabral",
       "cat": "Gourmet",
       "events": {
-        "2026-08-05": [
-          {
-            "name": "Promoção Dia dos Pais com John Six",
-            "time": null,
-            "description": null
-          }
-        ],
-        "2026-08-06": [
-          {
-            "name": "Promoção Dia dos Pais com John Six",
-            "time": null,
-            "description": null
-          }
-        ],
         "2026-08-07": [
           {
             "name": "Promoção Dia dos Pais com John Six",
@@ -217,25 +296,8 @@
       "events": {
         "2026-08-07": [
           {
-            "name": "Abertura da casa",
-            "time": "19:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Steal This Banda",
-            "time": "21:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Disaster(sic)",
-            "time": "22:30:00Z",
-            "description": null
-          }
-        ],
-        "2026-08-08": [
-          {
-            "name": "RAMONES DAY",
-            "time": "21:00:00.000Z",
+            "name": "Prato do dia: Pescada Branca Frita com Risoto de Lula no Limão Siciliano",
+            "time": null,
             "description": null
           }
         ]
@@ -254,17 +316,22 @@
       "bairro": "São Francisco",
       "cat": "Palco e Show",
       "events": {
-        "2026-08-07": [
-          {
-            "name": "Show Raimunda (Raimundos) e Nandu Costa (Charlie Brown Jr)",
-            "time": "22:00:00Z",
-            "description": null
-          }
-        ],
         "2026-08-08": [
           {
             "name": "Especial Slipknot e Linkin Park com Snot e Linkin Park Concert Br",
-            "time": "21:30:00.000Z",
+            "time": "21:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Especial Slipknot e Linkin Park",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-08-07": [
+          {
+            "name": "Tributo Raimundos e Charlie Brown Jr.",
+            "time": null,
             "description": null
           }
         ]
@@ -314,15 +381,7 @@
       "ig": "https://www.instagram.com/clayhighway/",
       "bairro": "Capão Raso",
       "cat": "Raiz",
-      "events": {
-        "2026-08-07": [
-          {
-            "name": "Show Plebe Rude",
-            "time": "20:00:00.000000000Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Armazém Garage",
@@ -336,7 +395,34 @@
       "ig": "https://www.instagram.com/oldjackgaragebar/",
       "bairro": "Novo Mundo",
       "cat": "Raiz",
-      "events": {}
+      "events": {
+        "2026-08-07": [
+          {
+            "name": "The Shadettes - Nazareth Tributo",
+            "time": "20:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-08-08": [
+          {
+            "name": "CPM 22 Cover Brasil",
+            "time": "20:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Banda 041",
+            "time": "20:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-08-09": [
+          {
+            "name": "Ochtop",
+            "time": "18:30:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Animals Pub",
