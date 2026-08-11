@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-09T09:52:15.497Z",
-  "week_start": "2026-08-09",
+  "updated_at": "2026-08-11T10:13:32.211Z",
+  "week_start": "2026-08-11",
   "model": "gemini-2.5-flash",
   "venues": [
     {
@@ -35,53 +35,7 @@
       "ig": "https://www.instagram.com/hrccuritiba/",
       "bairro": "Batel",
       "cat": "Gourmet",
-      "events": {
-        "2026-08-09": [
-          {
-            "name": "COMBO BREAKER",
-            "time": "12:30:00Z",
-            "description": null
-          },
-          {
-            "name": "BANDA ASGARD",
-            "time": "19:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Funcionamento",
-            "time": "11:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-08-10": [
-          {
-            "name": "Funcionamento",
-            "time": "11:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-08-11": [
-          {
-            "name": "Funcionamento",
-            "time": "11:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-08-12": [
-          {
-            "name": "Funcionamento",
-            "time": "11:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-08-13": [
-          {
-            "name": "Funcionamento",
-            "time": "11:00:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Sheridans",
@@ -113,35 +67,14 @@
       "ig": "https://www.instagram.com/bardafabricabastards/",
       "bairro": "Bom Retiro",
       "cat": "Gourmet",
-      "events": {
-        "2026-08-09": [
-          {
-            "name": "Programação Dia dos Pais",
-            "time": null,
-            "description": null
-          },
-          {
-            "name": "BAILE BRASA",
-            "time": "16:00:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Maniacs",
       "ig": "https://www.instagram.com/bardamaniacs/",
       "bairro": "Cabral",
       "cat": "Gourmet",
-      "events": {
-        "2026-08-09": [
-          {
-            "name": "Primeiro chope em dobro",
-            "time": null,
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Rock Pizza",
@@ -155,25 +88,7 @@
       "ig": "https://www.instagram.com/distrito.1340/",
       "bairro": "Seminário",
       "cat": "Gourmet",
-      "events": {
-        "2026-08-09": [
-          {
-            "name": "Lenhadores da Antártida e Let’s Core",
-            "time": null,
-            "description": null
-          },
-          {
-            "name": "Lenhadores da Antártida",
-            "time": "21:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Let's Core",
-            "time": "00:00:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Barbarium",
@@ -207,7 +122,48 @@
       "ig": "https://www.instagram.com/jokerspub/",
       "bairro": "Centro",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-08-11": [
+          {
+            "name": "Duo Awallonia",
+            "time": null,
+            "description": null
+          },
+          {
+            "name": "Costelinha de porco com barbecue",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-08-12": [
+          {
+            "name": "Boldrini Jazz Trio",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-08-13": [
+          {
+            "name": "Live Transmission",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-08-14": [
+          {
+            "name": "Elvis Respect",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-08-15": [
+          {
+            "name": "Monster Truck Rock Party",
+            "time": null,
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Tork n' Roll",
@@ -221,7 +177,22 @@
       "ig": "https://www.instagram.com/bloodrockbar/",
       "bairro": "São Francisco",
       "cat": "Palco e Show",
-      "events": {}
+      "events": {
+        "2026-08-15": [
+          {
+            "name": "Ozzy Day com OzzStorm",
+            "time": "19:00:00.000Z",
+            "description": null
+          }
+        ],
+        "2026-08-14": [
+          {
+            "name": "Especial Gojira e Sleep Token",
+            "time": "21:30:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Seb's Rock Bar",
@@ -249,7 +220,37 @@
       "ig": "https://www.instagram.com/clayhighway/",
       "bairro": "Capão Raso",
       "cat": "Raiz",
-      "events": {}
+      "events": {
+        "2026-08-15": [
+          {
+            "name": "Castanheira Armandinho tributo",
+            "time": "20:30:00Z",
+            "description": null
+          },
+          {
+            "name": "DZ6 - Charlie Brown Jr",
+            "time": "22:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Lets Core - The Offspring, Bad Religion, Green Day",
+            "time": "01:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Festival Papo Reto",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-08-16": [
+          {
+            "name": "Curitiba Autoral Lab",
+            "time": null,
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Armazém Garage",
@@ -264,10 +265,10 @@
       "bairro": "Novo Mundo",
       "cat": "Raiz",
       "events": {
-        "2026-08-09": [
+        "2026-08-14": [
           {
-            "name": "Ochtop",
-            "time": "18:30:00Z",
+            "name": "Tributo ao Nazareth com The Shadetts",
+            "time": "20:30:00Z",
             "description": null
           }
         ]

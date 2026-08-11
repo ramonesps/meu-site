@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T09:42:25.676Z",
+  "generatedAt": "2026-08-11T10:02:32.215Z",
   "providers": {
     "instagram": "apify/instagram-api-scraper",
     "ai": "gemini-2.5-flash"
@@ -191,77 +191,113 @@
       "name": "Jokers",
       "instagram": "https://www.instagram.com/jokerspub/",
       "handle": "jokerspub",
-      "fetchedAt": "2026-08-07T10:11:01.284Z",
+      "fetchedAt": "2026-08-11T10:08:05.970Z",
       "posts": [
         {
-          "id": "DbtKClqRj7g",
-          "caption": "Hoje, às 20h, a banda RádioK7 vem ao nosso salão Queirolo para rebobinar os grandes clássicos do rock brasileiro dos anos 70 e 80. No repertório, Os Mutantes, Rita Lee, Secos & Molhados, Tim Maia e muitos outros sucessos, em um show para cantar, recordar e reviver grandes momentos da música brasileira.\nEntrada gratuita\n\nJokers Pub\nRua São Francisco, 164 – Centro – Curitiba\nReservas: (41) 3324-2351\n\nVenha viver uma noite de boa música, ótima gastronomia e o clima único do Jokers. Esperamos por você!\n\n#RadioK7 #JokersPub #RockBrasileiro #Anos70 #Anos80",
-          "mediaType": "Image",
-          "timestamp": "2026-08-06T16:35:56.000Z",
-          "permalink": "https://www.instagram.com/p/DbtKClqRj7g/",
+          "id": "Db3OFeAkfTT",
+          "caption": "Arraste ➡️ e confira\nA AGENDA DA SEMANA \n\nVem pro Jokers você também!\n📍Rua São Francisco, 164 - Centro\n📲 WhatsApp (41) 3324-2351\n\n#Jokers #curitiba",
+          "mediaType": "Sidecar",
+          "timestamp": "2026-08-10T14:23:39.000Z",
+          "permalink": "https://www.instagram.com/p/Db3OFeAkfTT/",
           "images": [
-            "https://scontent-icn2-1.cdninstagram.com/v/t51.82787-15/768615168_18480048457096325_6056642398950896648_n.webp?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gG1SfhJ0ZkW5nR1l-xu2kkPYXbYUqANFokqWuGAJNfWE4HFDy5yK1QRlq8rpWBV2qo&_nc_ohc=HzOzrJPh-MkQ7kNvwH4RO8O&_nc_gid=hnefjwFKs1hXgmxyNyLAjw&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQHealV9gm5OVutOSkU1-uTGrMZutMcFD-Ypl4Yl4y_gjQ&oe=6A7B823D&_nc_sid=c6f216"
+            "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-15/772119413_18480831763096325_6951518505539281132_n.webp?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gFBDoKXpHAEtCYpTjrOdN5asXo5EpVhZqHrc0Q-TqQ5oOITEdSYJ4MBaLG-fJyP6BAeZB07qfZxRkSAC73O2Tvs&_nc_ohc=DjUJrQuliqAQ7kNvwEtjiJr&_nc_gid=22VsjmE-dLGLHg8Y1CaZzQ&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQHEs6cXIQq8k1AxpGHmWSeMIEkwXwcUOI04wmoJ_1UxjA&oe=6A80D48F&_nc_sid=c6f216"
           ],
           "handle": "jokerspub",
           "raw": {
             "ownerUsername": "jokerspub",
-            "type": "Image",
-            "shortCode": "DbtKClqRj7g"
-          },
-          "analysis": {
-            "relevant": false,
-            "events": [],
-            "windowMax": "2026-08-13"
-          }
-        },
-        {
-          "id": "DbvBoHJDEMz",
-          "caption": "Prato do dia: Entrada +Filé de Peixe com Risoto de lula no limão siciliano + Sobremesa\n\nTemos também opção vegetariana 🥗\n\nVenham almoçar conosco ou, se preferir, levamos até você!\n📲 Peça pelo Whats (41) 3324 2351\nOu peça também pelo Ifood\n\n#jokerspub #peixe #oquecomeremcuritiba #oquefazeremcuritiba #gastronomia",
-          "mediaType": "Image",
-          "timestamp": "2026-08-07T10:00:52.000Z",
-          "permalink": "https://www.instagram.com/p/DbvBoHJDEMz/",
-          "images": [
-            "https://scontent-ber1-1.cdninstagram.com/v/t39.30808-6/764907008_1557663969736202_2618162030984708524_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-ber1-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gFESbETwy0daCR0yBRTIcwZa_X80TXDgXHHGQYgsLV3LRdWc5tSkPiCuVMG5xFrM2c&_nc_ohc=U76TWRGO-IYQ7kNvwEaSRB9&_nc_gid=NUvuNaB-R_NJfjyD26U1nw&edm=APU89FAAAAAA&ccb=7-5&oh=00_AQEzkZi1O_u5MF2ts6cN9UUdkHslVVemR0QXBwnYxwNhWg&oe=6A7B9C8B&_nc_sid=bc0c2c"
-          ],
-          "handle": "jokerspub",
-          "raw": {
-            "ownerUsername": "jokerspub",
-            "type": "Image",
-            "shortCode": "DbvBoHJDEMz"
+            "type": "Sidecar",
+            "shortCode": "Db3OFeAkfTT"
           },
           "analysis": {
             "relevant": true,
             "events": [
               {
-                "date": "2026-08-07",
-                "title": "Prato do dia: Pescada Branca Frita com Risoto de Lula no Limão Siciliano",
+                "date": "2026-08-11",
+                "title": "Duo Awallonia",
                 "start_time": null,
                 "confidence": "high",
-                "evidence": "SEXTA-FEIRA | PRATO DO DIA"
+                "evidence": "11/08 Terça Duo Awallonia"
+              },
+              {
+                "date": "2026-08-12",
+                "title": "Boldrini Jazz Trio",
+                "start_time": null,
+                "confidence": "high",
+                "evidence": "12/08 Quarta Boldrini Jazz Trio"
+              },
+              {
+                "date": "2026-08-13",
+                "title": "Live Transmission",
+                "start_time": null,
+                "confidence": "high",
+                "evidence": "13/08 Quinta Live Transmission"
+              },
+              {
+                "date": "2026-08-14",
+                "title": "Elvis Respect",
+                "start_time": null,
+                "confidence": "high",
+                "evidence": "14/08 Sexta Elvis Respect"
+              },
+              {
+                "date": "2026-08-15",
+                "title": "Monster Truck Rock Party",
+                "start_time": null,
+                "confidence": "high",
+                "evidence": "15/08 Sábado Monster Truck Rock Party"
               }
             ],
-            "windowMax": "2026-08-13"
+            "windowMax": "2026-08-17"
           }
         },
         {
-          "id": "DbtVs_yiT94",
-          "caption": "21 de agosto. Uma dobradinha inédita!\nSYNDICS + DOLORES \n\nVai ter uma avalanche de musicas dos anos 90 até os dias de hoje. Com 2 set especiais, The Killers e The Cranberries\n\nVenha curtir a noite com a gente, aproveitar nosso cardapio e bons chopps gelado no nosso happyhour\n\nEntrada free até 21h\nApós as 21h R$20\n\nAbertura da casa 18h\nShow as 22h\nVem pro Jokers você também\n🌐Rua São Francisco, 164 - Centro\n📲Whats: 41 3324 2351",
-          "mediaType": "Image",
-          "timestamp": "2026-08-06T18:17:48.000Z",
-          "permalink": "https://www.instagram.com/p/DbtVs_yiT94/",
+          "id": "Db3AgWpkdiw",
+          "caption": "Venham almoçar conosco ou, se preferir, levamos até você!\n\nTemos também opções vegetarianas 🥗\n\n📲 Peça pelo Whats (41) 3324 2351\nOu peça também pelo Ifood\n\n#jokerspub",
+          "mediaType": "Sidecar",
+          "timestamp": "2026-08-10T12:24:59.000Z",
+          "permalink": "https://www.instagram.com/p/Db3AgWpkdiw/",
           "images": [
-            "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/766710613_18480062065096325_467221889730053045_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGkLyaIeVd_b9NXKaiW1FNx8RnIo-Fi7BH4c1Y2WgoKRFaRoGSztMdNHH0V5qMdJhtbxR0uw0getuNOqVt-zah7&_nc_ohc=Oh0PNcBHj0QQ7kNvwEUBFCR&_nc_gid=_oAaGoStnLnt5Qn78YmuyA&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQEcfOFmRzOghOJXUVPKk7brVLW2LUarmKpsBKe9IYt1ww&oe=6A7B7FE3&_nc_sid=c6f216"
+            "https://instagram.fvlc7-1.fna.fbcdn.net/v/t51.82787-15/772391647_18480811612096325_6538582858247037094_n.webp?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=instagram.fvlc7-1.fna.fbcdn.net&_nc_cat=105&_nc_oc=Q6cZ2gEHZ3KEFMqLQOQkurgH1aXEsUG6nFJdYmiRdp-ODTEzy1tTBCFtW2mdGxawM_SlnZs&_nc_ohc=J9OIrqoXjO8Q7kNvwHNYFbf&_nc_gid=E6nj6rrkBkKUpG2bQb7j_w&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQEMe9evwubzDQRj5WPRQXevY9HDxE6l7YpbDG605NDMeg&oe=6A80DF5E&_nc_sid=c6f216"
+          ],
+          "handle": "jokerspub",
+          "raw": {
+            "ownerUsername": "jokerspub",
+            "type": "Sidecar",
+            "shortCode": "Db3AgWpkdiw"
+          },
+          "analysis": {
+            "relevant": false,
+            "events": [],
+            "windowMax": "2026-08-17"
+          }
+        },
+        {
+          "id": "Db5UvIiCEJO",
+          "caption": "Prato do dia: Entrada + Costelinha de porco com barbecue +\nArroz branco, batata ao forno e farofa+ sobremesa\n\nTemos também opções vegetarianas 🥗\nVenham almoçar conosco ou, se preferir, levamos até você!\n📲 Peça pelo Whats (41) 3324 2351\nOu peça também pelo Ifood\n\n#jokerspub #costelinha #barbecue\n1 sem",
+          "mediaType": "Image",
+          "timestamp": "2026-08-11T10:00:16.000Z",
+          "permalink": "https://www.instagram.com/p/Db5UvIiCEJO/",
+          "images": [
+            "https://scontent-nrt1-2.cdninstagram.com/v/t39.30808-6/769295046_1561411062694826_5404863345287272556_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-nrt1-2.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gFSTQ6ZUzH7n_AinHX35jQDcMIvmZp4az8zZKMXf56NJsmOEw_4CgahV7sIhd2tXCE&_nc_ohc=OPIsECjYxVYQ7kNvwF0c24c&_nc_gid=rYlf1M6kaaE15c0lfA-log&edm=ADp7STQAAAAA&ccb=7-5&oh=00_AQEndvPnmqJ0pWdtGGQ6aiHnEaJTdVO3960OBEIvzMFSiw&oe=6A80ACAE&_nc_sid=c6f216"
           ],
           "handle": "jokerspub",
           "raw": {
             "ownerUsername": "jokerspub",
             "type": "Image",
-            "shortCode": "DbtVs_yiT94"
+            "shortCode": "Db5UvIiCEJO"
           },
           "analysis": {
-            "relevant": false,
-            "events": [],
-            "windowMax": "2026-08-13"
+            "relevant": true,
+            "events": [
+              {
+                "date": "2026-08-11",
+                "title": "Costelinha de porco com barbecue",
+                "start_time": null,
+                "confidence": "high",
+                "evidence": "TERÇA-FEIRA | PRATO DO DIA: Costelinha de porco com barbecue"
+              }
+            ],
+            "windowMax": "2026-08-17"
           }
         }
       ]
@@ -271,70 +307,27 @@
       "name": "Bastards Pub",
       "instagram": "https://www.instagram.com/wearebastardspub/",
       "handle": "wearebastardspub",
-      "fetchedAt": "2026-08-07T10:04:56.173Z",
+      "fetchedAt": "2026-08-11T10:03:19.066Z",
       "posts": [
         {
-          "id": "DaWM7U5stqX",
-          "caption": "Domingo é dia de torcer na Casinha!\n\nA partir das 15h, a casa já está aberta esperando você com cerveja gelada e aquele clima de pré-jogo.\n\nÀs 17h, a bola rola para Brasil x Noruega, com transmissão em 2 telões para ninguém perder um lance.\n\nAssim que acabar a partida, quem assume o palco é a Lady Die, às 19h. \n\n🎟️ Entrada: R$ 15,00",
+          "id": "Dbv0nhZOmU6",
+          "caption": "#inverno dura até dia 22 de Setembro\nE para dias frios, temos cervejas que aquecem a matilha!\n\nSe liga na lista Cachorrada, e garante seu gole, dias 07, 08 e 09 tem Festival de Inverno no We Are Bastards com as cervejas:\n\n@joyprojectbrewing - Double Pastry Stout - The Great Mistake\n@frohenfeld - Rauchbier\n@bastardsbrewery e @ignoruscervejaria - RIS Coco Queimado - Pérola Negra\n@cervejariaaraucaria_ - Robust Porter - Vêneta\n@cervejariazev - Barley Wine - Serie Z\n@cervejariabierbaum - Bock\n\nMas não vacila não... Se zerar o tanque, não tem mais!",
           "mediaType": "Image",
-          "timestamp": "2026-07-03T22:10:35.000Z",
-          "permalink": "https://www.instagram.com/p/DaWM7U5stqX/",
+          "timestamp": "2026-08-07T17:26:28.000Z",
+          "permalink": "https://www.instagram.com/p/Dbv0nhZOmU6/",
           "images": [
-            "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/733019760_18447820807139566_4991340314838795883_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gGik3uUmdO2xHyDMSv6ailP4DVEZMUkgfQi6OquSnkgGl_igLUVOh4ZeL4j6htaid3RuDAtKLkLu4p15BfH2z34&_nc_ohc=WXvVgLC5SzMQ7kNvwEEy85B&_nc_gid=s_3TZIqk0dfmXKJBwCtt3g&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQGLVdPfjzDS6-TtxRP-s3CtRT3lmgZR5DLg1NnIE0EJAQ&oe=6A7B66C9&_nc_sid=c6f216"
+            "https://scontent-ham3-1.cdninstagram.com/v/t51.82787-15/765931032_18453923371139566_6077832354962097246_n.webp?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-ham3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gEsfsMzhDMSqMO4h8M9JXdW_7hR8dussy_QwS1Y5ZLTMDYM-Z7d_js-g8efKqciUNo&_nc_ohc=vS0Z9l4OH5YQ7kNvwEAHja4&_nc_gid=XzVjnarzLktq5p1sUBYtxg&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQGuGK6n7e-mkFE9u-cI0joXgUMRbZ1eAzpHFoGlELBiKA&oe=6A80B10B&_nc_sid=c6f216"
           ],
           "handle": "wearebastardspub",
           "raw": {
             "ownerUsername": "wearebastardspub",
             "type": "Image",
-            "shortCode": "DaWM7U5stqX"
+            "shortCode": "Dbv0nhZOmU6"
           },
           "analysis": {
             "relevant": false,
             "events": [],
-            "windowMax": "2026-08-13"
-          }
-        },
-        {
-          "id": "Dbn_8BtOJya",
-          "caption": "Agenda no ar! \n\nVem conferir quem comanda o palco essa semana e já marca a galera que vai colar com você no rolê.\n\nA casinha tá aberta de terça a sábado, a partir das 18h. 🍻",
-          "mediaType": "Image",
-          "timestamp": "2026-08-04T16:31:50.000Z",
-          "permalink": "https://www.instagram.com/p/Dbn_8BtOJya/",
-          "images": [
-            "https://scontent-dfw6-2.cdninstagram.com/v/t51.82787-15/762553866_18453402673139566_4708345040289579959_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-dfw6-2.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gH3u3rkMhXcmxGjpm8Jfs-kYrK9lnj88vZ1UWCCAYK38SEzCcU21H_Wo29kSbdvVKM&_nc_ohc=SP1rPjyzze0Q7kNvwEZ-a_Z&_nc_gid=7g5BJUKTPi1aL-Fp26FRUw&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQHipdTwvCzXkcEW0qKoieqo0sro_dlBq3f0JAQE9j_yJQ&oe=6A7B89D1&_nc_sid=c6f216"
-          ],
-          "handle": "wearebastardspub",
-          "raw": {
-            "ownerUsername": "wearebastardspub",
-            "type": "Image",
-            "shortCode": "Dbn_8BtOJya"
-          },
-          "analysis": {
-            "relevant": true,
-            "events": [
-              {
-                "date": "2026-08-07",
-                "title": "ZOIO TRIO",
-                "start_time": "20:00:00Z",
-                "confidence": "high",
-                "evidence": "07/08 SEX ZOIO TRIO SHOW 20H00"
-              },
-              {
-                "date": "2026-08-07",
-                "title": "LENHADORES DA ANTARTIDA",
-                "start_time": "22:30:00Z",
-                "confidence": "high",
-                "evidence": "07/08 SEX LENHADORES DA ANTARTIDA SHOW 22H30"
-              },
-              {
-                "date": "2026-08-08",
-                "title": "BANDA FLASH N' BACK",
-                "start_time": "21:30:00Z",
-                "confidence": "high",
-                "evidence": "08/08 SÁB BANDA FLASH N' BACK SHOW 21H30"
-              }
-            ],
-            "windowMax": "2026-08-13"
+            "windowMax": "2026-08-17"
           }
         }
       ]
@@ -344,56 +337,27 @@
       "name": "Hard Rock",
       "instagram": "https://www.instagram.com/hrccuritiba/",
       "handle": "hrccuritiba",
-      "fetchedAt": "2026-08-07T10:06:48.312Z",
+      "fetchedAt": "2026-08-11T10:04:05.428Z",
       "posts": [
         {
-          "id": "DbmRaBnNLMl",
-          "caption": "A trilha sonora da sua semana já está garantida! Nosso palco recebe shows ao vivo todos os dias! 🎸\n\nConfira a live music da semana e programe-se para viver momentos inesquecíveis ao som de boa música, gastronomia e aquela atmosfera que só o Hard tem! Te esperamos!\n\n⏰ Horários:\nSegunda a Quinta: 11h às 00h\nSexta: 11h à 1h\nSábado: 11h à 1h\nDomingo: 11h às 00h\n\n🎸 Entrada:\nA partir das 11h: R$15,00\nA partir das 18h: R$30,00\n\n📞: +55 41 98799-1178\n🎸: Música ao vivo todos os dias\n📍: R. Buenos Aires, 50 - Batel",
+          "id": "DakrZFKRNla",
+          "caption": "Não precisa esperar o fim de semana 🎸 \n\nNo Hard Rock Cafe Curitiba, todos os dias são uma ótima oportunidade para reunir os amigos, celebrar momentos especiais ou simplesmente aproveitar boa música e boa gastronomia.\n\nEstamos abertos todos os dias, das 11h às 24h.\n\n📲 Faça sua reserva pelo link da bio e venha viver a experiência Hard Rock Cafe.",
           "mediaType": "Image",
-          "timestamp": "2026-08-04T00:26:42.000Z",
-          "permalink": "https://www.instagram.com/p/DbmRaBnNLMl/",
+          "timestamp": "2026-07-09T13:03:27.000Z",
+          "permalink": "https://www.instagram.com/p/DakrZFKRNla/",
           "images": [
-            "https://scontent-man2-1.cdninstagram.com/v/t51.82787-15/764339835_18605883412041953_5648955259668609943_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gG0B8Xb-ItbYcn_eAYX_-C3urT5PsEJJvq9W4Bxz9yL87HX0CBmIXsdHE-1OdlzJrs&_nc_ohc=iaBZ5FxbfJUQ7kNvwGltSmY&_nc_gid=dfYXxsVvwbI4EiMopvFXpA&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQEYD2kgz4gIrdgRIzBKHfIUZbi2U43o2X9sptD26lFqyQ&oe=6A7B74CC&_nc_sid=c6f216"
+            "https://instagram.fykz1-1.fna.fbcdn.net/v/t51.82787-15/731113763_18598264501041953_6051761522872588553_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=instagram.fykz1-1.fna.fbcdn.net&_nc_cat=105&_nc_oc=Q6cZ2gHdy_5mf7h4hLWDeFFa6FjPywt2I5RJiM84IYK9FU76wuXwZYPN51n0VQy4ZHMVlAk&_nc_ohc=DD5BIpMbwc8Q7kNvwH4b7f2&_nc_gid=gJ61ACofQgW-mdWGMQNKPQ&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQElQEs1dIDain7CLdHoVFS9BjCPwlWfSKaVurWXdqscMg&oe=6A80C05D&_nc_sid=c6f216"
           ],
           "handle": "hrccuritiba",
           "raw": {
             "ownerUsername": "hrccuritiba",
             "type": "Image",
-            "shortCode": "DbmRaBnNLMl"
+            "shortCode": "DakrZFKRNla"
           },
           "analysis": {
-            "relevant": true,
-            "events": [
-              {
-                "date": "2026-08-07",
-                "title": "DUG",
-                "start_time": "19:30:00Z",
-                "confidence": "high",
-                "evidence": "07. SEXTA-FEIRA DUG | 19H30"
-              },
-              {
-                "date": "2026-08-08",
-                "title": "SHOW SHAWN JAMES",
-                "start_time": "14:30:00Z",
-                "confidence": "high",
-                "evidence": "08. SÁBADO 14H30 FECHADO PARA EVENTO - SHOW SHAWN JAMES"
-              },
-              {
-                "date": "2026-08-09",
-                "title": "COMBO BREAKER",
-                "start_time": "12:30:00Z",
-                "confidence": "high",
-                "evidence": "09. DOMINGO COMBO BREAKER | 12H30"
-              },
-              {
-                "date": "2026-08-09",
-                "title": "BANDA ASGARD",
-                "start_time": "19:30:00Z",
-                "confidence": "high",
-                "evidence": "09. DOMINGO BANDA ASGARD | 19H30"
-              }
-            ],
-            "windowMax": "2026-08-13"
+            "relevant": false,
+            "events": [],
+            "windowMax": "2026-08-17"
           }
         },
         {
@@ -403,7 +367,7 @@
           "timestamp": "2026-08-02T20:53:00.000Z",
           "permalink": "https://www.instagram.com/p/DbjUBgTtaSF/",
           "images": [
-            "https://instagram.fgdl1-3.fna.fbcdn.net/v/t51.82787-15/762864075_18605537233041953_1731799153744670709_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fgdl1-3.fna.fbcdn.net&_nc_cat=105&_nc_oc=Q6cZ2gGAXqcj6Y5qNNebTo_M-VvAcUzpza1Ei01L6A6bnAV-LaWxEi814UcMu896qPRqT7s&_nc_ohc=Vj_Yo5Ldm2UQ7kNvwHZox2O&_nc_gid=eRyke_M0KbrwT6RBgIvbLA&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQHKBCZwbm4XGgracTy3083eNy2S4_dgAREZyAdAgF-8Pg&oe=6A7B92C4&_nc_sid=c6f216"
+            "https://instagram.fsyd5-1.fna.fbcdn.net/v/t51.82787-15/762864075_18605537233041953_1731799153744670709_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fsyd5-1.fna.fbcdn.net&_nc_cat=105&_nc_oc=Q6cZ2gFLFbZd4DbJYoOu9jHznuXgREYB5x6WqfnTiqJCA8kYQBH1tuUg4hhCA1BiEDDkQag&_nc_ohc=ofRaO-Mh0XYQ7kNvwE3QKAn&_nc_gid=gpuHU-X88bwc3NF38Cwrcg&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQG69vTED-iD_BQm_Ojm65SFHja1wfQ8wirXZs5QQfsjqA&oe=6A80D8C4&_nc_sid=c6f216"
           ],
           "handle": "hrccuritiba",
           "raw": {
@@ -414,78 +378,7 @@
           "analysis": {
             "relevant": false,
             "events": [],
-            "windowMax": "2026-08-13"
-          }
-        },
-        {
-          "id": "DakrZFKRNla",
-          "caption": "Não precisa esperar o fim de semana 🎸 \n\nNo Hard Rock Cafe Curitiba, todos os dias são uma ótima oportunidade para reunir os amigos, celebrar momentos especiais ou simplesmente aproveitar boa música e boa gastronomia.\n\nEstamos abertos todos os dias, das 11h às 24h.\n\n📲 Faça sua reserva pelo link da bio e venha viver a experiência Hard Rock Cafe.",
-          "mediaType": "Image",
-          "timestamp": "2026-07-09T13:03:27.000Z",
-          "permalink": "https://www.instagram.com/p/DakrZFKRNla/",
-          "images": [
-            "https://scontent-nrt6-1.cdninstagram.com/v/t51.82787-15/731113763_18598264501041953_6051761522872588553_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-nrt6-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gFhF6rDiZjI7ViJzTtG7hwgroRjPZQdV1WNd1e-aAd4XsabHnuzXExGS7W6niUo9MA&_nc_ohc=FVb5jBI6aEQQ7kNvwGvcQuu&_nc_gid=JvBezDt0Jvzv77QZ5aTjKA&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQET3uW2td5G_nrD5xkMzUHMNxvWMwFyv2KjRsBs-PlFXA&oe=6A7B7A5D&_nc_sid=c6f216"
-          ],
-          "handle": "hrccuritiba",
-          "raw": {
-            "ownerUsername": "hrccuritiba",
-            "type": "Image",
-            "shortCode": "DakrZFKRNla"
-          },
-          "analysis": {
-            "relevant": true,
-            "events": [
-              {
-                "date": "2026-08-07",
-                "title": "Funcionamento",
-                "start_time": "11:00:00Z",
-                "confidence": "high",
-                "evidence": "Aberto todos os dias, das 11h às 24h"
-              },
-              {
-                "date": "2026-08-08",
-                "title": "Funcionamento",
-                "start_time": "11:00:00Z",
-                "confidence": "high",
-                "evidence": "Aberto todos os dias, das 11h às 24h"
-              },
-              {
-                "date": "2026-08-09",
-                "title": "Funcionamento",
-                "start_time": "11:00:00Z",
-                "confidence": "high",
-                "evidence": "Aberto todos os dias, das 11h às 24h"
-              },
-              {
-                "date": "2026-08-10",
-                "title": "Funcionamento",
-                "start_time": "11:00:00Z",
-                "confidence": "high",
-                "evidence": "Aberto todos os dias, das 11h às 24h"
-              },
-              {
-                "date": "2026-08-11",
-                "title": "Funcionamento",
-                "start_time": "11:00:00Z",
-                "confidence": "high",
-                "evidence": "Aberto todos os dias, das 11h às 24h"
-              },
-              {
-                "date": "2026-08-12",
-                "title": "Funcionamento",
-                "start_time": "11:00:00Z",
-                "confidence": "high",
-                "evidence": "Aberto todos os dias, das 11h às 24h"
-              },
-              {
-                "date": "2026-08-13",
-                "title": "Funcionamento",
-                "start_time": "11:00:00Z",
-                "confidence": "high",
-                "evidence": "Aberto todos os dias, das 11h às 24h"
-              }
-            ],
-            "windowMax": "2026-08-13"
+            "windowMax": "2026-08-17"
           }
         }
       ]
@@ -495,106 +388,48 @@
       "name": "Bastards Fábrica",
       "instagram": "https://www.instagram.com/bardafabricabastards/",
       "handle": "bardafabricabastards",
-      "fetchedAt": "2026-08-07T10:08:16.208Z",
+      "fetchedAt": "2026-08-11T10:05:08.366Z",
       "posts": [
         {
-          "id": "DbtmKX1vvv4",
-          "caption": "O Ciclone chama Bomba... 😵😵😵\n\nE pensando na segurança de toda Matilha\nVamos cancelar Nossa edição do São João Bastardo\nVoltamos à comunicar na nova data!\n\nMas primeiro, queremos os vira-latas seguros!\nA programação de Domingo será garantida, para quem buscar abrigo no Canil nesse dia dos Pais!🐶🍴",
+          "id": "Dbv7tkXJCrB",
+          "caption": "Apesar do bar ter portas abertas e entrada Free...\nAqui o frio não entra! Mas se ainda assim a matilha sentir frio no canil, a gente faz questão de esquentar a cachorrada\nInverno dura até dia 22 de Setembro, e aqui no Bar da Fabrica rola Festival de Inverno nos dias 07, 08 e 09 de Agosto.\nSe liga nas cervejas confirmadas:\n\n@kohzanzenbeer - Tripel - Kojin\n@frohenfeld - Rauchbier\n@bastardsbrewery e @ignoruscervejaria - RIS Coco Queimado - Pérola Negra\n@cervejariaaraucaria_ - Robust Porter - Vêneta\n@cervejariazev - Barley Wine - Serie Z\n\nMas não vacila não... Se zerar o tanque, não tem mais!",
           "mediaType": "Image",
-          "timestamp": "2026-08-06T20:41:40.000Z",
-          "permalink": "https://www.instagram.com/p/DbtmKX1vvv4/",
+          "timestamp": "2026-08-07T18:28:27.000Z",
+          "permalink": "https://www.instagram.com/p/Dbv7tkXJCrB/",
           "images": [
-            "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/764817647_18120483524502869_7065903511719886570_n.webp?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gET98QlUANa2UoUikZbaFVPnDrsLcRu0ybjRGVedes1J6fxT9cc47UqIRpZU_-IsxM&_nc_ohc=-XzO5i8h828Q7kNvwF1_tK8&_nc_gid=6MGpm1C1LOo_XTrLabjp1w&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQGBB_IjRCXJGthhBeTwKRpmh-NHAvJhIZ89NFekSn2ihA&oe=6A7B727D&_nc_sid=c6f216"
+            "https://scontent-cdg6-1.cdninstagram.com/v/t51.82787-15/768408872_18120611534502869_7399180736762057205_n.webp?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-cdg6-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gFJD7pjK8AyodBoJROtrgV5SGzalKKQxJXdOcXTJTB4-_LWt_Aip1bcLdzJLPcRABnkc5SK2T7i4lLjFzQWx2ns&_nc_ohc=k89w0TAOzO4Q7kNvwEtG1xb&_nc_gid=3_zd-T1JWS9UAyMEb4XSxA&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQEV5V4g0hGpWuM-4ULNRQxjQt7nElxJNs30rT-ngCjukg&oe=6A80B9E8&_nc_sid=c6f216"
           ],
           "handle": "bardafabricabastards",
           "raw": {
             "ownerUsername": "bardafabricabastards",
             "type": "Image",
-            "shortCode": "DbtmKX1vvv4"
-          },
-          "analysis": {
-            "relevant": true,
-            "events": [
-              {
-                "date": "2026-08-09",
-                "title": "Programação Dia dos Pais",
-                "start_time": null,
-                "confidence": "high",
-                "evidence": "programação de Domingo será garantida, nesse dia dos Pais"
-              }
-            ],
-            "windowMax": "2026-08-13"
-          }
-        },
-        {
-          "id": "DbtnbtAvIFm",
-          "caption": "De terça a domingo tem música ao vivo, cerveja gelada e o melhor rolê da cidade. 🍻\n\nConfira a programação da semana, chama a galera e vem curtir com a gente!\n\n📍 Bar da Fábrica\n🕛 Canil aberto a partir das 12h\n🎟️ Entrada free",
-          "mediaType": "Image",
-          "timestamp": "2026-08-06T20:52:46.000Z",
-          "permalink": "https://www.instagram.com/p/DbtnbtAvIFm/",
-          "images": [
-            "https://scontent-syd2-1.cdninstagram.com/v/t51.82787-15/765929235_18120485000502869_94888136564908234_n.webp?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-syd2-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGvip4Kd3G8_6eCCVHb-g9NGH1tsCBO_h_mnc4EixG1jS5ktopN1y26FdFJ7Vn-Xc4&_nc_ohc=VJYVvqPpVAAQ7kNvwHnEEBY&_nc_gid=yMNzhe04BmxCjPpWO4JbPw&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQFPMM8Q3ea07hRXwo3fdoCq8-ieB3HI-Ohp2hMo0Q_u3w&oe=6A7B6651&_nc_sid=c6f216"
-          ],
-          "handle": "bardafabricabastards",
-          "raw": {
-            "ownerUsername": "bardafabricabastards",
-            "type": "Image",
-            "shortCode": "DbtnbtAvIFm"
-          },
-          "analysis": {
-            "relevant": true,
-            "events": [
-              {
-                "date": "2026-08-07",
-                "title": "ANACRÔNICA",
-                "start_time": "19:30:00Z",
-                "confidence": "high",
-                "evidence": "07/08 Sexta ANACRÔNICA SHOW 19h30"
-              },
-              {
-                "date": "2026-08-08",
-                "title": "DANNI DISTLER DUO",
-                "start_time": "16:00:00Z",
-                "confidence": "high",
-                "evidence": "08/08 Sábado DANNI DISTLER DUO SHOW 16h00"
-              },
-              {
-                "date": "2026-08-08",
-                "title": "SONORA 4",
-                "start_time": "20:00:00Z",
-                "confidence": "high",
-                "evidence": "08/08 Sábado SONORA 4 SHOW 20h00"
-              },
-              {
-                "date": "2026-08-09",
-                "title": "BAILE BRASA",
-                "start_time": "16:00:00Z",
-                "confidence": "high",
-                "evidence": "09/08 Domingo BAILE BRASA SHOW 16h00"
-              }
-            ],
-            "windowMax": "2026-08-13"
-          }
-        },
-        {
-          "id": "Dbdz-AYxFT5",
-          "caption": "Dia Mundial do Vira-Lata?\nCom a Bastards, dia de vira-lata é todo dia. 🐕🍺\n\nA Vira-Lata Caramelo, nossa Hop Lager, é uma homenagem a quem nunca precisou de pedigree para ter personalidade.\n\nDisponível nos taps bastardos. 🍻",
-          "mediaType": "Image",
-          "timestamp": "2026-07-31T17:35:09.000Z",
-          "permalink": "https://www.instagram.com/p/Dbdz-AYxFT5/",
-          "images": [
-            "https://scontent-muc2-1.cdninstagram.com/v/t51.82787-15/759575128_18119580755502869_4772038996724321358_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-muc2-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gE81XoCvMP2qlWjHS0zET5pHklUWptfSMny6JxGl47TVToDMRB5TXWX-1A9uTdlqc-7pfZxIHTsA-t9unLRm5l4&_nc_ohc=h468Rnk2dKUQ7kNvwE5k5Jq&_nc_gid=JxnrksOR5s-vEVgOXy7FKQ&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQHC-6hOQBMjgDwJM0WqROfFDxYoAyc8SnY5HUryopeTRQ&oe=6A7B8926&_nc_sid=c6f216"
-          ],
-          "handle": "bardafabricabastards",
-          "raw": {
-            "ownerUsername": "bardafabricabastards",
-            "type": "Image",
-            "shortCode": "Dbdz-AYxFT5"
+            "shortCode": "Dbv7tkXJCrB"
           },
           "analysis": {
             "relevant": false,
             "events": [],
-            "windowMax": "2026-08-13"
+            "windowMax": "2026-08-17"
+          }
+        },
+        {
+          "id": "DbyOfuZRfRF",
+          "caption": "DOMINGO É DIA DE TRAZER O PAI PRO CANIL!\n\nAinda temos reservas disponíveis para esse domingo!\nChama seu pai, junta a família e vem curtir um almoço especial, cerveja gelada, música ao vivo e aquele domingão gostoso no Canil. 🍺\n\nE o melhor: espaço coberto pra aproveitar sem preocupação!",
+          "mediaType": "Image",
+          "timestamp": "2026-08-08T15:55:12.000Z",
+          "permalink": "https://www.instagram.com/p/DbyOfuZRfRF/",
+          "images": [
+            "https://instagram.fman4-1.fna.fbcdn.net/v/t51.82787-15/769654097_18120732710502869_2813918323032656565_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fman4-1.fna.fbcdn.net&_nc_cat=105&_nc_oc=Q6cZ2gHtJ15DhzMpikmSOXhoHJtCnLEEzGiYPGDWGgjbxHnRhoOJG76ceuweNltA4ki2Z3k&_nc_ohc=njxxRff2zccQ7kNvwEIxJIV&_nc_gid=xWdBM0PB7B6hI_SDWBkVKw&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQFhkkFYSDYhuo8MkPZsIK_kQers7JZy3HgPqAGyEwjpwQ&oe=6A80AEEE&_nc_sid=c6f216"
+          ],
+          "handle": "bardafabricabastards",
+          "raw": {
+            "ownerUsername": "bardafabricabastards",
+            "type": "Image",
+            "shortCode": "DbyOfuZRfRF"
+          },
+          "analysis": {
+            "relevant": false,
+            "events": [],
+            "windowMax": "2026-08-17"
           }
         }
       ]
@@ -663,7 +498,7 @@
       "name": "Rock Pizza",
       "instagram": "https://www.instagram.com/rockpizzaroll.bar/",
       "handle": "rockpizzaroll.bar",
-      "fetchedAt": "2026-08-07T10:08:35.320Z",
+      "fetchedAt": "2026-08-11T10:05:48.860Z",
       "posts": [
         {
           "id": "2684573622",
@@ -681,7 +516,7 @@
           "analysis": {
             "relevant": false,
             "events": [],
-            "windowMax": "2026-08-13"
+            "windowMax": "2026-08-17"
           }
         }
       ]
@@ -786,50 +621,8 @@
       "name": "Barbarium",
       "instagram": "https://www.instagram.com/barbariumpub/",
       "handle": "barbariumpub",
-      "fetchedAt": "2026-08-07T10:09:49.557Z",
+      "fetchedAt": "2026-08-11T10:06:45.586Z",
       "posts": [
-        {
-          "id": "DOdylnMjt3R",
-          "caption": "Desde 2012",
-          "mediaType": "Video",
-          "timestamp": "2025-09-11T14:36:25.000Z",
-          "permalink": "https://www.instagram.com/p/DOdylnMjt3R/",
-          "images": [
-            "https://instagram.fykz1-1.fna.fbcdn.net/v/t51.82787-15/543742405_18525803137023710_7231100484734564254_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fykz1-1.fna.fbcdn.net&_nc_cat=102&_nc_oc=Q6cZ2gH2wzfj0qfiYb_mVNWJFIs_Cb-IlUP0J2nuovrAcVZZAlYIpiOHJxAtaayx6R7J4ei0hhGGOEyTznlQEHhoEU-y&_nc_ohc=Bof17pajMe0Q7kNvwGWFeDQ&_nc_gid=wJq4LbyaPJNKxvGcZH9dVg&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQHwTOyRxDB5yPiwwEYYi0ocKiUDF7KMzPwzRd7Us1skPQ&oe=6A7B97CC&_nc_sid=c6f216"
-          ],
-          "handle": "barbariumpub",
-          "raw": {
-            "ownerUsername": "barbariumpub",
-            "type": "Video",
-            "shortCode": "DOdylnMjt3R"
-          },
-          "analysis": {
-            "relevant": false,
-            "events": [],
-            "windowMax": "2026-08-13"
-          }
-        },
-        {
-          "id": "DYx63CZxcDa",
-          "caption": "😮‍💨",
-          "mediaType": "Video",
-          "timestamp": "2026-05-25T23:26:09.000Z",
-          "permalink": "https://www.instagram.com/p/DYx63CZxcDa/",
-          "images": [
-            "https://scontent-lhr6-1.cdninstagram.com/v/t51.71878-15/707992693_916916941368266_3358088590016966693_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-lhr6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gGeJutnze1toqYozke-6OdoEseQQcq0N5ABqPJ2tIyPyAw6daWqV4jh7IK3F_RWknA&_nc_ohc=MeSmuy_k-woQ7kNvwEfa8Na&_nc_gid=q4DAECF6heeQzjTlOEsAAg&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQG72itPfq0QsPNecwjZcEWqy_jls3gcSj8M0orfo19LEA&oe=6A7B7BCE&_nc_sid=c6f216"
-          ],
-          "handle": "barbariumpub",
-          "raw": {
-            "ownerUsername": "barbariumpub",
-            "type": "Video",
-            "shortCode": "DYx63CZxcDa"
-          },
-          "analysis": {
-            "relevant": false,
-            "events": [],
-            "windowMax": "2026-08-13"
-          }
-        },
         {
           "id": "DbZEc8SqfRi",
           "caption": "Desde 2012 🤘🏼",
@@ -837,7 +630,7 @@
           "timestamp": "2026-07-29T21:23:38.000Z",
           "permalink": "https://www.instagram.com/p/DbZEc8SqfRi/",
           "images": [
-            "https://instagram.fsvq4-1.fna.fbcdn.net/v/t51.82787-15/756800596_18608263231023710_6319738694178985619_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fsvq4-1.fna.fbcdn.net&_nc_cat=102&_nc_oc=Q6cZ2gH-yXwX8i0dg0wqtTVhvddeP89jjxQEF2nXas1lUP1tx81iTBxsDYOoRy0E5u3l6vA&_nc_ohc=r3REaNpbzx0Q7kNvwHDilHu&_nc_gid=_KC6QaDffUWpMomqa_MarQ&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQGJThflkNps9Zsl7TkykjeLoKVCv_QTzrSD4dTFupgm5w&oe=6A7B6613&_nc_sid=c6f216"
+            "https://instagram.fbjx1-1.fna.fbcdn.net/v/t51.82787-15/756800596_18608263231023710_6319738694178985619_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fbjx1-1.fna.fbcdn.net&_nc_cat=102&_nc_oc=Q6cZ2gFOKxzgKo1whiXyk8w517f71uapHzZZoMI-VqjCXjl6E-mL0xx4XyE0kAfpJ6g7ji_SskEmB5p5G1eetzIZ_cFe&_nc_ohc=dTPMHncxX8gQ7kNvwHxtXD2&_nc_gid=l6UQ0K3vCVFjZcZiopAzDQ&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQFkcJQw1bB36OMOQSnHzA15qBys2zj3w5h4OW_a5GPycw&oe=6A80AC13&_nc_sid=c6f216"
           ],
           "handle": "barbariumpub",
           "raw": {
@@ -848,7 +641,49 @@
           "analysis": {
             "relevant": false,
             "events": [],
-            "windowMax": "2026-08-13"
+            "windowMax": "2026-08-17"
+          }
+        },
+        {
+          "id": "DOdylnMjt3R",
+          "caption": "Desde 2012",
+          "mediaType": "Video",
+          "timestamp": "2025-09-11T14:36:25.000Z",
+          "permalink": "https://www.instagram.com/p/DOdylnMjt3R/",
+          "images": [
+            "https://instagram.fktw1-1.fna.fbcdn.net/v/t51.82787-15/543742405_18525803137023710_7231100484734564254_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fktw1-1.fna.fbcdn.net&_nc_cat=102&_nc_oc=Q6cZ2gFtrcq40t5yANUUEmdLtiwTx0gBYMlF1bGk1Q4pMjZ0XZPVq14gEA1VLczgDPrRlk8&_nc_ohc=v-KdcttTrykQ7kNvwFZD7da&_nc_gid=4dqCY2MRnnbvVPpuW8KmRg&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQE7pbIicdS3lF6TmaAOFVRX1bNrI3cFuTO8toVe_s0vlA&oe=6A80DDCC&_nc_sid=c6f216"
+          ],
+          "handle": "barbariumpub",
+          "raw": {
+            "ownerUsername": "barbariumpub",
+            "type": "Video",
+            "shortCode": "DOdylnMjt3R"
+          },
+          "analysis": {
+            "relevant": false,
+            "events": [],
+            "windowMax": "2026-08-17"
+          }
+        },
+        {
+          "id": "DYx63CZxcDa",
+          "caption": "😮‍💨",
+          "mediaType": "Video",
+          "timestamp": "2026-05-25T23:26:09.000Z",
+          "permalink": "https://www.instagram.com/p/DYx63CZxcDa/",
+          "images": [
+            "https://scontent-yyz1-1.cdninstagram.com/v/t51.71878-15/707992693_916916941368266_3358088590016966693_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-yyz1-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gFQmQGtLfEkDo8id_CrBaGRer3YWgbhx7EnEtAuLAbw_9HjyfwslFQULIABiCNBrVU&_nc_ohc=PJ6ItiRu9HgQ7kNvwHvD3GK&_nc_gid=N-ZIhlf0doDcOAr6I3PUNw&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQFeoE5oHU5tp_ZxYfaj5EGOm1fARaJSOy4dSxkUflVgCA&oe=6A80C1CE&_nc_sid=c6f216"
+          ],
+          "handle": "barbariumpub",
+          "raw": {
+            "ownerUsername": "barbariumpub",
+            "type": "Video",
+            "shortCode": "DYx63CZxcDa"
+          },
+          "analysis": {
+            "relevant": false,
+            "events": [],
+            "windowMax": "2026-08-17"
           }
         }
       ]
@@ -1018,100 +853,85 @@
       "name": "Blood Rock",
       "instagram": "https://www.instagram.com/bloodrockbar/",
       "handle": "bloodrockbar",
-      "fetchedAt": "2026-08-07T10:12:26.325Z",
+      "fetchedAt": "2026-08-11T10:09:05.179Z",
       "posts": [
         {
-          "id": "Dbo6Y2AwXQ9",
-          "caption": "Neste Sábado, epecial Slipknot e Linkin Park com as bandas Snot e Linkin Park Concert Br!\n\n👏Abertura da casa 19:00\n👉 Happy hour com double de chopp e promo de burger até 21:00\n👉 Início das bandas 21:30\n* Não fazemos reservas, somente ordem de chegada.\n* Entrada R$15",
+          "id": "Db3kY-JstqF",
+          "caption": "Um pouco do Tributo a SLIPKNOT deste último sábado, capitaneado pela banda @snot.slipknot e incluindo músicas de todas as fases da banda. \n\nSempre um dos shows mais pedidos pelos Blooders, que curtem desde “Snuff”, “Psychocial”, “Before I Forget” e “Duality” até “Heretic Anthem”, “Disasterpiece”, “Eyeless”, “People = Shit” e muito mais‼️\n\nQuem aí já está contando os dias para o próximo⁉️",
           "mediaType": "Video",
-          "timestamp": "2026-08-05T01:03:00.000Z",
-          "permalink": "https://www.instagram.com/p/Dbo6Y2AwXQ9/",
+          "timestamp": "2026-08-10T17:40:09.000Z",
+          "permalink": "https://www.instagram.com/p/Db3kY-JstqF/",
           "images": [
-            "https://instagram.fhnd7-1.fna.fbcdn.net/v/t51.71878-15/765198554_2845348725843531_2486834635611058802_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fhnd7-1.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2gGPXB-e2sg1DG7OqLShdd4Vk_9aT_tHj_5sfFOWpNRCaxijLgI8pPjDqJynkW424jo&_nc_ohc=LWU6G4uEVIQQ7kNvwHZdK-Z&_nc_gid=hD_hCowchmQTB7vWv1AFmQ&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQECsx6sY3mt8LENhkalBlR-lwGgLlLqQm7yJnLlFIq_yQ&oe=6A7B6FC1&_nc_sid=c6f216"
+            "https://instagram.ftpa1-2.fna.fbcdn.net/v/t51.82787-15/772021546_18622559500014364_8729489187588753283_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.ftpa1-2.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2gG86QH_2A-nawgNZ0jQuoCzHgSeqBZuqZ3F18a1IGug2FlklVPfGxqs0zewzhiqlLGKbNvxbSgehN1y8is4UE68&_nc_ohc=uwA9vr_qtf0Q7kNvwFBHSgJ&_nc_gid=kFHpYGf-LD2hJpmkHrtkFA&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQGYRLkLUqpcZzY9txHOtx8prhDzPgv9RMhehzVxP2WGeg&oe=6A80CBB2&_nc_sid=c6f216"
           ],
           "handle": "bloodrockbar",
           "raw": {
             "ownerUsername": "bloodrockbar",
             "type": "Video",
-            "shortCode": "Dbo6Y2AwXQ9"
+            "shortCode": "Db3kY-JstqF"
           },
           "analysis": {
-            "relevant": true,
-            "events": [
-              {
-                "date": "2026-08-08",
-                "title": "Especial Slipknot e Linkin Park com Snot e Linkin Park Concert Br",
-                "start_time": "21:30:00Z",
-                "confidence": "high",
-                "evidence": "SÁBADO 8 DE AGOSTO, Início das bandas 21:30"
-              }
-            ],
-            "windowMax": "2026-08-13"
+            "relevant": false,
+            "events": [],
+            "windowMax": "2026-08-17"
           }
         },
         {
-          "id": "Dbto-YNFKEZ",
-          "caption": "FDS imperdível no Blood pra vc maratonar Sexta e Sábado com a gente‼️\n\n🩸🦇 SEXTA: Nesta Sexta-Feira, Banda Raimunda (RAIMUNDOS) e Nandu Costa (CHARLIE BROWN JR) fazendo Tributo aos 2 maiores nomes do Rock Nacional da geração 90/2000 da MTV 🤘🏻🤘🏻\n\n🩸🦇 SÁBADO: Especial SLIPKNOT e LINKIN PARK com as bandas Snot e Linkin Park Concert Br‼️ Os 2 maiores nomes do NEW METAL na História, em 2 Tributos sensacionais e 2 shows longos recheados de Hits, Clássicos e Lados B 🤘🏻🤘🏻",
-          "mediaType": "Sidecar",
-          "timestamp": "2026-08-06T21:06:12.000Z",
-          "permalink": "https://www.instagram.com/p/Dbto-YNFKEZ/",
+          "id": "Db1WQP8NDEy",
+          "caption": "Neste S�bado =% OZZY DAY \u0013 1� EDI��O =%\n\nA @ozzstorm e @bloodrockbar, apresentam uma noite de homenagem ao nosso Eterno Pr�ncipe das Trevas, Ozzy Osbourne. >� Muitos m�sicos convidados estar�o presentes.\n\nPrepare-se para uma noite �pica, com a OzzStorm e Convidados especiais trazendo toda a emo��o e energia em uma homenagem ao Ozzy!\n\n<� Uma verdadeira viagem por todas as fases!\n\nE tem mais:\n<z Copos exclusivos do evento para os 100 primeiros que chegarem no dia do evento!\n=U Sorteio de 02 camisetas do evento\n\n� Chegue cedo e venha viver essa noite hist�rica!\n\n=p\u000f Abertura da casa \" 19Hrs",
+          "mediaType": "Image",
+          "timestamp": "2026-08-09T20:56:35.000Z",
+          "permalink": "https://www.instagram.com/p/Db1WQP8NDEy/",
           "images": [
-            "https://instagram.fykz1-2.fna.fbcdn.net/v/t51.82787-15/768873763_18621237796014364_597019610098368445_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fykz1-2.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2gH42Q-inRT4GJadqc5otlVbIhNnuWNdMaCVLqD9fIb5hOOldMzuSphifdqf9_oNqcg&_nc_ohc=FO4ZGtMhPywQ7kNvwE4GZHd&_nc_gid=9X5Bx6HOtlqq3FmaGzbJPg&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQFer_4Jv6Msd1hF06rmQasQqlVfxFA4Fa4hXPYaCWycoQ&oe=6A7B944C&_nc_sid=c6f216"
+            "https://scontent-yyz1-1.cdninstagram.com/v/t51.82787-15/769032747_18622279093014364_5144662791474145754_n.heic?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-yyz1-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gHQOFHH4f1EmvXK_UAY4Va3VsuUAghyxopsFqo8VSlu_KwNex8_UvUV1xEyzBdWgI4&_nc_ohc=MauzsfXdfb4Q7kNvwH-lWGu&_nc_gid=6-C0ekYPKdkbS8zNDBGnDQ&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQFMcLu4ypqaBUGbNrnsAT1vtcBn5r45fs3bu7nfr5JBbg&oe=6A80DBC6&_nc_sid=c6f216"
           ],
           "handle": "bloodrockbar",
           "raw": {
             "ownerUsername": "bloodrockbar",
-            "type": "Sidecar",
-            "shortCode": "Dbto-YNFKEZ"
+            "type": "Image",
+            "shortCode": "Db1WQP8NDEy"
           },
           "analysis": {
             "relevant": true,
             "events": [
               {
-                "date": "2026-08-07",
-                "title": "Tributo Raimundos e Charlie Brown Jr.",
-                "start_time": null,
+                "date": "2026-08-15",
+                "title": "Ozzy Day com OzzStorm",
+                "start_time": "19:00:00.000Z",
                 "confidence": "high",
-                "evidence": "Nesta Sexta-Feira, Banda Raimunda (RAIMUNDOS) e Nandu Costa (CHARLIE BROWN JR) fazendo Tributo"
-              },
-              {
-                "date": "2026-08-08",
-                "title": "Especial Slipknot e Linkin Park",
-                "start_time": null,
-                "confidence": "high",
-                "evidence": "SÁBADO: Especial SLIPKNOT e LINKIN PARK com as bandas Snot e Linkin Park Concert Br"
+                "evidence": "SÁBADO 15 DE AGOSTO, 19Hrs"
               }
             ],
-            "windowMax": "2026-08-13"
+            "windowMax": "2026-08-17"
           }
         },
         {
-          "id": "Dbs8tASx7ZC",
-          "caption": "Neste Sábado, epecial Slipknot e Linkin Park com as bandas Snot e Linkin Park Concert Br!\n\n👏Abertura da casa 19:00\n👉 Happy hour com double de chopp e promo de burger até 21:00\n👉 Início das bandas 21:30\n* Não fazemos reservas, somente ordem de chegada.\n* Entrada R$15",
-          "mediaType": "Video",
-          "timestamp": "2026-08-06T14:40:38.000Z",
-          "permalink": "https://www.instagram.com/p/Dbs8tASx7ZC/",
+          "id": "Db1Gfi6Pwj5",
+          "caption": "Nesta Sexta-Feira, especial Gojira e Sleep Token\n\n👏Abertura da casa 19:00\n👉 Happy hour com double de chopp e promo de burger até 21:00\n👉 Início das bandas 21:30\n* Não fazemos reservas, somente ordem de chegada.\n* Entrada R$15",
+          "mediaType": "Image",
+          "timestamp": "2026-08-09T18:38:53.000Z",
+          "permalink": "https://www.instagram.com/p/Db1Gfi6Pwj5/",
           "images": [
-            "https://scontent-gmp1-1.cdninstagram.com/v/t51.82787-15/765898209_18621141685014364_5729344732388492487_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-gmp1-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gGtY4EPsN-T1szgjZjPCEIyrSoQPSKlx7aPdo-BEwmTOB8AfrqbX2w39Zwu5Nsykyc&_nc_ohc=KHvJfYnnTwcQ7kNvwFGQAqh&_nc_gid=C-pMDhmED8AGrW5HYRvhpQ&edm=APU89FABAAAA&ccb=7-5&oh=00_AQHDfDc6mOWB5UChL0eoaSrtc-wGufeOec16hzipADIdOw&oe=6A7B859B&_nc_sid=bc0c2c"
+            "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/769494298_18622243498014364_2585205164409995625_n.heic?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gFsAsQmrUcfKgn_lM5hFPxDOgW3xawF2wZmIIFa-t2qXIdPQE5fMy73JGtdT1ls-xM&_nc_ohc=BRqCJvHJr6EQ7kNvwFMrsS3&_nc_gid=h8SOOw8SoDlB_GfsygWUVw&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQFC3if9t6doBaBSOxiTvRB2r1PgM_yUhdupBrwgrfcDzg&oe=6A80AC22&_nc_sid=c6f216"
           ],
           "handle": "bloodrockbar",
           "raw": {
             "ownerUsername": "bloodrockbar",
-            "type": "Video",
-            "shortCode": "Dbs8tASx7ZC"
+            "type": "Image",
+            "shortCode": "Db1Gfi6Pwj5"
           },
           "analysis": {
             "relevant": true,
             "events": [
               {
-                "date": "2026-08-08",
-                "title": "Especial Slipknot e Linkin Park com Snot e Linkin Park Concert Br",
+                "date": "2026-08-14",
+                "title": "Especial Gojira e Sleep Token",
                 "start_time": "21:30:00Z",
                 "confidence": "high",
-                "evidence": "Neste Sábado, epecial Slipknot e Linkin Park com as bandas Snot e Linkin Park Concert Br! Início das bandas 21:30"
+                "evidence": "SEXTA 14 DE AGOSTO, especial Gojira e Sleep Token, Início das bandas 21:30"
               }
             ],
-            "windowMax": "2026-08-13"
+            "windowMax": "2026-08-17"
           }
         }
       ]
@@ -1193,7 +1013,7 @@
       "name": "Belvedere",
       "instagram": "https://www.instagram.com/belvederecasadecultura/",
       "handle": "belvederecasadecultura",
-      "fetchedAt": "2026-08-07T10:13:27.843Z",
+      "fetchedAt": "2026-08-11T10:10:10.084Z",
       "posts": [
         {
           "id": "Daf8liUMGVV",
@@ -1202,7 +1022,7 @@
           "timestamp": "2026-07-07T17:00:36.000Z",
           "permalink": "https://www.instagram.com/p/Daf8liUMGVV/",
           "images": [
-            "https://instagram.fyyc6-1.fna.fbcdn.net/v/t51.82787-15/740488760_18355183264211039_2058999307473372096_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fyyc6-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gHMLlFYeJ4qdefD-rHApcaxGzn0Meb_ZX60M5jOxFwyglHA9MVou5W5V9H-rXESUW4&_nc_ohc=KmGjhH2nC2gQ7kNvwHqkA93&_nc_gid=bwaygrlXnhPjOxwpTCdrWw&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQGFERu_ZoeSNLW9a3t3YjUGsjHewrQUX3mjd9D_hJbKaA&oe=6A7B8DF7&_nc_sid=c6f216"
+            "https://scontent-qro1-2.cdninstagram.com/v/t51.82787-15/740488760_18355183264211039_2058999307473372096_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-qro1-2.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gG3nFwc1G5anGV25EPG-ON3oRJSefcw7RA2-w-fenWAwgw9SOndt45pFkZ71Fu0umY&_nc_ohc=a-JU9IDYqGUQ7kNvwFLThMp&_nc_gid=le345LZekXFEm1Kdq-0LLA&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQHLOThAuJ1yvDFXDUy0l8CXYKtBX4DEFmwrTj0x0ihVsg&oe=6A80D3F7&_nc_sid=c6f216"
           ],
           "handle": "belvederecasadecultura",
           "raw": {
@@ -1213,28 +1033,7 @@
           "analysis": {
             "relevant": false,
             "events": [],
-            "windowMax": "2026-08-13"
-          }
-        },
-        {
-          "id": "DZVKzLjs1VI",
-          "caption": "Belvedere e Time Bomb apresentam:\nTime Bomb Fest vol. III\n\nDiretamente da Califórnia, encabeçado o line desta edição, a banda Samiam desembarca em Curitiba no próximo dia 26 de setembro, para único show, ao lado das bandas Garage Fuzz (Santos-SP), Deb and the Meantals (São Paulo-SP) e Simplesmentes (Curitiba-PR), a partir das 19h.\nAlém das apresentações, haverá o lançamento da collab especial da Time Bomb em conjunto com o BVDR.\n\nIngressos no link da bio, stories e destaques.\n\n*primeiros lotes promocionais são menores\n\nApoio: @ndp.live \n\nclassificação +18",
-          "mediaType": "Image",
-          "timestamp": "2026-06-08T16:00:28.000Z",
-          "permalink": "https://www.instagram.com/p/DZVKzLjs1VI/",
-          "images": [
-            "https://scontent-dus1-1.cdninstagram.com/v/t51.82787-15/719852314_18351347758211039_6806402267316155398_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-dus1-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gGFY98l5Pp1QAyTn5iaJU1gbRJp-dUIabPHQODzIriNWR0g-DTA-u8TWmsuXxzOI9A&_nc_ohc=fUQcfrz_2_YQ7kNvwEC-TEs&_nc_gid=mbnV7DQnT49w82u_v4_elg&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQEeiT-isva0z0Vg6NbiKHzRI1DPbyvSR23njqE3pzwc9Q&oe=6A7B72C0&_nc_sid=c6f216"
-          ],
-          "handle": "belvederecasadecultura",
-          "raw": {
-            "ownerUsername": "belvederecasadecultura",
-            "type": "Image",
-            "shortCode": "DZVKzLjs1VI"
-          },
-          "analysis": {
-            "relevant": false,
-            "events": [],
-            "windowMax": "2026-08-13"
+            "windowMax": "2026-08-17"
           }
         },
         {
@@ -1244,7 +1043,7 @@
           "timestamp": "2026-06-23T16:00:05.000Z",
           "permalink": "https://www.instagram.com/p/DZ7yqP7MCum/",
           "images": [
-            "https://scontent-nrt6-1.cdninstagram.com/v/t51.82787-15/730836832_18353240458211039_7254644804895238077_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-nrt6-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gHLN-eB8yyBE986jJnhJFvxpBUxt0TvHC1rwYV0rsXECYc5LVNo2IFnkWmrgsOLJupw41lOigogON5954B7bzqw&_nc_ohc=ZUGdVYzIh9IQ7kNvwHceutY&_nc_gid=LuXUp2CQVbU20Pekpx6IKg&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQG7OnOsSMGC5le2jgaJVy1DQx5djn5qwL2IsqFaGn--Zg&oe=6A7B705C&_nc_sid=c6f216"
+            "https://scontent-mrs2-3.cdninstagram.com/v/t51.82787-15/730836832_18353240458211039_7254644804895238077_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-mrs2-3.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gHhyGe8D8XgBZaqj00nwnc9kKOORRMyR-HTRlRhHjVbnV3sRtytMeMyXlX42hhx13BBIdOw3_nXab5cSxBzb9-6&_nc_ohc=-G_mxhx6V9oQ7kNvwGF5B9F&_nc_gid=ERx9x5KZnhKkcWh87EUYJQ&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQHNmQAni1KL5xKBikFIIhnAdiZMrQDtu4qOVw067i0pUQ&oe=6A80B65C&_nc_sid=c6f216"
           ],
           "handle": "belvederecasadecultura",
           "raw": {
@@ -1255,7 +1054,28 @@
           "analysis": {
             "relevant": false,
             "events": [],
-            "windowMax": "2026-08-13"
+            "windowMax": "2026-08-17"
+          }
+        },
+        {
+          "id": "DZVKzLjs1VI",
+          "caption": "Belvedere e Time Bomb apresentam:\nTime Bomb Fest vol. III\n\nDiretamente da Califórnia, encabeçado o line desta edição, a banda Samiam desembarca em Curitiba no próximo dia 26 de setembro, para único show, ao lado das bandas Garage Fuzz (Santos-SP), Deb and the Meantals (São Paulo-SP) e Simplesmentes (Curitiba-PR), a partir das 19h.\nAlém das apresentações, haverá o lançamento da collab especial da Time Bomb em conjunto com o BVDR.\n\nIngressos no link da bio, stories e destaques.\n\n*primeiros lotes promocionais são menores\n\nApoio: @ndp.live \n\nclassificação +18",
+          "mediaType": "Image",
+          "timestamp": "2026-06-08T16:00:28.000Z",
+          "permalink": "https://www.instagram.com/p/DZVKzLjs1VI/",
+          "images": [
+            "https://scontent-icn2-1.cdninstagram.com/v/t51.82787-15/719852314_18351347758211039_6806402267316155398_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gEhxLuIe5OTNtBC0eiTygsLV4VSP_HdO3UXlEcJOVg6m6-urA7KLz96QCBSxCks2Ao&_nc_ohc=5cb1LRT22vkQ7kNvwGA8kI5&_nc_gid=AA8SYWX8v4PBgY9djEzo2Q&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQGDNFsHUFcgC0wG9unlFzpKhvF_giu6pHkt957Xlr73WQ&oe=6A80B8C0&_nc_sid=c6f216"
+          ],
+          "handle": "belvederecasadecultura",
+          "raw": {
+            "ownerUsername": "belvederecasadecultura",
+            "type": "Image",
+            "shortCode": "DZVKzLjs1VI"
+          },
+          "analysis": {
+            "relevant": false,
+            "events": [],
+            "windowMax": "2026-08-17"
           }
         }
       ]
@@ -1273,69 +1093,106 @@
       "name": "Clay Highway",
       "instagram": "https://www.instagram.com/clayhighway/",
       "handle": "clayhighway",
-      "fetchedAt": "2026-08-07T10:14:29.068Z",
+      "fetchedAt": "2026-08-11T10:11:36.525Z",
       "posts": [
         {
-          "id": "DbjjfLOFHYQ",
-          "caption": "<� PROGRAMA��O CLAY HIGHWAY BAR\n\n<� SEX 07/07 \u0014 PLEBE RUDE + GERA��O \n�\u000fPlebe Rude\n�\u000fGera��o Coca Cola\n\n<� S�B 08/08 \u0014 ROCK EXPERIENCE 07 bandas\n=I<� Casa abre �s 17h com entrada FREE ate �s 19h \n�\u000fHeadliners\n�\u000fPubk Rock + 2000\n�\u000fHouse Band School of Rock\n�\u000fPepinos da Grota\n�\u000fMr Gomes rockabilly\n�\u000fELVIS PRESLEY EXPERIENCE\n�\u000fGallo Jack Show flashbacks\n\n<� DOM 09/08 \u0014 Clay apresenta: CURITIBA AUTORAL LAB\n�\u000fBad Apples\n�\u000f5 Graus\n�\u000fParabolica\n\nCLAY HIGHWAY BAR\n10 anos a sua estrada para o rock",
-          "mediaType": "Sidecar",
-          "timestamp": "2026-08-02T23:05:51.000Z",
-          "permalink": "https://www.instagram.com/p/DbjjfLOFHYQ/",
+          "id": "Db1jel2q6VE",
+          "caption": "✅ SÁBADO 15/08 - FESTIVAL PAPO RETO com DZ6\n\n🎵 ARMANDINHO TRIBUTO + CHARLIE BROWN + THE OFFSPRING + BAD RELIGION + GREEN DAY\n\nA maior homenagem a CHARLIE BROWN JR do Brasil Festival PAPO RETO com DZ6\nReconhecido no Brasil e vários Países da Europa pela sua performance, o ARTISTA DZ6 entrega muito mais que um show: entrega atitude, energia e o legado do Charlie Brown Jr. do jeito que tem que ser. Se vc é fã de CHBJ não perca por nada!!\n\n🎸 BANDAS:\n⏰ 20:30 - Castanheira Armandinho tributo\n⏰ 22:30 - DZ6 - Charlie Brown Jr\n⏰ 01:00 - Lets Core - The Offspring, Bad Religionn, Greeb Day.\n\n🎟️ **ULTIMOS INGRESSOS**\nhttps://meaple.com.br/clayhighwaybar/paporeto\n\nCLAY HIGHWAY BAR 10 anos \nA sua estrada para o rock",
+          "mediaType": "Video",
+          "timestamp": "2026-08-09T22:54:04.000Z",
+          "permalink": "https://www.instagram.com/p/Db1jel2q6VE/",
           "images": [
-            "https://scontent-fco2-1.cdninstagram.com/v/t51.82787-15/763824104_18147021673530354_4711437451554871728_n.heic?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-fco2-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gEG1aKSCxmWxSgMRQTc58lRDpdBMjiTFjOIz4_uMhAoQQxl15wvrZizsbe01eUKpWY&_nc_ohc=7EsDn6VVHqYQ7kNvwFSjhnq&_nc_gid=0tu7In2r4h_TXaad5kYnIg&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQEtm7iQw9r0Ux2ufZ6mT4WJkZ-m6HkxQR1RDu6ucS_swA&oe=6A7B994B&_nc_sid=c6f216"
+            "https://scontent-lga3-2.cdninstagram.com/v/t51.71878-15/767387467_1052968961001360_1273060171650080149_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gEUgJ315zZ0f-1gD3iJi9Xe-CUyIlKaTcLD4PLlqJrWR-LMHFr7GMH7IHttHuNhB6VnHH6jIxFoXeohuEG122FJ&_nc_ohc=x2m7VLudTe4Q7kNvwHKg6oe&_nc_gid=X11v8qkjDoFP_tjOe25JHg&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQHyudYKgcusJ62tkNf4tQbviNpvg-nkD9w1xkeN_49ljA&oe=6A80B6EC&_nc_sid=c6f216"
+          ],
+          "handle": "clayhighway",
+          "raw": {
+            "ownerUsername": "clayhighway",
+            "type": "Video",
+            "shortCode": "Db1jel2q6VE"
+          },
+          "analysis": {
+            "relevant": true,
+            "events": [
+              {
+                "date": "2026-08-15",
+                "title": "Castanheira Armandinho tributo",
+                "start_time": "20:30:00Z",
+                "confidence": "high",
+                "evidence": "20:30 - Castanheira Armandinho tributo"
+              },
+              {
+                "date": "2026-08-15",
+                "title": "DZ6 - Charlie Brown Jr",
+                "start_time": "22:30:00Z",
+                "confidence": "high",
+                "evidence": "22:30 - DZ6 - Charlie Brown Jr"
+              },
+              {
+                "date": "2026-08-15",
+                "title": "Lets Core - The Offspring, Bad Religion, Green Day",
+                "start_time": "01:00:00Z",
+                "confidence": "high",
+                "evidence": "01:00 - Lets Core - The Offspring, Bad Religionn, Greeb Day."
+              }
+            ],
+            "windowMax": "2026-08-17"
+          }
+        },
+        {
+          "id": "Db1hW36o3s0",
+          "caption": "<� PROGRAMA��O CLAY HIGHWAY BAR\n\n<� SEX 14/07 \u0014 ESPECIAL ACID CHAOS TOUR \n�\u000fFourface Raimundos\n�\u000fRamones CWB Brazil\n�\u000fEpilepsya Sepultura \n\n<� S�B 15/08 \u0014 FESTIVAL PAPO RETO COM DZ6\n�\u000fCastanheira Armandinho tributo \n�\u000fDZ6 Charlie Brown Jr\n�\u000fLets Core \n\n<� DOM 16/08 \u0014 Clay apresenta: CURITIBA AUTORAL LAB especial \n�\u000fDose 2\n�\u000fJack Vermouth tribubos e autoral\n\nCLAY HIGHWAY BAR\n10 anos a sua estrada para o rock!!!>\u0018=\u000e",
+          "mediaType": "Sidecar",
+          "timestamp": "2026-08-09T22:33:34.000Z",
+          "permalink": "https://www.instagram.com/p/Db1hW36o3s0/",
+          "images": [
+            "https://scontent-qro3-1.cdninstagram.com/v/t51.82787-15/771984120_18147709435530354_5412284016657146788_n.heic?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-qro3-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gEgdswCO8MQRoZ7hn2rnwC_NlKYgKdWzCiJf3mctz2ZaT_6HndF5ivk5U5KMxpW3zo&_nc_ohc=g0hDjusqXtsQ7kNvwGjhMLu&_nc_gid=UABeo2Wn2TcGiBRgaMT9dg&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQERBQ72q9T9zx53U0VOK8c9sRzZ4se-ApsLYxMdWFfrtg&oe=6A80D996&_nc_sid=c6f216"
           ],
           "handle": "clayhighway",
           "raw": {
             "ownerUsername": "clayhighway",
             "type": "Sidecar",
-            "shortCode": "DbjjfLOFHYQ"
+            "shortCode": "Db1hW36o3s0"
           },
           "analysis": {
-            "relevant": false,
-            "events": [],
-            "windowMax": "2026-08-13"
+            "relevant": true,
+            "events": [
+              {
+                "date": "2026-08-15",
+                "title": "Festival Papo Reto",
+                "start_time": null,
+                "confidence": "high",
+                "evidence": "SÁB 15/08 FESTIVAL PAPO RETO"
+              },
+              {
+                "date": "2026-08-16",
+                "title": "Curitiba Autoral Lab",
+                "start_time": null,
+                "confidence": "high",
+                "evidence": "DOM 16/08 CURITIBA AUTORAL LAB"
+              }
+            ],
+            "windowMax": "2026-08-17"
           }
         },
         {
-          "id": "DZnt4Taqz3E",
-          "caption": "ATÉ QUANDO ESPERAR?\nA resposta é: até 07/08.\n\nA lendária PLEBE RUDE, banda que marcou gerações com letras fortes, atitude punk rock e clássicos que atravessaram o tempo chega para uma noite histórica em Curitiba.\n\nProteção. Minha Renda. Brasília. Até Quando Esperar. E muitas outras…\nSe essas músicas fazem parte da sua história, esse show é obrigatório.\n\n📅 07/08 a partir das 20h. 📍 Clay Highway Bar 🎟️ Ingressos limitados articket.com\n\n#rocknacional #rockbrasil #pleberude #Curitiba #clayhigwaybar",
-          "mediaType": "Image",
-          "timestamp": "2026-06-15T20:50:55.000Z",
-          "permalink": "https://www.instagram.com/p/DZnt4Taqz3E/",
+          "id": "Db4UsX1q3Tj",
+          "caption": "😱 CURITIBA JÁ VIVEU UMA NOITE QUE ENTROU PARA A HISTÓRIA DO ROCK.\n\nPedreira Paulo Leminski,1994.\nTurnê Acid Chaos.\nDe um lado, a fúria dos Ramones. Do outro, o peso absoluto do Sepultura.\nMais de 30 mil pessoas enfrentaram a chuva, o barro e um temporal que não conseguiu apagar o que estava acontecendo ali.\n\nAquela noite não foi apenas um show. Foi um marco.\nUma memória viva para quem esteve lá. Uma lenda para quem ouviu falar.\n\nE agora, essa energia volta a ser celebrada no palco do CLAY.\nUma noite para reviver o caos, a força e a atitude de 03 gigantes que marcaram gerações.\n\n📍 ***SEXTA 14/08***\n\nRAIMUNDOS + RAMONES + SEPULTURA \n\nBANDAS DA NOITE:\n🎸20h30 - Fourface Raimundos\n🎸22h30 - Ramones Cwb Brazil\n🎸01h00 - Epilepsya - Sepultura tributo\n\n🎟️ INGRESSOS\nhttps://meaple.com.br/clayhighwaybar/acidchaos\n\n📍 CLAY HIGHWAY BAR\n📍BR 116 (Linha Verde), 17.253 - Capão Raso- CURITIBA",
+          "mediaType": "Video",
+          "timestamp": "2026-08-11T00:44:03.000Z",
+          "permalink": "https://www.instagram.com/p/Db4UsX1q3Tj/",
           "images": [
-            "https://instagram.fymq3-1.fna.fbcdn.net/v/t51.82787-15/722994846_18142098031530354_514356425900143881_n.heic?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=instagram.fymq3-1.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2gEC0Zu-qpNeVvzQJZO2TQa4MmWmQlGuwh2Lzr2--L_R-5w2v6jO8UHl_3YIrKX7YWs&_nc_ohc=TUykO1ELjJ4Q7kNvwEFzi9m&_nc_gid=I3SvMacMPI44iwZUIHye6A&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQFZtXHXNbgdWGnc-yjYcTvqq8Q8qsBoNaOH_14DKJQChw&oe=6A7B8D9A&_nc_sid=c6f216"
+            "https://static.cdninstagram.com/rsrc.php/null.jpg"
           ],
           "handle": "clayhighway",
           "raw": {
             "ownerUsername": "clayhighway",
-            "type": "Image",
-            "shortCode": "DZnt4Taqz3E"
+            "type": "Video",
+            "shortCode": "Db4UsX1q3Tj"
           },
           "analysis": {
             "relevant": false,
             "events": [],
-            "windowMax": "2026-08-13"
-          }
-        },
-        {
-          "id": "DbQtOEDEWH4",
-          "caption": "EXISTE UM NOME QUE NUNCA SAIU DA HISTÓRIA DO ROCK.\n\nELVIS PRESLEY não foi apenas um cantor.\nFoi um fenômeno. Um ícone. Uma revolução.\n\nE agora, essa história ganha vida no palco do Clay com:\n\n🎙️ TRILOGIA ELVIS — VIVA ELVIS EXPERIENCE\n\nUm espetáculo musical que percorre as três fases mais marcantes da carreira do Rei do Rock em uma noite emocionante, elegante e inesquecível.\n\nNo palco, Alex Ferrera, artista tributo brasileiro reconhecido por levar a experiência Elvis para casas de shows, teatros e eventos culturais por diversos estados do Brasil.\n\nNão é apenas um tributo.\nÉ uma viagem pela história do Rei do Rock.\n\nUma noite para cantar, se emocionar e reviver a força de um artista que atravessou gerações.\n\n🎸 BANDAS DA SCHOOL OF ROCK\n\n🕠 17:30 — JACK LOPES\n🕡 18:20 — PUNK ROCK + 2010\n🕡 18:50 — HOUSE BAND SCHOOL OF ROCK\n🕢 19:40 — PEPINOS DA GROTA\n\n🎸 BANDAS DA NOITE\n\n🕣 20:30 — MR. GOMES — VINTAGE MUSIC\n🕥 22:30 — VIVA ELVIS EXPERIENCE\n🕐 01:00 — GALLO JACK SHOW — FLASHBACKS\n\nO INÍCIO. O RETORNO. A LENDA.\nTRILOGIA ELVIS NO CLAY.\n\n🎸 SHOW DE ROCK • MÚSICA AO VIVO EM CURITIBA\n\n📍 Clay Highway Bar\n📍 BR-116, 17253 — Capão Raso — Curitiba — PR",
-          "mediaType": "Sidecar",
-          "timestamp": "2026-07-26T15:25:19.000Z",
-          "permalink": "https://www.instagram.com/p/DbQtOEDEWH4/",
-          "images": [
-            "https://scontent-icn2-1.cdninstagram.com/v/t51.82787-15/756661748_18146267227530354_5392360935808948571_n.heic?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gE9SUBYlKEu-J_0-6AE34Evp7054tTppUUcqvSOD1PtL-tEgZ9kAriYLuNeDf5sFmA&_nc_ohc=ukvwwDc9Xx8Q7kNvwF8V-F7&_nc_gid=L2ZBtyFOQKEkHmrmT6GCYQ&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQFGgVoVA3_48CLjbp_NoKCkFZ-U1afFnpJjyZeggeGv8A&oe=6A7B8A96&_nc_sid=c6f216"
-          ],
-          "handle": "clayhighway",
-          "raw": {
-            "ownerUsername": "clayhighway",
-            "type": "Sidecar",
-            "shortCode": "DbQtOEDEWH4"
-          },
-          "analysis": {
-            "relevant": false,
-            "events": [],
-            "windowMax": "2026-08-13"
+            "windowMax": "2026-08-17"
           }
         }
       ]
@@ -1417,7 +1274,7 @@
       "name": "Old Jack",
       "instagram": "https://www.instagram.com/oldjackgaragebar/",
       "handle": "oldjackgaragebar",
-      "fetchedAt": "2026-08-07T10:15:30.469Z",
+      "fetchedAt": "2026-08-11T10:12:29.259Z",
       "posts": [
         {
           "id": "DbmBFqZy7c7",
@@ -1426,7 +1283,7 @@
           "timestamp": "2026-08-03T22:03:51.000Z",
           "permalink": "https://www.instagram.com/p/DbmBFqZy7c7/",
           "images": [
-            "https://scontent-atl3-3.cdninstagram.com/v/t51.82787-15/765573177_18384043138205061_3531887314150556338_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gGAkfdKDjkg26GfblTQJiep0J3duI4wBZMNI29Wdwx77CJbr8ZWIIwxJQSxtHqDX6IYYEwwjjSLJlgeEU4qoERI&_nc_ohc=7gd6U7n7F7kQ7kNvwFVdta9&_nc_gid=cIjTIOw4iW2H-4jB1dGsKQ&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQH08Xg58O2K3-iue2XS3WFWgfAWaJuwMCRoQ-GEAeDjiQ&oe=6A7B9948&_nc_sid=c6f216"
+            "https://instagram.ftrn2-1.fna.fbcdn.net/v/t51.82787-15/765573177_18384043138205061_3531887314150556338_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.ftrn2-1.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2gFlozxsZVGcS0674SWz4Cn4Z4zOk93eQJ1g7ZR-DHa1qnFe2Tndny4FNQHdj6RPJmo&_nc_ohc=7tAeXA4R_cEQ7kNvwHa2jkV&_nc_gid=WYafX436JOD_OT80QScpAg&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQHGPT9GboVre5mSR_wo5XCqN_DcDxYkOlIf_hCwUsUbpg&oe=6A80DF48&_nc_sid=c6f216"
           ],
           "handle": "oldjackgaragebar",
           "raw": {
@@ -1435,80 +1292,59 @@
             "shortCode": "DbmBFqZy7c7"
           },
           "analysis": {
-            "relevant": false,
-            "events": [],
-            "windowMax": "2026-08-13"
+            "relevant": true,
+            "events": [
+              {
+                "date": "2026-08-14",
+                "title": "Tributo ao Nazareth com The Shadetts",
+                "start_time": "20:30:00Z",
+                "confidence": "high",
+                "evidence": "Nessa sexta rola aqui no Old o maior tributo ao Nazareth do país!! The Shadetts sobe ao palco as 20:30h!"
+              }
+            ],
+            "windowMax": "2026-08-17"
           }
         },
         {
-          "id": "Dbol2-fFt4h",
-          "caption": "Bora de agenda?!\n\nEntão bora…\n\n🎺Quarta tem muito Blues em uma Jan Session, sensacional com entrada Free e promo de chopp!🍻\n\n🎸Quinta tem Country Music!\n\n🎸Sexta tem muito Nazareth em um tributo incrível a partir das 20:30h!\n\n🤩 Sábado tem a festa de aniversário da banda Zero41!!\n\n🎸A primeira banda rola as 18:00h!\n🎸A segunda banda rola as 20:30h!\n🎫 a entrada custa $20 mangos!\n\n🎸 Domingo tem Flash Back a partir das 18:30h!\n\nEntão já sabe né, chama todo mundo e vem curtir no bar mais Irado de Curitiba!🤘🏼\n\n🎫 Couvert quinta, sexta e domingo é de $12 pilas!\n🛑 Estacionamento Free todos os dias!\n\n🎂 Venha comemorar seu aniversário no Old!\n\n📲 Informações e reservas: (41) 98806-2180",
-          "mediaType": "Sidecar",
-          "timestamp": "2026-08-04T22:02:46.000Z",
-          "permalink": "https://www.instagram.com/p/Dbol2-fFt4h/",
+          "id": "Db0dRBFvLBG",
+          "caption": "O verdadeiro pai é aquele que ensina, inspira e cria histórias para a vida toda. 🤘\n\nHoje o brinde é para eles, os caras mais Irados das nossas vidas! 🎸🍻\n\nO Old deseja a todos um Feliz Dia dos Pais! ❤️",
+          "mediaType": "Image",
+          "timestamp": "2026-08-09T12:43:23.000Z",
+          "permalink": "https://www.instagram.com/p/Db0dRBFvLBG/",
           "images": [
-            "https://scontent-mia3-3.cdninstagram.com/v/t51.82787-15/765898155_18384193159205061_1732623909502231514_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-mia3-3.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gFceNvmQh1pKQ57yyxGg8h04Dgd121Y96hLflCbwbP4KuGxDGX6RruUp1wnakrgfB7uGzu1i8SRLYru4tiOfrKe&_nc_ohc=ZD6xEwDEbe4Q7kNvwF__AEE&_nc_gid=QpP6IZfuOtunwxS2OxBV8g&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQEG4NC-pGcBfSWwj2eKhSZDG4fBNVk3hiOP1-dwuDBXNA&oe=6A7B92D1&_nc_sid=c6f216"
+            "https://instagram.fwaw9-1.fna.fbcdn.net/v/t51.82787-15/771013547_18384876355205061_5204889750202585794_n.jpg?stp=dst-jpg_e35_s1080x1080_sh2.08_tt6&_nc_ht=instagram.fwaw9-1.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2gEOm9mpwC4Px0j8_gtlZEyOWEkX6oJEBdZbxCTX8CmByUhF1bWcPX2qvgOmB_h1EKw&_nc_ohc=TMT7pfHn1ZYQ7kNvwHDICTI&_nc_gid=U_sP92caYVHBeY7MihMFdQ&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQHqaWHSh-xSfCyOfSFN0dNTm48MxQZmIa5WTEOwsHdJ_Q&oe=6A80E293&_nc_sid=c6f216"
+          ],
+          "handle": "oldjackgaragebar",
+          "raw": {
+            "ownerUsername": "oldjackgaragebar",
+            "type": "Image",
+            "shortCode": "Db0dRBFvLBG"
+          },
+          "analysis": {
+            "relevant": false,
+            "events": [],
+            "windowMax": "2026-08-17"
+          }
+        },
+        {
+          "id": "Db4PyiGljsR",
+          "caption": "Bora de agenda?!\n\nEntão bora…\n\n🎤Quarta é dia de soltar a voz no karaokê do Old!\n\n🎸Quinta tem Country Music!\n\n🎸Sexta tem muito Pop Rock a partir das 20:30h!\n\n🎸 Sábado tem aquela classiqueira a partir das 20:30h!\n\n🎸 Domingo tem Pop Rock a partir das 18:30h!\n\nEntão já sabe né, chama todo mundo e vem curtir no bar mais Irado de Curitiba!🤘🏼\n\n🎫 Couvert quinta, sexta, sábado e domingo é de $12 pilas!\n🛑 Estacionamento Free todos os dias!\n\n🎂 Venha comemorar seu aniversário no Old!\n\n📲 Informações e reservas: (41) 98806-2180",
+          "mediaType": "Sidecar",
+          "timestamp": "2026-08-10T23:57:47.000Z",
+          "permalink": "https://www.instagram.com/p/Db4PyiGljsR/",
+          "images": [
+            "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/771814037_18385121755205061_5515081771279363242_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gHUbwqBZvpBaj1T2DEodK2B-p_Wu3OQ8Cyd2-wYUWnhRQq-763O_rDiiF5vXL5kvwlM5LJyJitr9w_YTK1DahaQ&_nc_ohc=XwUPwDqJK9sQ7kNvwEJYh6D&_nc_gid=L9qxbyvURG9OWAAkkWFudA&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQEm4Dx272QQmJ6zEUEvTxqMyZGG4BZHOubIvvu5OmDPMQ&oe=6A80E0D7&_nc_sid=c6f216"
           ],
           "handle": "oldjackgaragebar",
           "raw": {
             "ownerUsername": "oldjackgaragebar",
             "type": "Sidecar",
-            "shortCode": "Dbol2-fFt4h"
-          },
-          "analysis": {
-            "relevant": true,
-            "events": [
-              {
-                "date": "2026-08-07",
-                "title": "The Shadettes - Nazareth Tributo",
-                "start_time": "20:30:00Z",
-                "confidence": "high",
-                "evidence": "SEX. THE SHADETTES NAZARETH TRIBUTO 20:30H"
-              },
-              {
-                "date": "2026-08-08",
-                "title": "CPM 22 Cover Brasil",
-                "start_time": "20:00:00Z",
-                "confidence": "high",
-                "evidence": "SÁB. CPM 22 COVER BRASIL 20:00H"
-              },
-              {
-                "date": "2026-08-08",
-                "title": "Banda 041",
-                "start_time": "20:30:00Z",
-                "confidence": "high",
-                "evidence": "SÁB. BANDA 041 20:30H"
-              },
-              {
-                "date": "2026-08-09",
-                "title": "Ochtop",
-                "start_time": "18:30:00Z",
-                "confidence": "high",
-                "evidence": "DOM. OCHTOP POP ROCK 18:30H"
-              }
-            ],
-            "windowMax": "2026-08-13"
-          }
-        },
-        {
-          "id": "Dbs_79nS3hV",
-          "caption": "Se liga no recado!!\n\nNessa sexta tem Tributo ao Nazareth aqui no Old e você é o nosso convidado especial!!\n\n🕰️Bar aberto as 17:00h!\n🎸The Shadettes 20:30!\n🎫Couvert $12 pilas por pessoa!\n\nInformações e reservas: (41) 98806-2180\n\nChama todo mundo e vem curtir essa sonzeira no bar mais irado da cidade!!\n\n🤘🏼",
-          "mediaType": "Video",
-          "timestamp": "2026-08-06T15:10:50.000Z",
-          "permalink": "https://www.instagram.com/p/Dbs_79nS3hV/",
-          "images": [
-            "https://scontent-fra5-2.cdninstagram.com/v/t51.82787-15/767455818_18384456340205061_2602790976049276075_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-fra5-2.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gFr_wr5VQ30Na8RSTNlWLGh9hJ3yNjdyw9fC0EDxDeC-phJsOZ3-wGONtw35EeXm4c9gXLs2fcFqKKLeE0OWWLQ&_nc_ohc=udlTE7rHt08Q7kNvwEXlH8O&_nc_gid=4kxY44Y1gSMBsRCrlHTnog&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQGeEcnPKVYeqxk-FYhq_Fl7LrZU283Qa278FlQ1vG1_BQ&oe=6A7B915D&_nc_sid=c6f216"
-          ],
-          "handle": "oldjackgaragebar",
-          "raw": {
-            "ownerUsername": "oldjackgaragebar",
-            "type": "Video",
-            "shortCode": "Dbs_79nS3hV"
+            "shortCode": "Db4PyiGljsR"
           },
           "analysis": {
             "relevant": false,
             "events": [],
-            "windowMax": "2026-08-13"
+            "windowMax": "2026-08-17"
           }
         }
       ]
@@ -1546,8 +1382,29 @@
       "name": "92 Graus",
       "instagram": "https://www.instagram.com/92graus/",
       "handle": "92graus",
-      "fetchedAt": "2026-08-07T10:16:08.856Z",
+      "fetchedAt": "2026-08-11T10:13:32.147Z",
       "posts": [
+        {
+          "id": "DbvsUJeuIXi",
+          "caption": "Final de semana no 92° \nSexta-feira 07/Ago \nRock Solid Night \nFesta pós graduação de Geologia \nShows com as bandas a partir de 19:30\nNicóis Cruzados 21:00 \nSpecialites 22:00 \nDJ Folk Rubba animando a pista nos intervalos pro kisuko. \nIngressos só 20 pilas. \nAfter concert pista liberada. \n\n*Sábado 08/Ago \nLançamento da cerveja caiçara Polkas Idéias com 01 barril de chopp liberado de 20:00 a 21:00 \nShow bom a banda:\nPolkas Idéias e os Piá \nIngressos antecipados \nPelo pixta-me e na hora só 25,00. \n\n*Domingo 09/Ago \nLançamento do álbum \n\"Héteronormachinho\" da banda Crotch Rot \n16:00 cada abre \n17:00 Capetassauras \n18:00 Visione Obscura \n19:00 Crotch Rot \nIngressos só 20 pilas! \n\nChegue cedo and be happy!",
+          "mediaType": "Video",
+          "timestamp": "2026-08-07T16:30:12.000Z",
+          "permalink": "https://www.instagram.com/p/DbvsUJeuIXi/",
+          "images": [
+            "https://scontent-gru1-2.cdninstagram.com/v/t51.71878-15/769007245_1048022111295092_2404716605481360095_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-gru1-2.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHYU2xbWbVLdtUFkv1Lxe7FaujSrnYIiRwQS7FDmpHbF3UBOm2Gg4Xl8QOEtM4VTCpiTAQWBbcE8CPZwazBaO-v&_nc_ohc=wUUDYWItSlEQ7kNvwFNAqtm&_nc_gid=XSSSzIH9w_RWCVB3l3a3Gg&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQFQn7j-Ip7J7DcA1qDfSzGPxD2bUq4Fgsovw951lZ-ULQ&oe=6A80D34F&_nc_sid=c6f216"
+          ],
+          "handle": "92graus",
+          "raw": {
+            "ownerUsername": "92graus",
+            "type": "Video",
+            "shortCode": "DbvsUJeuIXi"
+          },
+          "analysis": {
+            "relevant": false,
+            "events": [],
+            "windowMax": "2026-08-17"
+          }
+        },
         {
           "id": "DRzUwFXDnOq",
           "caption": "34 ANOS DO 92 GRAUS 🎂🔥\n\nEm dezembro, a casa completa 34 anos! Para comemorar, logo no primeiro final de semana do mês, o bar recebe várias atrações, de quinta-feira à domingo, com uma presença super especial no sábado. Confira: \n\nQUINTA (4/12) - A festa começa com osso street a partir das 18h e em seguida tem o show das bandas The Speakers e Barbatanas às 20h. A entrada é FREE! \n\nSEXTA (5/12) - A casa abre às 20h com 1h de double de gin tônica, cuba libre e vodka com energético. As bandas Muralha, Midnight Blue e Porttal tocam a partir das 21h. \nOs ingressos custam R$ 20 no local. \n\nSÁBADO (6/12) - É aniversário do 92 Graus, e a data merece uma comemoração especial. Diretamente do RJ, a Second Come retorna à Curitiba após 30 anos. \nPara acompanhar o baile, a banda Redlightz e o DJ Zé Colméia também se apresentam. \n🎟️ Os ingressos antecipados já estão disponíveis, por R$ 50. Para comprar, basta mandar uma mensagem no Whatsapp para (41) 99919-1492\n\nDOMINGO (7/12) - Para fechar o fds em grande estilo, a matinê dominical conta com presença de três bandas representantes da nova onda da música alternativa: Resp3x, Vinca Major e Stela. \nA casa abre às 16h e vai rolar 1h de double gin tônica, cuba libre e vodka com energético. \n🔗Os ingressos estão à venda pelo pixta.me. O link tá na bio, corre lá! \n\nVenha comemorar o aniversário do pub com a gente and be happy! 🤘\n\nPs: no próximo final de semana a festa continua… 🥳\n\n#92graus #92graus34anos",
@@ -1555,7 +1412,7 @@
           "timestamp": "2025-12-03T12:50:59.000Z",
           "permalink": "https://www.instagram.com/p/DRzUwFXDnOq/",
           "images": [
-            "https://instagram.fcps3-1.fna.fbcdn.net/v/t51.82787-15/590410920_18516516487067193_1234801468435837745_n.webp?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fcps3-1.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2gHpxmTb8e5uOMIvQhKatnSCe2yEWO5_FKO17cz2YgW1z5RmKuNZGfe0tTBmRtFU74B71XmI6AA9BwXE57nriAxx&_nc_ohc=NFPO7QnzJ1gQ7kNvwGoi60o&_nc_gid=wRcoSTO_KJQr0wV1gwHaaA&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQHNwJS5-Z-FMy5pa9IaYKmnQ6Fxt21omOVrK9vm5V11Jw&oe=6A7B86DD&_nc_sid=c6f216"
+            "https://instagram.fvlc6-2.fna.fbcdn.net/v/t51.82787-15/590410920_18516516487067193_1234801468435837745_n.webp?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fvlc6-2.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2gGT1Dhh5RMB1mxEOknfhgWoxVxM1nNrldPnPfBmYqiMKup8mCizEGI1t1wjtliSG2I&_nc_ohc=IuSaiHH_COUQ7kNvwEpcd7w&_nc_gid=ILjjpJlH4h7BD5901uIh2A&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQHg9b8mYwSeR8_J7Cf7p5PJfDLYsoMoVXbUfxwcQrwPyw&oe=6A80CCDD&_nc_sid=c6f216"
           ],
           "handle": "92graus",
           "raw": {
@@ -1566,7 +1423,7 @@
           "analysis": {
             "relevant": false,
             "events": [],
-            "windowMax": "2026-08-13"
+            "windowMax": "2026-08-17"
           }
         },
         {
@@ -1576,7 +1433,7 @@
           "timestamp": "2025-12-12T12:28:45.000Z",
           "permalink": "https://www.instagram.com/p/DSKdXGkDrrN/",
           "images": [
-            "https://instagram.fwaw9-1.fna.fbcdn.net/v/t51.82787-15/590411037_18517995100067193_5091404928896227564_n.webp?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fwaw9-1.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2gGgPDEwHsoQkZD9Y5E24hVTWEreQwiMo2UR1YatWXwhjVr1fZfqOlj3NR9XycnK9po&_nc_ohc=jiXt1YO6kq4Q7kNvwHK22Od&_nc_gid=fGkoOJNhNlHy34KPftMDWA&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQGclrQwU-19Da2HZyEdEDAZSkU0OyeWLCIvjuujKkl_aA&oe=6A7B87D0&_nc_sid=c6f216"
+            "https://scontent-mia3-3.cdninstagram.com/v/t51.82787-15/590411037_18517995100067193_5091404928896227564_n.webp?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-mia3-3.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gFYV2ZTq63VF7w2-4MChykn1J7jfZ4ecXo5ym6EK14EJAdF94FkdZG62-4s_r9yuQY&_nc_ohc=7jDwMspQHHIQ7kNvwFuNfHa&_nc_gid=QMcbtTDxwPjcIoPX-0g9Yg&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQHSKubKW3DK-mXb785WM71h349FBz8adzf6wM6_c5KRsQ&oe=6A80CDD0&_nc_sid=c6f216"
           ],
           "handle": "92graus",
           "raw": {
@@ -1587,7 +1444,7 @@
           "analysis": {
             "relevant": false,
             "events": [],
-            "windowMax": "2026-08-13"
+            "windowMax": "2026-08-17"
           }
         }
       ]
@@ -1603,16 +1460,40 @@
   },
   "errors": [
     {
-      "handle": "armazemgaragem",
-      "postId": "DbvyYQ8OhY_",
+      "handle": "clayhighway",
+      "postId": "Db4UsX1q3Tj",
       "provider": "gemini",
-      "message": "Gemini 429: {\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 2.066791565s.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"location\":\"global\",\"model\":\"gemini-2.5-flash\"},\"quotaValue\":\"20\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"2s\"}]}"
+      "message": "Gemini 429: {\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 29.986838401s.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"location\":\"global\",\"model\":\"gemini-2.5-flash\"},\"quotaValue\":\"20\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"29s\"}]}"
     },
     {
-      "handle": "theanimalspub",
-      "postId": "https://www.instagram.com/theanimalspub/",
+      "handle": "oldjackgaragebar",
+      "postId": "Db0dRBFvLBG",
       "provider": "gemini",
-      "message": "Gemini 429: {\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 19.314755019s.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"location\":\"global\",\"model\":\"gemini-2.5-flash\"},\"quotaValue\":\"20\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"19s\"}]}"
+      "message": "Gemini 429: {\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 44.613952136s.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"location\":\"global\",\"model\":\"gemini-2.5-flash\"},\"quotaValue\":\"20\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"44s\"}]}"
+    },
+    {
+      "handle": "oldjackgaragebar",
+      "postId": "Db4PyiGljsR",
+      "provider": "gemini",
+      "message": "Gemini 429: {\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 37.252126073s.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"location\":\"global\",\"model\":\"gemini-2.5-flash\"},\"quotaValue\":\"20\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"37s\"}]}"
+    },
+    {
+      "handle": "92graus",
+      "postId": "DbvsUJeuIXi",
+      "provider": "gemini",
+      "message": "Gemini 429: {\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 49.048594854s.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"location\":\"global\",\"model\":\"gemini-2.5-flash\"},\"quotaValue\":\"20\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"49s\"}]}"
+    },
+    {
+      "handle": "92graus",
+      "postId": "DRzUwFXDnOq",
+      "provider": "gemini",
+      "message": "Gemini 429: {\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 41.396842844s.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"location\":\"global\",\"model\":\"gemini-2.5-flash\"},\"quotaValue\":\"20\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"41s\"}]}"
+    },
+    {
+      "handle": "92graus",
+      "postId": "DSKdXGkDrrN",
+      "provider": "gemini",
+      "message": "Gemini 429: {\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 34.364536193s.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"location\":\"global\",\"model\":\"gemini-2.5-flash\"},\"quotaValue\":\"20\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"34s\"}]}"
     }
   ]
 }
