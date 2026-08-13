@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-11T10:13:32.211Z",
-  "week_start": "2026-08-11",
+  "updated_at": "2026-08-13T10:26:17.405Z",
+  "week_start": "2026-08-13",
   "model": "gemini-2.5-flash",
   "venues": [
     {
@@ -16,15 +16,41 @@
       "bairro": "Água Verde",
       "cat": "Gourmet",
       "events": {
+        "2026-08-16": [
+          {
+            "name": "Thunderstruck Woodstock",
+            "time": "15:00:00.000Z",
+            "description": null
+          },
+          {
+            "name": "Thunderstruck: Woodstock",
+            "time": null,
+            "description": null
+          }
+        ],
         "2026-08-13": [
           {
-            "name": "Xima Rock e Duds (Acústico Rock/Grunge)",
+            "name": "Bluesinc. (Classic Blues)",
             "time": "19:30:00Z",
             "description": null
           },
           {
-            "name": "The Vedders (Acústico Pearl Jam)",
+            "name": "Lenhadores da Antártida Trio (Folk Rock)",
             "time": "21:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-08-14": [
+          {
+            "name": "Noite 2000 com Blink 182 Cover, Pennyback e Os Caras do CBJR",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-08-15": [
+          {
+            "name": "Rock 80’s, 90’s e 00’s com The Velvet, Engenheiros do Hawaii Cover e Válvula Vap",
+            "time": null,
             "description": null
           }
         ]
@@ -45,18 +71,47 @@
       "events": {
         "2026-08-15": [
           {
-            "name": "Abertura Rádio Vinil",
-            "time": "20:30:00Z",
-            "description": null
-          },
-          {
             "name": "Miro Penna - Legião Urbana Cover Curitiba",
             "time": "23:00:00Z",
             "description": null
           },
           {
+            "name": "Abertura Rádio Vinil",
+            "time": "20:30:00Z",
+            "description": null
+          },
+          {
             "name": "Discotecagem Vivi Pickler",
             "time": null,
+            "description": null
+          },
+          {
+            "name": "RÁDIO VINIL",
+            "time": "20:30:00Z",
+            "description": null
+          },
+          {
+            "name": "LEGI�O URBANA COVER CURITIBA",
+            "time": "23:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-08-13": [
+          {
+            "name": "BANKS",
+            "time": "20:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-08-14": [
+          {
+            "name": "RADIOPHONICS",
+            "time": "20:30:00Z",
+            "description": null
+          },
+          {
+            "name": "BACKSTAGE",
+            "time": "23:00:00Z",
             "description": null
           }
         ]
@@ -88,7 +143,81 @@
       "ig": "https://www.instagram.com/distrito.1340/",
       "bairro": "Seminário",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-08-13": [
+          {
+            "name": "Open pra Mulherada + Fusão 80 e Lady Die",
+            "time": "21:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Open pra Mulherada",
+            "time": "19:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Fusão 80",
+            "time": "19:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Lady Die",
+            "time": "22:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-08-14": [
+          {
+            "name": "MTX Mo Fire Band + 41Natiruts",
+            "time": "21:00:00Z",
+            "description": null
+          },
+          {
+            "name": "MTX Mo Fire Band",
+            "time": "21:00:00Z",
+            "description": null
+          },
+          {
+            "name": "41Natiruts",
+            "time": "00:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-08-15": [
+          {
+            "name": "Syd Vinicius + Backstage Tributos",
+            "time": "21:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Syd Vinicius",
+            "time": "21:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Backstage Tributos",
+            "time": "00:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-08-16": [
+          {
+            "name": "Da Rua + Specialites",
+            "time": null,
+            "description": null
+          },
+          {
+            "name": "Da Rua",
+            "time": "20:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Specialites - Clássicos do Ska",
+            "time": "22:00:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Barbarium",
@@ -105,13 +234,13 @@
       "events": {
         "2026-08-15": [
           {
-            "name": "Música ao vivo",
-            "time": null,
+            "name": "Candyman Club e convidados",
+            "time": "15:00:00Z",
             "description": null
           },
           {
-            "name": "Show com Candyman Club e outros",
-            "time": "15:00:00.000000000Z",
+            "name": "Música ao vivo",
+            "time": null,
             "description": null
           }
         ]
@@ -123,25 +252,6 @@
       "bairro": "Centro",
       "cat": "Gourmet",
       "events": {
-        "2026-08-11": [
-          {
-            "name": "Duo Awallonia",
-            "time": null,
-            "description": null
-          },
-          {
-            "name": "Costelinha de porco com barbecue",
-            "time": null,
-            "description": null
-          }
-        ],
-        "2026-08-12": [
-          {
-            "name": "Boldrini Jazz Trio",
-            "time": null,
-            "description": null
-          }
-        ],
         "2026-08-13": [
           {
             "name": "Live Transmission",
@@ -170,7 +280,22 @@
       "ig": "https://www.instagram.com/torkandroll/",
       "bairro": "Rebouças",
       "cat": "Palco e Show",
-      "events": {}
+      "events": {
+        "2026-08-14": [
+          {
+            "name": "Deu Onda Summer Eletrohits",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-08-15": [
+          {
+            "name": "Tributo Linkin Park & System of a Down",
+            "time": "21:30:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Blood Rock",
@@ -199,7 +324,29 @@
       "ig": "https://www.instagram.com/sebas_rock_bar/",
       "bairro": "Boqueirão",
       "cat": "Palco e Show",
-      "events": {}
+      "events": {
+        "2026-08-13": [
+          {
+            "name": "Cora\\u00e7\\u00e3o Pirata Roupa Nova Cover",
+            "time": "19:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-08-14": [
+          {
+            "name": "Banda Mamilos Pol\\u00eamicos (Mamonas Assassinas Cover) e Junior Stemposki",
+            "time": "19:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-08-15": [
+          {
+            "name": "Bandas Boogie Night, FlashnBack e Silvermoon",
+            "time": null,
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Belvedere",
@@ -257,7 +404,56 @@
       "ig": "https://www.instagram.com/armazemgaragem/",
       "bairro": "Santo Inácio",
       "cat": "Raiz",
-      "events": {}
+      "events": {
+        "2026-08-13": [
+          {
+            "name": "Golden Duo Rock N Roll Acústico",
+            "time": "21:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-08-14": [
+          {
+            "name": "Honk Tonk Night Garagem (Line Dance Prof Ju Rech)",
+            "time": "20:00:00Z",
+            "description": null
+          },
+          {
+            "name": "D'Folks Country & Southern Rock",
+            "time": "20:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Natan Country (Encontro de Pick-ups)",
+            "time": "23:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-08-15": [
+          {
+            "name": "Capitão Tequila Rock Nacional",
+            "time": "18:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Sex Machine Hits Anos 70, 80 & 90",
+            "time": "21:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-08-16": [
+          {
+            "name": "Responsa Rock 80, 90 & 2000",
+            "time": "16:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Banda Puppets Rock Flashback (Encontro de Carros Antigos)",
+            "time": "19:00:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Old Jack",
