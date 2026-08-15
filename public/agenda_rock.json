@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-13T10:26:17.405Z",
-  "week_start": "2026-08-13",
+  "updated_at": "2026-08-15T09:45:29.376Z",
+  "week_start": "2026-08-15",
   "model": "gemini-2.5-flash",
   "venues": [
     {
@@ -8,7 +8,15 @@
       "ig": "https://www.instagram.com/wearebastardspub/",
       "bairro": "Água Verde",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-08-15": [
+          {
+            "name": "ABSOLUTE DATE",
+            "time": null,
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Cross Roads",
@@ -28,25 +36,6 @@
             "description": null
           }
         ],
-        "2026-08-13": [
-          {
-            "name": "Bluesinc. (Classic Blues)",
-            "time": "19:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Lenhadores da Antártida Trio (Folk Rock)",
-            "time": "21:30:00Z",
-            "description": null
-          }
-        ],
-        "2026-08-14": [
-          {
-            "name": "Noite 2000 com Blink 182 Cover, Pennyback e Os Caras do CBJR",
-            "time": null,
-            "description": null
-          }
-        ],
         "2026-08-15": [
           {
             "name": "Rock 80’s, 90’s e 00’s com The Velvet, Engenheiros do Hawaii Cover e Válvula Vap",
@@ -61,7 +50,32 @@
       "ig": "https://www.instagram.com/hrccuritiba/",
       "bairro": "Batel",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-08-15": [
+          {
+            "name": "Rodrigo Castellani",
+            "time": "12:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Banda Asgard",
+            "time": "19:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-08-16": [
+          {
+            "name": "Gui Viana",
+            "time": "12:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Code Fire",
+            "time": "19:30:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Sheridans",
@@ -95,25 +109,6 @@
             "time": "23:00:00Z",
             "description": null
           }
-        ],
-        "2026-08-13": [
-          {
-            "name": "BANKS",
-            "time": "20:30:00Z",
-            "description": null
-          }
-        ],
-        "2026-08-14": [
-          {
-            "name": "RADIOPHONICS",
-            "time": "20:30:00Z",
-            "description": null
-          },
-          {
-            "name": "BACKSTAGE",
-            "time": "23:00:00Z",
-            "description": null
-          }
         ]
       }
     },
@@ -122,7 +117,27 @@
       "ig": "https://www.instagram.com/bardafabricabastards/",
       "bairro": "Bom Retiro",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-08-15": [
+          {
+            "name": "Niko e Giu",
+            "time": "16:00:00Z",
+            "description": null
+          },
+          {
+            "name": "República Pine",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-08-16": [
+          {
+            "name": "Lenhadores Trio",
+            "time": "16:00:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Maniacs",
@@ -144,45 +159,6 @@
       "bairro": "Seminário",
       "cat": "Gourmet",
       "events": {
-        "2026-08-13": [
-          {
-            "name": "Open pra Mulherada + Fusão 80 e Lady Die",
-            "time": "21:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Open pra Mulherada",
-            "time": "19:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Fusão 80",
-            "time": "19:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Lady Die",
-            "time": "22:30:00Z",
-            "description": null
-          }
-        ],
-        "2026-08-14": [
-          {
-            "name": "MTX Mo Fire Band + 41Natiruts",
-            "time": "21:00:00Z",
-            "description": null
-          },
-          {
-            "name": "MTX Mo Fire Band",
-            "time": "21:00:00Z",
-            "description": null
-          },
-          {
-            "name": "41Natiruts",
-            "time": "00:00:00Z",
-            "description": null
-          }
-        ],
         "2026-08-15": [
           {
             "name": "Syd Vinicius + Backstage Tributos",
@@ -251,29 +227,7 @@
       "ig": "https://www.instagram.com/jokerspub/",
       "bairro": "Centro",
       "cat": "Gourmet",
-      "events": {
-        "2026-08-13": [
-          {
-            "name": "Live Transmission",
-            "time": null,
-            "description": null
-          }
-        ],
-        "2026-08-14": [
-          {
-            "name": "Elvis Respect",
-            "time": null,
-            "description": null
-          }
-        ],
-        "2026-08-15": [
-          {
-            "name": "Monster Truck Rock Party",
-            "time": null,
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Tork n' Roll",
@@ -281,13 +235,6 @@
       "bairro": "Rebouças",
       "cat": "Palco e Show",
       "events": {
-        "2026-08-14": [
-          {
-            "name": "Deu Onda Summer Eletrohits",
-            "time": null,
-            "description": null
-          }
-        ],
         "2026-08-15": [
           {
             "name": "Tributo Linkin Park & System of a Down",
@@ -305,15 +252,8 @@
       "events": {
         "2026-08-15": [
           {
-            "name": "Ozzy Day com OzzStorm",
+            "name": "OZZY DAY com OzzStorm",
             "time": "19:00:00.000Z",
-            "description": null
-          }
-        ],
-        "2026-08-14": [
-          {
-            "name": "Especial Gojira e Sleep Token",
-            "time": "21:30:00Z",
             "description": null
           }
         ]
@@ -325,20 +265,6 @@
       "bairro": "Boqueirão",
       "cat": "Palco e Show",
       "events": {
-        "2026-08-13": [
-          {
-            "name": "Cora\\u00e7\\u00e3o Pirata Roupa Nova Cover",
-            "time": "19:30:00Z",
-            "description": null
-          }
-        ],
-        "2026-08-14": [
-          {
-            "name": "Banda Mamilos Pol\\u00eamicos (Mamonas Assassinas Cover) e Junior Stemposki",
-            "time": "19:30:00Z",
-            "description": null
-          }
-        ],
         "2026-08-15": [
           {
             "name": "Bandas Boogie Night, FlashnBack e Silvermoon",
@@ -383,18 +309,6 @@
             "name": "Lets Core - The Offspring, Bad Religion, Green Day",
             "time": "01:00:00Z",
             "description": null
-          },
-          {
-            "name": "Festival Papo Reto",
-            "time": null,
-            "description": null
-          }
-        ],
-        "2026-08-16": [
-          {
-            "name": "Curitiba Autoral Lab",
-            "time": null,
-            "description": null
           }
         ]
       }
@@ -405,30 +319,6 @@
       "bairro": "Santo Inácio",
       "cat": "Raiz",
       "events": {
-        "2026-08-13": [
-          {
-            "name": "Golden Duo Rock N Roll Acústico",
-            "time": "21:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-08-14": [
-          {
-            "name": "Honk Tonk Night Garagem (Line Dance Prof Ju Rech)",
-            "time": "20:00:00Z",
-            "description": null
-          },
-          {
-            "name": "D'Folks Country & Southern Rock",
-            "time": "20:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Natan Country (Encontro de Pick-ups)",
-            "time": "23:00:00Z",
-            "description": null
-          }
-        ],
         "2026-08-15": [
           {
             "name": "Capitão Tequila Rock Nacional",
@@ -460,15 +350,7 @@
       "ig": "https://www.instagram.com/oldjackgaragebar/",
       "bairro": "Novo Mundo",
       "cat": "Raiz",
-      "events": {
-        "2026-08-14": [
-          {
-            "name": "Tributo ao Nazareth com The Shadetts",
-            "time": "20:30:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Animals Pub",
