@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-15T09:45:29.376Z",
-  "week_start": "2026-08-15",
+  "updated_at": "2026-08-17T09:53:44.848Z",
+  "week_start": "2026-08-17",
   "model": "gemini-2.5-flash",
   "venues": [
     {
@@ -8,74 +8,21 @@
       "ig": "https://www.instagram.com/wearebastardspub/",
       "bairro": "Água Verde",
       "cat": "Gourmet",
-      "events": {
-        "2026-08-15": [
-          {
-            "name": "ABSOLUTE DATE",
-            "time": null,
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Cross Roads",
       "ig": "https://www.instagram.com/barcrossroads/",
       "bairro": "Água Verde",
       "cat": "Gourmet",
-      "events": {
-        "2026-08-16": [
-          {
-            "name": "Thunderstruck Woodstock",
-            "time": "15:00:00.000Z",
-            "description": null
-          },
-          {
-            "name": "Thunderstruck: Woodstock",
-            "time": null,
-            "description": null
-          }
-        ],
-        "2026-08-15": [
-          {
-            "name": "Rock 80’s, 90’s e 00’s com The Velvet, Engenheiros do Hawaii Cover e Válvula Vap",
-            "time": null,
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Hard Rock",
       "ig": "https://www.instagram.com/hrccuritiba/",
       "bairro": "Batel",
       "cat": "Gourmet",
-      "events": {
-        "2026-08-15": [
-          {
-            "name": "Rodrigo Castellani",
-            "time": "12:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Banda Asgard",
-            "time": "19:30:00Z",
-            "description": null
-          }
-        ],
-        "2026-08-16": [
-          {
-            "name": "Gui Viana",
-            "time": "12:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Code Fire",
-            "time": "19:30:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Sheridans",
@@ -83,30 +30,55 @@
       "bairro": "Batel",
       "cat": "Gourmet",
       "events": {
-        "2026-08-15": [
+        "2026-08-21": [
           {
-            "name": "Miro Penna - Legião Urbana Cover Curitiba",
-            "time": "23:00:00Z",
+            "name": "St. Patrick's de Inverno com Candyman Club",
+            "time": "20:30:00.000Z",
             "description": null
           },
           {
-            "name": "Abertura Rádio Vinil",
-            "time": "20:30:00Z",
+            "name": "St. Patrick's de Inverno com Delorean",
+            "time": "23:00:00.000Z",
             "description": null
           },
           {
-            "name": "Discotecagem Vivi Pickler",
+            "name": "Candyman Club e Delorean",
             "time": null,
             "description": null
-          },
+          }
+        ],
+        "2026-08-17": [
           {
-            "name": "RÁDIO VINIL",
-            "time": "20:30:00Z",
+            "name": "U2 CWB",
+            "time": null,
             "description": null
-          },
+          }
+        ],
+        "2026-08-18": [
           {
-            "name": "LEGI�O URBANA COVER CURITIBA",
-            "time": "23:00:00Z",
+            "name": "Older Boys e Johaine Duo",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-08-19": [
+          {
+            "name": "Melo e Lely Quinn",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-08-20": [
+          {
+            "name": "Asgard",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-08-22": [
+          {
+            "name": "Válvula Vapor e Terra Celta",
+            "time": null,
             "description": null
           }
         ]
@@ -117,34 +89,22 @@
       "ig": "https://www.instagram.com/bardafabricabastards/",
       "bairro": "Bom Retiro",
       "cat": "Gourmet",
-      "events": {
-        "2026-08-15": [
-          {
-            "name": "Niko e Giu",
-            "time": "16:00:00Z",
-            "description": null
-          },
-          {
-            "name": "República Pine",
-            "time": "20:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-08-16": [
-          {
-            "name": "Lenhadores Trio",
-            "time": "16:00:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Maniacs",
       "ig": "https://www.instagram.com/bardamaniacs/",
       "bairro": "Cabral",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-08-18": [
+          {
+            "name": "Chef Convidado Fredy Ferreira",
+            "time": null,
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Rock Pizza",
@@ -158,42 +118,7 @@
       "ig": "https://www.instagram.com/distrito.1340/",
       "bairro": "Seminário",
       "cat": "Gourmet",
-      "events": {
-        "2026-08-15": [
-          {
-            "name": "Syd Vinicius + Backstage Tributos",
-            "time": "21:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Syd Vinicius",
-            "time": "21:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Backstage Tributos",
-            "time": "00:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-08-16": [
-          {
-            "name": "Da Rua + Specialites",
-            "time": null,
-            "description": null
-          },
-          {
-            "name": "Da Rua",
-            "time": "20:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Specialites - Clássicos do Ska",
-            "time": "22:00:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Barbarium",
@@ -208,15 +133,15 @@
       "bairro": "Rebouças",
       "cat": "Gourmet",
       "events": {
-        "2026-08-15": [
-          {
-            "name": "Candyman Club e convidados",
-            "time": "15:00:00Z",
-            "description": null
-          },
+        "2026-08-22": [
           {
             "name": "Música ao vivo",
             "time": null,
+            "description": null
+          },
+          {
+            "name": "Candyman Club",
+            "time": "15:00:00Z",
             "description": null
           }
         ]
@@ -234,45 +159,21 @@
       "ig": "https://www.instagram.com/torkandroll/",
       "bairro": "Rebouças",
       "cat": "Palco e Show",
-      "events": {
-        "2026-08-15": [
-          {
-            "name": "Tributo Linkin Park & System of a Down",
-            "time": "21:30:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Blood Rock",
       "ig": "https://www.instagram.com/bloodrockbar/",
       "bairro": "São Francisco",
       "cat": "Palco e Show",
-      "events": {
-        "2026-08-15": [
-          {
-            "name": "OZZY DAY com OzzStorm",
-            "time": "19:00:00.000Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Seb's Rock Bar",
       "ig": "https://www.instagram.com/sebas_rock_bar/",
       "bairro": "Boqueirão",
       "cat": "Palco e Show",
-      "events": {
-        "2026-08-15": [
-          {
-            "name": "Bandas Boogie Night, FlashnBack e Silvermoon",
-            "time": null,
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Belvedere",
@@ -293,57 +194,14 @@
       "ig": "https://www.instagram.com/clayhighway/",
       "bairro": "Capão Raso",
       "cat": "Raiz",
-      "events": {
-        "2026-08-15": [
-          {
-            "name": "Castanheira Armandinho tributo",
-            "time": "20:30:00Z",
-            "description": null
-          },
-          {
-            "name": "DZ6 - Charlie Brown Jr",
-            "time": "22:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Lets Core - The Offspring, Bad Religion, Green Day",
-            "time": "01:00:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Armazém Garage",
       "ig": "https://www.instagram.com/armazemgaragem/",
       "bairro": "Santo Inácio",
       "cat": "Raiz",
-      "events": {
-        "2026-08-15": [
-          {
-            "name": "Capitão Tequila Rock Nacional",
-            "time": "18:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Sex Machine Hits Anos 70, 80 & 90",
-            "time": "21:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-08-16": [
-          {
-            "name": "Responsa Rock 80, 90 & 2000",
-            "time": "16:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Banda Puppets Rock Flashback (Encontro de Carros Antigos)",
-            "time": "19:00:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Old Jack",
