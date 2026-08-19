@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-17T09:53:44.848Z",
-  "week_start": "2026-08-17",
+  "updated_at": "2026-08-19T09:54:00.424Z",
+  "week_start": "2026-08-19",
   "model": "gemini-2.5-flash",
   "venues": [
     {
@@ -22,7 +22,53 @@
       "ig": "https://www.instagram.com/hrccuritiba/",
       "bairro": "Batel",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-08-19": [
+          {
+            "name": "Banda Asgard",
+            "time": "19:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-08-20": [
+          {
+            "name": "Combo Breaker",
+            "time": "19:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-08-21": [
+          {
+            "name": "Capitão Tequila",
+            "time": "19:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-08-22": [
+          {
+            "name": "Renan Henrique",
+            "time": "12:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Code Fire",
+            "time": "19:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-08-23": [
+          {
+            "name": "Rodrigo Castellani",
+            "time": "12:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Banda Asgard",
+            "time": "19:30:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Sheridans",
@@ -43,20 +89,6 @@
           },
           {
             "name": "Candyman Club e Delorean",
-            "time": null,
-            "description": null
-          }
-        ],
-        "2026-08-17": [
-          {
-            "name": "U2 CWB",
-            "time": null,
-            "description": null
-          }
-        ],
-        "2026-08-18": [
-          {
-            "name": "Older Boys e Johaine Duo",
             "time": null,
             "description": null
           }
@@ -96,15 +128,7 @@
       "ig": "https://www.instagram.com/bardamaniacs/",
       "bairro": "Cabral",
       "cat": "Gourmet",
-      "events": {
-        "2026-08-18": [
-          {
-            "name": "Chef Convidado Fredy Ferreira",
-            "time": null,
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Rock Pizza",
@@ -152,7 +176,15 @@
       "ig": "https://www.instagram.com/jokerspub/",
       "bairro": "Centro",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-08-21": [
+          {
+            "name": "SYNDICS + DOLORES",
+            "time": null,
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Tork n' Roll",
@@ -166,7 +198,27 @@
       "ig": "https://www.instagram.com/bloodrockbar/",
       "bairro": "São Francisco",
       "cat": "Palco e Show",
-      "events": {}
+      "events": {
+        "2026-08-22": [
+          {
+            "name": "NEW METAL INFECTION com Darma Khaos, Eternal e Limp Bizkit Brazil cover",
+            "time": "21:30:00Z",
+            "description": null
+          },
+          {
+            "name": "NEW METAL INFECTION com covers de Korn, Deftones, Evanescence e Limp Bizkit",
+            "time": "21:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-08-21": [
+          {
+            "name": "Festa Grunge com Nirvana, Alice in Chains e Pearl Jam covers",
+            "time": "21:30:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Seb's Rock Bar",
@@ -194,7 +246,34 @@
       "ig": "https://www.instagram.com/clayhighway/",
       "bairro": "Capão Raso",
       "cat": "Raiz",
-      "events": {}
+      "events": {
+        "2026-08-21": [
+          {
+            "name": "Noite das Lendas",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-08-22": [
+          {
+            "name": "Queen + Abba + Roxette",
+            "time": null,
+            "description": null
+          },
+          {
+            "name": "Queen, ABBA e Roxette Cover",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-08-23": [
+          {
+            "name": "Curitiba Autoral Lab",
+            "time": null,
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Armazém Garage",
@@ -208,7 +287,48 @@
       "ig": "https://www.instagram.com/oldjackgaragebar/",
       "bairro": "Novo Mundo",
       "cat": "Raiz",
-      "events": {}
+      "events": {
+        "2026-08-19": [
+          {
+            "name": "Microfone Aberto Karaokê",
+            "time": "19:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-08-20": [
+          {
+            "name": "Country Night Live",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-08-21": [
+          {
+            "name": "Two Thousand Miles",
+            "time": "20:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-08-22": [
+          {
+            "name": "The Bluefellas",
+            "time": "18:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Dark Side Blues",
+            "time": "20:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-08-23": [
+          {
+            "name": "Ochtop Pop Rock",
+            "time": "18:30:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Animals Pub",
