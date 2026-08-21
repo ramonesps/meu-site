@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-19T09:54:00.424Z",
-  "week_start": "2026-08-19",
+  "updated_at": "2026-08-21T09:52:37.110Z",
+  "week_start": "2026-08-21",
   "model": "gemini-2.5-flash",
   "venues": [
     {
@@ -15,7 +15,22 @@
       "ig": "https://www.instagram.com/barcrossroads/",
       "bairro": "Água Verde",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-08-21": [
+          {
+            "name": "Xima Rock Fest com Lely Quinn Band, Bad Bax e Drive True",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-08-22": [
+          {
+            "name": "Vitrola Vintage, Candyman Club e Backstage",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Hard Rock",
@@ -23,20 +38,6 @@
       "bairro": "Batel",
       "cat": "Gourmet",
       "events": {
-        "2026-08-19": [
-          {
-            "name": "Banda Asgard",
-            "time": "19:30:00Z",
-            "description": null
-          }
-        ],
-        "2026-08-20": [
-          {
-            "name": "Combo Breaker",
-            "time": "19:30:00Z",
-            "description": null
-          }
-        ],
         "2026-08-21": [
           {
             "name": "Capitão Tequila",
@@ -78,39 +79,22 @@
       "events": {
         "2026-08-21": [
           {
-            "name": "St. Patrick's de Inverno com Candyman Club",
-            "time": "20:30:00.000Z",
-            "description": null
-          },
-          {
-            "name": "St. Patrick's de Inverno com Delorean",
-            "time": "23:00:00.000Z",
-            "description": null
-          },
-          {
-            "name": "Candyman Club e Delorean",
-            "time": null,
-            "description": null
-          }
-        ],
-        "2026-08-19": [
-          {
-            "name": "Melo e Lely Quinn",
-            "time": null,
-            "description": null
-          }
-        ],
-        "2026-08-20": [
-          {
-            "name": "Asgard",
+            "name": "Candyman Club, Delorean",
             "time": null,
             "description": null
           }
         ],
         "2026-08-22": [
           {
-            "name": "Válvula Vapor e Terra Celta",
+            "name": "Válvula Vapor, Terra Celta",
             "time": null,
+            "description": null
+          }
+        ],
+        "2026-08-24": [
+          {
+            "name": "Gastão Lima - Farewell Bispo Dom Jos",
+            "time": "20:30:00Z",
             "description": null
           }
         ]
@@ -142,7 +126,54 @@
       "ig": "https://www.instagram.com/distrito.1340/",
       "bairro": "Seminário",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-08-21": [
+          {
+            "name": "Eu Nunca Fui Triste",
+            "time": "21:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-08-22": [
+          {
+            "name": "Fusão 80",
+            "time": "21:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Bon Jovi Cover Brasil",
+            "time": "00:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-08-23": [
+          {
+            "name": "Right Back",
+            "time": "16:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Djambi",
+            "time": "19:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Specialites",
+            "time": "21:00:00Z",
+            "description": null
+          },
+          {
+            "name": "41 Natiruts convida Tati Portela",
+            "time": "23:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Especial Reggae, Rock e Ska com Tati Portella e bandas",
+            "time": null,
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Barbarium",
@@ -164,7 +195,7 @@
             "description": null
           },
           {
-            "name": "Candyman Club",
+            "name": "Candyman Club, Minha Banda é uma Festa, Hus Cage, DJ Adriano",
             "time": "15:00:00Z",
             "description": null
           }
@@ -191,7 +222,22 @@
       "ig": "https://www.instagram.com/torkandroll/",
       "bairro": "Rebouças",
       "cat": "Palco e Show",
-      "events": {}
+      "events": {
+        "2026-08-22": [
+          {
+            "name": "Sem Spoiler",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-08-21": [
+          {
+            "name": "Os Gigantes do Rock: Tributos Ozzy, AC/DC e Kiss",
+            "time": "20:15:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Blood Rock",
@@ -225,7 +271,32 @@
       "ig": "https://www.instagram.com/sebas_rock_bar/",
       "bairro": "Boqueirão",
       "cat": "Palco e Show",
-      "events": {}
+      "events": {
+        "2026-08-22": [
+          {
+            "name": "DJ Lipe de Souza (abertura)",
+            "time": "21:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Guto Loureiro + Marquinhos Espinosa B2MIX",
+            "time": "23:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Os Embalos de Sebaldo a Noite com Guto Loureiro B2MIX e Marquinhos Espinosa",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-08-21": [
+          {
+            "name": "Banda Bon Jovi Cover Brasil e Junior Stemposki",
+            "time": "19:30:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Belvedere",
@@ -288,20 +359,6 @@
       "bairro": "Novo Mundo",
       "cat": "Raiz",
       "events": {
-        "2026-08-19": [
-          {
-            "name": "Microfone Aberto Karaokê",
-            "time": "19:30:00Z",
-            "description": null
-          }
-        ],
-        "2026-08-20": [
-          {
-            "name": "Country Night Live",
-            "time": "20:00:00Z",
-            "description": null
-          }
-        ],
         "2026-08-21": [
           {
             "name": "Two Thousand Miles",
