@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-23T09:46:20.129Z",
-  "week_start": "2026-08-23",
+  "updated_at": "2026-08-25T09:47:42.604Z",
+  "week_start": "2026-08-25",
   "model": "gemini-2.5-flash",
   "venues": [
     {
@@ -22,20 +22,7 @@
       "ig": "https://www.instagram.com/hrccuritiba/",
       "bairro": "Batel",
       "cat": "Gourmet",
-      "events": {
-        "2026-08-23": [
-          {
-            "name": "Rodrigo Castellani",
-            "time": "12:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Banda Asgard",
-            "time": "19:30:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Sheridans",
@@ -43,10 +30,38 @@
       "bairro": "Batel",
       "cat": "Gourmet",
       "events": {
-        "2026-08-24": [
+        "2026-08-25": [
           {
-            "name": "Gastão Lima - Farewell Bispo Dom Jos",
-            "time": "20:30:00Z",
+            "name": "Válvula Vapor",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-08-26": [
+          {
+            "name": "Double Deck",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-08-27": [
+          {
+            "name": "Banks",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-08-28": [
+          {
+            "name": "Bon Jovi Cover Brasil Backstage",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-08-29": [
+          {
+            "name": "The Farewell Party",
+            "time": null,
             "description": null
           }
         ]
@@ -57,15 +72,7 @@
       "ig": "https://www.instagram.com/bardafabricabastards/",
       "bairro": "Bom Retiro",
       "cat": "Gourmet",
-      "events": {
-        "2026-08-23": [
-          {
-            "name": "GRAN VERANO",
-            "time": "16:00:00.000000000Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Maniacs",
@@ -122,35 +129,7 @@
       "ig": "https://www.instagram.com/distrito.1340/",
       "bairro": "Seminário",
       "cat": "Gourmet",
-      "events": {
-        "2026-08-23": [
-          {
-            "name": "Right Back",
-            "time": "16:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Djambi",
-            "time": "19:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Specialites",
-            "time": "21:00:00Z",
-            "description": null
-          },
-          {
-            "name": "41 Natiruts convida Tati Portela",
-            "time": "23:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Especial Reggae, Rock e Ska com Tati Portella e bandas",
-            "time": null,
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Barbarium",
@@ -164,7 +143,20 @@
       "ig": "https://www.instagram.com/dobruckibar/",
       "bairro": "Rebouças",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-08-29": [
+          {
+            "name": "Show Candyman Club e outros",
+            "time": "15:00:00.000Z",
+            "description": null
+          },
+          {
+            "name": "Música ao vivo",
+            "time": null,
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Jokers",
@@ -200,7 +192,29 @@
       "ig": "https://www.instagram.com/sebas_rock_bar/",
       "bairro": "Boqueirão",
       "cat": "Palco e Show",
-      "events": {}
+      "events": {
+        "2026-08-27": [
+          {
+            "name": "Boogie Night Trio",
+            "time": "19:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-08-28": [
+          {
+            "name": "Double Deck e Goma Bass",
+            "time": "19:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-08-29": [
+          {
+            "name": "Nazareth tributo The Shadettes, ACDC Cover Hells Bells, Iron Maiden Cover Madein",
+            "time": null,
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Belvedere",
@@ -221,22 +235,22 @@
       "ig": "https://www.instagram.com/clayhighway/",
       "bairro": "Capão Raso",
       "cat": "Raiz",
-      "events": {
-        "2026-08-23": [
-          {
-            "name": "CURITIBA AUTORAL LAB",
-            "time": null,
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Armazém Garage",
       "ig": "https://www.instagram.com/armazemgaragem/",
       "bairro": "Santo Inácio",
       "cat": "Raiz",
-      "events": {}
+      "events": {
+        "2026-08-28": [
+          {
+            "name": "Tennessee Night com Moot Davis & Farol Negro",
+            "time": null,
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Old Jack",
