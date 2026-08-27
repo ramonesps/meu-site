@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-25T09:47:42.604Z",
-  "week_start": "2026-08-25",
+  "updated_at": "2026-08-27T19:49:43.761Z",
+  "week_start": "2026-08-27",
   "model": "gemini-2.5-flash",
   "venues": [
     {
@@ -8,7 +8,53 @@
       "ig": "https://www.instagram.com/wearebastardspub/",
       "bairro": "Água Verde",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-08-27": [
+          {
+            "name": "Happy Hour – Lei da Matilha",
+            "time": "18:00:00Z",
+            "description": null
+          },
+          {
+            "name": "ROYAL TRAIN",
+            "time": "20:20:00Z",
+            "description": null
+          }
+        ],
+        "2026-09-01": [
+          {
+            "name": "Happy Hour – Lei da Matilha",
+            "time": "18:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-09-02": [
+          {
+            "name": "Happy Hour – Lei da Matilha",
+            "time": "18:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-08-28": [
+          {
+            "name": "SONORA 4",
+            "time": "20:20:00Z",
+            "description": null
+          },
+          {
+            "name": "REPÚBLICA PINE",
+            "time": "22:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-08-29": [
+          {
+            "name": "BAILE BRASA",
+            "time": "21:30:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Cross Roads",
@@ -22,7 +68,102 @@
       "ig": "https://www.instagram.com/hrccuritiba/",
       "bairro": "Batel",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-08-27": [
+          {
+            "name": "Aberto",
+            "time": "11:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Franboesa Trio",
+            "time": "19:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-08-28": [
+          {
+            "name": "Aberto",
+            "time": "11:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Radiophonics",
+            "time": "19:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-08-29": [
+          {
+            "name": "Aberto",
+            "time": "11:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Tributo Elvis",
+            "time": "09:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Rodrigo Castellani",
+            "time": "12:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Renan Henrique",
+            "time": "15:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Banda Asgard",
+            "time": "19:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Show Mauro Henrique",
+            "time": "19:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-08-30": [
+          {
+            "name": "Aberto",
+            "time": "11:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Gui Vianna",
+            "time": "12:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Code Fire",
+            "time": "19:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-08-31": [
+          {
+            "name": "Aberto",
+            "time": "11:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-09-01": [
+          {
+            "name": "Aberto",
+            "time": "11:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-09-02": [
+          {
+            "name": "Aberto",
+            "time": "11:00:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Sheridans",
@@ -30,20 +171,6 @@
       "bairro": "Batel",
       "cat": "Gourmet",
       "events": {
-        "2026-08-25": [
-          {
-            "name": "Válvula Vapor",
-            "time": null,
-            "description": null
-          }
-        ],
-        "2026-08-26": [
-          {
-            "name": "Double Deck",
-            "time": null,
-            "description": null
-          }
-        ],
         "2026-08-27": [
           {
             "name": "Banks",
@@ -72,7 +199,60 @@
       "ig": "https://www.instagram.com/bardafabricabastards/",
       "bairro": "Bom Retiro",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-08-27": [
+          {
+            "name": "Happy Hour - Lei da Matilha",
+            "time": "18:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Hard Soul Combo",
+            "time": "19:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-09-01": [
+          {
+            "name": "Happy Hour - Lei da Matilha",
+            "time": "18:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-09-02": [
+          {
+            "name": "Happy Hour - Lei da Matilha",
+            "time": "18:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-08-28": [
+          {
+            "name": "Candyman Club",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-08-29": [
+          {
+            "name": "Thiago Filla Duo",
+            "time": "16:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Backstage",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-08-30": [
+          {
+            "name": "Xima Trio",
+            "time": "16:00:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Maniacs",
@@ -87,38 +267,52 @@
       "bairro": "Rebouças",
       "cat": "Gourmet",
       "events": {
-        "2026-08-25": [
-          {
-            "name": "Acústico Rock",
-            "time": null,
-            "description": null
-          }
-        ],
-        "2026-08-26": [
-          {
-            "name": "Acústico Rock",
-            "time": null,
-            "description": null
-          }
-        ],
         "2026-08-27": [
           {
-            "name": "Acústico Rock",
-            "time": null,
+            "name": "Válvula Rock",
+            "time": "20:00:00.000000000Z",
             "description": null
           }
         ],
         "2026-08-28": [
           {
-            "name": "Acústico Rock",
-            "time": null,
+            "name": "The Vedders",
+            "time": "20:00:00.000000000Z",
             "description": null
           }
         ],
         "2026-08-29": [
           {
-            "name": "Acústico Rock",
-            "time": null,
+            "name": "Linkin Park Cover",
+            "time": "20:00:00.000000000Z",
+            "description": null
+          }
+        ],
+        "2026-08-30": [
+          {
+            "name": "The Beatles Cover",
+            "time": "19:00:00.000000000Z",
+            "description": null
+          }
+        ],
+        "2026-08-31": [
+          {
+            "name": "Guns N' Roses Cover",
+            "time": "20:00:00.000000000Z",
+            "description": null
+          }
+        ],
+        "2026-09-01": [
+          {
+            "name": "Queen Cover",
+            "time": "20:00:00.000000000Z",
+            "description": null
+          }
+        ],
+        "2026-09-02": [
+          {
+            "name": "AC/DC Cover",
+            "time": "20:00:00.000000000Z",
             "description": null
           }
         ]
@@ -163,7 +357,27 @@
       "ig": "https://www.instagram.com/jokerspub/",
       "bairro": "Centro",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-08-27": [
+          {
+            "name": "Prato do dia: Fraldinha na Mostarda",
+            "time": null,
+            "description": null
+          },
+          {
+            "name": "The Alens e DJ Vlad Urban",
+            "time": "19:00:00.000Z",
+            "description": null
+          }
+        ],
+        "2026-08-28": [
+          {
+            "name": "GUILHERME ISNARD + TELA VAZIA",
+            "time": "18:00:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Tork n' Roll",
@@ -178,10 +392,27 @@
       "bairro": "São Francisco",
       "cat": "Palco e Show",
       "events": {
+        "2026-08-28": [
+          {
+            "name": "Twenty One Pilots Cover, Bring Me The Horizon Cover e Emocore",
+            "time": null,
+            "description": null
+          },
+          {
+            "name": "FLASH TATTOO TEMÁTICA + BODY PIERCING",
+            "time": "19:00:00.000000000Z",
+            "description": null
+          }
+        ],
         "2026-08-29": [
           {
-            "name": "NEW METAL INFECTION com Darma Khaos, Eternal e Limp Bizkit Brazil cover",
-            "time": "21:30:00Z",
+            "name": "Tributo Avenged Sevenfold e Rammstein",
+            "time": null,
+            "description": null
+          },
+          {
+            "name": "FLASH TATTOO TEMÁTICA + BODY PIERCING",
+            "time": "19:00:00.000000000Z",
             "description": null
           }
         ]
