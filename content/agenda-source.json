@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T19:40:54.776Z",
+  "generatedAt": "2026-08-29T14:15:03.642Z",
   "providers": {
     "instagram": "apify/instagram-api-scraper",
     "ai": "gemini-2.5-flash"
@@ -10,69 +10,85 @@
       "name": "Cross Roads",
       "instagram": "https://www.instagram.com/barcrossroads/",
       "handle": "barcrossroads",
-      "fetchedAt": "2026-08-25T09:39:36.364Z",
+      "fetchedAt": "2026-08-29T14:18:04.874Z",
       "posts": [
         {
-          "id": "DcT-Th6M3Je",
-          "caption": "XIMA ROCK FEST! 🤘\n\nHoje é dia de comemorar o aniversário do nosso parceiro e amigo @ximarock no Cross e pra entrar no clima… quem chegar com o bigodão pra jogo ganha um chope na faixa 🍻\n\nBora pro Cross?",
-          "mediaType": "Video",
-          "timestamp": "2026-08-21T18:28:15.000Z",
-          "permalink": "https://www.instagram.com/p/DcT-Th6M3Je/",
-          "images": [
-            "https://scontent-waw2-2.cdninstagram.com/v/t51.82787-15/780709397_18623952484003532_1731074550355278908_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=106&ig_cache_key=Mzk2ODc4OTcxNzYwNzIxNTcxMDE4NjIzOTUyNDgxMDAzNTMy.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=N9moC5QMwCQQ7kNvwGSOw5N&_nc_oc=Adocnj8_xOEJ-1itcb-Cp0XXtqyQji8DNG0Q-ByoTgOutAZcZ7yBqln4E7GooI5-BVWx_vco63wZBDu4fTftHTca&_nc_zt=23&_nc_ht=scontent-waw2-2.cdninstagram.com&_nc_gid=NMlwMN141W8ILIf9q8p7OQ&_nc_ss=7da8c&oh=00_AQEb64aDOr6NH46SDrdf0uZADmHf_B_FUBLASuUpJ7RUUA&oe=6A9346A0"
-          ],
-          "handle": "barcrossroads",
-          "raw": {
-            "ownerUsername": "barcrossroads",
-            "type": "Video",
-            "shortCode": "DcT-Th6M3Je"
-          },
-          "analysis": {
-            "relevant": false,
-            "events": [],
-            "windowMax": "2026-08-31"
-          }
-        },
-        {
-          "id": "DcMVEwblq7q",
-          "caption": "Agenda da semana na área! 🤘\n\nQuinta, 20/08 — Crossroads Acoustics & Classics\nIsis Dresch Duo + Folks Trio\n🎟️ R$20\n\nSexta, 21/08 — Xima Rock Fest\nLely Quinn Band + Bad Bax + Drive True\n🎟️ R$30\n\nSábado, 22/08 — Vitrola Vintage, Candyman Club e Backstage\n🎟️ R$30\n\nJá escolhe o seu dia, chama a galera e vem pro Cross 🎸",
+          "id": "Dchh7YDlgnt",
+          "caption": "Fotos Thunderstruck Ed. Woodstock disponíveis! Link nos stories e na bio ✌️🌼\n\n📸 Fotos por @marciof.ph \n\n#thunderstruck #barcrossroads #thunderwoodstock",
           "mediaType": "Sidecar",
-          "timestamp": "2026-08-18T19:08:46.000Z",
-          "permalink": "https://www.instagram.com/p/DcMVEwblq7q/",
+          "timestamp": "2026-08-27T00:45:08.000Z",
+          "permalink": "https://www.instagram.com/p/Dchh7YDlgnt/",
           "images": [
-            "https://instagram.ffsz1-2.fna.fbcdn.net/v/t51.82787-15/775567340_18622884196003532_6822761223822248553_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=Mzk2NjYzNzU5NTY4ODQ2MDMxNg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzAwMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=eY_6FL8vF8cQ7kNvwF_JqcR&_nc_oc=Adoe59IMrgZF1-KA38lru5S8Oj6fTEcQvlGGxCU9QGTwijaqHvujJMYDxMu7AaRqvyI&_nc_zt=23&_nc_ht=instagram.ffsz1-2.fna&_nc_gid=E_MFOldbEi0-NIrF7Ze1xA&_nc_ss=72a8c&oh=00_AQEAUBX92yd3ZUZ2D_0Pd0G_xoyb40zx_AXiNbbX2POSoA&oe=6A931C39"
+            "https://instagram.fagc1-1.fna.fbcdn.net/v/t51.82787-15/785277470_18625737076003532_5633948953447327261_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=Mzk3MjYwNDMwODQ3MjY1NzY2Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTM2NC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=QrURXlR97BkQ7kNvwF5z31z&_nc_oc=AdpxlkVydOfM9L08SzJSZWODAc2T9Qy3iL770Y28U6k5M0P5_4EiaItQS98YPAagmaMfmiqJt0IHgRBTBiUgcz5g&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fagc1-1.fna&_nc_gid=kgP2JJbm6RFOLlojXVd-8g&_nc_ss=7a22e&oh=00_AQJi4a7D9lsGtypchd0WX9p5hyIzKYzcUPseYhne7K63Ng&oe=6A98B4FF"
           ],
           "handle": "barcrossroads",
           "raw": {
             "ownerUsername": "barcrossroads",
             "type": "Sidecar",
-            "shortCode": "DcMVEwblq7q"
+            "shortCode": "Dchh7YDlgnt"
           },
           "analysis": {
             "relevant": false,
             "events": [],
-            "windowMax": "2026-08-31"
+            "windowMax": "2026-09-04"
           }
         },
         {
-          "id": "DcRzwXrwy9r",
-          "caption": "QUE DIA, FAMÍLIA CROSS! Vem assistir um pouco do que foi esse domingo 🤘 Thunderstruck Edição Woodstock. Quem marcou presença?",
+          "id": "DckEn7jspYl",
+          "caption": "Sabadão 70’s classics! Com @osextintos & @sydvinicius 🤘\n\n⏰Casa aberta a partir das 20h\n🎟️ Entrada somente na hora: R$30",
           "mediaType": "Video",
-          "timestamp": "2026-08-20T22:16:54.000Z",
-          "permalink": "https://www.instagram.com/p/DcRzwXrwy9r/",
+          "timestamp": "2026-08-28T00:27:17.000Z",
+          "permalink": "https://www.instagram.com/p/DckEn7jspYl/",
           "images": [
-            "https://instagram.ftrn5-2.fna.fbcdn.net/v/t51.71878-15/780423290_1090200003502812_2214117755573928736_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=100&ig_cache_key=Mzk2ODE4MDM3MTAyNzM0MTE2Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjY0MC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=C9WZEJmx4SEQ7kNvwEyumh-&_nc_oc=AdrEKGair5fK0twwKx15q0skj69d67xkh1QlW3v8JRRlGL3Vha_8DGbvi-rY9vewbXA&_nc_zt=23&_nc_ht=instagram.ftrn5-2.fna&_nc_gid=kvwuVkqgVaXMkK4nEuGtcA&_nc_ss=72689&oh=00_AQFED-IzRXL9kYOOfQrhYql4YyJAna8OTkCvdbJmu7efWA&oe=6A934968"
+            "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-15/782019696_18626062933003532_4030730179197854942_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=102&ig_cache_key=Mzk3MzMyMTEwNzQ0MjkzMTIzNzE4NjI2MDYyOTMwMDAzNTMy.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=amqBoALAQQkQ7kNvwGQNNZA&_nc_oc=AdquE6sIEwlEKLiHLXC5IZ_miD-Imqf2e-TEBtROVKI5kV6RzQHUnbHfv5JwWeYvRjs&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr6-1.cdninstagram.com&_nc_gid=KgQT2zVvNAwLi3TcALK6ZQ&_nc_ss=7a22e&oh=00_AQKiHK-5Qj9sU4tzgLGhqjbyT5wCd0oDXuN5RzsL-gG01w&oe=6A98CE15"
           ],
           "handle": "barcrossroads",
           "raw": {
             "ownerUsername": "barcrossroads",
             "type": "Video",
-            "shortCode": "DcRzwXrwy9r"
+            "shortCode": "DckEn7jspYl"
           },
           "analysis": {
-            "relevant": false,
-            "events": [],
-            "windowMax": "2026-08-31"
+            "relevant": true,
+            "events": [
+              {
+                "date": "2026-08-29",
+                "title": "70's classics com Os Extintos & Syd Vinicius",
+                "start_time": "20:00:00Z",
+                "confidence": "high",
+                "evidence": "Sabadão 70’s classics! Com @osextintos & @sydvinicius"
+              }
+            ],
+            "windowMax": "2026-09-04"
+          }
+        },
+        {
+          "id": "Dcekcd4ltXp",
+          "caption": "Agenda da semana na área! \n\n🎸 Quinta | Crossroads Acoustics & Classics\nUma noite acústica dedicada a dois grandes nomes do rock nacional: Kid Abelha e Engenheiros do Hawaii.\n\n19h30 — Kid Abelha Cover Curitiba\n21h30 — Engenheiros do Hawaii Cover Curitiba\n🎟️ Entrada free até 19h + double de chope até 20h. Após 19h, R$20.\n\n🎸Sexta | Rock na casa\nCreedence Cover CWB | Tributo a Creedence Clearwater Revival\nLenhadores da Antártida | Folk Rock\nVálvula Vapor | Rock Nacional\n🎟️ Entrada R$30\n\n🎸Sábado | 70’s Classics\nOs Extintos | Led Zeppelin, Greta Van Fleet e clássicos do rock dos anos 70\nSyd Vinícius | Especial Classic Rock 70’s\n🎟️ Entrada R$30",
+          "mediaType": "Sidecar",
+          "timestamp": "2026-08-25T21:09:24.000Z",
+          "permalink": "https://www.instagram.com/p/Dcekcd4ltXp/",
+          "images": [
+            "https://scontent-dus1-1.cdninstagram.com/v/t51.82787-15/786166702_18625382995003532_1992956061051626889_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=Mzk3MTc2ODA5NjQ4MTY4ODM5OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzAwMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=A8xFMZ6zifsQ7kNvwHlhEo2&_nc_oc=AdqXDKlOdusxq7uifTEj1o36mmYF1BewpVtKGyaiFvWDdFIWSpKPG-FahJUh4g3o31c&_nc_ad=z-m&_nc_cid=1365&_nc_zt=23&_nc_ht=scontent-dus1-1.cdninstagram.com&_nc_gid=Mu9QVfVhy23Jz50l-pw0UQ&_nc_ss=7a22e&oh=00_AQJGmqPhaWOf7ORBJs5vKmDgmWWZefiny2ZLFMDeiywq_g&oe=6A98AADA"
+          ],
+          "handle": "barcrossroads",
+          "raw": {
+            "ownerUsername": "barcrossroads",
+            "type": "Sidecar",
+            "shortCode": "Dcekcd4ltXp"
+          },
+          "analysis": {
+            "relevant": true,
+            "events": [
+              {
+                "date": "2026-08-29",
+                "title": "70's Classics com Os Extintos e Syd Vinícius",
+                "start_time": "20:00:00Z",
+                "confidence": "high",
+                "evidence": "Sábado | 70’s Classics, 29, 20H"
+              }
+            ],
+            "windowMax": "2026-09-04"
           }
         }
       ]
@@ -82,29 +98,8 @@
       "name": "Sheridans",
       "instagram": "https://www.instagram.com/sheridansirishpub/",
       "handle": "sheridansirishpub",
-      "fetchedAt": "2026-08-25T09:40:22.645Z",
+      "fetchedAt": "2026-08-29T14:19:30.948Z",
       "posts": [
-        {
-          "id": "DcbV2_Zn9BD",
-          "caption": "É HOJE! Uma última segunda. Uma história inteira para celebrar. 🍀❤️\n\n@limagastao ESTÁ DE VOLTA com os clássicos dos clássicos para a gente cantar, brindar e reviver tantas histórias juntos. 🎸🍻\n\nFAREWELL BISPO DOM JOSÉ\nNossa última semana por aqui.\n\nVem viver esse momento com a gente! ☘️",
-          "mediaType": "Image",
-          "timestamp": "2026-08-24T15:04:15.000Z",
-          "permalink": "https://www.instagram.com/p/DcbV2_Zn9BD/",
-          "images": [
-            "https://scontent-waw2-2.cdninstagram.com/v/t39.30808-6/778984930_1498242075667690_8873687194569564544_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=Mzk3MDg2MzYzNDM2MTMzOTk3MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=xzr5ypSbvpcQ7kNvwG71Cj2&_nc_oc=AdqF63gX1utQ6-4EZO59g3wRaHZiC9tc5vQu1o0yfJP7xJfhZViTDL_kKab8bX3f_V8&_nc_zt=23&_nc_ht=scontent-waw2-2.cdninstagram.com&_nc_gid=I1yERBEILc1o00EYMQkLzg&_nc_ss=7ca8c&oh=00_AQEAvAt_ifIBVbfKv1-u_F3pQQC_qYtEHnWhVe6-6tIOxA&oe=6A933C93"
-          ],
-          "handle": "sheridansirishpub",
-          "raw": {
-            "ownerUsername": "sheridansirishpub",
-            "type": "Image",
-            "shortCode": "DcbV2_Zn9BD"
-          },
-          "analysis": {
-            "relevant": false,
-            "events": [],
-            "windowMax": "2026-08-31"
-          }
-        },
         {
           "id": "DcYtLPkij7Q",
           "caption": "A programação da nossa última semana tá ON! E queremos fazer dela a mais especial de todas. 💚\n\nVem viver esses últimos momentos com a gente! ☘️",
@@ -112,7 +107,7 @@
           "timestamp": "2026-08-23T14:30:15.000Z",
           "permalink": "https://www.instagram.com/p/DcYtLPkij7Q/",
           "images": [
-            "https://scontent-yyz1-1.cdninstagram.com/v/t39.30808-6/783609477_1496466492511915_3278993041505817297_n.jpg?stp=c0.0.1638.2047a_dst-jpg_e35_s1638x2047_tt6&_nc_cat=106&ig_cache_key=Mzk3MDEyMTY5OTU4MDA5MzkzMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTYzOC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=a61Skcm_nzsQ7kNvwEZ20ex&_nc_oc=AdpkIt3NXl4KuJ2NlmLORg2t14fydAJzcdX0JjlzQcGOz1ZIfVOqbRq-SfyujthLKkM&_nc_zt=23&_nc_ht=scontent-yyz1-1.cdninstagram.com&_nc_gid=0qb520mzxbCnVOVMvmcsOw&_nc_ss=72a8c&oh=00_AQEI7KUN2L3RZITQ6vdof_DdZy6Dai-MPniJbr-HAJH4Aw&oe=6A93241E"
+            "https://scontent-lax3-2.cdninstagram.com/v/t39.30808-6/783609477_1496466492511915_3278993041505817297_n.jpg?stp=c0.0.1638.2047a_dst-jpg_e35_s1638x2047_tt6&_nc_cat=106&ig_cache_key=Mzk3MDEyMTY5OTU4MDA5MzkzMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTYzOC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=dcEj4y7ImNIQ7kNvwFvm0nE&_nc_oc=AdotMxl_tJgnI9evXxHBRUFrDJs8j5qaKxf5ADjhP7ZVjxjdp5xUXltv5u6Rl13WlJ-b8KnrBqx5ZZUIiWxsV-z-&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lax3-2.cdninstagram.com&_nc_gid=4w7bvapF7shFTYvlbSN39w&_nc_ss=7a22e&oh=00_AQIPmCBsl0ung7FXPG9xBb_jwpfVN4SdlcDC-LsJJmqrcQ&oe=6A98A25E"
           ],
           "handle": "sheridansirishpub",
           "raw": {
@@ -121,45 +116,9 @@
             "shortCode": "DcYtLPkij7Q"
           },
           "analysis": {
-            "relevant": true,
-            "events": [
-              {
-                "date": "2026-08-25",
-                "title": "Válvula Vapor",
-                "start_time": null,
-                "confidence": "high",
-                "evidence": "TER 25 AGO VÁLVULA VAPOR"
-              },
-              {
-                "date": "2026-08-26",
-                "title": "Double Deck",
-                "start_time": null,
-                "confidence": "high",
-                "evidence": "QUA 26 AGO DOUBLE DECK"
-              },
-              {
-                "date": "2026-08-27",
-                "title": "Banks",
-                "start_time": null,
-                "confidence": "high",
-                "evidence": "QUI 27 AGO BANKS"
-              },
-              {
-                "date": "2026-08-28",
-                "title": "Bon Jovi Cover Brasil Backstage",
-                "start_time": null,
-                "confidence": "high",
-                "evidence": "SEX 28 AGO BON JOVI COVER BRASIL BACKSTAGE"
-              },
-              {
-                "date": "2026-08-29",
-                "title": "The Farewell Party",
-                "start_time": null,
-                "confidence": "high",
-                "evidence": "SÁB 29 AGO THE FAREWELL PARTY"
-              }
-            ],
-            "windowMax": "2026-08-31"
+            "relevant": false,
+            "events": [],
+            "windowMax": "2026-09-04"
           }
         },
         {
@@ -169,7 +128,7 @@
           "timestamp": "2026-08-21T21:46:47.000Z",
           "permalink": "https://www.instagram.com/p/DcUViktn2m8/",
           "images": [
-            "https://scontent-cdg4-1.cdninstagram.com/v/t39.30808-6/778958242_1495895242569040_2321535621192716556_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=Mzk2ODg5MTkwNjQ3OTMxOTQ4NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTI0NC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=VnX_n1lnAo8Q7kNvwE3OAKE&_nc_oc=AdonJ5JKXH-I-oSuHz5BItbLjkUrGCCfh-c79A5HZSREbf-VtCS5EBcAdbgeAv9XaSzH72ONx8kBHr19998adDnF&_nc_zt=23&_nc_ht=scontent-cdg4-1.cdninstagram.com&_nc_gid=gYhNL4uT3I4mzRlSWAnqxQ&_nc_ss=72a8c&oh=00_AQHxHrBJpnTTg-ZGp1OFIuazloXbxcTqHeSQJLqcTod7sA&oe=6A932994"
+            "https://scontent-sea5-1.cdninstagram.com/v/t39.30808-6/778958242_1495895242569040_2321535621192716556_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=Mzk2ODg5MTkwNjQ3OTMxOTQ4NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTI0NC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=3Rr53GjeLJAQ7kNvwHw91CU&_nc_oc=Adoib8JWtSmxqp0TDgAFDYesLvb8eqNrMc-9JOYZr_KlVuGePug3NQfxK-M2J2umFuU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=nEHsgqQd8VejgZglxFEr2w&_nc_ss=7a22e&oh=00_AQL3oBez2kiKKc9-Xapzbs-_cgHybqoAiBPNtgs7HPpXAw&oe=6A98A7D4"
           ],
           "handle": "sheridansirishpub",
           "raw": {
@@ -178,17 +137,38 @@
             "shortCode": "DcUViktn2m8"
           },
           "analysis": {
+            "relevant": false,
+            "events": [],
+            "windowMax": "2026-09-04"
+          }
+        },
+        {
+          "id": "Db_p_2RFWEd",
+          "caption": "Talvez este seja o post mais difícil que já escrevemos. Mas ele também carrega muito orgulho, gratidão e alegria por tudo o que vivemos. ☘️\n\nNo dia 29, o Sheridan’s encerra um ciclo de 22 anos na Bispo Dom José. Foram milhares de noites, brindes, shows, encontros e histórias que fizeram deste endereço muito mais do que um pub.\n\nAs portas se fecham por aqui, mas o Sheridan’s continua vivíssimo na memória e no coração de cada pessoa que fez parte dessa história.\n\nAinda temos algumas noites pela frente. Vem viver, brindar e se despedir desse capítulo com a gente. 🍻\n\nPorque uma grande história não termina.\nEla abre espaço para o próximo capítulo. 💚",
+          "mediaType": "Video",
+          "timestamp": "2026-08-13T21:01:59.000Z",
+          "permalink": "https://www.instagram.com/p/Db_p_2RFWEd/",
+          "images": [
+            "https://scontent-mia3-2.cdninstagram.com/v/t51.82787-15/770364048_18552387310076368_2087252904265764459_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=103&ig_cache_key=Mzk2MzA3MDkwNDYxMTk4Nzc0MTE4NTUyMzg3MzA3MDc2MzY4.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEwODAuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=QAxeJJ9rnwwQ7kNvwHeDOwx&_nc_oc=Ado8HdmioVygBxR6cRi89vjE1b5ACq4Kub5hVo2cwR_190BeLvb7mVx30DtwX7f8vfg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-mia3-2.cdninstagram.com&_nc_gid=q4EzUNkfJpjC--34jFYXnQ&_nc_ss=7a22e&oh=00_AQLQualzXqfoxyfNi9VGmMtdloqQyhBB1Sk6pTGnz1qVYw&oe=6A98A86E"
+          ],
+          "handle": "sheridansirishpub",
+          "raw": {
+            "ownerUsername": "sheridansirishpub",
+            "type": "Video",
+            "shortCode": "Db_p_2RFWEd"
+          },
+          "analysis": {
             "relevant": true,
             "events": [
               {
                 "date": "2026-08-29",
-                "title": "The Farewell Party",
+                "title": "Encerramento do ciclo na Bispo Dom José",
                 "start_time": null,
                 "confidence": "high",
-                "evidence": "sábado 29.08.26"
+                "evidence": "No dia 29, o Sheridan’s encerra um ciclo"
               }
             ],
-            "windowMax": "2026-08-31"
+            "windowMax": "2026-09-04"
           }
         }
       ]
@@ -712,50 +692,8 @@
       "name": "Maniacs",
       "instagram": "https://www.instagram.com/bardamaniacs/",
       "handle": "bardamaniacs",
-      "fetchedAt": "2026-08-25T09:41:27.219Z",
+      "fetchedAt": "2026-08-29T14:20:42.742Z",
       "posts": [
-        {
-          "id": "DcO9dXPAvcm",
-          "caption": "O burger chega na mesa e a fome manda atacar. Mas sempre cabe uma foto antes ou depois da primeira mordida.\nPosta a sua, marca @bardamaniacs e deixa a gente passar vontade também. 🍔",
-          "mediaType": "Image",
-          "timestamp": "2026-08-19T19:40:10.000Z",
-          "permalink": "https://www.instagram.com/p/DcO9dXPAvcm/",
-          "images": [
-            "https://scontent-ams2-1.cdninstagram.com/v/t39.30808-6/769051409_1725662589562578_7019176136936026260_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzk2NzM3ODYyMDQwOTkwMjg4Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=nEztQr8HLzMQ7kNvwH8ZX1b&_nc_oc=Adrx8kr72P2RXthBF9QmiswaP5KmR1rDvP0Bs7Bm92rjZct85QHu_DKkGW3VQTGffFA&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=D14k9j2WY_6vBcbUNBnx_A&_nc_ss=7ca8c&oh=00_AQH4iIc5B-EysmNtsbGNUXr7OH7fckb2RIspUlhuXjPiEg&oe=6A93286C"
-          ],
-          "handle": "bardamaniacs",
-          "raw": {
-            "ownerUsername": "bardamaniacs",
-            "type": "Image",
-            "shortCode": "DcO9dXPAvcm"
-          },
-          "analysis": {
-            "relevant": false,
-            "events": [],
-            "windowMax": "2026-08-31"
-          }
-        },
-        {
-          "id": "DcbHvW5CroY",
-          "caption": "Tem coragem de mandar o golão?\nNo desafio Loucos por Nitro, você precisa tomar um único gole e fazer o nível do chope parar exatamente na letra O do copo.\nAcertou? Tire uma foto, marque o @ do Bar da Maniacs e da Maniacs Brewing e ganhe outro chope Nitro por nossa conta.\nAqui não vence quem bebe mais rápido. Vence quem tem precisão.\nBora tentar no balcão?",
-          "mediaType": "Sidecar",
-          "timestamp": "2026-08-24T13:00:51.000Z",
-          "permalink": "https://www.instagram.com/p/DcbHvW5CroY/",
-          "images": [
-            "https://scontent-ssn1-1.cdninstagram.com/v/t39.30808-6/774751161_1731931228935714_4067372907739102311_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=Mzk3MDgwMTQ5Mjk1Mjc0OTc4MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=NVkQ55s10RIQ7kNvwEKpAie&_nc_oc=AdqoN6ws_97QtwQw2E8ZDfxMb_vOOwQ44Ly1aP2XmOj6iJz7Hs9sOka0lweGhDsvAjI&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&_nc_gid=vu4RLWgzyO1LfNdkwT6hNQ&_nc_ss=7c689&oh=00_AQHrViTuy317sDdq4pnM8Hi_FpVH3G-bRBOiwkFbeqlc8A&oe=6A934D97"
-          ],
-          "handle": "bardamaniacs",
-          "raw": {
-            "ownerUsername": "bardamaniacs",
-            "type": "Sidecar",
-            "shortCode": "DcbHvW5CroY"
-          },
-          "analysis": {
-            "relevant": false,
-            "events": [],
-            "windowMax": "2026-08-31"
-          }
-        },
         {
           "id": "DbYLAM-DOB3",
           "caption": "Guarda esse post que ele vai te salvar mais de uma vez 📌\n📍 Av. Munhoz da Rocha, 1049 - Curitiba/PR\n🕐 Horários: Terça a quinta: 17h às 23h30 - Sexta: 15h às 00h - Sábado: 11h às 00h - Domingo: 11h às 21h - Feriados: 11h às 23h30\nChope gelado, ambiente que é a cara de Curitiba e sempre um motivo pra voltar. Te esperamos.",
@@ -763,7 +701,7 @@
           "timestamp": "2026-07-29T13:00:15.000Z",
           "permalink": "https://www.instagram.com/p/DbYLAM-DOB3/",
           "images": [
-            "https://instagram.ftrn1-1.fna.fbcdn.net/v/t39.30808-6/755141562_1710450841083753_2417564531935664622_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzk1MTk1NzA0Mzg2Mjg4MTQ2MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=XGMbmyCmnMsQ7kNvwFi3ouz&_nc_oc=AdqA9t3oEytQKRaVOeMKd4Eox3kCEi91rOlxj6a28vox4isHjS5q7CBZzy_1E-4TIDc&_nc_zt=23&_nc_ht=instagram.ftrn1-1.fna&_nc_gid=JM0EtewXy-oA8RZwT7IOtA&_nc_ss=7ca8c&oh=00_AQH22EOJU_kxcCviGWE1Fr7HhI-rB9e2D8eNf0Sth9iLCA&oe=6A933545"
+            "https://scontent-ams2-1.cdninstagram.com/v/t39.30808-6/755141562_1710450841083753_2417564531935664622_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzk1MTk1NzA0Mzg2Mjg4MTQ2MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=mPE2bpMiJTMQ7kNvwHbiRNY&_nc_oc=AdoYbtffmUf5T6ECdxTCv9Nk3nZuTG387B8ao_H-qce4r77lF5g_JUJqzhLnYkZL-eklivCttNrxmh_Dyb0tE3kw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=Hh_oasqo43ek9viC61oxuA&_nc_ss=7a22e&oh=00_AQLiohfVHZVq-uV7Br68WzS26aYg4Bb4tBh2yhQnw9F_6Q&oe=6A98B385"
           ],
           "handle": "bardamaniacs",
           "raw": {
@@ -774,7 +712,49 @@
           "analysis": {
             "relevant": false,
             "events": [],
-            "windowMax": "2026-08-31"
+            "windowMax": "2026-09-04"
+          }
+        },
+        {
+          "id": "DcgYIbxid-x",
+          "caption": "Rolê bom é aquele que cabe o cachorro também.\nHoje é Dia do Cachorro e aqui no Bar da Maniacs seu companheiro de quatro patas é bem-vindo pra dividir a mesa, a sombra e até um cheirinho de petisco no ar. Somos pet friendly de verdade, sem enrolação.\nTraz o seu, pede um chope gelado e aproveita a tarde ao ar livre com quem também merece um rolê.",
+          "mediaType": "Image",
+          "timestamp": "2026-08-26T14:00:18.000Z",
+          "permalink": "https://www.instagram.com/p/DcgYIbxid-x/",
+          "images": [
+            "https://instagram.fmel16-1.fna.fbcdn.net/v/t39.30808-6/773580811_1731935425601961_807897647004297566_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzk3MjI4MTAwNDAzNTAwNjM4NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=SfPxQPXeLNEQ7kNvwFrVDYc&_nc_oc=AdqWyu4hPYGun1ugAjrzaCDMDQoEf9Xy5qBaSVlw5gJj1506s7L9lcz6vnMTh0vPL5U&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmel16-1.fna&_nc_gid=SVrDhZtW2IgY-pR1has64g&_nc_ss=7a22e&oh=00_AQKQGTzdUykcvkxZjq_sLTD9x2yU3vNJaWG2sW5X0-OCtA&oe=6A98A216"
+          ],
+          "handle": "bardamaniacs",
+          "raw": {
+            "ownerUsername": "bardamaniacs",
+            "type": "Image",
+            "shortCode": "DcgYIbxid-x"
+          },
+          "analysis": {
+            "relevant": false,
+            "events": [],
+            "windowMax": "2026-09-04"
+          }
+        },
+        {
+          "id": "DcbHvW5CroY",
+          "caption": "Tem coragem de mandar o golão?\nNo desafio Loucos por Nitro, você precisa tomar um único gole e fazer o nível do chope parar exatamente na letra O do copo.\nAcertou? Tire uma foto, marque o @ do Bar da Maniacs e da Maniacs Brewing e ganhe outro chope Nitro por nossa conta.\nAqui não vence quem bebe mais rápido. Vence quem tem precisão.\nBora tentar no balcão?",
+          "mediaType": "Sidecar",
+          "timestamp": "2026-08-24T13:00:51.000Z",
+          "permalink": "https://www.instagram.com/p/DcbHvW5CroY/",
+          "images": [
+            "https://instagram.fcul2-1.fna.fbcdn.net/v/t39.30808-6/774751161_1731931228935714_4067372907739102311_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=Mzk3MDgwMTQ5Mjk1Mjc0OTc4MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=wOZPss9D4z8Q7kNvwF9RNBU&_nc_oc=Ado2-b4sv_L6V9V84ILHAs7f7GasvEEv5Y05ayyKNkEGHeffroSuNfHKZCCy0YYF4Ks&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fcul2-1.fna&_nc_gid=-WwQSoTgbupNluxH568Q0A&_nc_ss=7a22e&oh=00_AQJecQTZWs97wDZJl6vhvCAY1LuhBlvX0QOo6-boMeR9wQ&oe=6A98CBD7"
+          ],
+          "handle": "bardamaniacs",
+          "raw": {
+            "ownerUsername": "bardamaniacs",
+            "type": "Sidecar",
+            "shortCode": "DcbHvW5CroY"
+          },
+          "analysis": {
+            "relevant": false,
+            "events": [],
+            "windowMax": "2026-09-04"
           }
         }
       ]
@@ -862,48 +842,77 @@
       "name": "Distrito 1340",
       "instagram": "https://www.instagram.com/distrito.1340/",
       "handle": "distrito.1340",
-      "fetchedAt": "2026-08-25T09:42:23.792Z",
+      "fetchedAt": "2026-08-29T14:21:54.733Z",
       "posts": [
         {
-          "id": "DccEfI-Bygz",
-          "caption": "☀️🤘 O DISTRITO TAMBÉM ACONTECE DE DIA!\n\nAntes da noite chegar, tem muita coisa rolando por aqui. Se liga! 🔥\n\n✂️ Full House Barber Shop pra deixar o visual em dia. 🏍️ EVO Motorcycles Custom pra quem vive sobre duas rodas. 👕 CustomZ Lifestyle Store com Moda & Lifestyle pra vestir sua personalidade. 🎸 Hand Made - Custom, Rock Shop & Gifts pra encontrar aquela peça diferente. 🎨 Arte On Top com a Carol De Bassi pra transformar ideia em arte na pele. 🧼 The Shine Bike Wash pra deixar sua máquina brilhando.\n\nÉ moto, estilo, arte, música e cultura reunidos no mesmo endereço. 🖤\n\nDá o play e vem conhecer as operações do Distrito que funcionam durante o dia!\n\nPARTIU DISTRITO! 🤘🔥\n\n📍 R. Maj. Heitor Guimarães, 1130 – Campina do Siqueira, Curitiba/PR\n‌\n#Distrito1340 #KustomKulture #MotoLifestyle #RockLifestyle #Curitiba",
-          "mediaType": "Video",
-          "timestamp": "2026-08-24T21:52:51.000Z",
-          "permalink": "https://www.instagram.com/p/DccEfI-Bygz/",
+          "id": "Dce7LC-iQC3",
+          "caption": "🎸🔥ULTIMO FINAL DE SEMANA DE AGOSTO E TEM SOM PRA TODO GOSTO E MOTIVO DE SOBRA PRA COLAR NO DISTRITO 1340🍻🤘\n\n27/08 - QUINTA OPEN PRA MULHERADA Das 19h às 21h, por R$20: chopp, vinho, espumante, gin e Moscow Mule liberados! 🍸✨ 19h30 – Radiophonics 22h30 – Candyman Club\n\n🌊 28/08 SEXTA É MARÉ ALTA NO DISTRITO! 21h30 – Banda Hey Oh! pela primeira vez no distrito 00h – Sonora 4\n\n29/08 SÁBADO 🎸 21h – Syd Vinicius 00h – Firecracker\n\n30/08🤘 DOMINGUERA CLÁSSICA 19h30 – CatNip 21h30 – LongField\n\nChama a galera e vem curtir! PARTIU DISTRITO!🤘🔥\n\n🎟️ Entrada R$25 após as 21h (quinta a sábado) Domingo: FREE\n 📞 Informações e Reservas: (41) 99222-1340\n\n📍 R. Maj. Heitor Guimarães, 1130 – Campina do Siqueira, Curitiba/PR\n\n#Distrito1340 #AgendaDaSemana #RockCuritiba #MusicaAoVivo #PartiuDistrito",
+          "mediaType": "Sidecar",
+          "timestamp": "2026-08-26T00:28:00.000Z",
+          "permalink": "https://www.instagram.com/p/Dce7LC-iQC3/",
           "images": [
-            "https://instagram.flba3-2.fna.fbcdn.net/v/t51.82787-15/780727230_18340330021251636_5778716763309134850_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=109&ig_cache_key=Mzk3MTA2ODcwMzU1NDM0OTEwNzE4MzQwMzMwMDE4MjUxNjM2.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjExNzAuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=haAuhWIkxVIQ7kNvwFfiArv&_nc_oc=AdqiMsUq-si8CL7SEv4p9tfTr3A2_DCcy7Po1128XNM_px_qzgib6E90grXMioJjT50H_fGogboiM7wOzg4M6ByH&_nc_zt=23&_nc_ht=instagram.flba3-2.fna&_nc_gid=8e7T2Qe1ord0d2Ayvwuk7g&_nc_ss=72a8c&oh=00_AQE_pvPoJGic3eVL4OMhhaDdPWcH8ibk51ZM8JVMNPseRQ&oe=6A933B29"
+            "https://instagram.ffmo1-1.fna.fbcdn.net/v/t51.82787-15/787022133_18340546384251636_1122649826205923338_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzk3MTg3MTQyMTI1ODU4OTAzOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTYyMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=B5-xj0xGjSYQ7kNvwFSt_41&_nc_oc=AdoOIlPWow2XQtChWr55dnIcemXyGgCeemplVg6Cffvh00hMkGBozD1ICGNYVc3djTs&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ffmo1-1.fna&_nc_gid=-6ZvmmE5yAfUkasfAvYr5A&_nc_ss=7a22e&oh=00_AQLzp8j8cLIDhW7CTZ3q8w4yxFImzDHpSdd6U1LAzr6v6g&oe=6A98D93D"
           ],
           "handle": "distrito.1340",
           "raw": {
             "ownerUsername": "distrito.1340",
-            "type": "Video",
-            "shortCode": "DccEfI-Bygz"
+            "type": "Sidecar",
+            "shortCode": "Dce7LC-iQC3"
           },
           "analysis": {
-            "relevant": false,
-            "events": [],
-            "windowMax": "2026-08-31"
+            "relevant": true,
+            "events": [
+              {
+                "date": "2026-08-29",
+                "title": "Syd Vinicius",
+                "start_time": "21:00:00Z",
+                "confidence": "high",
+                "evidence": "29/08 SÁBADO 21h – Syd Vinicius"
+              },
+              {
+                "date": "2026-08-29",
+                "title": "Firecracker",
+                "start_time": "00:00:00Z",
+                "confidence": "high",
+                "evidence": "29/08 SÁBADO 00h – Firecracker"
+              },
+              {
+                "date": "2026-08-30",
+                "title": "CatNip",
+                "start_time": "19:30:00Z",
+                "confidence": "high",
+                "evidence": "30/08 DOMINGUERA CLÁSSICA 19h30 – CatNip"
+              },
+              {
+                "date": "2026-08-30",
+                "title": "LongField",
+                "start_time": "21:30:00Z",
+                "confidence": "high",
+                "evidence": "30/08 DOMINGUERA CLÁSSICA 21h30 – LongField"
+              }
+            ],
+            "windowMax": "2026-09-04"
           }
         },
         {
-          "id": "DcT7BC7J5Is",
-          "caption": "HOJE!",
+          "id": "DcfDrucR1bQ",
+          "caption": "Sexta dia 28/08, o Distrito vai subir o volume com uma noite de muito rock e duas bandas no palco! 🤘🍻\n\n🎤 21h – Banda Hey Oh!\nPela primeira vez no Distrito, chegando com muito rock nacional!\n\n🔥 00h – Sonora 4\nRock e Reggae pra manter a Maré lá no alto até o fim.\n\nChama a galera, prepara a voz e vem fazer parte dessa primeira onda de Maré Alta! 🌊🤘\n\n🎟️ Entrada Free até as 21h (após R$25)\n\n👉 Sexta é no Distrito. PARTIU?\n📞 Informações e Reservas: (41) 99222-1340\n\n📍 R. Maj. Heitor Guimarães, 1130 – Campina do Siqueira, Curitiba/PR\n\n#MareAltaNoDistrito #Distrito1340 #RockCuritiba #RockNacional #PartiuDistrito",
           "mediaType": "Video",
-          "timestamp": "2026-08-21T17:55:50.000Z",
-          "permalink": "https://www.instagram.com/p/DcT7BC7J5Is/",
+          "timestamp": "2026-08-26T01:43:31.000Z",
+          "permalink": "https://www.instagram.com/p/DcfDrucR1bQ/",
           "images": [
-            "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/780423287_18339890362251636_3256820334681886219_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=108&ig_cache_key=Mzk2ODc3NTI1MzI0NzEwMzUzMjE4MzM5ODkwMzU5MjUxNjM2.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=uNZKIvm0YBcQ7kNvwFIHk7S&_nc_oc=AdreE7ddwz334tabj-Xhmqnm_q6iBRiHc5_jJVpXoXAauzPsRHiTeP16TCh_q8iAsNBomEYutE12RGMFvafESxWw&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=Y14PvZDZC1rnwKmzkf-u4A&_nc_ss=7da8c&oh=00_AQEYK5PMuEcC5NhUnQ6UnwwexANQBBZ8-JPjTsmG9LPn5A&oe=6A934E63"
+            "https://scontent-nrt6-1.cdninstagram.com/v/t51.82787-15/784428390_18340554295251636_4386576698709168365_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=111&ig_cache_key=Mzk3MTkwOTU5NTMwNzY2MTAwODE4MzQwNTU0MjkyMjUxNjM2.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=LrO37DL0Qn8Q7kNvwHVAG0d&_nc_oc=Adr72MVJK6MJPwnOr2A6SbraJDHT-g4v-dr3-vT9kYIaNUHUZh7JGCIzX3SfsZ_Njkk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-nrt6-1.cdninstagram.com&_nc_gid=qAy3ljL9OPWEswH627JUYw&_nc_ss=7a22e&oh=00_AQLhi9UDPgZUmo7342H0BbIL5KRmy66eh8YJe7pht3gYtw&oe=6A98D17A"
           ],
           "handle": "distrito.1340",
           "raw": {
             "ownerUsername": "distrito.1340",
             "type": "Video",
-            "shortCode": "DcT7BC7J5Is"
+            "shortCode": "DcfDrucR1bQ"
           },
           "analysis": {
             "relevant": false,
             "events": [],
-            "windowMax": "2026-08-31"
+            "windowMax": "2026-09-04"
           }
         }
       ]
@@ -985,58 +994,8 @@
       "name": "Dobrucki",
       "instagram": "https://www.instagram.com/dobruckibar/",
       "handle": "dobruckibar",
-      "fetchedAt": "2026-08-25T09:43:21.196Z",
+      "fetchedAt": "2026-08-29T14:24:18.945Z",
       "posts": [
-        {
-          "id": "DUDtRb1jiZN",
-          "caption": "🎧 WALKMAN \nSábado, a partir das 16h, o Dobrucki vira uma máquina do tempo do rock🤘 Uma programação completa para você curtir do começo ao fim.\n\n✨ Música, nostalgia e diversão a tarde e a noite toda.\n\n🎶ATRAÇÕES 🎸\n@candymanclub\n@bandaradiovinil\n@djmauriciao\n@djac_adriano_costa\n@djsantiago_eventos\n\n📅 Sábado 31 de janeiro\n⏰ Início 16h\n📍 Baltazar Carrasco dos Reis, 1090\n📱 Reservas: 41 98860-1714 - Whatsapp\n\n#Dobrucki #FestaAnos80 #Flashback #BoaMúsica Anos80",
-          "mediaType": "Sidecar",
-          "timestamp": "2026-01-28T14:35:54.000Z",
-          "permalink": "https://www.instagram.com/p/DUDtRb1jiZN/",
-          "images": [
-            "https://instagram.fcpq4-1.fna.fbcdn.net/v/t51.82787-15/621996862_18551047372000118_8010022752748582820_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=MzgyMDA5NDkxNDE5ODEzMDkzMA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&_nc_aid=0&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNzAwLnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=nmP5U2ObWdQQ7kNvwHitAjz&_nc_oc=AdoIi9ix2cLGw_CBnV746M58V71PVp85oCe_H2bKBmKNEwCvf5VxiUfRldcMf-GLNpQ&_nc_zt=23&_nc_ht=instagram.fcpq4-1.fna&_nc_gid=nhqdOJpK5DGQ8oSOeEYoyg&_nc_ss=7ca8c&oh=00_AQHj3xtFr1ZWlY1_cOT0RvLM--7YTXPeVv3i-W6Gt9NmbA&oe=6A934D9A"
-          ],
-          "handle": "dobruckibar",
-          "raw": {
-            "ownerUsername": "dobruckibar",
-            "type": "Sidecar",
-            "shortCode": "DUDtRb1jiZN"
-          },
-          "analysis": {
-            "relevant": false,
-            "events": [],
-            "windowMax": "2026-08-31"
-          }
-        },
-        {
-          "id": "DVhP9BEiR6D",
-          "caption": "Sábado tem @candymanclub trazendo para o palco toda a energia e nostalgia dos anos 80 e 90, em um show vibrante, cheio de clássicos que marcaram gerações e fizeram história nas pistas. Prepare-se para cantar, dançar e reviver os maiores hits de uma década inesquecível.\n\nReúna os amigos e venha curtir uma verdadeira viagem musical pelos anos 80 e 90. 🕺🎶\n\nATRAÇÕES:\n🎸 Candyman Club\n🎤 Minha Banda é uma Festa\n🎶 Hus Cage\n🎧 Abertura com DJ Adriano\n\nABERTURA 15h00\n\n#dobruckibar #dobrucki #anos80 #musicaaovivo #barescuritiba",
-          "mediaType": "Sidecar",
-          "timestamp": "2026-03-05T22:28:19.000Z",
-          "permalink": "https://www.instagram.com/p/DVhP9BEiR6D/",
-          "images": [
-            "https://instagram.fsyd13-1.fna.fbcdn.net/v/t51.82787-15/641759690_18564449611000118_8338346318577898829_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ig_cache_key=Mzg0NjQyMzY4Mjg4NTQ2MzcwNA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&_nc_aid=0&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA2NC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=JpVG9_qH62wQ7kNvwHVUNf8&_nc_oc=AdqbaRFTPz_kjbOxbKrRcPe7cqaMpWXKaEl-M7grLsQjcX7JHQtbGDsG2S-xuSLjBf8&_nc_zt=23&_nc_ht=instagram.fsyd13-1.fna&_nc_gid=0qhLWzQO5rneDnCXOeJKoQ&_nc_ss=72a8c&oh=00_AQHFgzyaQJJEm6LpjmlCPaRxLxpBdut3_zePgW1DNUmKjA&oe=6A934F9C"
-          ],
-          "handle": "dobruckibar",
-          "raw": {
-            "ownerUsername": "dobruckibar",
-            "type": "Sidecar",
-            "shortCode": "DVhP9BEiR6D"
-          },
-          "analysis": {
-            "relevant": true,
-            "events": [
-              {
-                "date": "2026-08-29",
-                "title": "Show Candyman Club e outros",
-                "start_time": "15:00:00.000Z",
-                "confidence": "high",
-                "evidence": "Sábado tem @candymanclub, ABERTURA 15h00"
-              }
-            ],
-            "windowMax": "2026-08-31"
-          }
-        },
         {
           "id": "DU3DOpdjit3",
           "caption": "Dobrucki é mais do que só música ao vivo — é uma local pensado em cada detalhe. Um ambiente ao ar livre rodeado de verde, palco interno com música ao vivo e uma atmosfera que combina charme, ritmo e boas experiências. Tudo em perfeita harmonia, em um único lugar.\n\nDo começo da tarde até a madrugada, tem Dobrucki todos os sábados.\n#dobrucki #dobruckibar #quintal",
@@ -1044,7 +1003,7 @@
           "timestamp": "2026-02-17T13:09:01.000Z",
           "permalink": "https://www.instagram.com/p/DU3DOpdjit3/",
           "images": [
-            "https://scontent-man2-1.cdninstagram.com/v/t51.82787-15/629217561_18558510928000118_8019458908232669090_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=MzgzNDU0Njk1NTg2NzgwODM4OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&_nc_aid=0&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNzAwLnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=H85SFUj8zNEQ7kNvwGNqLiM&_nc_oc=AdoCtBaLZv3zOcy1WaVbVnz30PWDu09hMEahPDx0mdQTfWyW9UE0X_c10IEEsCV3za8&_nc_zt=23&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_gid=DWOFcvfNcPDDYA9nj922zQ&_nc_ss=7ca8c&oh=00_AQEdTYZ-PtYpxZyph838U0glHx321VrsrU0VHx2a6XJ8YA&oe=6A934E06"
+            "https://instagram.fbio2-1.fna.fbcdn.net/v/t51.82787-15/629217561_18558510928000118_8019458908232669090_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=MzgzNDU0Njk1NTg2NzgwODM4OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&_nc_aid=0&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNzAwLnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=xy8Ac7rfEI4Q7kNvwHyGH1e&_nc_oc=AdqoBJmLyHwG5YbQz629uKlUdqfwVQbk3BLzcJGyJ2MzoZe0u4PdVh6XSf8Cc9QEfws&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fbio2-1.fna&_nc_gid=V0AU4Lb_Xoajhz7LVv14_A&_nc_ss=7a22e&oh=00_AQIrlERfLD78WHfUAqp7JPjvAwgIaqd5GH4ZKEhe6_b0_A&oe=6A98CC46"
           ],
           "handle": "dobruckibar",
           "raw": {
@@ -1063,7 +1022,78 @@
                 "evidence": "tem Dobrucki todos os sábados"
               }
             ],
-            "windowMax": "2026-08-31"
+            "windowMax": "2026-09-04"
+          }
+        },
+        {
+          "id": "DVhP9BEiR6D",
+          "caption": "Sábado tem @candymanclub trazendo para o palco toda a energia e nostalgia dos anos 80 e 90, em um show vibrante, cheio de clássicos que marcaram gerações e fizeram história nas pistas. Prepare-se para cantar, dançar e reviver os maiores hits de uma década inesquecível.\n\nReúna os amigos e venha curtir uma verdadeira viagem musical pelos anos 80 e 90. 🕺🎶\n\nATRAÇÕES:\n🎸 Candyman Club\n🎤 Minha Banda é uma Festa\n🎶 Hus Cage\n🎧 Abertura com DJ Adriano\n\nABERTURA 15h00\n\n#dobruckibar #dobrucki #anos80 #musicaaovivo #barescuritiba",
+          "mediaType": "Sidecar",
+          "timestamp": "2026-03-05T22:28:19.000Z",
+          "permalink": "https://www.instagram.com/p/DVhP9BEiR6D/",
+          "images": [
+            "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/641759690_18564449611000118_8338346318577898829_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=Mzg0NjQyMzY4Mjg4NTQ2MzcwNA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&_nc_aid=0&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA2NC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=7YvZosUQ76kQ7kNvwEbc_r0&_nc_oc=AdrRLpuXxpSxS0CqDCKdX6NqPLVPWT26pcT6bv_EK5c2FyQISxH5NLTAKtd0Q1R39cY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=hRpCbEL-3UTIxEHFh0fz0g&_nc_ss=7a22e&oh=00_AQLxl20MXXiyGsUYyk-SxVpNVf55GD4MBrqv9jgB5M08LQ&oe=6A98CDDC"
+          ],
+          "handle": "dobruckibar",
+          "raw": {
+            "ownerUsername": "dobruckibar",
+            "type": "Sidecar",
+            "shortCode": "DVhP9BEiR6D"
+          },
+          "analysis": {
+            "relevant": true,
+            "events": [
+              {
+                "date": "2026-08-29",
+                "title": "Candyman Club",
+                "start_time": null,
+                "confidence": "high",
+                "evidence": "Sábado tem @candymanclub"
+              },
+              {
+                "date": "2026-08-29",
+                "title": "Minha Banda é uma Festa",
+                "start_time": null,
+                "confidence": "high",
+                "evidence": "ATRAÇÕES: Minha Banda é uma Festa"
+              },
+              {
+                "date": "2026-08-29",
+                "title": "Hus Cage",
+                "start_time": null,
+                "confidence": "high",
+                "evidence": "ATRAÇÕES: Hus Cage"
+              },
+              {
+                "date": "2026-08-29",
+                "title": "Abertura com DJ Adriano",
+                "start_time": "15:00:00.000Z",
+                "confidence": "high",
+                "evidence": "ATRAÇÕES: Abertura com DJ Adriano, ABERTURA 15h00"
+              }
+            ],
+            "windowMax": "2026-09-04"
+          }
+        },
+        {
+          "id": "DUDtRb1jiZN",
+          "caption": "🎧 WALKMAN \nSábado, a partir das 16h, o Dobrucki vira uma máquina do tempo do rock🤘 Uma programação completa para você curtir do começo ao fim.\n\n✨ Música, nostalgia e diversão a tarde e a noite toda.\n\n🎶ATRAÇÕES 🎸\n@candymanclub\n@bandaradiovinil\n@djmauriciao\n@djac_adriano_costa\n@djsantiago_eventos\n\n📅 Sábado 31 de janeiro\n⏰ Início 16h\n📍 Baltazar Carrasco dos Reis, 1090\n📱 Reservas: 41 98860-1714 - Whatsapp\n\n#Dobrucki #FestaAnos80 #Flashback #BoaMúsica Anos80",
+          "mediaType": "Sidecar",
+          "timestamp": "2026-01-28T14:35:54.000Z",
+          "permalink": "https://www.instagram.com/p/DUDtRb1jiZN/",
+          "images": [
+            "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/621996862_18551047372000118_8010022752748582820_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=MzgyMDA5NDkxNDE5ODEzMDkzMA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&_nc_aid=0&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNzAwLnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=vdhIgXH52pAQ7kNvwGnDJxg&_nc_oc=AdoWUgUTQr_2m_3-84VTadiZ8qVn-QL4J7dWYtfe_821v5QMbQwVZogV5pl4tZMApyvpwI6f44JKfFGcx5y47ihe&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=10Fi2ns6VPpvjVPkqXxNOA&_nc_ss=7a22e&oh=00_AQIYSwv8pc3rQSK8tacYj1hgaWTw9POJIhX8DFUoHW6s-A&oe=6A98CBDA"
+          ],
+          "handle": "dobruckibar",
+          "raw": {
+            "ownerUsername": "dobruckibar",
+            "type": "Sidecar",
+            "shortCode": "DUDtRb1jiZN"
+          },
+          "analysis": {
+            "relevant": false,
+            "events": [],
+            "windowMax": "2026-09-04"
           }
         }
       ]
@@ -1073,27 +1103,99 @@
       "name": "Tork n' Roll",
       "instagram": "https://www.instagram.com/torkandroll/",
       "handle": "torkandroll",
-      "fetchedAt": "2026-08-25T09:44:02.835Z",
+      "fetchedAt": "2026-08-29T14:25:43.391Z",
       "posts": [
         {
-          "id": "DcYs0psx8F7",
-          "caption": "26.09 DAZARANHA NO TORK\n\nVenda antecipada (LINK NA BIO)",
-          "mediaType": "Video",
-          "timestamp": "2026-08-23T14:27:54.000Z",
-          "permalink": "https://www.instagram.com/p/DcYs0psx8F7/",
+          "id": "DckeTdEuCC1",
+          "caption": "Programação da Semana TORK\n\n♦️28.08 SEXTA \nAtendimento 19h as 02h\n🎸21h00 @scarletv \n🎸22h15 @metallicacover.br \n🎸00h15 @rejection_panteratribute \n🎟Venda antecipada @compreingressosoficial\n\n♦️29.08 SÁBADO \nAtendimento 20h as 03h\n🎸21h30 @cpm22coverbrasil\n🎸00h00 @obrown.cbjr @pinguimruas @bgraveto\n🎟Venda antecipada @meapleapp\n\n♦️30.08 DOMINGO \nAtendimento 18h as 00h\n🎸18h30 @reckoninghour \n🎸19h30 @blessthefall\n🎸21h00 @memphismayfire\n🎟Venda antecipada @clubedoingresso\n\nPara todos os eventos, trabalhamos com venda de ingressos NA HORA DO EVENTO (PORTARIA)",
+          "mediaType": "Image",
+          "timestamp": "2026-08-28T04:11:14.000Z",
+          "permalink": "https://www.instagram.com/p/DckeTdEuCC1/",
           "images": [
-            "https://scontent-ham3-1.cdninstagram.com/v/t51.82787-15/785748666_18377692660232153_8876438628313456193_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=101&ig_cache_key=Mzk3MDEyMDIwMzc2MTA3NDU1NTE4Mzc3NjkyNjU0MjMyMTUz.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=iSy6KUtyZkwQ7kNvwE67cIQ&_nc_oc=AdpCf1xJ7h1eCSI_NcVJWWVSRp0inWik60cCXikIpy--lkw4x5QJzwAWh9GDm3-HUEYFWSwhnBUjnqgjJBBrtS_5&_nc_zt=23&_nc_ht=scontent-ham3-1.cdninstagram.com&_nc_gid=mcXhzwOk5icqNpTVAbZ5gQ&_nc_ss=7c689&oh=00_AQEXqydN07qEyhzkRDhs9QI2MRFze8a6v14WV8RAKCBL0A&oe=6A93271C"
+            "https://scontent-qro1-1.cdninstagram.com/v/t51.82787-15/784717241_18378451648232153_8984168940110495326_n.webp?_nc_cat=105&ig_cache_key=Mzk3MzQzNDA0OTUzMDY5OTk1Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=DYm2NVbLMi8Q7kNvwE-94M7&_nc_oc=AdoaKc4JoaT8cWf3nO-IiHgehEA0ciMzKnsF0frLxI7HCYJ9YsDqjzlLNxB_6MQ-JE-lJdKMKXKQlpYrGVLdbI-m&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-qro1-1.cdninstagram.com&_nc_gid=Pj2geL0vHRq6lK9iJmxZyA&_nc_ss=7a22e&oh=00_AQLVjHCNoJzRDtEriLWXBxWlHzPgrCMAQS06yHJqCSd77Q&oe=6A98C7A8"
+          ],
+          "handle": "torkandroll",
+          "raw": {
+            "ownerUsername": "torkandroll",
+            "type": "Image",
+            "shortCode": "DckeTdEuCC1"
+          },
+          "analysis": {
+            "relevant": true,
+            "events": [
+              {
+                "date": "2026-08-29",
+                "title": "CPM 22 Cover BR",
+                "start_time": "21:30:00Z",
+                "confidence": "high",
+                "evidence": "29.08 SÁBADO 21h30 @cpm22coverbrasil"
+              },
+              {
+                "date": "2026-08-29",
+                "title": "Tributo CBJR",
+                "start_time": "00:00:00Z",
+                "confidence": "high",
+                "evidence": "29.08 SÁBADO 00h00 @obrown.cbjr"
+              },
+              {
+                "date": "2026-08-30",
+                "title": "Reckoning Hour",
+                "start_time": "18:30:00Z",
+                "confidence": "high",
+                "evidence": "30.08 DOMINGO 18h30 @reckoninghour"
+              },
+              {
+                "date": "2026-08-30",
+                "title": "Blessthefall",
+                "start_time": "19:30:00Z",
+                "confidence": "high",
+                "evidence": "30.08 DOMINGO 19h30 @blessthefall"
+              },
+              {
+                "date": "2026-08-30",
+                "title": "Memphis May Fire",
+                "start_time": "21:00:00Z",
+                "confidence": "high",
+                "evidence": "30.08 DOMINGO 21h00 @memphismayfire"
+              }
+            ],
+            "windowMax": "2026-09-04"
+          }
+        },
+        {
+          "id": "Dcn-BhUOnIe",
+          "caption": "HOJE\nSÁBADO 29.08 , o Tork n Roll será palco de uma noite histórica.\n\nTributo especial ao Charlie Brown Jr com duas lendas da música!\n\n@pinguimruas / @bgraveto \nPinguim e Bruno Graveto (Ex bateristas do Charlie Brown), se juntam a banda O’Brown, para uma celebração inesquecível aos fãs do CBJR. É isso mesmo, vocês poderão ver dois ídolos de pertinho tocando os maiores sucessos da banda.\nE pra completar essa noite histórica, a banda CPM 22 Cover Brasil sobe ao palco trazendo os maiores sucessos do CPM 22 em um show imperdível para os fãs da banda.\n\nSerá uma noite pra ficar na história!\n\nHORÁRIO:\nAbertura da casa: 20:00h\nInício do show: 21:30h\n\nVENDAS INGRESSOS \nPISTA E CAMAROTE \nhttps://meaple.com.br/cbjr/cwb",
+          "mediaType": "Video",
+          "timestamp": "2026-08-29T12:46:23.000Z",
+          "permalink": "https://www.instagram.com/p/Dcn-BhUOnIe/",
+          "images": [
+            "https://instagram.figu2-1.fna.fbcdn.net/v/t51.82787-15/788750951_18378683953232153_5682975887094826523_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=107&ig_cache_key=Mzk3NDQxNzk3OTU1Mzc3MjA2MjE4Mzc4NjgzOTQ3MjMyMTUz.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEzMjAuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=aKNjIua1NWgQ7kNvwH7_uhQ&_nc_oc=AdqORjryUe5mJqcZ7Kr60xkL63xmGntmSiCWjxayRDla1141V6f-R6AqEh-swKTLxDw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.figu2-1.fna&_nc_gid=MnuAqAWeGglYIDxOoBfMKA&_nc_ss=7a22e&oh=00_AQIFJxSvC-PzswyVS7a03NVRUxOGFl6JKB0iPt-cwert7A&oe=6A98C0B1"
           ],
           "handle": "torkandroll",
           "raw": {
             "ownerUsername": "torkandroll",
             "type": "Video",
-            "shortCode": "DcYs0psx8F7"
+            "shortCode": "Dcn-BhUOnIe"
           },
           "analysis": {
-            "relevant": false,
-            "events": [],
-            "windowMax": "2026-08-31"
+            "relevant": true,
+            "events": [
+              {
+                "date": "2026-08-29",
+                "title": "Tributo Charlie Brown Jr. com Pinguim e Bruno Graveto",
+                "start_time": "21:30:00Z",
+                "confidence": "high",
+                "evidence": "SÁBADO 29.08, Início do show: 21:30h"
+              },
+              {
+                "date": "2026-08-29",
+                "title": "CPM 22 Cover Brasil",
+                "start_time": "21:30:00Z",
+                "confidence": "high",
+                "evidence": "SÁBADO 29.08, CPM 22 Cover Brasil, Início do show: 21:30h"
+              }
+            ],
+            "windowMax": "2026-09-04"
           }
         }
       ]
@@ -1205,27 +1307,49 @@
       "name": "Seb's Rock Bar",
       "instagram": "https://www.instagram.com/sebas_rock_bar/",
       "handle": "sebas_rock_bar",
-      "fetchedAt": "2026-08-25T09:45:05.433Z",
+      "fetchedAt": "2026-08-29T14:27:14.705Z",
       "posts": [
         {
-          "id": "Dcb_wurqwEC",
-          "caption": "🎧 TIKO’S GROOVE chega em Curitiba no Sebas Rock Bar para uma noite histórica!\n\nO criador do hit “I Don’t Know What To Do”, com mais de 25 milhões de reproduções no Spotify, desembarca nos Embalos de Sebaldo à Noite para um show que promete fazer todo mundo voltar aos melhores anos da dance music. \n\nE para completar a festa:\n🎶 Guto Loureiro, comandando a pista com o melhor do flashback.\n\n📅 Sábado | 19 de setembro\n\n🎟️ 1º lote: R$ 50,00\n\n📲 Garanta seu ingresso antecipado pelo Disk Ingressos ou WhatsApp do bar. (41) 99916-1134\n\n📍 Sebas Rock Bar – Curitiba\n\nUma noite para quem viveu essa época… e para quem quer sentir a energia de um verdadeiro hit internacional ao vivo!",
+          "id": "Dcl2VDIRYnq",
+          "caption": "Neste sábado 29/08 no Sebas Rock Bar tem muito IRON MAIDEN com a banda @ironcovercuritiba ACDC com a banda @hellsbellsbr e Nazareth com a banda @theshadettes.brasil \n\nEntrada 30,00\n\nHorários \n19:00 Abertura da casa \n21:00 The Shadettes (Nazareth)\n23:00 Made in CWB (Iron Maiden)\n01:00 Hells Bells (ACDC)\n\nInformações e reservas via WhatsApp 41 999161134 \n👉 Endereço Rua Anne Frank 3644 Boqueirão Curitiba",
           "mediaType": "Video",
-          "timestamp": "2026-08-24T21:11:07.000Z",
-          "permalink": "https://www.instagram.com/p/Dcb_wurqwEC/",
+          "timestamp": "2026-08-28T17:00:55.000Z",
+          "permalink": "https://www.instagram.com/p/Dcl2VDIRYnq/",
           "images": [
-            "https://scontent-ber1-1.cdninstagram.com/v/t51.82787-15/786452978_18440091520132997_1088105597156902186_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=106&ig_cache_key=Mzk3MTA0NzkyMjA0NzA1ODE3ODE4NDQwMDkxNTE3MTMyOTk3.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEyOTAuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=2PPuDVCaqG4Q7kNvwGUCzVa&_nc_oc=Adp9MMa5-rru9E-3meujxN7jn0gsymHIHcwGIinxxuPPwNPqaVQzdFyx4kHBbDe-Kvo&_nc_zt=23&_nc_ht=scontent-ber1-1.cdninstagram.com&_nc_gid=92FkTA3wJBC7agAPsafW-Q&_nc_ss=7ca8c&oh=00_AQHK-l21zScjimGbAANyHeyLKJNoboI8pcJ858dhi4MqJQ&oe=6A932F96"
+            "https://instagram.fbel1-1.fna.fbcdn.net/v/t51.82787-15/786297535_18440765731132997_9119671805059283275_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=104&ig_cache_key=Mzk3MzgyMTE4NzIwNDk0MjMxNDE4NDQwNzY1NzI4MTMyOTk3.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEyOTAuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzIifQ%3D%3D&_nc_ohc=MtDTvE8bLZMQ7kNvwHaNJw0&_nc_oc=Adr2jTUQmlg9EojXB55fkb8wOJUrEiDcLBJtO5awubpdL6Y-il_NWXU9XMy6ila6mVY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fbel1-1.fna&_nc_gid=_CMpc2_yIjk9FwZw79RbEw&_nc_ss=7a22e&oh=00_AQKBvi6wpR6EP2pTU2c-ljtaBB4VgQSqegwo7exsVJTuvQ&oe=6A98D3AB"
           ],
           "handle": "sebas_rock_bar",
           "raw": {
             "ownerUsername": "sebas_rock_bar",
             "type": "Video",
-            "shortCode": "Dcb_wurqwEC"
+            "shortCode": "Dcl2VDIRYnq"
           },
           "analysis": {
-            "relevant": false,
-            "events": [],
-            "windowMax": "2026-08-31"
+            "relevant": true,
+            "events": [
+              {
+                "date": "2026-08-29",
+                "title": "The Shadettes (Nazareth)",
+                "start_time": "21:00:00Z",
+                "confidence": "high",
+                "evidence": "Neste sábado 29/08, 21:00 The Shadettes"
+              },
+              {
+                "date": "2026-08-29",
+                "title": "Made in CWB (Iron Maiden)",
+                "start_time": "23:00:00Z",
+                "confidence": "high",
+                "evidence": "Neste sábado 29/08, 23:00 Made in CWB"
+              },
+              {
+                "date": "2026-08-29",
+                "title": "Hells Bells (ACDC)",
+                "start_time": "01:00:00Z",
+                "confidence": "high",
+                "evidence": "Neste sábado 29/08, 01:00 Hells Bells"
+              }
+            ],
+            "windowMax": "2026-09-04"
           }
         },
         {
@@ -1235,7 +1359,7 @@
           "timestamp": "2026-08-24T19:29:29.000Z",
           "permalink": "https://www.instagram.com/p/Dcbz8uQKLCN/",
           "images": [
-            "https://scontent-cdg4-2.cdninstagram.com/v/t51.82787-15/786467872_18440080426132997_790416618551162062_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=101&ig_cache_key=Mzk3MDk5NTk2OTY2MTEyMDY1MzE4NDQwMDgwNDIwMTMyOTk3.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEyOTAuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzIifQ%3D%3D&_nc_ohc=wIC3MU-6M6cQ7kNvwE31iNC&_nc_oc=AdpFkl0OieagaH2VLP5yhWUUqYhTfxzNMy21syQwdCa6MGQm7x-jS0OwUuxtjnH_qsxb34xlPwAdjaVwZZ7QQ_bE&_nc_zt=23&_nc_ht=scontent-cdg4-2.cdninstagram.com&_nc_gid=VY7xPwfGR-NT7RuzC7Jf6A&_nc_ss=72689&oh=00_AQELOfmTVs95uA_P6DmCWuxaC_N9jFM90GcxunvbPB8iCw&oe=6A934CF6"
+            "https://scontent-fra3-1.cdninstagram.com/v/t51.82787-15/786467872_18440080426132997_790416618551162062_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=101&ig_cache_key=Mzk3MDk5NTk2OTY2MTEyMDY1MzE4NDQwMDgwNDIwMTMyOTk3.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEyOTAuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=j1k2x_pLJUwQ7kNvwEY4ShK&_nc_oc=Adr7Q2Gz1mWhg8jXuM-4yioDX1NurFvmAIu_TlIK9w0KPeJGSYHRU_f2QEtTrAvcCaMaEfEe3ZPGlZjXX7SdGc5O&_nc_ad=z-m&_nc_cid=1088&_nc_zt=23&_nc_ht=scontent-fra3-1.cdninstagram.com&_nc_gid=B9vENsaSXAPIKJaxLQRXaw&_nc_ss=7a22e&oh=00_AQLe9ASNd4b2vqsP1BysvjwxD9vz1-yWl1JYVhlSGkINdA&oe=6A98CB36"
           ],
           "handle": "sebas_rock_bar",
           "raw": {
@@ -1247,49 +1371,35 @@
             "relevant": true,
             "events": [
               {
-                "date": "2026-08-27",
-                "title": "Boogie Night Trio",
-                "start_time": "19:30:00Z",
-                "confidence": "high",
-                "evidence": "Quinta 27/08 Boogie Night Trio"
-              },
-              {
-                "date": "2026-08-28",
-                "title": "Double Deck e Goma Bass",
-                "start_time": "19:30:00Z",
-                "confidence": "high",
-                "evidence": "Sexta 28/08 Double Deck e Goma Bass"
-              },
-              {
                 "date": "2026-08-29",
-                "title": "Nazareth tributo The Shadettes, ACDC Cover Hells Bells, Iron Maiden Cover Madein CWB",
+                "title": "Nazareth tributo The Shadettes, AC/DC Cover Hells Bells, Iron Maiden Cover Madein CWB",
                 "start_time": null,
                 "confidence": "high",
-                "evidence": "Sábado 29/08 Nazareth tributo, ACDC Cover, Iron Maiden Cover"
+                "evidence": "Sábado 29/08"
               }
             ],
-            "windowMax": "2026-08-31"
+            "windowMax": "2026-09-04"
           }
         },
         {
-          "id": "DbP1-EZKhOk",
-          "caption": "@evigoffinofficial we love you ❤️",
+          "id": "Dcb_wurqwEC",
+          "caption": "🎧 TIKO’S GROOVE chega em Curitiba no Sebas Rock Bar para uma noite histórica!\n\nO criador do hit “I Don’t Know What To Do”, com mais de 25 milhões de reproduções no Spotify, desembarca nos Embalos de Sebaldo à Noite para um show que promete fazer todo mundo voltar aos melhores anos da dance music. \n\nE para completar a festa:\n🎶 Guto Loureiro, comandando a pista com o melhor do flashback.\n\n📅 Sábado | 19 de setembro\n\n🎟️ 1º lote: R$ 50,00\n\n📲 Garanta seu ingresso antecipado pelo Disk Ingressos ou WhatsApp do bar. (41) 99916-1134\n\n📍 Sebas Rock Bar – Curitiba\n\nUma noite para quem viveu essa época… e para quem quer sentir a energia de um verdadeiro hit internacional ao vivo!",
           "mediaType": "Video",
-          "timestamp": "2026-07-26T07:25:50.000Z",
-          "permalink": "https://www.instagram.com/p/DbP1-EZKhOk/",
+          "timestamp": "2026-08-24T21:11:07.000Z",
+          "permalink": "https://www.instagram.com/p/Dcb_wurqwEC/",
           "images": [
-            "https://scontent-syd2-1.cdninstagram.com/v/t51.82787-15/756833010_18434604769132997_6133089342985550789_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=110&ig_cache_key=Mzk0OTYxMjc2MDAxNzAxNTcxNjE4NDM0NjA0NzY2MTMyOTk3.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEyOTAuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=iqIe8tHlPxUQ7kNvwHM-DOr&_nc_oc=AdoVYxQMZ9aOuRWWdsEqaROas009NWZ5AXVEdDVWujRyTSWQH1x0w2XzcQxBG5vVCv4&_nc_zt=23&_nc_ht=scontent-syd2-1.cdninstagram.com&_nc_gid=zs6pKjVy3wfX8RsPKeRyjg&_nc_ss=72a8c&oh=00_AQHYBpRCTcRImaFq7vlGvZL1AJOYjZ_k5zEP_xASYwuZ4A&oe=6A934C15"
+            "https://scontent-gru2-2.cdninstagram.com/v/t51.82787-15/786452978_18440091520132997_1088105597156902186_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=106&ig_cache_key=Mzk3MTA0NzkyMjA0NzA1ODE3ODE4NDQwMDkxNTE3MTMyOTk3.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEyOTAuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=vNjGyA7JJHMQ7kNvwFMiJXj&_nc_oc=AdpNnbzEgdosqelAGR2-vQKJwzpKyoeB4kNjtz9LXvx3X_2AOhMy6vhD3oDjgF4J3n4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-gru2-2.cdninstagram.com&_nc_gid=fRcrnM3iZA1gnsPsktLKjg&_nc_ss=7a22e&oh=00_AQIem5Y8RAOV4o5-9lNrqnZEsh4GRc5I7aq2fNOWJfV7aw&oe=6A98ADD6"
           ],
           "handle": "sebas_rock_bar",
           "raw": {
             "ownerUsername": "sebas_rock_bar",
             "type": "Video",
-            "shortCode": "DbP1-EZKhOk"
+            "shortCode": "Dcb_wurqwEC"
           },
           "analysis": {
             "relevant": false,
             "events": [],
-            "windowMax": "2026-08-31"
+            "windowMax": "2026-09-04"
           }
         }
       ]
@@ -1371,7 +1481,7 @@
       "name": "Resistência",
       "instagram": "https://www.instagram.com/resistenciarock/",
       "handle": "resistenciarock",
-      "fetchedAt": "2026-08-25T09:46:08.789Z",
+      "fetchedAt": "2026-08-29T14:27:52.668Z",
       "posts": []
     },
     "clayhighway": {
@@ -1430,7 +1540,7 @@
       "name": "Armazém Garage",
       "instagram": "https://www.instagram.com/armazemgaragem/",
       "handle": "armazemgaragem",
-      "fetchedAt": "2026-08-25T09:47:08.314Z",
+      "fetchedAt": "2026-08-29T14:30:02.362Z",
       "posts": [
         {
           "id": "DbVkgQ0uNRg",
@@ -1439,7 +1549,7 @@
           "timestamp": "2026-07-28T12:46:04.000Z",
           "permalink": "https://www.instagram.com/p/DbVkgQ0uNRg/",
           "images": [
-            "https://instagram.fgdl10-1.fna.fbcdn.net/v/t51.82787-15/756661972_18605759830024452_7443743338834922246_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzk1MTIyNDc5NDg0OTUzMDk3Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTYwMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=X3ZJOPQDfrYQ7kNvwFR6DXo&_nc_oc=Adpt5CxykM0GT4UQ9tI-myv8MC7N-dAXo78VQ6Cj4beNcwpwC4O5OTRINwr_RbOtDellkzryo0ehX5vSxY6tdPA-&_nc_zt=23&_nc_ht=instagram.fgdl10-1.fna&_nc_gid=IXVFvnTmfVxQYVEXa6k8-Q&_nc_ss=7ca8c&oh=00_AQEGWRgQ6ZKTzlb59pGyLCZ0lEmw9zY2rcToNTUMe6qPfA&oe=6A9322FC"
+            "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/756661972_18605759830024452_7443743338834922246_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzk1MTIyNDc5NDg0OTUzMDk3Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTYwMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=sLT1KsSPF_MQ7kNvwF5WFl4&_nc_oc=Adr6Cz2ubdZSAqmHazekoHJbg3lQSQi6BYu2CYWCFusJmkmMomwboAgUEfuDfZYAhmw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&_nc_gid=mQeswXNmqgAPrBCNpbCl_Q&_nc_ss=7a22e&oh=00_AQLatQ4TP-lsj4TZE0hRjGTRBUC0dfjyyXFLvl1CPnd3Qw&oe=6A98D97C"
           ],
           "handle": "armazemgaragem",
           "raw": {
@@ -1450,57 +1560,49 @@
           "analysis": {
             "relevant": false,
             "events": [],
-            "windowMax": "2026-08-31"
+            "windowMax": "2026-09-04"
           }
         },
         {
-          "id": "DccYkRRO81y",
-          "caption": "🤠 TENNESSEE NIGHT GARAGEM 🇺🇸 🇧🇷 🎸\n \nIngressos 🎟️ link na Bio \n\nDireto dos palcos do Tennessee para o Armazém Garagem, Moot Davis chega para um grande show que faz parte das comemorações dos 10 anos do Garagem!\n\nUma noite especial dedicada à verdadeira música country, com abertura da Hillbilly Rawhide e, como grande atração da noite, Moot Davis & Farol Negro.\n\n🍺 Música country, clima de honky-tonk e muito chopp gelado para celebrar uma década de história!\n\n📅 Sexta-feira, 28 de agosto\n📍 Armazém Garagem\n\nTENNESSEE NIGHT GARAGEM\nDo Tennessee direto para o palco do Garagem. 🇺🇸🔥\n\nPatrocínio @way_beer",
+          "id": "Dcm4x1YDhWJ",
+          "caption": "@mootdavis",
           "mediaType": "Video",
-          "timestamp": "2026-08-25T00:51:19.000Z",
-          "permalink": "https://www.instagram.com/p/DccYkRRO81y/",
+          "timestamp": "2026-08-29T02:41:17.000Z",
+          "permalink": "https://www.instagram.com/p/Dcm4x1YDhWJ/",
           "images": [
-            "https://scontent-waw2-2.cdninstagram.com/v/t51.82787-15/782413399_18615281689024452_6396595693769786460_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=100&ig_cache_key=Mzk3MTE1NzAxNjk5NDEwNjczODE4NjE1MjgxNjg2MDI0NDUy.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=PpY0Q0Huyt4Q7kNvwHAU2S4&_nc_oc=AdpcRlXGx6bPqRosTSfg3KAQOklrbLHaJ1PxnmNl17resM7lX3TAAyDv5deq0rzKTLg&_nc_zt=23&_nc_ht=scontent-waw2-2.cdninstagram.com&_nc_gid=A7kYyN8QxP3gf0-jW5nVSw&_nc_ss=7ca8c&oh=00_AQEuWhZ2Hri98Bh_CGy_lfUH3pJ5uCMsbninsPxMJycAXA&oe=6A9344F7"
+            "https://scontent-cdg4-2.cdninstagram.com/v/t51.82787-15/789837150_18616636795024452_5687614752394875005_n.jpg?stp=dst-jpg_e15_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLmltYWdlX3VybGdlbi41MDQuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuYzIifQ&_nc_ht=scontent-cdg4-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gEI_y55-LJqsq9LaguyOqVeb25cyw3Lsb4l_TTfeOZH0t4b8rA6luqRh6U5XLg--9KL6dXG_vyLpSzeCWMf7JxO&_nc_ohc=gGvSdtlj0wEQ7kNvwGrJ0XS&_nc_gid=XFtXasFO_DzAeHugncXJRQ&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=Mzk3NDExMzQzNjM3MTkxNjE2OQ%3D%3D.3-ccb7-5&oh=00_AQKA2N1xrSsHgIVviBpMyVN7vhtHSaBC4PtmFwy3csFKig&oe=6A98B3C0&_nc_sid=10d13b"
           ],
           "handle": "armazemgaragem",
           "raw": {
             "ownerUsername": "armazemgaragem",
             "type": "Video",
-            "shortCode": "DccYkRRO81y"
-          },
-          "analysis": {
-            "relevant": true,
-            "events": [
-              {
-                "date": "2026-08-28",
-                "title": "Tennessee Night com Moot Davis & Farol Negro",
-                "start_time": null,
-                "confidence": "high",
-                "evidence": "Sexta-feira, 28 de agosto"
-              }
-            ],
-            "windowMax": "2026-08-31"
-          }
-        },
-        {
-          "id": "Dcb4pjnu7na",
-          "caption": "Ainda em ritmo de comemoração pelos nossos 10 anos! 🧡\n\nO mês de agosto inteiro é de celebração por aqui. São 10 anos de encontros, motores, música, amizades, histórias e momentos que fizeram do Armazém Garagem muito mais do que um lugar para estar. Fizeram dele um verdadeiro ponto de encontro.\n\nE nada disso seria possível sem vocês que fazem parte dessa caminhada. Nosso muito obrigado a cada pessoa que esteve, e continua estando, com a gente nessa história. Que venham muitos outros anos de boas histórias, grandes encontros e momentos inesquecíveis. E, claro, um agradecimento especial à Way Beer, nossa patrocinadora oficial, por fazer parte dessa comemoração e brindar com a gente esses 10 anos! 🍻\n\n10 anos de Armazém Garagem: essa história está só começando! 🤠🧡\n\nPatrocínio oficial: @way_beer \n\n🕕 Quarta a sexta - a partir das 18h\n🕒 Sábado e domingo - a partir das 15h\n📍 Rodovia Curitiba - Ponta Grossa Br-277, 2630 - Santo Inácio\n📞 Reservas, eventos e informações: 41 99133-4414\n\n#armazemgaragembar #rockbar #carrosantigos #garagem10anos",
-          "mediaType": "Video",
-          "timestamp": "2026-08-24T20:09:59.000Z",
-          "permalink": "https://www.instagram.com/p/Dcb4pjnu7na/",
-          "images": [
-            "https://instagram.fmex39-1.fna.fbcdn.net/v/t51.82787-15/780127568_18615209293024452_2635995762822776898_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=102&ig_cache_key=Mzk3MTAxNjY0MjgwNzk3MDI2NjE4NjE1MjA5Mjk2MDI0NDUy.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=FdcbajP9QPYQ7kNvwFUZv0D&_nc_oc=AdofGIWikkR-5Kud53W4Oe7OQDvkEaDjw1lVB9CyTc0FMeuB90Hj95kBQttdOs3uBOs&_nc_zt=23&_nc_ht=instagram.fmex39-1.fna&_nc_gid=Ol0Ve3CjbGFrjyLEsp6E-w&_nc_ss=72a8c&oh=00_AQHFFFLbxGTvLpp2UmS-OcZc6NWS0N_rE3MISH0Of52VqA&oe=6A933D32"
-          ],
-          "handle": "armazemgaragem",
-          "raw": {
-            "ownerUsername": "armazemgaragem",
-            "type": "Video",
-            "shortCode": "Dcb4pjnu7na"
+            "shortCode": "Dcm4x1YDhWJ"
           },
           "analysis": {
             "relevant": false,
             "events": [],
-            "windowMax": "2026-08-31"
+            "windowMax": "2026-09-04"
+          }
+        },
+        {
+          "id": "DcoAi99umZ4",
+          "caption": "Obrigado Piazada @mootdavis \nFez uma sonzeira no Garagem, baita show com muita energia 🙌🏻 obrigado @farolnegro7 obrigado @mootdavis obrigado família Garagem 🙌🏻",
+          "mediaType": "Video",
+          "timestamp": "2026-08-29T13:09:37.000Z",
+          "permalink": "https://www.instagram.com/p/DcoAi99umZ4/",
+          "images": [
+            "https://scontent-fco2-1.cdninstagram.com/v/t51.82787-15/784617665_18616759192024452_7946021116155675616_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=107&ig_cache_key=Mzk3NDQyOTA3NDE1MDU0OTExMjE4NjE2NzU5MTg2MDI0NDUy.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEyODQuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=F7zynbggd0kQ7kNvwH1LeT_&_nc_oc=Adpn-UuByr1JXB_ndreFQBTynETm3MYBsPAmO3HNqaZnDPrY9ndrSqdyq5LuDYYMGoI&_nc_ad=z-m&_nc_cid=1020&_nc_zt=23&_nc_ht=scontent-fco2-1.cdninstagram.com&_nc_gid=n2Z3u1dYWc3jNtAi9iVB7A&_nc_ss=7a22e&oh=00_AQKiIkdjSWc3I-Hx3HtDsY-i1y4bzF6RW23VRZ0bI_ZkAA&oe=6A98C27A"
+          ],
+          "handle": "armazemgaragem",
+          "raw": {
+            "ownerUsername": "armazemgaragem",
+            "type": "Video",
+            "shortCode": "DcoAi99umZ4"
+          },
+          "analysis": {
+            "relevant": false,
+            "events": [],
+            "windowMax": "2026-09-04"
           }
         }
       ]
@@ -1582,7 +1684,7 @@
       "name": "Animals Pub",
       "instagram": "https://www.instagram.com/theanimalspub/",
       "handle": "theanimalspub",
-      "fetchedAt": "2026-08-25T09:47:25.405Z",
+      "fetchedAt": "2026-08-29T14:30:26.571Z",
       "posts": [
         {
           "id": "https://www.instagram.com/theanimalspub/",
@@ -1598,9 +1700,17 @@
             "shortCode": null
           },
           "analysis": {
-            "relevant": false,
-            "events": [],
-            "windowMax": "2026-08-31"
+            "relevant": true,
+            "events": [
+              {
+                "date": "2026-09-04",
+                "title": "Rock N' Roll com Banda Vintage",
+                "start_time": "20:00:00.000Z",
+                "confidence": "high",
+                "evidence": "SEXTA 04.09 ROCK N' ROLL BANDA VINTAGE 20H"
+              }
+            ],
+            "windowMax": "2026-09-04"
           }
         }
       ]
@@ -1661,52 +1771,52 @@
       "name": "Olds Pub",
       "instagram": "https://www.instagram.com/oldspuboficial/",
       "handle": "oldspuboficial",
-      "fetchedAt": "2026-08-25T09:47:42.542Z",
+      "fetchedAt": "2026-08-29T14:30:41.544Z",
       "posts": []
     }
   },
   "errors": [
     {
-      "handle": "barbariumpub",
-      "postId": "DOdylnMjt3R",
+      "handle": "barcrossroads",
+      "postId": "Dchh7YDlgnt",
       "provider": "gemini",
       "message": "Gemini 503: {\"code\":503,\"message\":\"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\"status\":\"UNAVAILABLE\"}"
     },
     {
-      "handle": "clayhighway",
-      "postId": "Dcev5udo_wL",
+      "handle": "sheridansirishpub",
+      "postId": "DcYtLPkij7Q",
       "provider": "gemini",
       "message": "Gemini 503: {\"code\":503,\"message\":\"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\"status\":\"UNAVAILABLE\"}"
     },
     {
-      "handle": "clayhighway",
-      "postId": "DboGj17x4V4",
+      "handle": "sheridansirishpub",
+      "postId": "DcUViktn2m8",
       "provider": "gemini",
-      "message": "Gemini 429: {\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 47.842629667s.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"location\":\"global\",\"model\":\"gemini-2.5-flash\"},\"quotaValue\":\"20\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"47s\"}]}"
+      "message": "Gemini 503: {\"code\":503,\"message\":\"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\"status\":\"UNAVAILABLE\"}"
     },
     {
-      "handle": "oldjackgaragebar",
-      "postId": "DccGOQcli97",
+      "handle": "bardamaniacs",
+      "postId": "DbYLAM-DOB3",
       "provider": "gemini",
-      "message": "Gemini 429: {\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 21.846204885s.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"location\":\"global\",\"model\":\"gemini-2.5-flash\"},\"quotaValue\":\"20\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"21s\"}]}"
+      "message": "Gemini 503: {\"code\":503,\"message\":\"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\"status\":\"UNAVAILABLE\"}"
     },
     {
-      "handle": "oldjackgaragebar",
-      "postId": "Db0dRBFvLBG",
+      "handle": "distrito.1340",
+      "postId": "DcfDrucR1bQ",
       "provider": "gemini",
-      "message": "Gemini 429: {\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 13.12249134s.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"location\":\"global\",\"model\":\"gemini-2.5-flash\"},\"quotaValue\":\"20\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"13s\"}]}"
+      "message": "Gemini 503: {\"code\":503,\"message\":\"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\"status\":\"UNAVAILABLE\"}"
     },
     {
-      "handle": "oldjackgaragebar",
-      "postId": "DcPbHYkuyy_",
+      "handle": "sebas_rock_bar",
+      "postId": "Dcb_wurqwEC",
       "provider": "gemini",
-      "message": "Gemini 429: {\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 5.80067577s.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"location\":\"global\",\"model\":\"gemini-2.5-flash\"},\"quotaValue\":\"20\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"5s\"}]}"
+      "message": "Gemini 503: {\"code\":503,\"message\":\"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\"status\":\"UNAVAILABLE\"}"
     },
     {
-      "handle": "92graus",
-      "postId": "DRzUwFXDnOq",
+      "handle": "armazemgaragem",
+      "postId": "DcoAi99umZ4",
       "provider": "gemini",
-      "message": "Gemini 429: {\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 22.823743765s.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"location\":\"global\",\"model\":\"gemini-2.5-flash\"},\"quotaValue\":\"20\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"22s\"}]}"
+      "message": "Gemini 429: {\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 4.154514654s.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"location\":\"global\",\"model\":\"gemini-2.5-flash\"},\"quotaValue\":\"20\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"4s\"}]}"
     }
   ]
 }
