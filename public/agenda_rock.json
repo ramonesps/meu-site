@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-29T14:30:41.609Z",
-  "week_start": "2026-08-29",
+  "updated_at": "2026-08-31T17:01:02.355Z",
+  "week_start": "2026-08-31",
   "model": "gemini-2.5-flash",
   "venues": [
     {
@@ -11,22 +11,29 @@
       "events": {
         "2026-09-01": [
           {
-            "name": "Happy Hour – Lei da Matilha",
+            "name": "Happy Hour \nLei da Matilha",
             "time": "18:00:00Z",
             "description": null
           }
         ],
         "2026-09-02": [
           {
-            "name": "Happy Hour – Lei da Matilha",
+            "name": "Happy Hour \nLei da Matilha",
             "time": "18:00:00Z",
             "description": null
           }
         ],
-        "2026-08-29": [
+        "2026-09-03": [
           {
-            "name": "BAILE BRASA",
-            "time": "21:30:00Z",
+            "name": "Happy Hour \nLei da Matilha",
+            "time": "18:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-09-05": [
+          {
+            "name": "Dia Mundial do Bacon",
+            "time": "18:00:00Z",
             "description": null
           }
         ]
@@ -37,20 +44,7 @@
       "ig": "https://www.instagram.com/barcrossroads/",
       "bairro": "Água Verde",
       "cat": "Gourmet",
-      "events": {
-        "2026-08-29": [
-          {
-            "name": "70's classics com Os Extintos & Syd Vinicius",
-            "time": "20:00:00Z",
-            "description": null
-          },
-          {
-            "name": "70's Classics com Os Extintos e Syd Vinícius",
-            "time": "20:00:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Hard Rock",
@@ -58,73 +52,10 @@
       "bairro": "Batel",
       "cat": "Gourmet",
       "events": {
-        "2026-08-29": [
+        "2026-09-03": [
           {
-            "name": "Aberto",
-            "time": "11:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Tributo Elvis",
-            "time": "09:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Rodrigo Castellani",
-            "time": "12:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Renan Henrique",
-            "time": "15:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Banda Asgard",
-            "time": "19:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Show Mauro Henrique",
-            "time": "19:30:00Z",
-            "description": null
-          }
-        ],
-        "2026-08-30": [
-          {
-            "name": "Aberto",
-            "time": "11:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Gui Vianna",
-            "time": "12:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Code Fire",
-            "time": "19:30:00Z",
-            "description": null
-          }
-        ],
-        "2026-08-31": [
-          {
-            "name": "Aberto",
-            "time": "11:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-09-01": [
-          {
-            "name": "Aberto",
-            "time": "11:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-09-02": [
-          {
-            "name": "Aberto",
-            "time": "11:00:00Z",
+            "name": "Russell Allen & Fernando Quesada Acoustic Sessions e Noturnall",
+            "time": "19:00:00Z",
             "description": null
           }
         ]
@@ -135,56 +66,14 @@
       "ig": "https://www.instagram.com/sheridansirishpub/",
       "bairro": "Batel",
       "cat": "Gourmet",
-      "events": {
-        "2026-08-29": [
-          {
-            "name": "Encerramento do ciclo na Bispo Dom José",
-            "time": null,
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Bastards Fábrica",
       "ig": "https://www.instagram.com/bardafabricabastards/",
       "bairro": "Bom Retiro",
       "cat": "Gourmet",
-      "events": {
-        "2026-09-01": [
-          {
-            "name": "Happy Hour - Lei da Matilha",
-            "time": "18:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-09-02": [
-          {
-            "name": "Happy Hour - Lei da Matilha",
-            "time": "18:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-08-29": [
-          {
-            "name": "Thiago Filla Duo",
-            "time": "16:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Backstage",
-            "time": "20:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-08-30": [
-          {
-            "name": "Xima Trio",
-            "time": "16:00:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Maniacs",
@@ -198,75 +87,14 @@
       "ig": "https://www.instagram.com/rockpizzaroll.bar/",
       "bairro": "Rebouças",
       "cat": "Gourmet",
-      "events": {
-        "2026-08-29": [
-          {
-            "name": "Linkin Park Cover",
-            "time": "20:00:00.000000000Z",
-            "description": null
-          }
-        ],
-        "2026-08-30": [
-          {
-            "name": "The Beatles Cover",
-            "time": "19:00:00.000000000Z",
-            "description": null
-          }
-        ],
-        "2026-08-31": [
-          {
-            "name": "Guns N' Roses Cover",
-            "time": "20:00:00.000000000Z",
-            "description": null
-          }
-        ],
-        "2026-09-01": [
-          {
-            "name": "Queen Cover",
-            "time": "20:00:00.000000000Z",
-            "description": null
-          }
-        ],
-        "2026-09-02": [
-          {
-            "name": "AC/DC Cover",
-            "time": "20:00:00.000000000Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Distrito 1340",
       "ig": "https://www.instagram.com/distrito.1340/",
       "bairro": "Seminário",
       "cat": "Gourmet",
-      "events": {
-        "2026-08-29": [
-          {
-            "name": "Syd Vinicius",
-            "time": "21:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Firecracker",
-            "time": "00:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-08-30": [
-          {
-            "name": "CatNip",
-            "time": "19:30:00Z",
-            "description": null
-          },
-          {
-            "name": "LongField",
-            "time": "21:30:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Barbarium",
@@ -280,35 +108,7 @@
       "ig": "https://www.instagram.com/dobruckibar/",
       "bairro": "Rebouças",
       "cat": "Gourmet",
-      "events": {
-        "2026-08-29": [
-          {
-            "name": "Música ao vivo",
-            "time": null,
-            "description": null
-          },
-          {
-            "name": "Candyman Club",
-            "time": null,
-            "description": null
-          },
-          {
-            "name": "Minha Banda é uma Festa",
-            "time": null,
-            "description": null
-          },
-          {
-            "name": "Hus Cage",
-            "time": null,
-            "description": null
-          },
-          {
-            "name": "Abertura com DJ Adriano",
-            "time": "15:00:00.000Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Jokers",
@@ -322,47 +122,7 @@
       "ig": "https://www.instagram.com/torkandroll/",
       "bairro": "Rebouças",
       "cat": "Palco e Show",
-      "events": {
-        "2026-08-29": [
-          {
-            "name": "CPM 22 Cover BR",
-            "time": "21:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Tributo CBJR",
-            "time": "00:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Tributo Charlie Brown Jr. com Pinguim e Bruno Graveto",
-            "time": "21:30:00Z",
-            "description": null
-          },
-          {
-            "name": "CPM 22 Cover Brasil",
-            "time": "21:30:00Z",
-            "description": null
-          }
-        ],
-        "2026-08-30": [
-          {
-            "name": "Reckoning Hour",
-            "time": "18:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Blessthefall",
-            "time": "19:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Memphis May Fire",
-            "time": "21:00:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Blood Rock",
@@ -370,15 +130,17 @@
       "bairro": "São Francisco",
       "cat": "Palco e Show",
       "events": {
-        "2026-08-29": [
+        "2026-09-05": [
           {
-            "name": "Tributo Avenged Sevenfold e Rammstein",
-            "time": null,
+            "name": "Shows com The Nightfall, Seyren e Smoking Snakes",
+            "time": "22:00:00Z",
             "description": null
-          },
+          }
+        ],
+        "2026-09-06": [
           {
-            "name": "FLASH TATTOO TEMÁTICA + BODY PIERCING",
-            "time": "19:00:00.000000000Z",
+            "name": "Banda Double Deck tocando The Cure, Smiths, Joy, Sisters of Mercy, The Mission,",
+            "time": "22:00:00Z",
             "description": null
           }
         ]
@@ -389,30 +151,7 @@
       "ig": "https://www.instagram.com/sebas_rock_bar/",
       "bairro": "Boqueirão",
       "cat": "Palco e Show",
-      "events": {
-        "2026-08-29": [
-          {
-            "name": "The Shadettes (Nazareth)",
-            "time": "21:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Made in CWB (Iron Maiden)",
-            "time": "23:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Hells Bells (ACDC)",
-            "time": "01:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Nazareth tributo The Shadettes, AC/DC Cover Hells Bells, Iron Maiden Cover Madei",
-            "time": null,
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Belvedere",
