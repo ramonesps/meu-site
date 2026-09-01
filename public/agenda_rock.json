@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-31T17:01:02.355Z",
-  "week_start": "2026-08-31",
+  "updated_at": "2026-09-01T14:11:59.994Z",
+  "week_start": "2026-09-01",
   "model": "gemini-2.5-flash",
   "venues": [
     {
@@ -9,31 +9,48 @@
       "bairro": "Água Verde",
       "cat": "Gourmet",
       "events": {
+        "2026-09-05": [
+          {
+            "name": "Dia Mundial do Bacon",
+            "time": null,
+            "description": null
+          },
+          {
+            "name": "LADY DIE",
+            "time": "21:30:00Z",
+            "description": null
+          }
+        ],
         "2026-09-01": [
           {
-            "name": "Happy Hour \nLei da Matilha",
-            "time": "18:00:00Z",
+            "name": "NIKO & GIU",
+            "time": "20:20:00Z",
             "description": null
           }
         ],
         "2026-09-02": [
           {
-            "name": "Happy Hour \nLei da Matilha",
-            "time": "18:00:00Z",
+            "name": "ISIS DRESH DUO",
+            "time": "20:20:00Z",
             "description": null
           }
         ],
         "2026-09-03": [
           {
-            "name": "Happy Hour \nLei da Matilha",
-            "time": "18:00:00Z",
+            "name": "DANNI DISTLER TRIO",
+            "time": "20:20:00Z",
             "description": null
           }
         ],
-        "2026-09-05": [
+        "2026-09-04": [
           {
-            "name": "Dia Mundial do Bacon",
-            "time": "18:00:00Z",
+            "name": "ZÓIO TRIO",
+            "time": "20:00:00Z",
+            "description": null
+          },
+          {
+            "name": "DRIVE TRUE",
+            "time": "22:30:00Z",
             "description": null
           }
         ]
@@ -51,15 +68,7 @@
       "ig": "https://www.instagram.com/hrccuritiba/",
       "bairro": "Batel",
       "cat": "Gourmet",
-      "events": {
-        "2026-09-03": [
-          {
-            "name": "Russell Allen & Fernando Quesada Acoustic Sessions e Noturnall",
-            "time": "19:00:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Sheridans",
@@ -115,7 +124,15 @@
       "ig": "https://www.instagram.com/jokerspub/",
       "bairro": "Centro",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-09-01": [
+          {
+            "name": "Prato do dia: Sobrecoxa Delícia",
+            "time": null,
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Tork n' Roll",
@@ -130,17 +147,10 @@
       "bairro": "São Francisco",
       "cat": "Palco e Show",
       "events": {
-        "2026-09-05": [
-          {
-            "name": "Shows com The Nightfall, Seyren e Smoking Snakes",
-            "time": "22:00:00Z",
-            "description": null
-          }
-        ],
         "2026-09-06": [
           {
-            "name": "Banda Double Deck tocando The Cure, Smiths, Joy, Sisters of Mercy, The Mission,",
-            "time": "22:00:00Z",
+            "name": "Double Deck toca The Cure, Smiths, Joy Division, Sisters of Mercy, The Mission,",
+            "time": "22:00:00.000Z",
             "description": null
           }
         ]
