@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-01T14:11:59.994Z",
-  "week_start": "2026-09-01",
+  "updated_at": "2026-09-03T13:31:36.364Z",
+  "week_start": "2026-09-03",
   "model": "gemini-2.5-flash",
   "venues": [
     {
@@ -18,20 +18,6 @@
           {
             "name": "LADY DIE",
             "time": "21:30:00Z",
-            "description": null
-          }
-        ],
-        "2026-09-01": [
-          {
-            "name": "NIKO & GIU",
-            "time": "20:20:00Z",
-            "description": null
-          }
-        ],
-        "2026-09-02": [
-          {
-            "name": "ISIS DRESH DUO",
-            "time": "20:20:00Z",
             "description": null
           }
         ],
@@ -61,7 +47,29 @@
       "ig": "https://www.instagram.com/barcrossroads/",
       "bairro": "Água Verde",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-09-03": [
+          {
+            "name": "PIGS AND DIAMONDS (Tributo a Pink Floyd)",
+            "time": "19:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-09-04": [
+          {
+            "name": "41 NATIRUTS + CPM 22 COVER BRASIL + OS CARAS DO CHARLIE BROWN",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-09-05": [
+          {
+            "name": "FLASH N\nBACK + CANDYMAN CLUB",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Hard Rock",
@@ -89,7 +97,43 @@
       "ig": "https://www.instagram.com/bardamaniacs/",
       "bairro": "Cabral",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-09-04": [
+          {
+            "name": "Bar aberto",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-09-05": [
+          {
+            "name": "Bar aberto",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-09-06": [
+          {
+            "name": "Bar aberto",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-09-07": [
+          {
+            "name": "Bar aberto",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-09-08": [
+          {
+            "name": "Bar aberto",
+            "time": null,
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Rock Pizza",
@@ -103,7 +147,68 @@
       "ig": "https://www.instagram.com/distrito.1340/",
       "bairro": "Seminário",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-09-03": [
+          {
+            "name": "Hawks",
+            "time": null,
+            "description": null
+          },
+          {
+            "name": "Hotel Hell",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-09-04": [
+          {
+            "name": "Pir�mide em Marte",
+            "time": null,
+            "description": null
+          },
+          {
+            "name": "Válvula Vapor",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-09-05": [
+          {
+            "name": "Esquadrão",
+            "time": null,
+            "description": null
+          },
+          {
+            "name": "Pennyback",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-09-06": [
+          {
+            "name": "Jack Vermouth",
+            "time": null,
+            "description": null
+          },
+          {
+            "name": "Backstage",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-09-07": [
+          {
+            "name": "Plugged",
+            "time": null,
+            "description": null
+          },
+          {
+            "name": "Syd Vinicius",
+            "time": null,
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Barbarium",
@@ -117,17 +222,15 @@
       "ig": "https://www.instagram.com/dobruckibar/",
       "bairro": "Rebouças",
       "cat": "Gourmet",
-      "events": {}
-    },
-    {
-      "nome": "Jokers",
-      "ig": "https://www.instagram.com/jokerspub/",
-      "bairro": "Centro",
-      "cat": "Gourmet",
       "events": {
-        "2026-09-01": [
+        "2026-09-05": [
           {
-            "name": "Prato do dia: Sobrecoxa Delícia",
+            "name": "Candyman Club, Minha Banda é uma Festa, Hus Cage, DJ Adriano",
+            "time": "15:00:00.000000000Z",
+            "description": null
+          },
+          {
+            "name": "Música ao vivo",
             "time": null,
             "description": null
           }
@@ -135,11 +238,43 @@
       }
     },
     {
+      "nome": "Jokers",
+      "ig": "https://www.instagram.com/jokerspub/",
+      "bairro": "Centro",
+      "cat": "Gourmet",
+      "events": {}
+    },
+    {
       "nome": "Tork n' Roll",
       "ig": "https://www.instagram.com/torkandroll/",
       "bairro": "Rebouças",
       "cat": "Palco e Show",
-      "events": {}
+      "events": {
+        "2026-09-07": [
+          {
+            "name": "DJ Gilberto",
+            "time": "19:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Bon Jovi Cover Brasil",
+            "time": "21:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Silvermoon",
+            "time": "23:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-09-04": [
+          {
+            "name": "Mundo encantado 2000",
+            "time": null,
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Blood Rock",
@@ -189,7 +324,15 @@
       "ig": "https://www.instagram.com/armazemgaragem/",
       "bairro": "Santo Inácio",
       "cat": "Raiz",
-      "events": {}
+      "events": {
+        "2026-09-04": [
+          {
+            "name": "Garagem Flashback com DJ Jeison Sales",
+            "time": null,
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Old Jack",
@@ -204,10 +347,52 @@
       "bairro": "Bacacheri",
       "cat": "Raiz",
       "events": {
+        "2026-09-03": [
+          {
+            "name": "Banda Válvula",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ],
         "2026-09-04": [
           {
-            "name": "Rock N' Roll com Banda Vintage",
-            "time": "20:00:00.000Z",
+            "name": "Banda Válvula",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-09-05": [
+          {
+            "name": "Banda Válvula",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-09-06": [
+          {
+            "name": "Banda Válvula",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-09-07": [
+          {
+            "name": "Banda Válvula",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-09-08": [
+          {
+            "name": "Banda Válvula",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-09-09": [
+          {
+            "name": "Banda Válvula",
+            "time": "20:00:00Z",
             "description": null
           }
         ]
