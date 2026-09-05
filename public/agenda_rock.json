@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-03T13:31:36.364Z",
-  "week_start": "2026-09-03",
+  "updated_at": "2026-09-05T12:42:19.469Z",
+  "week_start": "2026-09-05",
   "model": "gemini-2.5-flash",
   "venues": [
     {
@@ -8,39 +8,7 @@
       "ig": "https://www.instagram.com/wearebastardspub/",
       "bairro": "Água Verde",
       "cat": "Gourmet",
-      "events": {
-        "2026-09-05": [
-          {
-            "name": "Dia Mundial do Bacon",
-            "time": null,
-            "description": null
-          },
-          {
-            "name": "LADY DIE",
-            "time": "21:30:00Z",
-            "description": null
-          }
-        ],
-        "2026-09-03": [
-          {
-            "name": "DANNI DISTLER TRIO",
-            "time": "20:20:00Z",
-            "description": null
-          }
-        ],
-        "2026-09-04": [
-          {
-            "name": "ZÓIO TRIO",
-            "time": "20:00:00Z",
-            "description": null
-          },
-          {
-            "name": "DRIVE TRUE",
-            "time": "22:30:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Cross Roads",
@@ -48,20 +16,6 @@
       "bairro": "Água Verde",
       "cat": "Gourmet",
       "events": {
-        "2026-09-03": [
-          {
-            "name": "PIGS AND DIAMONDS (Tributo a Pink Floyd)",
-            "time": "19:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-09-04": [
-          {
-            "name": "41 NATIRUTS + CPM 22 COVER BRASIL + OS CARAS DO CHARLIE BROWN",
-            "time": "20:00:00Z",
-            "description": null
-          }
-        ],
         "2026-09-05": [
           {
             "name": "FLASH N\nBACK + CANDYMAN CLUB",
@@ -98,13 +52,6 @@
       "bairro": "Cabral",
       "cat": "Gourmet",
       "events": {
-        "2026-09-04": [
-          {
-            "name": "Bar aberto",
-            "time": null,
-            "description": null
-          }
-        ],
         "2026-09-05": [
           {
             "name": "Bar aberto",
@@ -148,30 +95,6 @@
       "bairro": "Seminário",
       "cat": "Gourmet",
       "events": {
-        "2026-09-03": [
-          {
-            "name": "Hawks",
-            "time": null,
-            "description": null
-          },
-          {
-            "name": "Hotel Hell",
-            "time": null,
-            "description": null
-          }
-        ],
-        "2026-09-04": [
-          {
-            "name": "Pir�mide em Marte",
-            "time": null,
-            "description": null
-          },
-          {
-            "name": "Válvula Vapor",
-            "time": null,
-            "description": null
-          }
-        ],
         "2026-09-05": [
           {
             "name": "Esquadrão",
@@ -266,13 +189,6 @@
             "time": "23:30:00Z",
             "description": null
           }
-        ],
-        "2026-09-04": [
-          {
-            "name": "Mundo encantado 2000",
-            "time": null,
-            "description": null
-          }
         ]
       }
     },
@@ -281,15 +197,7 @@
       "ig": "https://www.instagram.com/bloodrockbar/",
       "bairro": "São Francisco",
       "cat": "Palco e Show",
-      "events": {
-        "2026-09-06": [
-          {
-            "name": "Double Deck toca The Cure, Smiths, Joy Division, Sisters of Mercy, The Mission,",
-            "time": "22:00:00.000Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Seb's Rock Bar",
@@ -324,15 +232,7 @@
       "ig": "https://www.instagram.com/armazemgaragem/",
       "bairro": "Santo Inácio",
       "cat": "Raiz",
-      "events": {
-        "2026-09-04": [
-          {
-            "name": "Garagem Flashback com DJ Jeison Sales",
-            "time": null,
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Old Jack",
@@ -347,20 +247,6 @@
       "bairro": "Bacacheri",
       "cat": "Raiz",
       "events": {
-        "2026-09-03": [
-          {
-            "name": "Banda Válvula",
-            "time": "20:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-09-04": [
-          {
-            "name": "Banda Válvula",
-            "time": "20:00:00Z",
-            "description": null
-          }
-        ],
         "2026-09-05": [
           {
             "name": "Banda Válvula",
