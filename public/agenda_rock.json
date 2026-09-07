@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-05T12:42:19.469Z",
-  "week_start": "2026-09-05",
+  "updated_at": "2026-09-07T15:03:36.710Z",
+  "week_start": "2026-09-07",
   "model": "gemini-2.5-flash",
   "venues": [
     {
@@ -15,15 +15,7 @@
       "ig": "https://www.instagram.com/barcrossroads/",
       "bairro": "Água Verde",
       "cat": "Gourmet",
-      "events": {
-        "2026-09-05": [
-          {
-            "name": "FLASH N\nBACK + CANDYMAN CLUB",
-            "time": "20:00:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Hard Rock",
@@ -51,36 +43,7 @@
       "ig": "https://www.instagram.com/bardamaniacs/",
       "bairro": "Cabral",
       "cat": "Gourmet",
-      "events": {
-        "2026-09-05": [
-          {
-            "name": "Bar aberto",
-            "time": null,
-            "description": null
-          }
-        ],
-        "2026-09-06": [
-          {
-            "name": "Bar aberto",
-            "time": null,
-            "description": null
-          }
-        ],
-        "2026-09-07": [
-          {
-            "name": "Bar aberto",
-            "time": null,
-            "description": null
-          }
-        ],
-        "2026-09-08": [
-          {
-            "name": "Bar aberto",
-            "time": null,
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Rock Pizza",
@@ -95,38 +58,19 @@
       "bairro": "Seminário",
       "cat": "Gourmet",
       "events": {
-        "2026-09-05": [
-          {
-            "name": "Esquadrão",
-            "time": null,
-            "description": null
-          },
-          {
-            "name": "Pennyback",
-            "time": null,
-            "description": null
-          }
-        ],
-        "2026-09-06": [
-          {
-            "name": "Jack Vermouth",
-            "time": null,
-            "description": null
-          },
-          {
-            "name": "Backstage",
-            "time": null,
-            "description": null
-          }
-        ],
         "2026-09-07": [
           {
-            "name": "Plugged",
+            "name": "Plugged (Pop & Rock)",
             "time": null,
             "description": null
           },
           {
-            "name": "Syd Vinicius",
+            "name": "Syd Vinicius (Clássicos do Rock)",
+            "time": null,
+            "description": null
+          },
+          {
+            "name": "Aberto à noite",
             "time": null,
             "description": null
           }
@@ -146,10 +90,10 @@
       "bairro": "Rebouças",
       "cat": "Gourmet",
       "events": {
-        "2026-09-05": [
+        "2026-09-12": [
           {
-            "name": "Candyman Club, Minha Banda é uma Festa, Hus Cage, DJ Adriano",
-            "time": "15:00:00.000000000Z",
+            "name": "Candyman Club e convidados",
+            "time": "15:00:00.000Z",
             "description": null
           },
           {
@@ -175,13 +119,23 @@
       "events": {
         "2026-09-07": [
           {
+            "name": "INVAS�O HARD ROCK",
+            "time": "19:30:00Z",
+            "description": null
+          },
+          {
             "name": "DJ Gilberto",
             "time": "19:30:00Z",
             "description": null
           },
           {
             "name": "Bon Jovi Cover Brasil",
-            "time": "21:30:00Z",
+            "time": "21:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Silvermoon Rock",
+            "time": "23:00:00Z",
             "description": null
           },
           {
@@ -232,7 +186,15 @@
       "ig": "https://www.instagram.com/armazemgaragem/",
       "bairro": "Santo Inácio",
       "cat": "Raiz",
-      "events": {}
+      "events": {
+        "2026-09-11": [
+          {
+            "name": "Garagem Flashback com DJ Jeison Sales",
+            "time": "18:00:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Old Jack",
@@ -246,43 +208,7 @@
       "ig": "https://www.instagram.com/theanimalspub/",
       "bairro": "Bacacheri",
       "cat": "Raiz",
-      "events": {
-        "2026-09-05": [
-          {
-            "name": "Banda Válvula",
-            "time": "20:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-09-06": [
-          {
-            "name": "Banda Válvula",
-            "time": "20:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-09-07": [
-          {
-            "name": "Banda Válvula",
-            "time": "20:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-09-08": [
-          {
-            "name": "Banda Válvula",
-            "time": "20:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-09-09": [
-          {
-            "name": "Banda Válvula",
-            "time": "20:00:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "92 Graus",
