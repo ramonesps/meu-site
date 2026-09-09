@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-07T15:03:36.710Z",
-  "week_start": "2026-09-07",
+  "updated_at": "2026-09-09T13:44:10.514Z",
+  "week_start": "2026-09-09",
   "model": "gemini-2.5-flash",
   "venues": [
     {
@@ -8,7 +8,68 @@
       "ig": "https://www.instagram.com/wearebastardspub/",
       "bairro": "Água Verde",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-09-09": [
+          {
+            "name": "Dia Mundial do Bacon",
+            "time": "18:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Léo e Duda Vaz",
+            "time": "20:20:00Z",
+            "description": null
+          }
+        ],
+        "2026-09-10": [
+          {
+            "name": "Dia Mundial do Bacon",
+            "time": "18:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Moonshine",
+            "time": "20:20:00Z",
+            "description": null
+          }
+        ],
+        "2026-09-11": [
+          {
+            "name": "Dia Mundial do Bacon",
+            "time": "18:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Rusty Cage Trio",
+            "time": "20:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Crimson Bull Rising",
+            "time": "22:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-09-12": [
+          {
+            "name": "Dia Mundial do Bacon",
+            "time": "18:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Lenhadores da Antártida",
+            "time": "21:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-09-15": [
+          {
+            "name": "Dia Mundial do Bacon",
+            "time": "18:00:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Cross Roads",
@@ -22,7 +83,15 @@
       "ig": "https://www.instagram.com/hrccuritiba/",
       "bairro": "Batel",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-09-11": [
+          {
+            "name": "Tributo a Freddie Mercury com Lord Krony",
+            "time": null,
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Sheridans",
@@ -36,7 +105,58 @@
       "ig": "https://www.instagram.com/bardafabricabastards/",
       "bairro": "Bom Retiro",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-09-09": [
+          {
+            "name": "Emerson Caruso",
+            "time": "19:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-09-10": [
+          {
+            "name": "Code Fire",
+            "time": "19:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-09-11": [
+          {
+            "name": "Banda Hawks",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-09-12": [
+          {
+            "name": "Gilbert Braga Duo",
+            "time": "16:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Double Deck",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-09-13": [
+          {
+            "name": "Luciano Vieira",
+            "time": null,
+            "description": null
+          },
+          {
+            "name": "Lady Die",
+            "time": null,
+            "description": null
+          },
+          {
+            "name": "Os Caras do Charlie Brown Jr.",
+            "time": null,
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Maniacs",
@@ -57,25 +177,7 @@
       "ig": "https://www.instagram.com/distrito.1340/",
       "bairro": "Seminário",
       "cat": "Gourmet",
-      "events": {
-        "2026-09-07": [
-          {
-            "name": "Plugged (Pop & Rock)",
-            "time": null,
-            "description": null
-          },
-          {
-            "name": "Syd Vinicius (Clássicos do Rock)",
-            "time": null,
-            "description": null
-          },
-          {
-            "name": "Aberto à noite",
-            "time": null,
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Barbarium",
@@ -109,49 +211,70 @@
       "ig": "https://www.instagram.com/jokerspub/",
       "bairro": "Centro",
       "cat": "Gourmet",
-      "events": {}
-    },
-    {
-      "nome": "Tork n' Roll",
-      "ig": "https://www.instagram.com/torkandroll/",
-      "bairro": "Rebouças",
-      "cat": "Palco e Show",
       "events": {
-        "2026-09-07": [
+        "2026-09-09": [
           {
-            "name": "INVAS�O HARD ROCK",
-            "time": "19:30:00Z",
+            "name": "Gipsy Flamenco",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-09-10": [
+          {
+            "name": "Esquilos & Seus Grilos",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-09-11": [
+          {
+            "name": "Especial Billie Eilish + Twenty One Pilots",
+            "time": null,
             "description": null
           },
           {
-            "name": "DJ Gilberto",
-            "time": "19:30:00Z",
+            "name": "Tributo Billie Eilish e Twenty One Pilots com Bella Prado e Banditos CWB",
+            "time": "20:00:00.000Z",
             "description": null
-          },
+          }
+        ],
+        "2026-09-12": [
           {
-            "name": "Bon Jovi Cover Brasil",
+            "name": "Spiders From Bars",
             "time": "21:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Silvermoon Rock",
-            "time": "23:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Silvermoon",
-            "time": "23:30:00Z",
             "description": null
           }
         ]
       }
     },
     {
+      "nome": "Tork n' Roll",
+      "ig": "https://www.instagram.com/torkandroll/",
+      "bairro": "Rebouças",
+      "cat": "Palco e Show",
+      "events": {}
+    },
+    {
       "nome": "Blood Rock",
       "ig": "https://www.instagram.com/bloodrockbar/",
       "bairro": "São Francisco",
       "cat": "Palco e Show",
-      "events": {}
+      "events": {
+        "2026-09-11": [
+          {
+            "name": "HARD ROCK FEELING com Backstage e Siriusfall",
+            "time": "21:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-09-12": [
+          {
+            "name": "NEW METAL INFECTION com Burn.in.out e Concert BR",
+            "time": "21:30:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Seb's Rock Bar",
