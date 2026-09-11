@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-09T13:44:10.514Z",
-  "week_start": "2026-09-09",
+  "updated_at": "2026-09-11T13:30:45.868Z",
+  "week_start": "2026-09-11",
   "model": "gemini-2.5-flash",
   "venues": [
     {
@@ -9,30 +9,6 @@
       "bairro": "Água Verde",
       "cat": "Gourmet",
       "events": {
-        "2026-09-09": [
-          {
-            "name": "Dia Mundial do Bacon",
-            "time": "18:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Léo e Duda Vaz",
-            "time": "20:20:00Z",
-            "description": null
-          }
-        ],
-        "2026-09-10": [
-          {
-            "name": "Dia Mundial do Bacon",
-            "time": "18:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Moonshine",
-            "time": "20:20:00Z",
-            "description": null
-          }
-        ],
         "2026-09-11": [
           {
             "name": "Dia Mundial do Bacon",
@@ -76,7 +52,29 @@
       "ig": "https://www.instagram.com/barcrossroads/",
       "bairro": "Água Verde",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-09-11": [
+          {
+            "name": "The Black Crowes Experience, The Elder e Syd Vinicius",
+            "time": "20:00:00.000000000Z",
+            "description": null
+          }
+        ],
+        "2026-09-12": [
+          {
+            "name": "Bon Jovi Cover Brasil e Backstage",
+            "time": "20:00:00.000000000Z",
+            "description": null
+          }
+        ],
+        "2026-09-17": [
+          {
+            "name": "Especial The Beatles e The Rolling Stones",
+            "time": "19:00:00.000Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Hard Rock",
@@ -106,20 +104,6 @@
       "bairro": "Bom Retiro",
       "cat": "Gourmet",
       "events": {
-        "2026-09-09": [
-          {
-            "name": "Emerson Caruso",
-            "time": "19:30:00Z",
-            "description": null
-          }
-        ],
-        "2026-09-10": [
-          {
-            "name": "Code Fire",
-            "time": "19:30:00Z",
-            "description": null
-          }
-        ],
         "2026-09-11": [
           {
             "name": "Banda Hawks",
@@ -177,7 +161,34 @@
       "ig": "https://www.instagram.com/distrito.1340/",
       "bairro": "Seminário",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-09-11": [
+          {
+            "name": "Vini Moreno e Banda",
+            "time": "22:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-09-12": [
+          {
+            "name": "Dama",
+            "time": "21:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Rádio Vinil",
+            "time": "00:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-09-13": [
+          {
+            "name": "Offspring Cover Brasil",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Barbarium",
@@ -194,8 +205,8 @@
       "events": {
         "2026-09-12": [
           {
-            "name": "Candyman Club e convidados",
-            "time": "15:00:00.000Z",
+            "name": "Show Candyman Club e atrações - Anos 80 e 90",
+            "time": "15:00:00Z",
             "description": null
           },
           {
@@ -212,20 +223,6 @@
       "bairro": "Centro",
       "cat": "Gourmet",
       "events": {
-        "2026-09-09": [
-          {
-            "name": "Gipsy Flamenco",
-            "time": null,
-            "description": null
-          }
-        ],
-        "2026-09-10": [
-          {
-            "name": "Esquilos & Seus Grilos",
-            "time": null,
-            "description": null
-          }
-        ],
         "2026-09-11": [
           {
             "name": "Especial Billie Eilish + Twenty One Pilots",
@@ -252,7 +249,25 @@
       "ig": "https://www.instagram.com/torkandroll/",
       "bairro": "Rebouças",
       "cat": "Palco e Show",
-      "events": {}
+      "events": {
+        "2026-09-12": [
+          {
+            "name": "STILL EIGHTENN",
+            "time": "20:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Legião Urbana cover/ Sérgio Ramos",
+            "time": "22:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Candyman Club",
+            "time": "00:30:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Blood Rock",
@@ -312,8 +327,8 @@
       "events": {
         "2026-09-11": [
           {
-            "name": "Garagem Flashback com DJ Jeison Sales",
-            "time": "18:00:00Z",
+            "name": "Uma Noite Du Chapéu! Rodrigo Haddad, Pure Country Band e Black Bulls",
+            "time": "18:00:00.000Z",
             "description": null
           }
         ]
