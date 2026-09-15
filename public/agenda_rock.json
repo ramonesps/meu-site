@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-13T14:10:18.641Z",
-  "week_start": "2026-09-13",
+  "updated_at": "2026-09-15T14:22:36.298Z",
+  "week_start": "2026-09-15",
   "model": "gemini-2.5-flash",
   "venues": [
     {
@@ -16,10 +16,24 @@
       "bairro": "Água Verde",
       "cat": "Gourmet",
       "events": {
+        "2026-09-20": [
+          {
+            "name": "Thunder Generations",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-09-19": [
+          {
+            "name": "Tributo Bon Jovi com Bon Jovi Cover Brasil e Backstage Tributos",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ],
         "2026-09-17": [
           {
             "name": "Especial The Beatles e The Rolling Stones",
-            "time": "19:00:00.000Z",
+            "time": "19:00:00.000000000Z",
             "description": null
           }
         ]
@@ -30,20 +44,7 @@
       "ig": "https://www.instagram.com/hrccuritiba/",
       "bairro": "Batel",
       "cat": "Gourmet",
-      "events": {
-        "2026-09-13": [
-          {
-            "name": "GUI VIANA",
-            "time": "12:30:00Z",
-            "description": null
-          },
-          {
-            "name": "CLUBE DOS 27",
-            "time": "19:30:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Sheridans",
@@ -78,15 +79,7 @@
       "ig": "https://www.instagram.com/distrito.1340/",
       "bairro": "Seminário",
       "cat": "Gourmet",
-      "events": {
-        "2026-09-13": [
-          {
-            "name": "Offspring Cover Brasil",
-            "time": "20:00:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Barbarium",
@@ -100,7 +93,20 @@
       "ig": "https://www.instagram.com/dobruckibar/",
       "bairro": "Rebouças",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-09-19": [
+          {
+            "name": "Música ao vivo",
+            "time": null,
+            "description": null
+          },
+          {
+            "name": "Candyman Club e convidados",
+            "time": "15:00:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Jokers",
@@ -114,7 +120,37 @@
       "ig": "https://www.instagram.com/torkandroll/",
       "bairro": "Rebouças",
       "cat": "Palco e Show",
-      "events": {}
+      "events": {
+        "2026-09-18": [
+          {
+            "name": "LEEVRE DUO ESPECIAL RITA LEE + BRASILIDADES",
+            "time": "20:20:00Z",
+            "description": null
+          },
+          {
+            "name": "A VOZ DO RAUL Tony Gambel TRIBUTO A RAUL SEIXAS",
+            "time": "22:30:00Z",
+            "description": null
+          },
+          {
+            "name": "BACKSTAGE TRIBUTOS",
+            "time": "00:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-09-19": [
+          {
+            "name": "FESTA YOU CAN DANCE DJ Raffa Brook",
+            "time": "21:30:00Z",
+            "description": null
+          },
+          {
+            "name": "BANDA FLASH N BACK",
+            "time": "00:30:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Blood Rock",
@@ -128,7 +164,15 @@
       "ig": "https://www.instagram.com/sebas_rock_bar/",
       "bairro": "Boqueirão",
       "cat": "Palco e Show",
-      "events": {}
+      "events": {
+        "2026-09-19": [
+          {
+            "name": "TIKO\nS GROOVE e Guto Loureiro",
+            "time": null,
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Belvedere",
@@ -149,22 +193,22 @@
       "ig": "https://www.instagram.com/clayhighway/",
       "bairro": "Capão Raso",
       "cat": "Raiz",
-      "events": {
-        "2026-09-13": [
-          {
-            "name": "Curitiba Autoral Lab",
-            "time": null,
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Armazém Garage",
       "ig": "https://www.instagram.com/armazemgaragem/",
       "bairro": "Santo Inácio",
       "cat": "Raiz",
-      "events": {}
+      "events": {
+        "2026-09-18": [
+          {
+            "name": "Rock Brasília: Legião Urbana e Cazuza Cover",
+            "time": "21:00:00.000000000Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Old Jack",
@@ -178,7 +222,50 @@
       "ig": "https://www.instagram.com/theanimalspub/",
       "bairro": "Bacacheri",
       "cat": "Raiz",
-      "events": {}
+      "events": {
+        "2026-09-15": [
+          {
+            "name": "Rock N' Roll com Banda V8",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-09-16": [
+          {
+            "name": "Rock N' Roll com Banda V8",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-09-17": [
+          {
+            "name": "Rock N' Roll com Banda V8",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-09-18": [
+          {
+            "name": "Rock N' Roll com Banda V8",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-09-19": [
+          {
+            "name": "Rock N' Roll com Banda V8",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-09-20": [
+          {
+            "name": "Rock N' Roll com Banda V8",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "92 Graus",
