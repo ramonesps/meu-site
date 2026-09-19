@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-17T14:19:54.610Z",
-  "week_start": "2026-09-17",
+  "updated_at": "2026-09-19T13:06:53.943Z",
+  "week_start": "2026-09-19",
   "model": "gemini-2.5-flash",
   "venues": [
     {
@@ -26,22 +26,70 @@
       "events": {
         "2026-09-20": [
           {
-            "name": "Thunder Generations",
+            "name": "Thunderstruck Generations: FIRECRACKER",
+            "time": "16:00:00.000000000Z",
+            "description": null
+          },
+          {
+            "name": "Thunderstruck Generations: ENGENHEIROS DO HAWAII COVER CURITIBA",
+            "time": "18:00:00.000000000Z",
+            "description": null
+          },
+          {
+            "name": "Thunderstruck Generations: LENHADORES DA ANTÁRTIDA",
+            "time": "20:00:00.000000000Z",
+            "description": null
+          },
+          {
+            "name": "Thunderstruck Generations: HONEY, R U COMING?",
+            "time": "17:30:00.000000000Z",
+            "description": null
+          },
+          {
+            "name": "Thunderstruck Generations: REPÚBLICA PINE",
+            "time": "19:30:00.000000000Z",
+            "description": null
+          },
+          {
+            "name": "Thunderstruck Generations: SONORA 4",
+            "time": "18:00:00.000000000Z",
+            "description": null
+          },
+          {
+            "name": "Thunderstruck Generations: RADIOPHONICS",
+            "time": "20:00:00.000000000Z",
+            "description": null
+          },
+          {
+            "name": "Thunderstruck Generations: BACKSTAGE",
+            "time": "22:00:00.000000000Z",
+            "description": null
+          },
+          {
+            "name": "Thunderstruck Generations: PHELL BERQUO",
+            "time": "18:00:00.000000000Z",
+            "description": null
+          },
+          {
+            "name": "Thunderstruck Generations: PHELL B2B DOUBLE",
+            "time": "19:30:00.000000000Z",
+            "description": null
+          },
+          {
+            "name": "Thunderstruck Generations: DOUBLE",
+            "time": "20:30:00.000000000Z",
+            "description": null
+          },
+          {
+            "name": "THUNDERSTRUCK GENERATIONS + Crosshouse",
             "time": null,
             "description": null
           }
         ],
         "2026-09-19": [
           {
-            "name": "Tributo Bon Jovi com Bon Jovi Cover Brasil e Backstage Tributos",
+            "name": "MILKNBLUES e NEGA FULÓ",
             "time": "20:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-09-17": [
-          {
-            "name": "Especial The Beatles e The Rolling Stones",
-            "time": "19:00:00.000000000Z",
             "description": null
           }
         ]
@@ -53,20 +101,6 @@
       "bairro": "Batel",
       "cat": "Gourmet",
       "events": {
-        "2026-09-17": [
-          {
-            "name": "Moonshine",
-            "time": "19:30:00Z",
-            "description": null
-          }
-        ],
-        "2026-09-18": [
-          {
-            "name": "Capitão Tequila",
-            "time": "19:30:00Z",
-            "description": null
-          }
-        ],
         "2026-09-19": [
           {
             "name": "Banda Teoria Quatro",
@@ -134,7 +168,27 @@
       "ig": "https://www.instagram.com/distrito.1340/",
       "bairro": "Seminário",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-09-19": [
+          {
+            "name": "Fusão 80",
+            "time": "21:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Válvula",
+            "time": "00:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-09-20": [
+          {
+            "name": "Syd Vinicius",
+            "time": "21:00:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Barbarium",
@@ -151,13 +205,13 @@
       "events": {
         "2026-09-19": [
           {
-            "name": "Música ao vivo",
-            "time": null,
+            "name": "Noite anos 80 e 90 com Candyman Club e mais",
+            "time": "15:00:00Z",
             "description": null
           },
           {
-            "name": "Candyman Club e convidados",
-            "time": "15:00:00Z",
+            "name": "Música ao vivo",
+            "time": null,
             "description": null
           }
         ]
@@ -176,32 +230,27 @@
       "bairro": "Rebouças",
       "cat": "Palco e Show",
       "events": {
-        "2026-09-18": [
-          {
-            "name": "LEEVRE DUO ESPECIAL RITA LEE + BRASILIDADES",
-            "time": "20:20:00Z",
-            "description": null
-          },
-          {
-            "name": "A VOZ DO RAUL Tony Gambel TRIBUTO A RAUL SEIXAS",
-            "time": "22:30:00Z",
-            "description": null
-          },
-          {
-            "name": "BACKSTAGE TRIBUTOS",
-            "time": "00:30:00Z",
-            "description": null
-          }
-        ],
         "2026-09-19": [
           {
-            "name": "FESTA YOU CAN DANCE DJ Raffa Brook",
+            "name": "Festa You Can Dance",
             "time": "21:30:00Z",
             "description": null
           },
           {
-            "name": "BANDA FLASH N BACK",
+            "name": "Banda Flash N Back",
             "time": "00:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Festa You Can Dance com Kaffa Brook e RELLS 360\b",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-09-25": [
+          {
+            "name": "We Love Anos 90s + Bregaboys 2000",
+            "time": "21:00:00Z",
             "description": null
           }
         ]
@@ -230,7 +279,12 @@
       "events": {
         "2026-09-19": [
           {
-            "name": "TIKO\nS GROOVE e Guto Loureiro",
+            "name": "TIKO’S GROOVE",
+            "time": null,
+            "description": null
+          },
+          {
+            "name": "Guto Loureiro",
             "time": null,
             "description": null
           }
@@ -263,15 +317,7 @@
       "ig": "https://www.instagram.com/armazemgaragem/",
       "bairro": "Santo Inácio",
       "cat": "Raiz",
-      "events": {
-        "2026-09-18": [
-          {
-            "name": "Rock Brasília: Legião Urbana e Cazuza Cover",
-            "time": "21:00:00.000000000Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Old Jack",
@@ -285,36 +331,7 @@
       "ig": "https://www.instagram.com/theanimalspub/",
       "bairro": "Bacacheri",
       "cat": "Raiz",
-      "events": {
-        "2026-09-17": [
-          {
-            "name": "Rock N' Roll com Banda V8",
-            "time": "20:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-09-18": [
-          {
-            "name": "Rock N' Roll com Banda V8",
-            "time": "20:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-09-19": [
-          {
-            "name": "Rock N' Roll com Banda V8",
-            "time": "20:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-09-20": [
-          {
-            "name": "Rock N' Roll com Banda V8",
-            "time": "20:00:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "92 Graus",
