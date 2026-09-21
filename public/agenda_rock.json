@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-19T13:06:53.943Z",
-  "week_start": "2026-09-19",
+  "updated_at": "2026-09-21T16:03:34.500Z",
+  "week_start": "2026-09-21",
   "model": "gemini-2.5-flash",
   "venues": [
     {
@@ -9,10 +9,20 @@
       "bairro": "Água Verde",
       "cat": "Gourmet",
       "events": {
-        "2026-09-19": [
+        "2026-09-26": [
           {
-            "name": "Lenhadores da Antártida",
-            "time": "18:00:00.000Z",
+            "name": "Vira-Latas na Pista com Lady Die",
+            "time": null,
+            "description": null
+          },
+          {
+            "name": "Vira-Latas na Pista: O Pouso da Nave com Lady Die e Super Saiyajeans",
+            "time": null,
+            "description": null
+          },
+          {
+            "name": "Vira-Latas na Pista: O Pouso da Nave",
+            "time": null,
             "description": null
           }
         ]
@@ -23,109 +33,14 @@
       "ig": "https://www.instagram.com/barcrossroads/",
       "bairro": "Água Verde",
       "cat": "Gourmet",
-      "events": {
-        "2026-09-20": [
-          {
-            "name": "Thunderstruck Generations: FIRECRACKER",
-            "time": "16:00:00.000000000Z",
-            "description": null
-          },
-          {
-            "name": "Thunderstruck Generations: ENGENHEIROS DO HAWAII COVER CURITIBA",
-            "time": "18:00:00.000000000Z",
-            "description": null
-          },
-          {
-            "name": "Thunderstruck Generations: LENHADORES DA ANTÁRTIDA",
-            "time": "20:00:00.000000000Z",
-            "description": null
-          },
-          {
-            "name": "Thunderstruck Generations: HONEY, R U COMING?",
-            "time": "17:30:00.000000000Z",
-            "description": null
-          },
-          {
-            "name": "Thunderstruck Generations: REPÚBLICA PINE",
-            "time": "19:30:00.000000000Z",
-            "description": null
-          },
-          {
-            "name": "Thunderstruck Generations: SONORA 4",
-            "time": "18:00:00.000000000Z",
-            "description": null
-          },
-          {
-            "name": "Thunderstruck Generations: RADIOPHONICS",
-            "time": "20:00:00.000000000Z",
-            "description": null
-          },
-          {
-            "name": "Thunderstruck Generations: BACKSTAGE",
-            "time": "22:00:00.000000000Z",
-            "description": null
-          },
-          {
-            "name": "Thunderstruck Generations: PHELL BERQUO",
-            "time": "18:00:00.000000000Z",
-            "description": null
-          },
-          {
-            "name": "Thunderstruck Generations: PHELL B2B DOUBLE",
-            "time": "19:30:00.000000000Z",
-            "description": null
-          },
-          {
-            "name": "Thunderstruck Generations: DOUBLE",
-            "time": "20:30:00.000000000Z",
-            "description": null
-          },
-          {
-            "name": "THUNDERSTRUCK GENERATIONS + Crosshouse",
-            "time": null,
-            "description": null
-          }
-        ],
-        "2026-09-19": [
-          {
-            "name": "MILKNBLUES e NEGA FULÓ",
-            "time": "20:00:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Hard Rock",
       "ig": "https://www.instagram.com/hrccuritiba/",
       "bairro": "Batel",
       "cat": "Gourmet",
-      "events": {
-        "2026-09-19": [
-          {
-            "name": "Banda Teoria Quatro",
-            "time": "12:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Pennyback",
-            "time": "19:30:00Z",
-            "description": null
-          }
-        ],
-        "2026-09-20": [
-          {
-            "name": "Franboesa",
-            "time": "12:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Mestres do Violão",
-            "time": "19:30:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Sheridans",
@@ -139,15 +54,7 @@
       "ig": "https://www.instagram.com/bardafabricabastards/",
       "bairro": "Bom Retiro",
       "cat": "Gourmet",
-      "events": {
-        "2026-09-19": [
-          {
-            "name": "Almoço, chope e música ao vivo",
-            "time": "12:00:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Maniacs",
@@ -161,34 +68,43 @@
       "ig": "https://www.instagram.com/rockpizzaroll.bar/",
       "bairro": "Rebouças",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-09-23": [
+          {
+            "name": "Rock Acústico com Banda Válvula",
+            "time": "20:00:00.000000000Z",
+            "description": null
+          }
+        ],
+        "2026-09-24": [
+          {
+            "name": "Rock Clássico com Banda The One",
+            "time": "20:00:00.000000000Z",
+            "description": null
+          }
+        ],
+        "2026-09-25": [
+          {
+            "name": "Rock Nacional com Banda Legião Urbana Cover",
+            "time": "20:00:00.000000000Z",
+            "description": null
+          }
+        ],
+        "2026-09-26": [
+          {
+            "name": "Rock Internacional com Banda Queen Cover",
+            "time": "20:00:00.000000000Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Distrito 1340",
       "ig": "https://www.instagram.com/distrito.1340/",
       "bairro": "Seminário",
       "cat": "Gourmet",
-      "events": {
-        "2026-09-19": [
-          {
-            "name": "Fusão 80",
-            "time": "21:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Válvula",
-            "time": "00:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-09-20": [
-          {
-            "name": "Syd Vinicius",
-            "time": "21:00:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Barbarium",
@@ -202,15 +118,45 @@
       "ig": "https://www.instagram.com/dobruckibar/",
       "bairro": "Rebouças",
       "cat": "Gourmet",
+      "events": {}
+    },
+    {
+      "nome": "Jokers",
+      "ig": "https://www.instagram.com/jokerspub/",
+      "bairro": "Centro",
+      "cat": "Gourmet",
       "events": {
-        "2026-09-19": [
+        "2026-09-22": [
           {
-            "name": "Noite anos 80 e 90 com Candyman Club e mais",
-            "time": "15:00:00Z",
+            "name": "Viagem Terra Média",
+            "time": null,
             "description": null
-          },
+          }
+        ],
+        "2026-09-23": [
           {
-            "name": "Música ao vivo",
+            "name": "Roque o Mascate",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-09-24": [
+          {
+            "name": "Dandones Duo",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-09-25": [
+          {
+            "name": "Repudiyo + Hillbilly Rawhide",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-09-26": [
+          {
+            "name": "Joecrow + Seasons",
             "time": null,
             "description": null
           }
@@ -218,35 +164,11 @@
       }
     },
     {
-      "nome": "Jokers",
-      "ig": "https://www.instagram.com/jokerspub/",
-      "bairro": "Centro",
-      "cat": "Gourmet",
-      "events": {}
-    },
-    {
       "nome": "Tork n' Roll",
       "ig": "https://www.instagram.com/torkandroll/",
       "bairro": "Rebouças",
       "cat": "Palco e Show",
       "events": {
-        "2026-09-19": [
-          {
-            "name": "Festa You Can Dance",
-            "time": "21:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Banda Flash N Back",
-            "time": "00:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Festa You Can Dance com Kaffa Brook e RELLS 360\b",
-            "time": null,
-            "description": null
-          }
-        ],
         "2026-09-25": [
           {
             "name": "We Love Anos 90s + Bregaboys 2000",
@@ -262,7 +184,14 @@
       "bairro": "São Francisco",
       "cat": "Palco e Show",
       "events": {
-        "2026-09-19": [
+        "2026-09-25": [
+          {
+            "name": "Avril Lavigne Experience",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-09-26": [
           {
             "name": "Avril Lavigne Experience",
             "time": null,
@@ -276,20 +205,7 @@
       "ig": "https://www.instagram.com/sebas_rock_bar/",
       "bairro": "Boqueirão",
       "cat": "Palco e Show",
-      "events": {
-        "2026-09-19": [
-          {
-            "name": "TIKO’S GROOVE",
-            "time": null,
-            "description": null
-          },
-          {
-            "name": "Guto Loureiro",
-            "time": null,
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Belvedere",
