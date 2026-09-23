@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-21T16:03:34.500Z",
-  "week_start": "2026-09-21",
+  "updated_at": "2026-09-23T14:21:58.944Z",
+  "week_start": "2026-09-23",
   "model": "gemini-2.5-flash",
   "venues": [
     {
@@ -33,7 +33,27 @@
       "ig": "https://www.instagram.com/barcrossroads/",
       "bairro": "Água Verde",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-09-24": [
+          {
+            "name": "Jelly Roll: Jazz, blues e temas de filmes",
+            "time": "19:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-09-25": [
+          {
+            "name": "Circles: Especial Incubus + Kings of Leon",
+            "time": "20:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Pennyback: Post-Grunge, Creed + Nickelback",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Hard Rock",
@@ -61,7 +81,57 @@
       "ig": "https://www.instagram.com/bardamaniacs/",
       "bairro": "Cabral",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-09-23": [
+          {
+            "name": "Tap List",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-09-24": [
+          {
+            "name": "Tap List",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-09-25": [
+          {
+            "name": "Tap List",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-09-26": [
+          {
+            "name": "Tap List",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-09-27": [
+          {
+            "name": "Tap List",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-09-28": [
+          {
+            "name": "Tap List",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-09-29": [
+          {
+            "name": "Tap List",
+            "time": null,
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Rock Pizza",
@@ -104,7 +174,66 @@
       "ig": "https://www.instagram.com/distrito.1340/",
       "bairro": "Seminário",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-09-24": [
+          {
+            "name": "Firecracker",
+            "time": "19:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Radiophonics",
+            "time": "22:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-09-25": [
+          {
+            "name": "Sonora 4",
+            "time": "21:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Long Field",
+            "time": "00:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-09-26": [
+          {
+            "name": "Esquadrão Flash Hitz + Fusão 80",
+            "time": "21:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Candyman Club",
+            "time": "00:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Backstage Tributos",
+            "time": "21:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Candyman Clube",
+            "time": "00:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-09-27": [
+          {
+            "name": "Lets Core",
+            "time": "19:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Magavaires - Especial Ramones",
+            "time": "22:30:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Barbarium",
@@ -118,7 +247,20 @@
       "ig": "https://www.instagram.com/dobruckibar/",
       "bairro": "Rebouças",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-09-26": [
+          {
+            "name": "Show anos 80 e 90 com Candyman Club e convidados",
+            "time": "15:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Música ao vivo",
+            "time": null,
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Jokers",
@@ -126,13 +268,6 @@
       "bairro": "Centro",
       "cat": "Gourmet",
       "events": {
-        "2026-09-22": [
-          {
-            "name": "Viagem Terra Média",
-            "time": null,
-            "description": null
-          }
-        ],
         "2026-09-23": [
           {
             "name": "Roque o Mascate",
@@ -171,8 +306,47 @@
       "events": {
         "2026-09-25": [
           {
-            "name": "We Love Anos 90s + Bregaboys 2000",
+            "name": "We Love Anos 90s",
             "time": "21:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Bregaboys",
+            "time": "21:00:00Z",
+            "description": null
+          },
+          {
+            "name": "DJ Luc Cabral",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-09-26": [
+          {
+            "name": "DJ Frá",
+            "time": "20:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Djambi",
+            "time": "22:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Dazaranha",
+            "time": "00:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-09-27": [
+          {
+            "name": "LEALL",
+            "time": null,
+            "description": null
+          },
+          {
+            "name": "2ZDinizz",
+            "time": null,
             "description": null
           }
         ]
@@ -205,7 +379,15 @@
       "ig": "https://www.instagram.com/sebas_rock_bar/",
       "bairro": "Boqueirão",
       "cat": "Palco e Show",
-      "events": {}
+      "events": {
+        "2026-09-26": [
+          {
+            "name": "DJs Kleber Barry e Fábio San",
+            "time": null,
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Belvedere",
