@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-23T14:21:58.944Z",
-  "week_start": "2026-09-23",
+  "updated_at": "2026-09-25T14:42:01.721Z",
+  "week_start": "2026-09-25",
   "model": "gemini-2.5-flash",
   "venues": [
     {
@@ -11,18 +11,30 @@
       "events": {
         "2026-09-26": [
           {
-            "name": "Vira-Latas na Pista com Lady Die",
-            "time": null,
-            "description": null
-          },
-          {
-            "name": "Vira-Latas na Pista: O Pouso da Nave com Lady Die e Super Saiyajeans",
+            "name": "O Pouso da Nave com Super Saiyajeans",
             "time": null,
             "description": null
           },
           {
             "name": "Vira-Latas na Pista: O Pouso da Nave",
             "time": null,
+            "description": null
+          },
+          {
+            "name": "VIRA-LATAS NA PISTA: O POUSO DA NAVE com SUPER SAYIAJEANS e LADY DIE",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-09-25": [
+          {
+            "name": "VÁLVULA VAPOR",
+            "time": "20:00:00Z",
+            "description": null
+          },
+          {
+            "name": "CANDYMAN CLUB",
+            "time": "22:30:00Z",
             "description": null
           }
         ]
@@ -34,13 +46,6 @@
       "bairro": "Água Verde",
       "cat": "Gourmet",
       "events": {
-        "2026-09-24": [
-          {
-            "name": "Jelly Roll: Jazz, blues e temas de filmes",
-            "time": "19:30:00Z",
-            "description": null
-          }
-        ],
         "2026-09-25": [
           {
             "name": "Circles: Especial Incubus + Kings of Leon",
@@ -74,7 +79,34 @@
       "ig": "https://www.instagram.com/bardafabricabastards/",
       "bairro": "Bom Retiro",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-09-25": [
+          {
+            "name": "ANACRÔNICA",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-09-26": [
+          {
+            "name": "GOLDEN ROCK DUO",
+            "time": "16:00:00Z",
+            "description": null
+          },
+          {
+            "name": "CRIMSON BULL RISING",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-09-27": [
+          {
+            "name": "DUO & FAMIGLIA",
+            "time": "16:00:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Maniacs",
@@ -82,20 +114,6 @@
       "bairro": "Cabral",
       "cat": "Gourmet",
       "events": {
-        "2026-09-23": [
-          {
-            "name": "Tap List",
-            "time": null,
-            "description": null
-          }
-        ],
-        "2026-09-24": [
-          {
-            "name": "Tap List",
-            "time": null,
-            "description": null
-          }
-        ],
         "2026-09-25": [
           {
             "name": "Tap List",
@@ -138,36 +156,7 @@
       "ig": "https://www.instagram.com/rockpizzaroll.bar/",
       "bairro": "Rebouças",
       "cat": "Gourmet",
-      "events": {
-        "2026-09-23": [
-          {
-            "name": "Rock Acústico com Banda Válvula",
-            "time": "20:00:00.000000000Z",
-            "description": null
-          }
-        ],
-        "2026-09-24": [
-          {
-            "name": "Rock Clássico com Banda The One",
-            "time": "20:00:00.000000000Z",
-            "description": null
-          }
-        ],
-        "2026-09-25": [
-          {
-            "name": "Rock Nacional com Banda Legião Urbana Cover",
-            "time": "20:00:00.000000000Z",
-            "description": null
-          }
-        ],
-        "2026-09-26": [
-          {
-            "name": "Rock Internacional com Banda Queen Cover",
-            "time": "20:00:00.000000000Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Distrito 1340",
@@ -175,18 +164,6 @@
       "bairro": "Seminário",
       "cat": "Gourmet",
       "events": {
-        "2026-09-24": [
-          {
-            "name": "Firecracker",
-            "time": "19:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Radiophonics",
-            "time": "22:30:00Z",
-            "description": null
-          }
-        ],
         "2026-09-25": [
           {
             "name": "Sonora 4",
@@ -268,30 +245,16 @@
       "bairro": "Centro",
       "cat": "Gourmet",
       "events": {
-        "2026-09-23": [
+        "2026-09-26": [
           {
-            "name": "Roque o Mascate",
-            "time": null,
-            "description": null
-          }
-        ],
-        "2026-09-24": [
-          {
-            "name": "Dandones Duo",
-            "time": null,
+            "name": "Show com Joecrow e Seasons",
+            "time": "18:00:00Z",
             "description": null
           }
         ],
         "2026-09-25": [
           {
-            "name": "Repudiyo + Hillbilly Rawhide",
-            "time": null,
-            "description": null
-          }
-        ],
-        "2026-09-26": [
-          {
-            "name": "Joecrow + Seasons",
+            "name": "Prato do dia: Pescada Branca com Camarão ao Molho Rosé",
             "time": null,
             "description": null
           }
@@ -360,15 +323,25 @@
       "events": {
         "2026-09-25": [
           {
-            "name": "Avril Lavigne Experience",
+            "name": "NEW METAL INFECTION (Rage Against The Machine Brasil Cover, Eternal, Disturbed C",
             "time": null,
+            "description": null
+          },
+          {
+            "name": "NEW METAL INFECTION com Rage Against The Machine Brasil Cover, Eternal (Evanesce",
+            "time": "21:30:00Z",
             "description": null
           }
         ],
         "2026-09-26": [
           {
-            "name": "Avril Lavigne Experience",
+            "name": "Especial Big 4 (Metallica, Megadeth, Slayer, Anthrax covers)",
             "time": null,
+            "description": null
+          },
+          {
+            "name": "Especial Big 4! Tributo Thrash Metal",
+            "time": "21:00:00.000Z",
             "description": null
           }
         ]
