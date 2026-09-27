@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-25T14:42:01.721Z",
-  "week_start": "2026-09-25",
+  "updated_at": "2026-09-27T14:45:42.412Z",
+  "week_start": "2026-09-27",
   "model": "gemini-2.5-flash",
   "venues": [
     {
@@ -8,37 +8,7 @@
       "ig": "https://www.instagram.com/wearebastardspub/",
       "bairro": "Água Verde",
       "cat": "Gourmet",
-      "events": {
-        "2026-09-26": [
-          {
-            "name": "O Pouso da Nave com Super Saiyajeans",
-            "time": null,
-            "description": null
-          },
-          {
-            "name": "Vira-Latas na Pista: O Pouso da Nave",
-            "time": null,
-            "description": null
-          },
-          {
-            "name": "VIRA-LATAS NA PISTA: O POUSO DA NAVE com SUPER SAYIAJEANS e LADY DIE",
-            "time": null,
-            "description": null
-          }
-        ],
-        "2026-09-25": [
-          {
-            "name": "VÁLVULA VAPOR",
-            "time": "20:00:00Z",
-            "description": null
-          },
-          {
-            "name": "CANDYMAN CLUB",
-            "time": "22:30:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Cross Roads",
@@ -46,15 +16,10 @@
       "bairro": "Água Verde",
       "cat": "Gourmet",
       "events": {
-        "2026-09-25": [
+        "2026-10-01": [
           {
-            "name": "Circles: Especial Incubus + Kings of Leon",
-            "time": "20:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Pennyback: Post-Grunge, Creed + Nickelback",
-            "time": "20:00:00Z",
+            "name": "Quintas Jazz",
+            "time": "18:00:00.000000000Z",
             "description": null
           }
         ]
@@ -80,25 +45,6 @@
       "bairro": "Bom Retiro",
       "cat": "Gourmet",
       "events": {
-        "2026-09-25": [
-          {
-            "name": "ANACRÔNICA",
-            "time": "20:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-09-26": [
-          {
-            "name": "GOLDEN ROCK DUO",
-            "time": "16:00:00Z",
-            "description": null
-          },
-          {
-            "name": "CRIMSON BULL RISING",
-            "time": "20:00:00Z",
-            "description": null
-          }
-        ],
         "2026-09-27": [
           {
             "name": "DUO & FAMIGLIA",
@@ -114,38 +60,10 @@
       "bairro": "Cabral",
       "cat": "Gourmet",
       "events": {
-        "2026-09-25": [
-          {
-            "name": "Tap List",
-            "time": null,
-            "description": null
-          }
-        ],
-        "2026-09-26": [
-          {
-            "name": "Tap List",
-            "time": null,
-            "description": null
-          }
-        ],
         "2026-09-27": [
           {
-            "name": "Tap List",
-            "time": null,
-            "description": null
-          }
-        ],
-        "2026-09-28": [
-          {
-            "name": "Tap List",
-            "time": null,
-            "description": null
-          }
-        ],
-        "2026-09-29": [
-          {
-            "name": "Tap List",
-            "time": null,
+            "name": "Oktoberfest",
+            "time": "11:00:00.000000000Z",
             "description": null
           }
         ]
@@ -164,49 +82,10 @@
       "bairro": "Seminário",
       "cat": "Gourmet",
       "events": {
-        "2026-09-25": [
+        "2026-10-02": [
           {
-            "name": "Sonora 4",
-            "time": "21:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Long Field",
-            "time": "00:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-09-26": [
-          {
-            "name": "Esquadrão Flash Hitz + Fusão 80",
-            "time": "21:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Candyman Club",
-            "time": "00:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Backstage Tributos",
-            "time": "21:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Candyman Clube",
-            "time": "00:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-09-27": [
-          {
-            "name": "Lets Core",
-            "time": "19:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Magavaires - Especial Ramones",
-            "time": "22:30:00Z",
+            "name": "Encontro de Gigantes: Cwb Maiden e Youngs",
+            "time": null,
             "description": null
           }
         ]
@@ -225,15 +104,15 @@
       "bairro": "Rebouças",
       "cat": "Gourmet",
       "events": {
-        "2026-09-26": [
-          {
-            "name": "Show anos 80 e 90 com Candyman Club e convidados",
-            "time": "15:00:00Z",
-            "description": null
-          },
+        "2026-10-03": [
           {
             "name": "Música ao vivo",
             "time": null,
+            "description": null
+          },
+          {
+            "name": "Candyman Club e convidados",
+            "time": "15:00:00Z",
             "description": null
           }
         ]
@@ -244,22 +123,7 @@
       "ig": "https://www.instagram.com/jokerspub/",
       "bairro": "Centro",
       "cat": "Gourmet",
-      "events": {
-        "2026-09-26": [
-          {
-            "name": "Show com Joecrow e Seasons",
-            "time": "18:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-09-25": [
-          {
-            "name": "Prato do dia: Pescada Branca com Camarão ao Molho Rosé",
-            "time": null,
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Tork n' Roll",
@@ -267,48 +131,9 @@
       "bairro": "Rebouças",
       "cat": "Palco e Show",
       "events": {
-        "2026-09-25": [
-          {
-            "name": "We Love Anos 90s",
-            "time": "21:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Bregaboys",
-            "time": "21:00:00Z",
-            "description": null
-          },
-          {
-            "name": "DJ Luc Cabral",
-            "time": null,
-            "description": null
-          }
-        ],
-        "2026-09-26": [
-          {
-            "name": "DJ Frá",
-            "time": "20:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Djambi",
-            "time": "22:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Dazaranha",
-            "time": "00:30:00Z",
-            "description": null
-          }
-        ],
         "2026-09-27": [
           {
-            "name": "LEALL",
-            "time": null,
-            "description": null
-          },
-          {
-            "name": "2ZDinizz",
+            "name": "LEALL + 2ZDinizz",
             "time": null,
             "description": null
           }
@@ -320,47 +145,14 @@
       "ig": "https://www.instagram.com/bloodrockbar/",
       "bairro": "São Francisco",
       "cat": "Palco e Show",
-      "events": {
-        "2026-09-25": [
-          {
-            "name": "NEW METAL INFECTION (Rage Against The Machine Brasil Cover, Eternal, Disturbed C",
-            "time": null,
-            "description": null
-          },
-          {
-            "name": "NEW METAL INFECTION com Rage Against The Machine Brasil Cover, Eternal (Evanesce",
-            "time": "21:30:00Z",
-            "description": null
-          }
-        ],
-        "2026-09-26": [
-          {
-            "name": "Especial Big 4 (Metallica, Megadeth, Slayer, Anthrax covers)",
-            "time": null,
-            "description": null
-          },
-          {
-            "name": "Especial Big 4! Tributo Thrash Metal",
-            "time": "21:00:00.000Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Seb's Rock Bar",
       "ig": "https://www.instagram.com/sebas_rock_bar/",
       "bairro": "Boqueirão",
       "cat": "Palco e Show",
-      "events": {
-        "2026-09-26": [
-          {
-            "name": "DJs Kleber Barry e Fábio San",
-            "time": null,
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Belvedere",
@@ -388,7 +180,25 @@
       "ig": "https://www.instagram.com/armazemgaragem/",
       "bairro": "Santo Inácio",
       "cat": "Raiz",
-      "events": {}
+      "events": {
+        "2026-09-27": [
+          {
+            "name": "Encontro Flashback Automotivo",
+            "time": "11:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Capitão Tequila",
+            "time": "19:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Insight",
+            "time": "19:00:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Old Jack",
