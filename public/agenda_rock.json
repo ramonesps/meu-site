@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-27T14:45:42.412Z",
-  "week_start": "2026-09-27",
+  "updated_at": "2026-09-29T15:39:32.750Z",
+  "week_start": "2026-09-29",
   "model": "gemini-2.5-flash",
   "venues": [
     {
@@ -8,7 +8,48 @@
       "ig": "https://www.instagram.com/wearebastardspub/",
       "bairro": "Água Verde",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-09-29": [
+          {
+            "name": "LELY DUO",
+            "time": "20:20:00Z",
+            "description": null
+          }
+        ],
+        "2026-09-30": [
+          {
+            "name": "ISIS DRESCH DUO",
+            "time": "20:20:00Z",
+            "description": null
+          }
+        ],
+        "2026-10-01": [
+          {
+            "name": "MOONSHINE",
+            "time": "20:20:00Z",
+            "description": null
+          }
+        ],
+        "2026-10-02": [
+          {
+            "name": "ZOIO TRIO",
+            "time": "20:00:00Z",
+            "description": null
+          },
+          {
+            "name": "FIRECRACKER",
+            "time": "22:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-10-03": [
+          {
+            "name": "LADY DIE",
+            "time": "21:30:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Cross Roads",
@@ -30,7 +71,60 @@
       "ig": "https://www.instagram.com/hrccuritiba/",
       "bairro": "Batel",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-09-29": [
+          {
+            "name": "Fechado para evento privado",
+            "time": "16:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-09-30": [
+          {
+            "name": "Asgard",
+            "time": "19:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-10-01": [
+          {
+            "name": "Radiophonics",
+            "time": "19:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-10-02": [
+          {
+            "name": "Fechado para evento privado",
+            "time": "16:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-10-03": [
+          {
+            "name": "Framboesa",
+            "time": "12:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Válvula Vapor",
+            "time": "19:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-10-04": [
+          {
+            "name": "Rodrigo Castellani",
+            "time": "12:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Jam Rock N'1000",
+            "time": "19:30:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Sheridans",
@@ -45,9 +139,79 @@
       "bairro": "Bom Retiro",
       "cat": "Gourmet",
       "events": {
-        "2026-09-27": [
+        "2026-09-29": [
           {
-            "name": "DUO & FAMIGLIA",
+            "name": "Funcionamento normal",
+            "time": "12:00:00Z",
+            "description": null
+          },
+          {
+            "name": "ROCKSTAR DUO",
+            "time": "19:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-09-30": [
+          {
+            "name": "Funcionamento normal",
+            "time": "12:00:00Z",
+            "description": null
+          },
+          {
+            "name": "LONESOME CAPITAIN",
+            "time": "19:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-10-01": [
+          {
+            "name": "Funcionamento normal",
+            "time": "12:00:00Z",
+            "description": null
+          },
+          {
+            "name": "XIMA TRIO",
+            "time": "19:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-10-02": [
+          {
+            "name": "Funcionamento normal",
+            "time": "12:00:00Z",
+            "description": null
+          },
+          {
+            "name": "FOLKS TRIO",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-10-03": [
+          {
+            "name": "Funcionamento normal",
+            "time": "12:00:00Z",
+            "description": null
+          },
+          {
+            "name": "NIKO & GIU",
+            "time": "16:00:00Z",
+            "description": null
+          },
+          {
+            "name": "SONORA 4",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-10-04": [
+          {
+            "name": "Funcionamento normal",
+            "time": "12:00:00Z",
+            "description": null
+          },
+          {
+            "name": "DOSE IN DUO",
             "time": "16:00:00Z",
             "description": null
           }
@@ -59,15 +223,7 @@
       "ig": "https://www.instagram.com/bardamaniacs/",
       "bairro": "Cabral",
       "cat": "Gourmet",
-      "events": {
-        "2026-09-27": [
-          {
-            "name": "Oktoberfest",
-            "time": "11:00:00.000000000Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Rock Pizza",
@@ -96,7 +252,95 @@
       "ig": "https://www.instagram.com/barbariumpub/",
       "bairro": "Rebouças",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-09-29": [
+          {
+            "name": "Abertura",
+            "time": "18:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Happy Hour",
+            "time": "18:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-09-30": [
+          {
+            "name": "Abertura",
+            "time": "18:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Happy Hour",
+            "time": "18:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-10-01": [
+          {
+            "name": "Abertura",
+            "time": "18:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Happy Hour",
+            "time": "18:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Bruno Sucheck (rock acústico)",
+            "time": "20:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-10-02": [
+          {
+            "name": "Abertura",
+            "time": "18:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Happy Hour",
+            "time": "18:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Jelly Roll (jazzy blues rock)",
+            "time": "21:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-10-03": [
+          {
+            "name": "Abertura",
+            "time": "18:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Happy Hour",
+            "time": "18:00:00Z",
+            "description": null
+          },
+          {
+            "name": "CWBLUES (blues rock)",
+            "time": "21:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-10-04": [
+          {
+            "name": "Abertura",
+            "time": "17:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Happy Hour",
+            "time": "17:00:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Dobrucki",
@@ -123,17 +367,48 @@
       "ig": "https://www.instagram.com/jokerspub/",
       "bairro": "Centro",
       "cat": "Gourmet",
-      "events": {}
-    },
-    {
-      "nome": "Tork n' Roll",
-      "ig": "https://www.instagram.com/torkandroll/",
-      "bairro": "Rebouças",
-      "cat": "Palco e Show",
       "events": {
-        "2026-09-27": [
+        "2026-09-29": [
           {
-            "name": "LEALL + 2ZDinizz",
+            "name": "Bife à francesa",
+            "time": null,
+            "description": null
+          },
+          {
+            "name": "Duo Awallonia",
+            "time": null,
+            "description": null
+          },
+          {
+            "name": "Duo Awallonia - Música Celta e Medieval",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-09-30": [
+          {
+            "name": "D-Jazz",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-10-01": [
+          {
+            "name": "Claudio Pimentel",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-10-02": [
+          {
+            "name": "Irmãos Caruso",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-10-03": [
+          {
+            "name": "Undered",
             "time": null,
             "description": null
           }
@@ -141,11 +416,38 @@
       }
     },
     {
+      "nome": "Tork n' Roll",
+      "ig": "https://www.instagram.com/torkandroll/",
+      "bairro": "Rebouças",
+      "cat": "Palco e Show",
+      "events": {}
+    },
+    {
       "nome": "Blood Rock",
       "ig": "https://www.instagram.com/bloodrockbar/",
       "bairro": "São Francisco",
       "cat": "Palco e Show",
-      "events": {}
+      "events": {
+        "2026-10-02": [
+          {
+            "name": "Misfits CWB e Ramones Brazil",
+            "time": "21:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-10-03": [
+          {
+            "name": "System of a Down GENOCIDE Cover Brasil",
+            "time": "21:30:00.000Z",
+            "description": null
+          },
+          {
+            "name": "Genocide System of a Down Cover Brasil",
+            "time": "21:30:00.000000000Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Seb's Rock Bar",
@@ -173,39 +475,47 @@
       "ig": "https://www.instagram.com/clayhighway/",
       "bairro": "Capão Raso",
       "cat": "Raiz",
-      "events": {}
-    },
-    {
-      "nome": "Armazém Garage",
-      "ig": "https://www.instagram.com/armazemgaragem/",
-      "bairro": "Santo Inácio",
-      "cat": "Raiz",
       "events": {
-        "2026-09-27": [
+        "2026-10-02": [
           {
-            "name": "Encontro Flashback Automotivo",
-            "time": "11:00:00Z",
+            "name": "GRAND THEFT PARTY",
+            "time": "20:00:00.000000000Z",
             "description": null
           },
           {
-            "name": "Capitão Tequila",
-            "time": "19:00:00Z",
+            "name": "DJ Nando",
+            "time": "21:00:00.000000000Z",
             "description": null
           },
           {
-            "name": "Insight",
-            "time": "19:00:00Z",
+            "name": "Banda Violet",
+            "time": "23:00:00.000000000Z",
             "description": null
           }
         ]
       }
     },
     {
+      "nome": "Armazém Garage",
+      "ig": "https://www.instagram.com/armazemgaragem/",
+      "bairro": "Santo Inácio",
+      "cat": "Raiz",
+      "events": {}
+    },
+    {
       "nome": "Old Jack",
       "ig": "https://www.instagram.com/oldjackgaragebar/",
       "bairro": "Novo Mundo",
       "cat": "Raiz",
-      "events": {}
+      "events": {
+        "2026-10-03": [
+          {
+            "name": "Melhor Imitador de Galo e Brincadeiras Iradas",
+            "time": null,
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Animals Pub",
