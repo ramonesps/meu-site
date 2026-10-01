@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-29T15:39:32.750Z",
-  "week_start": "2026-09-29",
+  "updated_at": "2026-10-01T16:18:56.145Z",
+  "week_start": "2026-10-01",
   "model": "gemini-2.5-flash",
   "venues": [
     {
@@ -9,20 +9,6 @@
       "bairro": "Água Verde",
       "cat": "Gourmet",
       "events": {
-        "2026-09-29": [
-          {
-            "name": "LELY DUO",
-            "time": "20:20:00Z",
-            "description": null
-          }
-        ],
-        "2026-09-30": [
-          {
-            "name": "ISIS DRESCH DUO",
-            "time": "20:20:00Z",
-            "description": null
-          }
-        ],
         "2026-10-01": [
           {
             "name": "MOONSHINE",
@@ -59,8 +45,32 @@
       "events": {
         "2026-10-01": [
           {
-            "name": "Quintas Jazz",
-            "time": "18:00:00.000000000Z",
+            "name": "Jazz & Classics com Carine Luup, Jeff Sabbag e Hélio Brandão",
+            "time": "18:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Jazz & Classics: Noite Miles Davis",
+            "time": "18:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Jazz & Classics: Homenagem a Miles Davis",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-10-02": [
+          {
+            "name": "Tributo CPM 22, Hard Box e Válvula Vapor",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-10-03": [
+          {
+            "name": "Lenhadores da Antártida e República Pine",
+            "time": "20:00:00Z",
             "description": null
           }
         ]
@@ -72,20 +82,6 @@
       "bairro": "Batel",
       "cat": "Gourmet",
       "events": {
-        "2026-09-29": [
-          {
-            "name": "Fechado para evento privado",
-            "time": "16:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-09-30": [
-          {
-            "name": "Asgard",
-            "time": "19:30:00Z",
-            "description": null
-          }
-        ],
         "2026-10-01": [
           {
             "name": "Radiophonics",
@@ -139,30 +135,6 @@
       "bairro": "Bom Retiro",
       "cat": "Gourmet",
       "events": {
-        "2026-09-29": [
-          {
-            "name": "Funcionamento normal",
-            "time": "12:00:00Z",
-            "description": null
-          },
-          {
-            "name": "ROCKSTAR DUO",
-            "time": "19:30:00Z",
-            "description": null
-          }
-        ],
-        "2026-09-30": [
-          {
-            "name": "Funcionamento normal",
-            "time": "12:00:00Z",
-            "description": null
-          },
-          {
-            "name": "LONESOME CAPITAIN",
-            "time": "19:30:00Z",
-            "description": null
-          }
-        ],
         "2026-10-01": [
           {
             "name": "Funcionamento normal",
@@ -240,8 +212,54 @@
       "events": {
         "2026-10-02": [
           {
-            "name": "Encontro de Gigantes: Cwb Maiden e Youngs",
+            "name": "Encontro de Gigantes: Cwb Maiden (Tributo Iron Maiden) e Youngs (Tributo AC/DC)",
             "time": null,
+            "description": null
+          },
+          {
+            "name": "Made In CWB",
+            "time": "21:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Youngs AC/DC",
+            "time": "00:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-10-01": [
+          {
+            "name": "OPEN PRA MULHERADA",
+            "time": "19:00:00Z",
+            "description": null
+          },
+          {
+            "name": "República Pine",
+            "time": "19:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Válvula",
+            "time": "22:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-10-03": [
+          {
+            "name": "Rádio Vinil",
+            "time": "21:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Bon Jovi Cover Brasil",
+            "time": "00:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-10-04": [
+          {
+            "name": "Specialites CWB",
+            "time": "21:00:00Z",
             "description": null
           }
         ]
@@ -253,30 +271,6 @@
       "bairro": "Rebouças",
       "cat": "Gourmet",
       "events": {
-        "2026-09-29": [
-          {
-            "name": "Abertura",
-            "time": "18:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Happy Hour",
-            "time": "18:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-09-30": [
-          {
-            "name": "Abertura",
-            "time": "18:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Happy Hour",
-            "time": "18:00:00Z",
-            "description": null
-          }
-        ],
         "2026-10-01": [
           {
             "name": "Abertura",
@@ -350,12 +344,12 @@
       "events": {
         "2026-10-03": [
           {
-            "name": "Música ao vivo",
+            "name": "Música ao vivo e ambiente",
             "time": null,
             "description": null
           },
           {
-            "name": "Candyman Club e convidados",
+            "name": "Shows com Candyman Club e convidados",
             "time": "15:00:00Z",
             "description": null
           }
@@ -368,30 +362,6 @@
       "bairro": "Centro",
       "cat": "Gourmet",
       "events": {
-        "2026-09-29": [
-          {
-            "name": "Bife à francesa",
-            "time": null,
-            "description": null
-          },
-          {
-            "name": "Duo Awallonia",
-            "time": null,
-            "description": null
-          },
-          {
-            "name": "Duo Awallonia - Música Celta e Medieval",
-            "time": null,
-            "description": null
-          }
-        ],
-        "2026-09-30": [
-          {
-            "name": "D-Jazz",
-            "time": null,
-            "description": null
-          }
-        ],
         "2026-10-01": [
           {
             "name": "Claudio Pimentel",
@@ -420,7 +390,15 @@
       "ig": "https://www.instagram.com/torkandroll/",
       "bairro": "Rebouças",
       "cat": "Palco e Show",
-      "events": {}
+      "events": {
+        "2026-10-03": [
+          {
+            "name": "Nos Embalos de Sábado à Noite",
+            "time": null,
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Blood Rock",
@@ -454,7 +432,15 @@
       "ig": "https://www.instagram.com/sebas_rock_bar/",
       "bairro": "Boqueirão",
       "cat": "Palco e Show",
-      "events": {}
+      "events": {
+        "2026-10-03": [
+          {
+            "name": "NEGA FULÔ + SILVER MOON",
+            "time": null,
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Belvedere",
@@ -500,7 +486,36 @@
       "ig": "https://www.instagram.com/armazemgaragem/",
       "bairro": "Santo Inácio",
       "cat": "Raiz",
-      "events": {}
+      "events": {
+        "2026-10-01": [
+          {
+            "name": "Aula de Line Dance com Prof Ju Rech",
+            "time": "21:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-10-02": [
+          {
+            "name": "Aniversário da Capital Inicial Cover Brasil e Sessão das 10",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-10-03": [
+          {
+            "name": "Rubber Ducks e CZAR",
+            "time": "21:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-10-04": [
+          {
+            "name": "Misty Trio e Flash N Back",
+            "time": "19:00:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Old Jack",
