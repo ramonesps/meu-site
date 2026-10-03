@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-01T16:18:56.145Z",
-  "week_start": "2026-10-01",
+  "updated_at": "2026-10-03T14:20:20.081Z",
+  "week_start": "2026-10-03",
   "model": "gemini-2.5-flash",
   "venues": [
     {
@@ -9,29 +9,10 @@
       "bairro": "Água Verde",
       "cat": "Gourmet",
       "events": {
-        "2026-10-01": [
+        "2026-10-07": [
           {
-            "name": "MOONSHINE",
-            "time": "20:20:00Z",
-            "description": null
-          }
-        ],
-        "2026-10-02": [
-          {
-            "name": "ZOIO TRIO",
-            "time": "20:00:00Z",
-            "description": null
-          },
-          {
-            "name": "FIRECRACKER",
-            "time": "22:30:00Z",
-            "description": null
-          }
-        ],
-        "2026-10-03": [
-          {
-            "name": "LADY DIE",
-            "time": "21:30:00Z",
+            "name": "Especial Legião Urbana com Teorema",
+            "time": null,
             "description": null
           }
         ]
@@ -43,30 +24,6 @@
       "bairro": "Água Verde",
       "cat": "Gourmet",
       "events": {
-        "2026-10-01": [
-          {
-            "name": "Jazz & Classics com Carine Luup, Jeff Sabbag e Hélio Brandão",
-            "time": "18:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Jazz & Classics: Noite Miles Davis",
-            "time": "18:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Jazz & Classics: Homenagem a Miles Davis",
-            "time": null,
-            "description": null
-          }
-        ],
-        "2026-10-02": [
-          {
-            "name": "Tributo CPM 22, Hard Box e Válvula Vapor",
-            "time": "20:00:00Z",
-            "description": null
-          }
-        ],
         "2026-10-03": [
           {
             "name": "Lenhadores da Antártida e República Pine",
@@ -82,17 +39,20 @@
       "bairro": "Batel",
       "cat": "Gourmet",
       "events": {
-        "2026-10-01": [
+        "2026-10-04": [
           {
-            "name": "Radiophonics",
-            "time": "19:30:00Z",
+            "name": "Rockin\n1000 Jam",
+            "time": "17:00:00.000000000Z",
             "description": null
-          }
-        ],
-        "2026-10-02": [
+          },
           {
-            "name": "Fechado para evento privado",
-            "time": "16:00:00Z",
+            "name": "Rodrigo Castellani",
+            "time": "12:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Jam Rock N'1000",
+            "time": "19:30:00Z",
             "description": null
           }
         ],
@@ -104,18 +64,6 @@
           },
           {
             "name": "Válvula Vapor",
-            "time": "19:30:00Z",
-            "description": null
-          }
-        ],
-        "2026-10-04": [
-          {
-            "name": "Rodrigo Castellani",
-            "time": "12:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Jam Rock N'1000",
             "time": "19:30:00Z",
             "description": null
           }
@@ -135,36 +83,7 @@
       "bairro": "Bom Retiro",
       "cat": "Gourmet",
       "events": {
-        "2026-10-01": [
-          {
-            "name": "Funcionamento normal",
-            "time": "12:00:00Z",
-            "description": null
-          },
-          {
-            "name": "XIMA TRIO",
-            "time": "19:30:00Z",
-            "description": null
-          }
-        ],
-        "2026-10-02": [
-          {
-            "name": "Funcionamento normal",
-            "time": "12:00:00Z",
-            "description": null
-          },
-          {
-            "name": "FOLKS TRIO",
-            "time": "20:00:00Z",
-            "description": null
-          }
-        ],
         "2026-10-03": [
-          {
-            "name": "Funcionamento normal",
-            "time": "12:00:00Z",
-            "description": null
-          },
           {
             "name": "NIKO & GIU",
             "time": "16:00:00Z",
@@ -177,11 +96,6 @@
           }
         ],
         "2026-10-04": [
-          {
-            "name": "Funcionamento normal",
-            "time": "12:00:00Z",
-            "description": null
-          },
           {
             "name": "DOSE IN DUO",
             "time": "16:00:00Z",
@@ -210,40 +124,6 @@
       "bairro": "Seminário",
       "cat": "Gourmet",
       "events": {
-        "2026-10-02": [
-          {
-            "name": "Encontro de Gigantes: Cwb Maiden (Tributo Iron Maiden) e Youngs (Tributo AC/DC)",
-            "time": null,
-            "description": null
-          },
-          {
-            "name": "Made In CWB",
-            "time": "21:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Youngs AC/DC",
-            "time": "00:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-10-01": [
-          {
-            "name": "OPEN PRA MULHERADA",
-            "time": "19:00:00Z",
-            "description": null
-          },
-          {
-            "name": "República Pine",
-            "time": "19:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Válvula",
-            "time": "22:00:00Z",
-            "description": null
-          }
-        ],
         "2026-10-03": [
           {
             "name": "Rádio Vinil",
@@ -271,40 +151,6 @@
       "bairro": "Rebouças",
       "cat": "Gourmet",
       "events": {
-        "2026-10-01": [
-          {
-            "name": "Abertura",
-            "time": "18:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Happy Hour",
-            "time": "18:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Bruno Sucheck (rock acústico)",
-            "time": "20:30:00Z",
-            "description": null
-          }
-        ],
-        "2026-10-02": [
-          {
-            "name": "Abertura",
-            "time": "18:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Happy Hour",
-            "time": "18:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Jelly Roll (jazzy blues rock)",
-            "time": "21:00:00Z",
-            "description": null
-          }
-        ],
         "2026-10-03": [
           {
             "name": "Abertura",
@@ -314,11 +160,6 @@
           {
             "name": "Happy Hour",
             "time": "18:00:00Z",
-            "description": null
-          },
-          {
-            "name": "CWBLUES (blues rock)",
-            "time": "21:00:00Z",
             "description": null
           }
         ],
@@ -331,6 +172,59 @@
           {
             "name": "Happy Hour",
             "time": "17:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Pub aberto",
+            "time": "17:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-10-06": [
+          {
+            "name": "Abertura",
+            "time": "18:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Happy Hour",
+            "time": "18:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-10-07": [
+          {
+            "name": "Abertura",
+            "time": "18:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Happy Hour",
+            "time": "18:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-10-08": [
+          {
+            "name": "Abertura",
+            "time": "18:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Happy Hour",
+            "time": "18:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-10-09": [
+          {
+            "name": "Abertura",
+            "time": "18:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Happy Hour",
+            "time": "18:00:00Z",
             "description": null
           }
         ]
@@ -362,23 +256,14 @@
       "bairro": "Centro",
       "cat": "Gourmet",
       "events": {
-        "2026-10-01": [
-          {
-            "name": "Claudio Pimentel",
-            "time": null,
-            "description": null
-          }
-        ],
-        "2026-10-02": [
-          {
-            "name": "Irmãos Caruso",
-            "time": null,
-            "description": null
-          }
-        ],
         "2026-10-03": [
           {
-            "name": "Undered",
+            "name": "Show com Undered e FourFace",
+            "time": null,
+            "description": null
+          },
+          {
+            "name": "Feijoada",
             "time": null,
             "description": null
           }
@@ -406,22 +291,15 @@
       "bairro": "São Francisco",
       "cat": "Palco e Show",
       "events": {
-        "2026-10-02": [
-          {
-            "name": "Misfits CWB e Ramones Brazil",
-            "time": "21:00:00Z",
-            "description": null
-          }
-        ],
         "2026-10-03": [
           {
-            "name": "System of a Down GENOCIDE Cover Brasil",
-            "time": "21:30:00.000Z",
+            "name": "Tributo a SYSTEM OF A DOWN com Genocide",
+            "time": null,
             "description": null
           },
           {
-            "name": "Genocide System of a Down Cover Brasil",
-            "time": "21:30:00.000000000Z",
+            "name": "Flash Night de Tattoo e Body Piercing",
+            "time": null,
             "description": null
           }
         ]
@@ -462,20 +340,20 @@
       "bairro": "Capão Raso",
       "cat": "Raiz",
       "events": {
-        "2026-10-02": [
+        "2026-10-03": [
           {
-            "name": "GRAND THEFT PARTY",
-            "time": "20:00:00.000000000Z",
+            "name": "GOLD TIMES",
+            "time": "20:30:00Z",
             "description": null
           },
           {
-            "name": "DJ Nando",
-            "time": "21:00:00.000000000Z",
+            "name": "CANDYMAN",
+            "time": "22:30:00Z",
             "description": null
           },
           {
-            "name": "Banda Violet",
-            "time": "23:00:00.000000000Z",
+            "name": "BON JOVI",
+            "time": "01:00:00Z",
             "description": null
           }
         ]
@@ -487,20 +365,6 @@
       "bairro": "Santo Inácio",
       "cat": "Raiz",
       "events": {
-        "2026-10-01": [
-          {
-            "name": "Aula de Line Dance com Prof Ju Rech",
-            "time": "21:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-10-02": [
-          {
-            "name": "Aniversário da Capital Inicial Cover Brasil e Sessão das 10",
-            "time": "20:00:00Z",
-            "description": null
-          }
-        ],
         "2026-10-03": [
           {
             "name": "Rubber Ducks e CZAR",
@@ -525,8 +389,18 @@
       "events": {
         "2026-10-03": [
           {
-            "name": "Melhor Imitador de Galo e Brincadeiras Iradas",
-            "time": null,
+            "name": "BEAR TRIO",
+            "time": "15:00:00Z",
+            "description": null
+          },
+          {
+            "name": "ARAUCARIA’s EXPERIENCE",
+            "time": "18:00:00Z",
+            "description": null
+          },
+          {
+            "name": "ALABAMA COLTS",
+            "time": "20:30:00Z",
             "description": null
           }
         ]
