@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-03T14:20:20.081Z",
-  "week_start": "2026-10-03",
+  "updated_at": "2026-10-05T18:17:31.740Z",
+  "week_start": "2026-10-05",
   "model": "gemini-2.5-flash",
   "venues": [
     {
@@ -24,10 +24,24 @@
       "bairro": "Água Verde",
       "cat": "Gourmet",
       "events": {
-        "2026-10-03": [
+        "2026-10-09": [
           {
-            "name": "Lenhadores da Antártida e República Pine",
-            "time": "20:00:00Z",
+            "name": "Claudette King e Milk'n Blues",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-10-11": [
+          {
+            "name": "Abertura Véspera de Feriado",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-10-08": [
+          {
+            "name": "Jazz & Classics",
+            "time": null,
             "description": null
           }
         ]
@@ -38,37 +52,7 @@
       "ig": "https://www.instagram.com/hrccuritiba/",
       "bairro": "Batel",
       "cat": "Gourmet",
-      "events": {
-        "2026-10-04": [
-          {
-            "name": "Rockin\n1000 Jam",
-            "time": "17:00:00.000000000Z",
-            "description": null
-          },
-          {
-            "name": "Rodrigo Castellani",
-            "time": "12:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Jam Rock N'1000",
-            "time": "19:30:00Z",
-            "description": null
-          }
-        ],
-        "2026-10-03": [
-          {
-            "name": "Framboesa",
-            "time": "12:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Válvula Vapor",
-            "time": "19:30:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Sheridans",
@@ -82,34 +66,29 @@
       "ig": "https://www.instagram.com/bardafabricabastards/",
       "bairro": "Bom Retiro",
       "cat": "Gourmet",
-      "events": {
-        "2026-10-03": [
-          {
-            "name": "NIKO & GIU",
-            "time": "16:00:00Z",
-            "description": null
-          },
-          {
-            "name": "SONORA 4",
-            "time": "20:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-10-04": [
-          {
-            "name": "DOSE IN DUO",
-            "time": "16:00:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Maniacs",
       "ig": "https://www.instagram.com/bardamaniacs/",
       "bairro": "Cabral",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-10-10": [
+          {
+            "name": "Almoço com Alcatra à milanesa",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-10-11": [
+          {
+            "name": "Almoço com Alcatra à milanesa",
+            "time": null,
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Rock Pizza",
@@ -124,22 +103,10 @@
       "bairro": "Seminário",
       "cat": "Gourmet",
       "events": {
-        "2026-10-03": [
+        "2026-10-11": [
           {
-            "name": "Rádio Vinil",
-            "time": "21:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Bon Jovi Cover Brasil",
-            "time": "00:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-10-04": [
-          {
-            "name": "Specialites CWB",
-            "time": "21:00:00Z",
+            "name": "CALIFÓRNIA FEST",
+            "time": null,
             "description": null
           }
         ]
@@ -151,35 +118,6 @@
       "bairro": "Rebouças",
       "cat": "Gourmet",
       "events": {
-        "2026-10-03": [
-          {
-            "name": "Abertura",
-            "time": "18:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Happy Hour",
-            "time": "18:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-10-04": [
-          {
-            "name": "Abertura",
-            "time": "17:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Happy Hour",
-            "time": "17:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Pub aberto",
-            "time": "17:00:00Z",
-            "description": null
-          }
-        ],
         "2026-10-06": [
           {
             "name": "Abertura",
@@ -236,15 +174,15 @@
       "bairro": "Rebouças",
       "cat": "Gourmet",
       "events": {
-        "2026-10-03": [
+        "2026-10-10": [
           {
-            "name": "Música ao vivo e ambiente",
-            "time": null,
+            "name": "Candyman Club, Minha Banda é uma Festa, Hus Cage, DJ Adriano",
+            "time": "15:00:00Z",
             "description": null
           },
           {
-            "name": "Shows com Candyman Club e convidados",
-            "time": "15:00:00Z",
+            "name": "Música ao vivo",
+            "time": null,
             "description": null
           }
         ]
@@ -255,20 +193,7 @@
       "ig": "https://www.instagram.com/jokerspub/",
       "bairro": "Centro",
       "cat": "Gourmet",
-      "events": {
-        "2026-10-03": [
-          {
-            "name": "Show com Undered e FourFace",
-            "time": null,
-            "description": null
-          },
-          {
-            "name": "Feijoada",
-            "time": null,
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Tork n' Roll",
@@ -276,10 +201,10 @@
       "bairro": "Rebouças",
       "cat": "Palco e Show",
       "events": {
-        "2026-10-03": [
+        "2026-10-09": [
           {
-            "name": "Nos Embalos de Sábado à Noite",
-            "time": null,
+            "name": "2000`s Rock Experience",
+            "time": "20:30:00Z",
             "description": null
           }
         ]
@@ -290,20 +215,7 @@
       "ig": "https://www.instagram.com/bloodrockbar/",
       "bairro": "São Francisco",
       "cat": "Palco e Show",
-      "events": {
-        "2026-10-03": [
-          {
-            "name": "Tributo a SYSTEM OF A DOWN com Genocide",
-            "time": null,
-            "description": null
-          },
-          {
-            "name": "Flash Night de Tattoo e Body Piercing",
-            "time": null,
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Seb's Rock Bar",
@@ -311,9 +223,40 @@
       "bairro": "Boqueirão",
       "cat": "Palco e Show",
       "events": {
-        "2026-10-03": [
+        "2026-10-08": [
           {
-            "name": "NEGA FULÔ + SILVER MOON",
+            "name": "Coração Pirata, Roupa Nova Cover e Open Food",
+            "time": "19:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-10-09": [
+          {
+            "name": "Flash n' Back, Will Vox e Open Food",
+            "time": "19:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-10-10": [
+          {
+            "name": "Candy Man Club e Banda Delorean",
+            "time": null,
+            "description": null
+          },
+          {
+            "name": "Candyman Club",
+            "time": "21:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Delorean",
+            "time": "23:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-10-11": [
+          {
+            "name": "Embalos de Sebaldo à Noite com DJ Lima Father e DJ Marquinhos Espinosa",
             "time": null,
             "description": null
           }
@@ -339,72 +282,21 @@
       "ig": "https://www.instagram.com/clayhighway/",
       "bairro": "Capão Raso",
       "cat": "Raiz",
-      "events": {
-        "2026-10-03": [
-          {
-            "name": "GOLD TIMES",
-            "time": "20:30:00Z",
-            "description": null
-          },
-          {
-            "name": "CANDYMAN",
-            "time": "22:30:00Z",
-            "description": null
-          },
-          {
-            "name": "BON JOVI",
-            "time": "01:00:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Armazém Garage",
       "ig": "https://www.instagram.com/armazemgaragem/",
       "bairro": "Santo Inácio",
       "cat": "Raiz",
-      "events": {
-        "2026-10-03": [
-          {
-            "name": "Rubber Ducks e CZAR",
-            "time": "21:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-10-04": [
-          {
-            "name": "Misty Trio e Flash N Back",
-            "time": "19:00:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Old Jack",
       "ig": "https://www.instagram.com/oldjackgaragebar/",
       "bairro": "Novo Mundo",
       "cat": "Raiz",
-      "events": {
-        "2026-10-03": [
-          {
-            "name": "BEAR TRIO",
-            "time": "15:00:00Z",
-            "description": null
-          },
-          {
-            "name": "ARAUCARIA’s EXPERIENCE",
-            "time": "18:00:00Z",
-            "description": null
-          },
-          {
-            "name": "ALABAMA COLTS",
-            "time": "20:30:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Animals Pub",
