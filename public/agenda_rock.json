@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-07T16:20:37.411Z",
-  "week_start": "2026-10-07",
+  "updated_at": "2026-10-09T16:05:30.817Z",
+  "week_start": "2026-10-09",
   "model": "gemini-2.5-flash",
   "venues": [
     {
@@ -9,29 +9,10 @@
       "bairro": "Água Verde",
       "cat": "Gourmet",
       "events": {
-        "2026-10-07": [
-          {
-            "name": "Bastards Tracks com Banda Teorema com Especial Legião Urbana",
-            "time": null,
-            "description": null
-          },
-          {
-            "name": "Banda Teorema",
-            "time": "20:20:00Z",
-            "description": null
-          }
-        ],
         "2026-10-11": [
           {
             "name": "Baile Brasa",
             "time": null,
-            "description": null
-          }
-        ],
-        "2026-10-08": [
-          {
-            "name": "Lely Trio",
-            "time": "20:20:00Z",
             "description": null
           }
         ],
@@ -64,21 +45,36 @@
       "events": {
         "2026-10-09": [
           {
-            "name": "Claudette King e Milk'n Blues",
+            "name": "Claudette King, Cássio Albernaz & amigos do Blues",
+            "time": null,
+            "description": null
+          },
+          {
+            "name": "Milk N' Blues",
+            "time": null,
+            "description": null
+          },
+          {
+            "name": "Claudette King + Milk'n'Blues",
+            "time": null,
+            "description": null
+          },
+          {
+            "name": "Show com Claudette King",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-10-10": [
+          {
+            "name": "The Vedders, Afoostic e Sulround",
             "time": null,
             "description": null
           }
         ],
         "2026-10-11": [
           {
-            "name": "Abertura Véspera de Feriado",
-            "time": null,
-            "description": null
-          }
-        ],
-        "2026-10-08": [
-          {
-            "name": "Jazz & Classics",
+            "name": "Drive True",
             "time": null,
             "description": null
           }
@@ -104,20 +100,6 @@
           },
           {
             "name": "In Concert Hits",
-            "time": "19:30:00Z",
-            "description": null
-          }
-        ],
-        "2026-10-07": [
-          {
-            "name": "Framboesa Trio",
-            "time": "19:30:00Z",
-            "description": null
-          }
-        ],
-        "2026-10-08": [
-          {
-            "name": "A Deaf in Ear",
             "time": "19:30:00Z",
             "description": null
           }
@@ -163,20 +145,6 @@
       "bairro": "Bom Retiro",
       "cat": "Gourmet",
       "events": {
-        "2026-10-07": [
-          {
-            "name": "Danni Distler Duo",
-            "time": "19:30:00Z",
-            "description": null
-          }
-        ],
-        "2026-10-08": [
-          {
-            "name": "Banda Sugar Beat",
-            "time": "19:30:00Z",
-            "description": null
-          }
-        ],
         "2026-10-09": [
           {
             "name": "Banda Backstage",
@@ -225,14 +193,19 @@
       "events": {
         "2026-10-10": [
           {
-            "name": "Almoço com Alcatra à milanesa",
+            "name": "Almoço com Alcatra de angus à milanesa",
             "time": null,
             "description": null
           }
         ],
         "2026-10-11": [
           {
-            "name": "Almoço com Alcatra à milanesa",
+            "name": "Almoço com Alcatra de angus à milanesa",
+            "time": null,
+            "description": null
+          },
+          {
+            "name": "Fechado devido às eleições",
             "time": null,
             "description": null
           }
@@ -252,10 +225,64 @@
       "bairro": "Seminário",
       "cat": "Gourmet",
       "events": {
+        "2026-10-09": [
+          {
+            "name": "Catnip",
+            "time": "21:00:00Z",
+            "description": null
+          },
+          {
+            "name": "41Natiruts",
+            "time": "00:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-10-10": [
+          {
+            "name": "2Bless",
+            "time": "18:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Gibanela",
+            "time": "21:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Esquadrão Flash Hits",
+            "time": "00:00:00Z",
+            "description": null
+          }
+        ],
         "2026-10-11": [
           {
-            "name": "CALIFÓRNIA FEST",
-            "time": null,
+            "name": "Sonora 4",
+            "time": "18:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Pir�mides de Marte",
+            "time": "21:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Djambi",
+            "time": "00:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Califórnia Fest - Djambi",
+            "time": "00:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Calif�rnia Fest - Pir�mide de marte",
+            "time": "21:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Califórnia Fest - Sonora 4",
+            "time": "18:30:00Z",
             "description": null
           }
         ]
@@ -267,20 +294,6 @@
       "bairro": "Rebouças",
       "cat": "Gourmet",
       "events": {
-        "2026-10-07": [
-          {
-            "name": "Funcionamento do pub",
-            "time": "18:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-10-08": [
-          {
-            "name": "Funcionamento do pub",
-            "time": "18:00:00Z",
-            "description": null
-          }
-        ],
         "2026-10-09": [
           {
             "name": "Funcionamento do pub",
@@ -319,13 +332,13 @@
       "events": {
         "2026-10-10": [
           {
-            "name": "Candyman Club, Minha Banda é uma Festa, Hus Cage, DJ Adriano",
-            "time": "15:00:00Z",
+            "name": "Música ao vivo",
+            "time": null,
             "description": null
           },
           {
-            "name": "Música ao vivo",
-            "time": null,
+            "name": "Candyman Club e mais: Anos 80 e 90",
+            "time": "15:00:00.000Z",
             "description": null
           }
         ]
@@ -337,13 +350,6 @@
       "bairro": "Centro",
       "cat": "Gourmet",
       "events": {
-        "2026-10-07": [
-          {
-            "name": "Feijoada",
-            "time": null,
-            "description": null
-          }
-        ],
         "2026-10-09": [
           {
             "name": "SYNDICS + DOLORES (tributo a The Killers e The Cranberries)",
@@ -361,8 +367,51 @@
       "events": {
         "2026-10-09": [
           {
-            "name": "2000`s Rock Experience",
+            "name": "Pitty Tributo / Banda Amélia",
             "time": "20:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Os caras do Charlie Brown",
+            "time": "22:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Linkin Park Brasil Cover",
+            "time": "00:30:00Z",
+            "description": null
+          },
+          {
+            "name": "2000 ROCK EXPERIENCE",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-10-10": [
+          {
+            "name": "BLACK LABEL SOCIETY",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-10-11": [
+          {
+            "name": "KAMAITACHI",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-10-14": [
+          {
+            "name": "APOCALYPTICA",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-10-15": [
+          {
+            "name": "AMORPHIS",
+            "time": null,
             "description": null
           }
         ]
@@ -396,16 +445,9 @@
       "bairro": "Boqueirão",
       "cat": "Palco e Show",
       "events": {
-        "2026-10-08": [
-          {
-            "name": "Coração Pirata, Roupa Nova Cover e Open Food",
-            "time": "19:00:00Z",
-            "description": null
-          }
-        ],
         "2026-10-09": [
           {
-            "name": "Flash n' Back, Will Vox e Open Food",
+            "name": "Flash n' Back com Will Vox",
             "time": "19:00:00Z",
             "description": null
           }
@@ -415,21 +457,11 @@
             "name": "Candy Man Club e Banda Delorean",
             "time": null,
             "description": null
-          },
-          {
-            "name": "Candyman Club",
-            "time": "21:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Delorean",
-            "time": "23:30:00Z",
-            "description": null
           }
         ],
         "2026-10-11": [
           {
-            "name": "Embalos de Sebaldo à Noite com DJ Lima Father e DJ Marquinhos Espinosa",
+            "name": "Embalos de Sebaldo à Noite com DJs Lima Father e Marquinhos Espinosa",
             "time": null,
             "description": null
           }
@@ -448,7 +480,15 @@
       "ig": "https://www.instagram.com/resistenciarock/",
       "bairro": "Bairro Alto",
       "cat": "Raiz",
-      "events": {}
+      "events": {
+        "2026-10-09": [
+          {
+            "name": "Rock Nacional com Banda KDterêza",
+            "time": null,
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Clay Highway",
