@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-09T16:05:30.817Z",
-  "week_start": "2026-10-09",
+  "updated_at": "2026-10-11T15:34:49.825Z",
+  "week_start": "2026-10-11",
   "model": "gemini-2.5-flash",
   "venues": [
     {
@@ -11,27 +11,20 @@
       "events": {
         "2026-10-11": [
           {
-            "name": "Baile Brasa",
+            "name": "Aberto normalmente",
             "time": null,
-            "description": null
-          }
-        ],
-        "2026-10-09": [
-          {
-            "name": "Thiago Filla Trio",
-            "time": "20:00:00Z",
             "description": null
           },
           {
-            "name": "Candyman Club",
-            "time": "22:30:00Z",
+            "name": "BAILE BRASA",
+            "time": "21:00:00Z",
             "description": null
           }
         ],
-        "2026-10-10": [
+        "2026-10-12": [
           {
-            "name": "Banda Flash N' Back",
-            "time": "21:30:00Z",
+            "name": "Aberto com espa\nco Kids",
+            "time": null,
             "description": null
           }
         ]
@@ -43,35 +36,6 @@
       "bairro": "Água Verde",
       "cat": "Gourmet",
       "events": {
-        "2026-10-09": [
-          {
-            "name": "Claudette King, Cássio Albernaz & amigos do Blues",
-            "time": null,
-            "description": null
-          },
-          {
-            "name": "Milk N' Blues",
-            "time": null,
-            "description": null
-          },
-          {
-            "name": "Claudette King + Milk'n'Blues",
-            "time": null,
-            "description": null
-          },
-          {
-            "name": "Show com Claudette King",
-            "time": null,
-            "description": null
-          }
-        ],
-        "2026-10-10": [
-          {
-            "name": "The Vedders, Afoostic e Sulround",
-            "time": null,
-            "description": null
-          }
-        ],
         "2026-10-11": [
           {
             "name": "Drive True",
@@ -89,8 +53,8 @@
       "events": {
         "2026-10-11": [
           {
-            "name": "Especial Dia das Crianças com Super Saiyao Jeans",
-            "time": "12:30:00.000Z",
+            "name": "Super Saiya Jeans - Especial Dia das Crianças",
+            "time": "12:30:00Z",
             "description": null
           },
           {
@@ -104,29 +68,15 @@
             "description": null
           }
         ],
-        "2026-10-09": [
-          {
-            "name": "Johaine",
-            "time": "12:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Pennyback",
-            "time": "19:30:00Z",
-            "description": null
-          }
-        ],
-        "2026-10-10": [
-          {
-            "name": "Dug",
-            "time": "19:30:00Z",
-            "description": null
-          }
-        ],
         "2026-10-12": [
           {
             "name": "Radio Pinata Trio - Especial Dia das Crianças",
             "time": "12:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Elvis Rock Band",
+            "time": "19:30:00Z",
             "description": null
           }
         ]
@@ -145,41 +95,35 @@
       "bairro": "Bom Retiro",
       "cat": "Gourmet",
       "events": {
-        "2026-10-09": [
+        "2026-10-11": [
           {
-            "name": "Banda Backstage",
-            "time": "20:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-10-10": [
-          {
-            "name": "Rusty Cage Duo",
-            "time": "16:00:00Z",
+            "name": "Espaço Kids",
+            "time": "12:00:00Z",
             "description": null
           },
           {
-            "name": "Banda Jukeboxx",
-            "time": "20:00:00Z",
+            "name": "Brincadeiras Bastardas",
+            "time": null,
             "description": null
-          }
-        ],
-        "2026-10-11": [
+          },
           {
-            "name": "Luciano Vieira, Lady Die e Os Caras do Charlie Brown",
+            "name": "DJ Luciano Vieira",
+            "time": null,
+            "description": null
+          },
+          {
+            "name": "Lady Die",
+            "time": null,
+            "description": null
+          },
+          {
+            "name": "Os Caras do Charlie Brown",
             "time": null,
             "description": null
           },
           {
             "name": "Aniversário de 12 anos com shows",
-            "time": "12:00:00.000Z",
-            "description": null
-          }
-        ],
-        "2026-10-12": [
-          {
-            "name": "Xima Trio",
-            "time": "19:30:00Z",
+            "time": "12:00:00Z",
             "description": null
           }
         ]
@@ -191,13 +135,6 @@
       "bairro": "Cabral",
       "cat": "Gourmet",
       "events": {
-        "2026-10-10": [
-          {
-            "name": "Almoço com Alcatra de angus à milanesa",
-            "time": null,
-            "description": null
-          }
-        ],
         "2026-10-11": [
           {
             "name": "Almoço com Alcatra de angus à milanesa",
@@ -225,35 +162,6 @@
       "bairro": "Seminário",
       "cat": "Gourmet",
       "events": {
-        "2026-10-09": [
-          {
-            "name": "Catnip",
-            "time": "21:00:00Z",
-            "description": null
-          },
-          {
-            "name": "41Natiruts",
-            "time": "00:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-10-10": [
-          {
-            "name": "2Bless",
-            "time": "18:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Gibanela",
-            "time": "21:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Esquadrão Flash Hits",
-            "time": "00:00:00Z",
-            "description": null
-          }
-        ],
         "2026-10-11": [
           {
             "name": "Sonora 4",
@@ -294,31 +202,24 @@
       "bairro": "Rebouças",
       "cat": "Gourmet",
       "events": {
-        "2026-10-09": [
-          {
-            "name": "Funcionamento do pub",
-            "time": "18:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-10-10": [
-          {
-            "name": "Funcionamento do pub",
-            "time": "18:00:00Z",
-            "description": null
-          }
-        ],
         "2026-10-11": [
           {
-            "name": "Funcionamento do pub",
+            "name": "Pub Aberto",
             "time": "17:00:00Z",
             "description": null
           }
         ],
-        "2026-10-13": [
+        "2026-10-12": [
           {
-            "name": "Funcionamento do pub",
-            "time": "18:00:00Z",
+            "name": "Pub Aberto",
+            "time": "17:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-10-14": [
+          {
+            "name": "Pub Aberto",
+            "time": null,
             "description": null
           }
         ]
@@ -329,20 +230,7 @@
       "ig": "https://www.instagram.com/dobruckibar/",
       "bairro": "Rebouças",
       "cat": "Gourmet",
-      "events": {
-        "2026-10-10": [
-          {
-            "name": "Música ao vivo",
-            "time": null,
-            "description": null
-          },
-          {
-            "name": "Candyman Club e mais: Anos 80 e 90",
-            "time": "15:00:00.000Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Jokers",
@@ -350,10 +238,10 @@
       "bairro": "Centro",
       "cat": "Gourmet",
       "events": {
-        "2026-10-09": [
+        "2026-10-17": [
           {
-            "name": "SYNDICS + DOLORES (tributo a The Killers e The Cranberries)",
-            "time": "22:00:00.000Z",
+            "name": "Feijoada",
+            "time": null,
             "description": null
           }
         ]
@@ -365,35 +253,6 @@
       "bairro": "Rebouças",
       "cat": "Palco e Show",
       "events": {
-        "2026-10-09": [
-          {
-            "name": "Pitty Tributo / Banda Amélia",
-            "time": "20:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Os caras do Charlie Brown",
-            "time": "22:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Linkin Park Brasil Cover",
-            "time": "00:30:00Z",
-            "description": null
-          },
-          {
-            "name": "2000 ROCK EXPERIENCE",
-            "time": null,
-            "description": null
-          }
-        ],
-        "2026-10-10": [
-          {
-            "name": "BLACK LABEL SOCIETY",
-            "time": null,
-            "description": null
-          }
-        ],
         "2026-10-11": [
           {
             "name": "KAMAITACHI",
@@ -423,17 +282,17 @@
       "bairro": "São Francisco",
       "cat": "Palco e Show",
       "events": {
-        "2026-10-10": [
+        "2026-10-16": [
           {
-            "name": "HELLSTAR Black Sabbath Cover, IRON CLAN Iron Maiden Cover, TRIBUTRUE Metallica C",
-            "time": "21:00:00.000Z",
+            "name": "Especial RUSH e PINK FLOYD com Ghost Riders e Pigs & Diamonds",
+            "time": null,
             "description": null
           }
         ],
-        "2026-10-09": [
+        "2026-10-17": [
           {
-            "name": "Especial RUSH e PINK FLOYD com Ghost Riders e Pigs & Diamonds",
-            "time": "21:30:00Z",
+            "name": "Monsters of Rock: Tributos a Black Sabbath, Iron Maiden e Metallica",
+            "time": null,
             "description": null
           }
         ]
@@ -445,20 +304,6 @@
       "bairro": "Boqueirão",
       "cat": "Palco e Show",
       "events": {
-        "2026-10-09": [
-          {
-            "name": "Flash n' Back com Will Vox",
-            "time": "19:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-10-10": [
-          {
-            "name": "Candy Man Club e Banda Delorean",
-            "time": null,
-            "description": null
-          }
-        ],
         "2026-10-11": [
           {
             "name": "Embalos de Sebaldo à Noite com DJs Lima Father e Marquinhos Espinosa",
@@ -480,15 +325,7 @@
       "ig": "https://www.instagram.com/resistenciarock/",
       "bairro": "Bairro Alto",
       "cat": "Raiz",
-      "events": {
-        "2026-10-09": [
-          {
-            "name": "Rock Nacional com Banda KDterêza",
-            "time": null,
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Clay Highway",
@@ -496,51 +333,37 @@
       "bairro": "Capão Raso",
       "cat": "Raiz",
       "events": {
-        "2026-10-11": [
+        "2026-10-13": [
           {
-            "name": "Rock Kids Especial Dia das Crianças",
-            "time": "16:00:00Z",
+            "name": "Cassidy Paris ao vivo",
+            "time": "20:00:00.000000000Z",
             "description": null
           },
           {
-            "name": "Show com Palhaço Batata",
+            "name": "SHOW INTERNACIONAL Cassidy Paris",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-10-11": [
+          {
+            "name": "ROCK KIDS",
+            "time": "16:00:00.000Z",
+            "description": null
+          },
+          {
+            "name": "SHOW COM PALHAÇO BATATA",
             "time": "17:00:00Z",
             "description": null
           },
           {
-            "name": "Mamonas Assassinas Cover",
+            "name": "MAMONAS ASSASSINAS COVER",
             "time": "18:00:00Z",
             "description": null
           },
           {
-            "name": "Gallo Jack - Pop e disco music",
+            "name": "GALLO JACK - Pop e disco music",
             "time": "20:30:00Z",
-            "description": null
-          },
-          {
-            "name": "ROCK KIDS com Palhaço Batata, Mamonas Assassinas Cover e Gallo Jack Show",
-            "time": "16:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-10-09": [
-          {
-            "name": "POP & FLASHBACKS com Czar Rock e Club Soda",
-            "time": null,
-            "description": null
-          }
-        ],
-        "2026-10-10": [
-          {
-            "name": "NU METAL com Burn in out SOAD, Freaks KORN e Disaster SLIPKNOT",
-            "time": null,
-            "description": null
-          }
-        ],
-        "2026-10-13": [
-          {
-            "name": "SHOW INTERNACIONAL com Cassidy Paris e Addictwo",
-            "time": null,
             "description": null
           }
         ]
@@ -558,7 +381,15 @@
       "ig": "https://www.instagram.com/oldjackgaragebar/",
       "bairro": "Novo Mundo",
       "cat": "Raiz",
-      "events": {}
+      "events": {
+        "2026-10-11": [
+          {
+            "name": "Banda Responsa (Pop Rock Nacional)",
+            "time": "20:30:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Animals Pub",
