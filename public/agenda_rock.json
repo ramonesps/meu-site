@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-11T15:34:49.825Z",
-  "week_start": "2026-10-11",
+  "updated_at": "2026-10-13T16:56:58.670Z",
+  "week_start": "2026-10-13",
   "model": "gemini-2.5-flash",
   "venues": [
     {
@@ -8,27 +8,7 @@
       "ig": "https://www.instagram.com/wearebastardspub/",
       "bairro": "Água Verde",
       "cat": "Gourmet",
-      "events": {
-        "2026-10-11": [
-          {
-            "name": "Aberto normalmente",
-            "time": null,
-            "description": null
-          },
-          {
-            "name": "BAILE BRASA",
-            "time": "21:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-10-12": [
-          {
-            "name": "Aberto com espa\nco Kids",
-            "time": null,
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Cross Roads",
@@ -36,9 +16,9 @@
       "bairro": "Água Verde",
       "cat": "Gourmet",
       "events": {
-        "2026-10-11": [
+        "2026-10-18": [
           {
-            "name": "Drive True",
+            "name": "Thunderstruck Edição Rocktober",
             "time": null,
             "description": null
           }
@@ -50,37 +30,7 @@
       "ig": "https://www.instagram.com/hrccuritiba/",
       "bairro": "Batel",
       "cat": "Gourmet",
-      "events": {
-        "2026-10-11": [
-          {
-            "name": "Super Saiya Jeans - Especial Dia das Crianças",
-            "time": "12:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Especial Kids: Super Saiajeans (Tributo Mamonas Assassinas)",
-            "time": "12:30:00Z",
-            "description": null
-          },
-          {
-            "name": "In Concert Hits",
-            "time": "19:30:00Z",
-            "description": null
-          }
-        ],
-        "2026-10-12": [
-          {
-            "name": "Radio Pinata Trio - Especial Dia das Crianças",
-            "time": "12:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Elvis Rock Band",
-            "time": "19:30:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Sheridans",
@@ -94,40 +44,7 @@
       "ig": "https://www.instagram.com/bardafabricabastards/",
       "bairro": "Bom Retiro",
       "cat": "Gourmet",
-      "events": {
-        "2026-10-11": [
-          {
-            "name": "Espaço Kids",
-            "time": "12:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Brincadeiras Bastardas",
-            "time": null,
-            "description": null
-          },
-          {
-            "name": "DJ Luciano Vieira",
-            "time": null,
-            "description": null
-          },
-          {
-            "name": "Lady Die",
-            "time": null,
-            "description": null
-          },
-          {
-            "name": "Os Caras do Charlie Brown",
-            "time": null,
-            "description": null
-          },
-          {
-            "name": "Aniversário de 12 anos com shows",
-            "time": "12:00:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Maniacs",
@@ -135,14 +52,16 @@
       "bairro": "Cabral",
       "cat": "Gourmet",
       "events": {
-        "2026-10-11": [
+        "2026-10-17": [
           {
-            "name": "Almoço com Alcatra de angus à milanesa",
+            "name": "Almoço: Alcatra à milanesa",
             "time": null,
             "description": null
-          },
+          }
+        ],
+        "2026-10-18": [
           {
-            "name": "Fechado devido às eleições",
+            "name": "Almoço: Alcatra à milanesa",
             "time": null,
             "description": null
           }
@@ -162,35 +81,56 @@
       "bairro": "Seminário",
       "cat": "Gourmet",
       "events": {
-        "2026-10-11": [
+        "2026-10-15": [
           {
-            "name": "Sonora 4",
-            "time": "18:30:00Z",
+            "name": "OPEN PRA MULHERADA",
+            "time": "19:00:00Z",
             "description": null
           },
           {
-            "name": "Pir�mides de Marte",
+            "name": "Hawks",
+            "time": "19:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Lenhadores da Antártida",
+            "time": "22:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-10-16": [
+          {
+            "name": "MTV 2000",
+            "time": null,
+            "description": null
+          },
+          {
+            "name": "Os Caras do Charlie Brown",
             "time": "21:00:00Z",
             "description": null
           },
           {
-            "name": "Djambi",
+            "name": "The Fábio Jrs",
             "time": "00:00:00Z",
             "description": null
-          },
+          }
+        ],
+        "2026-10-17": [
           {
-            "name": "Califórnia Fest - Djambi",
-            "time": "00:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Calif�rnia Fest - Pir�mide de marte",
+            "name": "Heartfield",
             "time": "21:00:00Z",
             "description": null
           },
           {
-            "name": "Califórnia Fest - Sonora 4",
-            "time": "18:30:00Z",
+            "name": "Firecracker",
+            "time": "00:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-10-18": [
+          {
+            "name": "Fourstance",
+            "time": "21:30:00Z",
             "description": null
           }
         ]
@@ -202,20 +142,6 @@
       "bairro": "Rebouças",
       "cat": "Gourmet",
       "events": {
-        "2026-10-11": [
-          {
-            "name": "Pub Aberto",
-            "time": "17:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-10-12": [
-          {
-            "name": "Pub Aberto",
-            "time": "17:00:00Z",
-            "description": null
-          }
-        ],
         "2026-10-14": [
           {
             "name": "Pub Aberto",
@@ -230,7 +156,20 @@
       "ig": "https://www.instagram.com/dobruckibar/",
       "bairro": "Rebouças",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-10-17": [
+          {
+            "name": "Show Candyman Club e atrações",
+            "time": "15:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Música ao vivo",
+            "time": null,
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Jokers",
@@ -253,24 +192,76 @@
       "bairro": "Rebouças",
       "cat": "Palco e Show",
       "events": {
-        "2026-10-11": [
-          {
-            "name": "KAMAITACHI",
-            "time": null,
-            "description": null
-          }
-        ],
         "2026-10-14": [
           {
-            "name": "APOCALYPTICA",
-            "time": null,
+            "name": "Apocalyptica",
+            "time": "21:00:00Z",
             "description": null
           }
         ],
         "2026-10-15": [
           {
-            "name": "AMORPHIS",
+            "name": "TMT Wolves",
+            "time": "20:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Amorphis",
+            "time": "21:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-10-16": [
+          {
+            "name": "Texas Experience",
             "time": null,
+            "description": null
+          },
+          {
+            "name": "Pay In Cash",
+            "time": "20:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Banda Black Bulls",
+            "time": "22:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Jack Vermouth",
+            "time": "00:30:00Z",
+            "description": null
+          },
+          {
+            "name": "PAYIN CASH",
+            "time": "20:30:00Z",
+            "description": null
+          },
+          {
+            "name": "BLACK BULLS",
+            "time": "22:30:00Z",
+            "description": null
+          },
+          {
+            "name": "JACK VERMOTH",
+            "time": "00:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-10-17": [
+          {
+            "name": "Balada do Louco",
+            "time": null,
+            "description": null
+          },
+          {
+            "name": "Kilohertz Trio",
+            "time": "21:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Jack Vermouth",
+            "time": "23:00:00Z",
             "description": null
           }
         ]
@@ -304,10 +295,20 @@
       "bairro": "Boqueirão",
       "cat": "Palco e Show",
       "events": {
-        "2026-10-11": [
+        "2026-10-17": [
           {
-            "name": "Embalos de Sebaldo à Noite com DJs Lima Father e Marquinhos Espinosa",
-            "time": null,
+            "name": "SILVERMOON",
+            "time": "21:00:00Z",
+            "description": null
+          },
+          {
+            "name": "MADE IN CWB (Iron Maiden Cover)",
+            "time": "23:00:00Z",
+            "description": null
+          },
+          {
+            "name": "HELLS BELLS (ACDC tributo)",
+            "time": "01:00:00Z",
             "description": null
           }
         ]
@@ -325,7 +326,29 @@
       "ig": "https://www.instagram.com/resistenciarock/",
       "bairro": "Bairro Alto",
       "cat": "Raiz",
-      "events": {}
+      "events": {
+        "2026-10-13": [
+          {
+            "name": "Rodízio de Petiscos",
+            "time": "18:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-10-14": [
+          {
+            "name": "Rodízio de Petiscos",
+            "time": "18:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-10-15": [
+          {
+            "name": "Rodízio de Petiscos",
+            "time": "18:00:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Clay Highway",
@@ -344,28 +367,6 @@
             "time": null,
             "description": null
           }
-        ],
-        "2026-10-11": [
-          {
-            "name": "ROCK KIDS",
-            "time": "16:00:00.000Z",
-            "description": null
-          },
-          {
-            "name": "SHOW COM PALHAÇO BATATA",
-            "time": "17:00:00Z",
-            "description": null
-          },
-          {
-            "name": "MAMONAS ASSASSINAS COVER",
-            "time": "18:00:00Z",
-            "description": null
-          },
-          {
-            "name": "GALLO JACK - Pop e disco music",
-            "time": "20:30:00Z",
-            "description": null
-          }
         ]
       }
     },
@@ -381,15 +382,7 @@
       "ig": "https://www.instagram.com/oldjackgaragebar/",
       "bairro": "Novo Mundo",
       "cat": "Raiz",
-      "events": {
-        "2026-10-11": [
-          {
-            "name": "Banda Responsa (Pop Rock Nacional)",
-            "time": "20:30:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Animals Pub",
