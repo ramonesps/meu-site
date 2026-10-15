@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-13T16:56:58.670Z",
-  "week_start": "2026-10-13",
+  "updated_at": "2026-10-15T14:10:55.340Z",
+  "week_start": "2026-10-15",
   "model": "gemini-2.5-flash",
   "venues": [
     {
@@ -44,7 +44,15 @@
       "ig": "https://www.instagram.com/bardafabricabastards/",
       "bairro": "Bom Retiro",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-10-15": [
+          {
+            "name": "Reabertura do bar",
+            "time": null,
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Maniacs",
@@ -141,15 +149,7 @@
       "ig": "https://www.instagram.com/barbariumpub/",
       "bairro": "Rebouças",
       "cat": "Gourmet",
-      "events": {
-        "2026-10-14": [
-          {
-            "name": "Pub Aberto",
-            "time": null,
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Dobrucki",
@@ -177,10 +177,24 @@
       "bairro": "Centro",
       "cat": "Gourmet",
       "events": {
+        "2026-10-16": [
+          {
+            "name": "JENNY DON´T and the SPURS",
+            "time": "18:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-10-15": [
+          {
+            "name": "Prato do dia: Alcatra Grelhada",
+            "time": null,
+            "description": null
+          }
+        ],
         "2026-10-17": [
           {
-            "name": "Feijoada",
-            "time": null,
+            "name": "Live Transmission e Amazing Underdogs & Leon Winchester",
+            "time": "22:00:00Z",
             "description": null
           }
         ]
@@ -192,13 +206,6 @@
       "bairro": "Rebouças",
       "cat": "Palco e Show",
       "events": {
-        "2026-10-14": [
-          {
-            "name": "Apocalyptica",
-            "time": "21:00:00Z",
-            "description": null
-          }
-        ],
         "2026-10-15": [
           {
             "name": "TMT Wolves",
@@ -275,15 +282,15 @@
       "events": {
         "2026-10-16": [
           {
-            "name": "Especial RUSH e PINK FLOYD com Ghost Riders e Pigs & Diamonds",
-            "time": null,
+            "name": "Nandu Costa (Charlie Brown Jr) e CPM 22 cover Brasil",
+            "time": "22:00:00.000Z",
             "description": null
           }
         ],
         "2026-10-17": [
           {
-            "name": "Monsters of Rock: Tributos a Black Sabbath, Iron Maiden e Metallica",
-            "time": null,
+            "name": "Bloodtoberfest com Mein Teil Rammstein cover e Snot Slipknot Cover",
+            "time": "21:30:00Z",
             "description": null
           }
         ]
@@ -327,20 +334,6 @@
       "bairro": "Bairro Alto",
       "cat": "Raiz",
       "events": {
-        "2026-10-13": [
-          {
-            "name": "Rodízio de Petiscos",
-            "time": "18:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-10-14": [
-          {
-            "name": "Rodízio de Petiscos",
-            "time": "18:00:00Z",
-            "description": null
-          }
-        ],
         "2026-10-15": [
           {
             "name": "Rodízio de Petiscos",
@@ -356,15 +349,59 @@
       "bairro": "Capão Raso",
       "cat": "Raiz",
       "events": {
-        "2026-10-13": [
+        "2026-10-16": [
           {
-            "name": "Cassidy Paris ao vivo",
-            "time": "20:00:00.000000000Z",
+            "name": "THE DIKSONS",
+            "time": null,
             "description": null
           },
           {
-            "name": "SHOW INTERNACIONAL Cassidy Paris",
+            "name": "GREEN DAY com FOUR STANCE",
             "time": null,
+            "description": null
+          }
+        ],
+        "2026-10-17": [
+          {
+            "name": "HAWKS",
+            "time": "20:30:00Z",
+            "description": null
+          },
+          {
+            "name": "BOOGIE NIGHT",
+            "time": "22:30:00Z",
+            "description": null
+          },
+          {
+            "name": "GERA��O COCA COLA",
+            "time": "01:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-10-18": [
+          {
+            "name": "MOTORBLACK ROCK FESTIVAL - Criminal Action",
+            "time": "15:15:00Z",
+            "description": null
+          },
+          {
+            "name": "MOTORBLACK ROCK FESTIVAL - Flashmetal",
+            "time": "16:30:00Z",
+            "description": null
+          },
+          {
+            "name": "MOTORBLACK ROCK FESTIVAL - MotorBlack",
+            "time": "18:00:00Z",
+            "description": null
+          },
+          {
+            "name": "MOTORBLACK ROCK FESTIVAL - Motorocker",
+            "time": "19:30:00Z",
+            "description": null
+          },
+          {
+            "name": "MOTORBLACK ROCK FESTIVAL - 74 Jailbreak",
+            "time": "22:00:00Z",
             "description": null
           }
         ]
