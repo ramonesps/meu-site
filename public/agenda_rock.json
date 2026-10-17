@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-15T14:10:55.340Z",
-  "week_start": "2026-10-15",
+  "updated_at": "2026-10-17T12:56:46.931Z",
+  "week_start": "2026-10-17",
   "model": "gemini-2.5-flash",
   "venues": [
     {
@@ -18,8 +18,58 @@
       "events": {
         "2026-10-18": [
           {
-            "name": "Thunderstruck Edição Rocktober",
-            "time": null,
+            "name": "Gypsy Dream Reunion",
+            "time": "20:00:00.000Z",
+            "description": null
+          },
+          {
+            "name": "ROCK RACOONS (Beatles e Rolling Stones)",
+            "time": "16:00:00Z",
+            "description": null
+          },
+          {
+            "name": "PENNYBACK (Post Grunge, Creed e Nickelback)",
+            "time": "18:00:00Z",
+            "description": null
+          },
+          {
+            "name": "REDLINE (New Metal + Especial Linkin Park)",
+            "time": "20:00:00Z",
+            "description": null
+          },
+          {
+            "name": "HEARTFIELD (Hard Rock and 80's Classics)",
+            "time": "17:30:00Z",
+            "description": null
+          },
+          {
+            "name": "VÁLVULA VAPOR (Rock Nacional)",
+            "time": "19:30:00Z",
+            "description": null
+          },
+          {
+            "name": "VITROLA VINTAGE (Hard Rock Legends)",
+            "time": "18:00:00Z",
+            "description": null
+          },
+          {
+            "name": "GYPSY DREAM REUNION (Clássicos do Rock, Metal e Autoral)",
+            "time": "20:00:00Z",
+            "description": null
+          },
+          {
+            "name": "HELLS BELLS (Tributo ACDC)",
+            "time": "22:00:00Z",
+            "description": null
+          },
+          {
+            "name": "CAIO CANDIDO",
+            "time": "17:30:00Z",
+            "description": null
+          },
+          {
+            "name": "MURTA",
+            "time": "20:00:00Z",
             "description": null
           }
         ]
@@ -44,15 +94,7 @@
       "ig": "https://www.instagram.com/bardafabricabastards/",
       "bairro": "Bom Retiro",
       "cat": "Gourmet",
-      "events": {
-        "2026-10-15": [
-          {
-            "name": "Reabertura do bar",
-            "time": null,
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Maniacs",
@@ -62,14 +104,14 @@
       "events": {
         "2026-10-17": [
           {
-            "name": "Almoço: Alcatra à milanesa",
+            "name": "Almoço de fim de semana",
             "time": null,
             "description": null
           }
         ],
         "2026-10-18": [
           {
-            "name": "Almoço: Alcatra à milanesa",
+            "name": "Almoço de fim de semana",
             "time": null,
             "description": null
           }
@@ -89,40 +131,6 @@
       "bairro": "Seminário",
       "cat": "Gourmet",
       "events": {
-        "2026-10-15": [
-          {
-            "name": "OPEN PRA MULHERADA",
-            "time": "19:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Hawks",
-            "time": "19:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Lenhadores da Antártida",
-            "time": "22:30:00Z",
-            "description": null
-          }
-        ],
-        "2026-10-16": [
-          {
-            "name": "MTV 2000",
-            "time": null,
-            "description": null
-          },
-          {
-            "name": "Os Caras do Charlie Brown",
-            "time": "21:00:00Z",
-            "description": null
-          },
-          {
-            "name": "The Fábio Jrs",
-            "time": "00:00:00Z",
-            "description": null
-          }
-        ],
         "2026-10-17": [
           {
             "name": "Heartfield",
@@ -159,12 +167,12 @@
       "events": {
         "2026-10-17": [
           {
-            "name": "Show Candyman Club e atrações",
-            "time": "15:00:00Z",
+            "name": "Show com Candyman Club e convidados",
+            "time": "15:00:00.000Z",
             "description": null
           },
           {
-            "name": "Música ao vivo",
+            "name": "Dobrucki",
             "time": null,
             "description": null
           }
@@ -177,20 +185,6 @@
       "bairro": "Centro",
       "cat": "Gourmet",
       "events": {
-        "2026-10-16": [
-          {
-            "name": "JENNY DON´T and the SPURS",
-            "time": "18:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-10-15": [
-          {
-            "name": "Prato do dia: Alcatra Grelhada",
-            "time": null,
-            "description": null
-          }
-        ],
         "2026-10-17": [
           {
             "name": "Live Transmission e Amazing Underdogs & Leon Winchester",
@@ -206,61 +200,7 @@
       "bairro": "Rebouças",
       "cat": "Palco e Show",
       "events": {
-        "2026-10-15": [
-          {
-            "name": "TMT Wolves",
-            "time": "20:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Amorphis",
-            "time": "21:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-10-16": [
-          {
-            "name": "Texas Experience",
-            "time": null,
-            "description": null
-          },
-          {
-            "name": "Pay In Cash",
-            "time": "20:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Banda Black Bulls",
-            "time": "22:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Jack Vermouth",
-            "time": "00:30:00Z",
-            "description": null
-          },
-          {
-            "name": "PAYIN CASH",
-            "time": "20:30:00Z",
-            "description": null
-          },
-          {
-            "name": "BLACK BULLS",
-            "time": "22:30:00Z",
-            "description": null
-          },
-          {
-            "name": "JACK VERMOTH",
-            "time": "00:30:00Z",
-            "description": null
-          }
-        ],
         "2026-10-17": [
-          {
-            "name": "Balada do Louco",
-            "time": null,
-            "description": null
-          },
           {
             "name": "Kilohertz Trio",
             "time": "21:00:00Z",
@@ -269,6 +209,11 @@
           {
             "name": "Jack Vermouth",
             "time": "23:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Balada do Louco",
+            "time": "00:00:00Z",
             "description": null
           }
         ]
@@ -280,13 +225,6 @@
       "bairro": "São Francisco",
       "cat": "Palco e Show",
       "events": {
-        "2026-10-16": [
-          {
-            "name": "Nandu Costa (Charlie Brown Jr) e CPM 22 cover Brasil",
-            "time": "22:00:00.000Z",
-            "description": null
-          }
-        ],
         "2026-10-17": [
           {
             "name": "Bloodtoberfest com Mein Teil Rammstein cover e Snot Slipknot Cover",
@@ -333,15 +271,7 @@
       "ig": "https://www.instagram.com/resistenciarock/",
       "bairro": "Bairro Alto",
       "cat": "Raiz",
-      "events": {
-        "2026-10-15": [
-          {
-            "name": "Rodízio de Petiscos",
-            "time": "18:00:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Clay Highway",
@@ -349,18 +279,6 @@
       "bairro": "Capão Raso",
       "cat": "Raiz",
       "events": {
-        "2026-10-16": [
-          {
-            "name": "THE DIKSONS",
-            "time": null,
-            "description": null
-          },
-          {
-            "name": "GREEN DAY com FOUR STANCE",
-            "time": null,
-            "description": null
-          }
-        ],
         "2026-10-17": [
           {
             "name": "HAWKS",
@@ -412,7 +330,22 @@
       "ig": "https://www.instagram.com/armazemgaragem/",
       "bairro": "Santo Inácio",
       "cat": "Raiz",
-      "events": {}
+      "events": {
+        "2026-10-17": [
+          {
+            "name": "Spiders From Bars e Sex Machine",
+            "time": "21:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-10-18": [
+          {
+            "name": "Violet's Trio e Take Off",
+            "time": "19:00:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Old Jack",
