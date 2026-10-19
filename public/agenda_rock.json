@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-17T12:56:46.931Z",
-  "week_start": "2026-10-17",
+  "updated_at": "2026-10-19T16:28:04.217Z",
+  "week_start": "2026-10-19",
   "model": "gemini-2.5-flash",
   "venues": [
     {
@@ -15,72 +15,74 @@
       "ig": "https://www.instagram.com/barcrossroads/",
       "bairro": "Água Verde",
       "cat": "Gourmet",
-      "events": {
-        "2026-10-18": [
-          {
-            "name": "Gypsy Dream Reunion",
-            "time": "20:00:00.000Z",
-            "description": null
-          },
-          {
-            "name": "ROCK RACOONS (Beatles e Rolling Stones)",
-            "time": "16:00:00Z",
-            "description": null
-          },
-          {
-            "name": "PENNYBACK (Post Grunge, Creed e Nickelback)",
-            "time": "18:00:00Z",
-            "description": null
-          },
-          {
-            "name": "REDLINE (New Metal + Especial Linkin Park)",
-            "time": "20:00:00Z",
-            "description": null
-          },
-          {
-            "name": "HEARTFIELD (Hard Rock and 80's Classics)",
-            "time": "17:30:00Z",
-            "description": null
-          },
-          {
-            "name": "VÁLVULA VAPOR (Rock Nacional)",
-            "time": "19:30:00Z",
-            "description": null
-          },
-          {
-            "name": "VITROLA VINTAGE (Hard Rock Legends)",
-            "time": "18:00:00Z",
-            "description": null
-          },
-          {
-            "name": "GYPSY DREAM REUNION (Clássicos do Rock, Metal e Autoral)",
-            "time": "20:00:00Z",
-            "description": null
-          },
-          {
-            "name": "HELLS BELLS (Tributo ACDC)",
-            "time": "22:00:00Z",
-            "description": null
-          },
-          {
-            "name": "CAIO CANDIDO",
-            "time": "17:30:00Z",
-            "description": null
-          },
-          {
-            "name": "MURTA",
-            "time": "20:00:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Hard Rock",
       "ig": "https://www.instagram.com/hrccuritiba/",
       "bairro": "Batel",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-10-24": [
+          {
+            "name": "Fiuk e Hori",
+            "time": null,
+            "description": null
+          },
+          {
+            "name": "Hori [+] com Fiuk",
+            "time": "19:30:00.000000000Z",
+            "description": null
+          }
+        ],
+        "2026-10-19": [
+          {
+            "name": "Banda Asgard (Pop Rock)",
+            "time": "19:30:00.000000000Z",
+            "description": null
+          }
+        ],
+        "2026-10-20": [
+          {
+            "name": "Banks (Easy Rock)",
+            "time": "19:30:00.000000000Z",
+            "description": null
+          },
+          {
+            "name": "Pocket Show com Lord Krony - Tributo Freddie Mercury",
+            "time": "21:00:00.000000000Z",
+            "description": null
+          }
+        ],
+        "2026-10-21": [
+          {
+            "name": "Banks (Easy Rock)",
+            "time": "19:30:00.000000000Z",
+            "description": null
+          }
+        ],
+        "2026-10-22": [
+          {
+            "name": "Elvis Rock Band (Rock Clássico)",
+            "time": "19:30:00.000000000Z",
+            "description": null
+          }
+        ],
+        "2026-10-23": [
+          {
+            "name": "Banda End Times (Pop Rock)",
+            "time": "19:30:00.000000000Z",
+            "description": null
+          }
+        ],
+        "2026-10-25": [
+          {
+            "name": "Blumenfolk (Southern Rock, Country)",
+            "time": "19:30:00.000000000Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Sheridans",
@@ -101,22 +103,7 @@
       "ig": "https://www.instagram.com/bardamaniacs/",
       "bairro": "Cabral",
       "cat": "Gourmet",
-      "events": {
-        "2026-10-17": [
-          {
-            "name": "Almoço de fim de semana",
-            "time": null,
-            "description": null
-          }
-        ],
-        "2026-10-18": [
-          {
-            "name": "Almoço de fim de semana",
-            "time": null,
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Rock Pizza",
@@ -130,54 +117,87 @@
       "ig": "https://www.instagram.com/distrito.1340/",
       "bairro": "Seminário",
       "cat": "Gourmet",
-      "events": {
-        "2026-10-17": [
-          {
-            "name": "Heartfield",
-            "time": "21:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Firecracker",
-            "time": "00:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-10-18": [
-          {
-            "name": "Fourstance",
-            "time": "21:30:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Barbarium",
       "ig": "https://www.instagram.com/barbariumpub/",
       "bairro": "Rebouças",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-10-20": [
+          {
+            "name": "Funcionamento",
+            "time": "18:00:00.000Z",
+            "description": null
+          },
+          {
+            "name": "Happy Hour",
+            "time": "18:00:00.000Z",
+            "description": null
+          }
+        ],
+        "2026-10-21": [
+          {
+            "name": "Funcionamento",
+            "time": "18:00:00.000Z",
+            "description": null
+          },
+          {
+            "name": "Happy Hour",
+            "time": "18:00:00.000Z",
+            "description": null
+          }
+        ],
+        "2026-10-22": [
+          {
+            "name": "Funcionamento",
+            "time": "18:00:00.000Z",
+            "description": null
+          },
+          {
+            "name": "Happy Hour",
+            "time": "18:00:00.000Z",
+            "description": null
+          },
+          {
+            "name": "Esquenta",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-10-23": [
+          {
+            "name": "Funcionamento",
+            "time": "18:00:00.000Z",
+            "description": null
+          },
+          {
+            "name": "Happy Hour",
+            "time": "18:00:00.000Z",
+            "description": null
+          }
+        ],
+        "2026-10-24": [
+          {
+            "name": "Funcionamento",
+            "time": "18:00:00.000Z",
+            "description": null
+          },
+          {
+            "name": "Happy Hour",
+            "time": "18:00:00.000Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Dobrucki",
       "ig": "https://www.instagram.com/dobruckibar/",
       "bairro": "Rebouças",
       "cat": "Gourmet",
-      "events": {
-        "2026-10-17": [
-          {
-            "name": "Show com Candyman Club e convidados",
-            "time": "15:00:00.000Z",
-            "description": null
-          },
-          {
-            "name": "Dobrucki",
-            "time": null,
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Jokers",
@@ -185,10 +205,10 @@
       "bairro": "Centro",
       "cat": "Gourmet",
       "events": {
-        "2026-10-17": [
+        "2026-10-19": [
           {
-            "name": "Live Transmission e Amazing Underdogs & Leon Winchester",
-            "time": "22:00:00Z",
+            "name": "Almoço com pratos do dia",
+            "time": null,
             "description": null
           }
         ]
@@ -199,25 +219,7 @@
       "ig": "https://www.instagram.com/torkandroll/",
       "bairro": "Rebouças",
       "cat": "Palco e Show",
-      "events": {
-        "2026-10-17": [
-          {
-            "name": "Kilohertz Trio",
-            "time": "21:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Jack Vermouth",
-            "time": "23:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Balada do Louco",
-            "time": "00:00:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Blood Rock",
@@ -225,9 +227,16 @@
       "bairro": "São Francisco",
       "cat": "Palco e Show",
       "events": {
-        "2026-10-17": [
+        "2026-10-23": [
           {
-            "name": "Bloodtoberfest com Mein Teil Rammstein cover e Snot Slipknot Cover",
+            "name": "Festa Grunge Scream com Nirvana, Stone Temple Pilots, Silverchair e Alice in Cha",
+            "time": "21:30:00.000Z",
+            "description": null
+          }
+        ],
+        "2026-10-24": [
+          {
+            "name": "NEW METAL INFECTION com tributos a Korn, System of a Down e Linkin Park",
             "time": "21:30:00Z",
             "description": null
           }
@@ -239,25 +248,7 @@
       "ig": "https://www.instagram.com/sebas_rock_bar/",
       "bairro": "Boqueirão",
       "cat": "Palco e Show",
-      "events": {
-        "2026-10-17": [
-          {
-            "name": "SILVERMOON",
-            "time": "21:00:00Z",
-            "description": null
-          },
-          {
-            "name": "MADE IN CWB (Iron Maiden Cover)",
-            "time": "23:00:00Z",
-            "description": null
-          },
-          {
-            "name": "HELLS BELLS (ACDC tributo)",
-            "time": "01:00:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Belvedere",
@@ -279,47 +270,27 @@
       "bairro": "Capão Raso",
       "cat": "Raiz",
       "events": {
-        "2026-10-17": [
+        "2026-10-24": [
           {
-            "name": "HAWKS",
+            "name": "Halloween do Clay",
+            "time": null,
+            "description": null
+          },
+          {
+            "name": "Pitty Cover Brasil",
             "time": "20:30:00Z",
             "description": null
           },
           {
-            "name": "BOOGIE NIGHT",
+            "name": "RW Pop Rock",
             "time": "22:30:00Z",
-            "description": null
-          },
-          {
-            "name": "GERA��O COCA COLA",
-            "time": "01:00:00Z",
             "description": null
           }
         ],
-        "2026-10-18": [
+        "2026-10-25": [
           {
-            "name": "MOTORBLACK ROCK FESTIVAL - Criminal Action",
-            "time": "15:15:00Z",
-            "description": null
-          },
-          {
-            "name": "MOTORBLACK ROCK FESTIVAL - Flashmetal",
-            "time": "16:30:00Z",
-            "description": null
-          },
-          {
-            "name": "MOTORBLACK ROCK FESTIVAL - MotorBlack",
-            "time": "18:00:00Z",
-            "description": null
-          },
-          {
-            "name": "MOTORBLACK ROCK FESTIVAL - Motorocker",
-            "time": "19:30:00Z",
-            "description": null
-          },
-          {
-            "name": "MOTORBLACK ROCK FESTIVAL - 74 Jailbreak",
-            "time": "22:00:00Z",
+            "name": "JAMP Rock Nacional 90/2000",
+            "time": "01:00:00Z",
             "description": null
           }
         ]
@@ -330,22 +301,7 @@
       "ig": "https://www.instagram.com/armazemgaragem/",
       "bairro": "Santo Inácio",
       "cat": "Raiz",
-      "events": {
-        "2026-10-17": [
-          {
-            "name": "Spiders From Bars e Sex Machine",
-            "time": "21:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-10-18": [
-          {
-            "name": "Violet's Trio e Take Off",
-            "time": "19:00:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Old Jack",
