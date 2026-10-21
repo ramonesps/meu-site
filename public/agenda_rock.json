@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-19T16:28:04.217Z",
-  "week_start": "2026-10-19",
+  "updated_at": "2026-10-21T14:31:39.511Z",
+  "week_start": "2026-10-21",
   "model": "gemini-2.5-flash",
   "venues": [
     {
@@ -15,7 +15,29 @@
       "ig": "https://www.instagram.com/barcrossroads/",
       "bairro": "Água Verde",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-10-22": [
+          {
+            "name": "JAZZ & CLASSICS",
+            "time": "18:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-10-23": [
+          {
+            "name": "70’s Rock",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-10-24": [
+          {
+            "name": "Rock Nacional",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Hard Rock",
@@ -32,25 +54,6 @@
           {
             "name": "Hori [+] com Fiuk",
             "time": "19:30:00.000000000Z",
-            "description": null
-          }
-        ],
-        "2026-10-19": [
-          {
-            "name": "Banda Asgard (Pop Rock)",
-            "time": "19:30:00.000000000Z",
-            "description": null
-          }
-        ],
-        "2026-10-20": [
-          {
-            "name": "Banks (Easy Rock)",
-            "time": "19:30:00.000000000Z",
-            "description": null
-          },
-          {
-            "name": "Pocket Show com Lord Krony - Tributo Freddie Mercury",
-            "time": "21:00:00.000000000Z",
             "description": null
           }
         ],
@@ -103,7 +106,22 @@
       "ig": "https://www.instagram.com/bardamaniacs/",
       "bairro": "Cabral",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-10-24": [
+          {
+            "name": "Almoço com Alcatra à milanesa",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-10-25": [
+          {
+            "name": "Almoço com Alcatra à milanesa",
+            "time": null,
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Rock Pizza",
@@ -117,7 +135,61 @@
       "ig": "https://www.instagram.com/distrito.1340/",
       "bairro": "Seminário",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-10-22": [
+          {
+            "name": "OPEN PRA MULHERADA",
+            "time": "19:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Radiophonics",
+            "time": "19:30:00Z",
+            "description": null
+          },
+          {
+            "name": "The Velvets",
+            "time": "22:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-10-23": [
+          {
+            "name": "El Cartel",
+            "time": "21:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Rusty Cage",
+            "time": "00:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-10-24": [
+          {
+            "name": "República Pine",
+            "time": "21:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Candyman",
+            "time": "00:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-10-25": [
+          {
+            "name": "CPM 22 Cover",
+            "time": "19:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Let’s Core",
+            "time": "22:00:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Barbarium",
@@ -125,18 +197,6 @@
       "bairro": "Rebouças",
       "cat": "Gourmet",
       "events": {
-        "2026-10-20": [
-          {
-            "name": "Funcionamento",
-            "time": "18:00:00.000Z",
-            "description": null
-          },
-          {
-            "name": "Happy Hour",
-            "time": "18:00:00.000Z",
-            "description": null
-          }
-        ],
         "2026-10-21": [
           {
             "name": "Funcionamento",
@@ -197,17 +257,15 @@
       "ig": "https://www.instagram.com/dobruckibar/",
       "bairro": "Rebouças",
       "cat": "Gourmet",
-      "events": {}
-    },
-    {
-      "nome": "Jokers",
-      "ig": "https://www.instagram.com/jokerspub/",
-      "bairro": "Centro",
-      "cat": "Gourmet",
       "events": {
-        "2026-10-19": [
+        "2026-10-24": [
           {
-            "name": "Almoço com pratos do dia",
+            "name": "Candyman Club",
+            "time": "15:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Música ao vivo",
             "time": null,
             "description": null
           }
@@ -215,11 +273,31 @@
       }
     },
     {
+      "nome": "Jokers",
+      "ig": "https://www.instagram.com/jokerspub/",
+      "bairro": "Centro",
+      "cat": "Gourmet",
+      "events": {}
+    },
+    {
       "nome": "Tork n' Roll",
       "ig": "https://www.instagram.com/torkandroll/",
       "bairro": "Rebouças",
       "cat": "Palco e Show",
-      "events": {}
+      "events": {
+        "2026-10-24": [
+          {
+            "name": "Retro 2Mil com Pelanza (Restart), Hevo 84 e Dead Fish",
+            "time": null,
+            "description": null
+          },
+          {
+            "name": "Evento Retrô 2000 com Pelanza, Hevo 84 e Dead Fish",
+            "time": "20:00:00.000Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Blood Rock",
@@ -248,7 +326,34 @@
       "ig": "https://www.instagram.com/sebas_rock_bar/",
       "bairro": "Boqueirão",
       "cat": "Palco e Show",
-      "events": {}
+      "events": {
+        "2026-10-24": [
+          {
+            "name": "Show Boogie Night",
+            "time": "21:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Show Nega Fulo",
+            "time": "23:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-10-22": [
+          {
+            "name": "Vintage Lounge com DJ Jeison Salles",
+            "time": "19:00:00.000Z",
+            "description": null
+          }
+        ],
+        "2026-10-23": [
+          {
+            "name": "Banda ACOUSTICA e OPEN FOOD com Fabinho Oliveira",
+            "time": "19:00:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Belvedere",
