@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-21T14:31:39.511Z",
-  "week_start": "2026-10-21",
+  "updated_at": "2026-10-23T14:17:35.573Z",
+  "week_start": "2026-10-23",
   "model": "gemini-2.5-flash",
   "venues": [
     {
@@ -16,13 +16,6 @@
       "bairro": "Água Verde",
       "cat": "Gourmet",
       "events": {
-        "2026-10-22": [
-          {
-            "name": "JAZZ & CLASSICS",
-            "time": "18:00:00Z",
-            "description": null
-          }
-        ],
         "2026-10-23": [
           {
             "name": "70’s Rock",
@@ -45,43 +38,24 @@
       "bairro": "Batel",
       "cat": "Gourmet",
       "events": {
-        "2026-10-24": [
+        "2026-10-27": [
           {
-            "name": "Fiuk e Hori",
-            "time": null,
-            "description": null
-          },
-          {
-            "name": "Hori [+] com Fiuk",
-            "time": "19:30:00.000000000Z",
+            "name": "Maiden Factor",
+            "time": "19:30:00Z",
             "description": null
           }
         ],
-        "2026-10-21": [
+        "2026-10-28": [
           {
-            "name": "Banks (Easy Rock)",
-            "time": "19:30:00.000000000Z",
+            "name": "Scream for Maiden",
+            "time": "12:30:00Z",
             "description": null
           }
         ],
-        "2026-10-22": [
+        "2026-10-29": [
           {
-            "name": "Elvis Rock Band (Rock Clássico)",
-            "time": "19:30:00.000000000Z",
-            "description": null
-          }
-        ],
-        "2026-10-23": [
-          {
-            "name": "Banda End Times (Pop Rock)",
-            "time": "19:30:00.000000000Z",
-            "description": null
-          }
-        ],
-        "2026-10-25": [
-          {
-            "name": "Blumenfolk (Southern Rock, Country)",
-            "time": "19:30:00.000000000Z",
+            "name": "Scream for Maiden",
+            "time": "12:30:00Z",
             "description": null
           }
         ]
@@ -99,7 +73,55 @@
       "ig": "https://www.instagram.com/bardafabricabastards/",
       "bairro": "Bom Retiro",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-10-27": [
+          {
+            "name": "Happy Hour com 30% off",
+            "time": "18:00:00.000Z",
+            "description": null
+          }
+        ],
+        "2026-10-28": [
+          {
+            "name": "Happy Hour com 30% off",
+            "time": "18:00:00.000Z",
+            "description": null
+          }
+        ],
+        "2026-10-29": [
+          {
+            "name": "Happy Hour com 30% off",
+            "time": "18:00:00.000Z",
+            "description": null
+          }
+        ],
+        "2026-10-23": [
+          {
+            "name": "HONEY! R U COMING?",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-10-24": [
+          {
+            "name": "FIRE DUO",
+            "time": "16:00:00Z",
+            "description": null
+          },
+          {
+            "name": "SYD VINÍCIUS",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-10-25": [
+          {
+            "name": "OCHTOP TRIO",
+            "time": "16:00:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Maniacs",
@@ -128,7 +150,57 @@
       "ig": "https://www.instagram.com/rockpizzaroll.bar/",
       "bairro": "Rebouças",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-10-23": [
+          {
+            "name": "Acústico Rock",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-10-24": [
+          {
+            "name": "Rock Acústico",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-10-25": [
+          {
+            "name": "Rock Acústico",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-10-26": [
+          {
+            "name": "Rock Acústico",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-10-27": [
+          {
+            "name": "Rock Acústico",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-10-28": [
+          {
+            "name": "Rock Acústico",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-10-29": [
+          {
+            "name": "Rock Acústico",
+            "time": null,
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Distrito 1340",
@@ -136,23 +208,6 @@
       "bairro": "Seminário",
       "cat": "Gourmet",
       "events": {
-        "2026-10-22": [
-          {
-            "name": "OPEN PRA MULHERADA",
-            "time": "19:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Radiophonics",
-            "time": "19:30:00Z",
-            "description": null
-          },
-          {
-            "name": "The Velvets",
-            "time": "22:00:00Z",
-            "description": null
-          }
-        ],
         "2026-10-23": [
           {
             "name": "El Cartel",
@@ -197,56 +252,17 @@
       "bairro": "Rebouças",
       "cat": "Gourmet",
       "events": {
-        "2026-10-21": [
-          {
-            "name": "Funcionamento",
-            "time": "18:00:00.000Z",
-            "description": null
-          },
-          {
-            "name": "Happy Hour",
-            "time": "18:00:00.000Z",
-            "description": null
-          }
-        ],
-        "2026-10-22": [
-          {
-            "name": "Funcionamento",
-            "time": "18:00:00.000Z",
-            "description": null
-          },
-          {
-            "name": "Happy Hour",
-            "time": "18:00:00.000Z",
-            "description": null
-          },
-          {
-            "name": "Esquenta",
-            "time": null,
-            "description": null
-          }
-        ],
         "2026-10-23": [
           {
-            "name": "Funcionamento",
-            "time": "18:00:00.000Z",
-            "description": null
-          },
-          {
-            "name": "Happy Hour",
-            "time": "18:00:00.000Z",
+            "name": "Tiny Motion (rock acústico)",
+            "time": "21:00:00Z",
             "description": null
           }
         ],
         "2026-10-24": [
           {
-            "name": "Funcionamento",
-            "time": "18:00:00.000Z",
-            "description": null
-          },
-          {
-            "name": "Happy Hour",
-            "time": "18:00:00.000Z",
+            "name": "Bad Mood (rock n roll)",
+            "time": "21:00:00Z",
             "description": null
           }
         ]
@@ -277,7 +293,30 @@
       "ig": "https://www.instagram.com/jokerspub/",
       "bairro": "Centro",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-10-23": [
+          {
+            "name": "Prato do dia: Pescada Branca com molho de espinafre",
+            "time": null,
+            "description": null
+          },
+          {
+            "name": "Bon Jovi Cover Brasil",
+            "time": "21:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Happy Hour",
+            "time": "18:00:00Z",
+            "description": null
+          },
+          {
+            "name": "DJ Zi",
+            "time": null,
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Tork n' Roll",
@@ -308,13 +347,6 @@
         "2026-10-23": [
           {
             "name": "Festa Grunge Scream com Nirvana, Stone Temple Pilots, Silverchair e Alice in Cha",
-            "time": "21:30:00.000Z",
-            "description": null
-          }
-        ],
-        "2026-10-24": [
-          {
-            "name": "NEW METAL INFECTION com tributos a Korn, System of a Down e Linkin Park",
             "time": "21:30:00Z",
             "description": null
           }
@@ -336,13 +368,6 @@
           {
             "name": "Show Nega Fulo",
             "time": "23:30:00Z",
-            "description": null
-          }
-        ],
-        "2026-10-22": [
-          {
-            "name": "Vintage Lounge com DJ Jeison Salles",
-            "time": "19:00:00.000Z",
             "description": null
           }
         ],
@@ -375,27 +400,22 @@
       "bairro": "Capão Raso",
       "cat": "Raiz",
       "events": {
+        "2026-10-23": [
+          {
+            "name": "Pearl Jam Ribeirão Cover",
+            "time": "21:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Linkin Park Brasil Cover",
+            "time": "00:00:00Z",
+            "description": null
+          }
+        ],
         "2026-10-24": [
           {
             "name": "Halloween do Clay",
             "time": null,
-            "description": null
-          },
-          {
-            "name": "Pitty Cover Brasil",
-            "time": "20:30:00Z",
-            "description": null
-          },
-          {
-            "name": "RW Pop Rock",
-            "time": "22:30:00Z",
-            "description": null
-          }
-        ],
-        "2026-10-25": [
-          {
-            "name": "JAMP Rock Nacional 90/2000",
-            "time": "01:00:00Z",
             "description": null
           }
         ]
@@ -413,7 +433,29 @@
       "ig": "https://www.instagram.com/oldjackgaragebar/",
       "bairro": "Novo Mundo",
       "cat": "Raiz",
-      "events": {}
+      "events": {
+        "2026-10-23": [
+          {
+            "name": "Creephead Rock 90's",
+            "time": "20:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-10-24": [
+          {
+            "name": "2 Thousand Miles Rock 80,90,2000",
+            "time": "20:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-10-25": [
+          {
+            "name": "Ignorante Pop Rock",
+            "time": "18:30:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Animals Pub",
