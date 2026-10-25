@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-23T14:17:35.573Z",
-  "week_start": "2026-10-23",
+  "updated_at": "2026-10-25T13:45:23.505Z",
+  "week_start": "2026-10-25",
   "model": "gemini-2.5-flash",
   "venues": [
     {
@@ -16,17 +16,10 @@
       "bairro": "Água Verde",
       "cat": "Gourmet",
       "events": {
-        "2026-10-23": [
+        "2026-10-31": [
           {
-            "name": "70’s Rock",
-            "time": "20:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-10-24": [
-          {
-            "name": "Rock Nacional",
-            "time": "20:00:00Z",
+            "name": "Especial Cazuza - RPM - Capital Inicial",
+            "time": "20:00:00.000Z",
             "description": null
           }
         ]
@@ -95,25 +88,6 @@
             "description": null
           }
         ],
-        "2026-10-23": [
-          {
-            "name": "HONEY! R U COMING?",
-            "time": "20:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-10-24": [
-          {
-            "name": "FIRE DUO",
-            "time": "16:00:00Z",
-            "description": null
-          },
-          {
-            "name": "SYD VINÍCIUS",
-            "time": "20:00:00Z",
-            "description": null
-          }
-        ],
         "2026-10-25": [
           {
             "name": "OCHTOP TRIO",
@@ -129,16 +103,16 @@
       "bairro": "Cabral",
       "cat": "Gourmet",
       "events": {
-        "2026-10-24": [
+        "2026-10-25": [
           {
-            "name": "Almoço com Alcatra à milanesa",
+            "name": "Almoço",
             "time": null,
             "description": null
           }
         ],
-        "2026-10-25": [
+        "2026-10-31": [
           {
-            "name": "Almoço com Alcatra à milanesa",
+            "name": "Almoço",
             "time": null,
             "description": null
           }
@@ -151,20 +125,6 @@
       "bairro": "Rebouças",
       "cat": "Gourmet",
       "events": {
-        "2026-10-23": [
-          {
-            "name": "Acústico Rock",
-            "time": null,
-            "description": null
-          }
-        ],
-        "2026-10-24": [
-          {
-            "name": "Rock Acústico",
-            "time": null,
-            "description": null
-          }
-        ],
         "2026-10-25": [
           {
             "name": "Rock Acústico",
@@ -208,39 +168,55 @@
       "bairro": "Seminário",
       "cat": "Gourmet",
       "events": {
-        "2026-10-23": [
+        "2026-10-31": [
           {
-            "name": "El Cartel",
+            "name": "Halloween com rock",
+            "time": null,
+            "description": null
+          },
+          {
+            "name": "Halloween do Distrito 1340",
+            "time": "16:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Show Hawks",
+            "time": "17:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Show Rádio Vinil",
+            "time": "19:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Show Firecracker",
             "time": "21:00:00Z",
             "description": null
           },
           {
-            "name": "Rusty Cage",
-            "time": "00:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-10-24": [
-          {
-            "name": "República Pine",
-            "time": "21:00:00Z",
+            "name": "DJs Rodrigo Farah e Tato Mueller",
+            "time": null,
             "description": null
           },
           {
-            "name": "Candyman",
-            "time": "00:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-10-25": [
-          {
-            "name": "CPM 22 Cover",
-            "time": "19:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Let’s Core",
+            "name": "Show Lenhadores",
             "time": "22:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Halloween do Distrito",
+            "time": "16:00:00Z",
+            "description": null
+          },
+          {
+            "name": "DJs Rodrigo Farah e Tato França",
+            "time": null,
+            "description": null
+          },
+          {
+            "name": "Show Backstage",
+            "time": "00:30:00Z",
             "description": null
           }
         ]
@@ -251,22 +227,7 @@
       "ig": "https://www.instagram.com/barbariumpub/",
       "bairro": "Rebouças",
       "cat": "Gourmet",
-      "events": {
-        "2026-10-23": [
-          {
-            "name": "Tiny Motion (rock acústico)",
-            "time": "21:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-10-24": [
-          {
-            "name": "Bad Mood (rock n roll)",
-            "time": "21:00:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Dobrucki",
@@ -274,7 +235,7 @@
       "bairro": "Rebouças",
       "cat": "Gourmet",
       "events": {
-        "2026-10-24": [
+        "2026-10-31": [
           {
             "name": "Candyman Club",
             "time": "15:00:00Z",
@@ -293,30 +254,7 @@
       "ig": "https://www.instagram.com/jokerspub/",
       "bairro": "Centro",
       "cat": "Gourmet",
-      "events": {
-        "2026-10-23": [
-          {
-            "name": "Prato do dia: Pescada Branca com molho de espinafre",
-            "time": null,
-            "description": null
-          },
-          {
-            "name": "Bon Jovi Cover Brasil",
-            "time": "21:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Happy Hour",
-            "time": "18:00:00Z",
-            "description": null
-          },
-          {
-            "name": "DJ Zi",
-            "time": null,
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Tork n' Roll",
@@ -324,15 +262,17 @@
       "bairro": "Rebouças",
       "cat": "Palco e Show",
       "events": {
-        "2026-10-24": [
+        "2026-10-31": [
           {
-            "name": "Retro 2Mil com Pelanza (Restart), Hevo 84 e Dead Fish",
+            "name": "FLASHBACK e Concurso de Fantasia",
             "time": null,
             "description": null
-          },
+          }
+        ],
+        "2026-10-27": [
           {
-            "name": "Evento Retrô 2000 com Pelanza, Hevo 84 e Dead Fish",
-            "time": "20:00:00.000Z",
+            "name": "Esquenta Iron Maiden com The Metal Beast e Iron Clan",
+            "time": null,
             "description": null
           }
         ]
@@ -343,42 +283,14 @@
       "ig": "https://www.instagram.com/bloodrockbar/",
       "bairro": "São Francisco",
       "cat": "Palco e Show",
-      "events": {
-        "2026-10-23": [
-          {
-            "name": "Festa Grunge Scream com Nirvana, Stone Temple Pilots, Silverchair e Alice in Cha",
-            "time": "21:30:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Seb's Rock Bar",
       "ig": "https://www.instagram.com/sebas_rock_bar/",
       "bairro": "Boqueirão",
       "cat": "Palco e Show",
-      "events": {
-        "2026-10-24": [
-          {
-            "name": "Show Boogie Night",
-            "time": "21:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Show Nega Fulo",
-            "time": "23:30:00Z",
-            "description": null
-          }
-        ],
-        "2026-10-23": [
-          {
-            "name": "Banda ACOUSTICA e OPEN FOOD com Fabinho Oliveira",
-            "time": "19:00:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Belvedere",
@@ -399,27 +311,7 @@
       "ig": "https://www.instagram.com/clayhighway/",
       "bairro": "Capão Raso",
       "cat": "Raiz",
-      "events": {
-        "2026-10-23": [
-          {
-            "name": "Pearl Jam Ribeirão Cover",
-            "time": "21:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Linkin Park Brasil Cover",
-            "time": "00:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-10-24": [
-          {
-            "name": "Halloween do Clay",
-            "time": null,
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Armazém Garage",
@@ -434,20 +326,6 @@
       "bairro": "Novo Mundo",
       "cat": "Raiz",
       "events": {
-        "2026-10-23": [
-          {
-            "name": "Creephead Rock 90's",
-            "time": "20:30:00Z",
-            "description": null
-          }
-        ],
-        "2026-10-24": [
-          {
-            "name": "2 Thousand Miles Rock 80,90,2000",
-            "time": "20:30:00Z",
-            "description": null
-          }
-        ],
         "2026-10-25": [
           {
             "name": "Ignorante Pop Rock",
