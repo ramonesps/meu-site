@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-25T13:45:23.505Z",
-  "week_start": "2026-10-25",
+  "updated_at": "2026-10-27T15:22:20.349Z",
+  "week_start": "2026-10-27",
   "model": "gemini-2.5-flash",
   "venues": [
     {
@@ -8,7 +8,65 @@
       "ig": "https://www.instagram.com/wearebastardspub/",
       "bairro": "Água Verde",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-11-01": [
+          {
+            "name": "Fiesta de los Muertos",
+            "time": null,
+            "description": null
+          },
+          {
+            "name": "El Cartel",
+            "time": "20:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Lady Die",
+            "time": "22:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-10-27": [
+          {
+            "name": "Dose in Blues Duo",
+            "time": "20:20:00Z",
+            "description": null
+          }
+        ],
+        "2026-10-28": [
+          {
+            "name": "Danni Distler Duo",
+            "time": "20:20:00Z",
+            "description": null
+          }
+        ],
+        "2026-10-29": [
+          {
+            "name": "Tiago Ribeiro Trio",
+            "time": "20:20:00Z",
+            "description": null
+          }
+        ],
+        "2026-10-30": [
+          {
+            "name": "Lenhadores da Antártida",
+            "time": "20:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Válvula Vapor",
+            "time": "22:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-10-31": [
+          {
+            "name": "Os Caras Charlie Brown",
+            "time": "21:30:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Cross Roads",
@@ -31,9 +89,26 @@
       "bairro": "Batel",
       "cat": "Gourmet",
       "events": {
+        "2026-10-31": [
+          {
+            "name": "Uma Noite em Hollywood",
+            "time": "19:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Concurso de melhor fantasia",
+            "time": null,
+            "description": null
+          },
+          {
+            "name": "Johaine",
+            "time": "12:30:00Z",
+            "description": null
+          }
+        ],
         "2026-10-27": [
           {
-            "name": "Maiden Factor",
+            "name": "Maiden Factor - Esquenta Iron Maiden",
             "time": "19:30:00Z",
             "description": null
           }
@@ -43,12 +118,46 @@
             "name": "Scream for Maiden",
             "time": "12:30:00Z",
             "description": null
+          },
+          {
+            "name": "Code Fire",
+            "time": "19:30:00Z",
+            "description": null
           }
         ],
         "2026-10-29": [
           {
             "name": "Scream for Maiden",
             "time": "12:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Brega Boys 2000",
+            "time": "19:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-10-30": [
+          {
+            "name": "Code Fire",
+            "time": "19:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-11-01": [
+          {
+            "name": "Gui Viana",
+            "time": "12:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Válvula Vapor",
+            "time": "19:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Almoço de domingo",
+            "time": null,
             "description": null
           }
         ]
@@ -69,29 +178,22 @@
       "events": {
         "2026-10-27": [
           {
-            "name": "Happy Hour com 30% off",
+            "name": "Happy Hour",
             "time": "18:00:00.000Z",
             "description": null
           }
         ],
         "2026-10-28": [
           {
-            "name": "Happy Hour com 30% off",
+            "name": "Happy Hour",
             "time": "18:00:00.000Z",
             "description": null
           }
         ],
         "2026-10-29": [
           {
-            "name": "Happy Hour com 30% off",
+            "name": "Happy Hour",
             "time": "18:00:00.000Z",
-            "description": null
-          }
-        ],
-        "2026-10-25": [
-          {
-            "name": "OCHTOP TRIO",
-            "time": "16:00:00Z",
             "description": null
           }
         ]
@@ -103,13 +205,6 @@
       "bairro": "Cabral",
       "cat": "Gourmet",
       "events": {
-        "2026-10-25": [
-          {
-            "name": "Almoço",
-            "time": null,
-            "description": null
-          }
-        ],
         "2026-10-31": [
           {
             "name": "Almoço",
@@ -124,43 +219,7 @@
       "ig": "https://www.instagram.com/rockpizzaroll.bar/",
       "bairro": "Rebouças",
       "cat": "Gourmet",
-      "events": {
-        "2026-10-25": [
-          {
-            "name": "Rock Acústico",
-            "time": null,
-            "description": null
-          }
-        ],
-        "2026-10-26": [
-          {
-            "name": "Rock Acústico",
-            "time": null,
-            "description": null
-          }
-        ],
-        "2026-10-27": [
-          {
-            "name": "Rock Acústico",
-            "time": null,
-            "description": null
-          }
-        ],
-        "2026-10-28": [
-          {
-            "name": "Rock Acústico",
-            "time": null,
-            "description": null
-          }
-        ],
-        "2026-10-29": [
-          {
-            "name": "Rock Acústico",
-            "time": null,
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Distrito 1340",
@@ -227,7 +286,15 @@
       "ig": "https://www.instagram.com/barbariumpub/",
       "bairro": "Rebouças",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-10-28": [
+          {
+            "name": "Esquenta e Pós Show Iron Maiden",
+            "time": "16:00:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Dobrucki",
@@ -254,7 +321,15 @@
       "ig": "https://www.instagram.com/jokerspub/",
       "bairro": "Centro",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-10-31": [
+          {
+            "name": "Festa Fantasia Anos 80 com DJ Katarina, DJ Rogério e Banda Varal do Wando",
+            "time": null,
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Tork n' Roll",
@@ -283,7 +358,22 @@
       "ig": "https://www.instagram.com/bloodrockbar/",
       "bairro": "São Francisco",
       "cat": "Palco e Show",
-      "events": {}
+      "events": {
+        "2026-11-01": [
+          {
+            "name": "NOCHE DE LOS MUERTOS com Double Deck e Candyman Club",
+            "time": "21:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-10-31": [
+          {
+            "name": "Festa de Halloween",
+            "time": null,
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Seb's Rock Bar",
@@ -297,7 +387,15 @@
       "ig": "https://www.instagram.com/belvederecasadecultura/",
       "bairro": "São Francisco",
       "cat": "Palco e Show",
-      "events": {}
+      "events": {
+        "2026-11-01": [
+          {
+            "name": "Show H2O, Questionshc e Mustaphorius",
+            "time": null,
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Resistência",
@@ -311,7 +409,49 @@
       "ig": "https://www.instagram.com/clayhighway/",
       "bairro": "Capão Raso",
       "cat": "Raiz",
-      "events": {}
+      "events": {
+        "2026-10-31": [
+          {
+            "name": "The Eurodance Tour Internacional com Taleesa, Nicki Frenck, Gottsha e DJ Jeison",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-11-01": [
+          {
+            "name": "Festa de Los Muertos",
+            "time": "19:00:00Z",
+            "description": null
+          },
+          {
+            "name": "DJ Santiago",
+            "time": "19:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Banda Gold Times",
+            "time": "20:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Banda Gallo Jack Show",
+            "time": "22:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-10-30": [
+          {
+            "name": "Especial 41 Natiruts",
+            "time": "21:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Banda Castanheira",
+            "time": "00:00:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Armazém Garage",
@@ -326,9 +466,42 @@
       "bairro": "Novo Mundo",
       "cat": "Raiz",
       "events": {
-        "2026-10-25": [
+        "2026-10-28": [
           {
-            "name": "Ignorante Pop Rock",
+            "name": "Karaokê",
+            "time": "19:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-10-29": [
+          {
+            "name": "Country Music",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-10-30": [
+          {
+            "name": "Tributo ao Metallica",
+            "time": "20:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-10-31": [
+          {
+            "name": "Halloween com Pop Rock",
+            "time": "20:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Halloween",
+            "time": "16:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-11-01": [
+          {
+            "name": "Rock Clássico",
             "time": "18:30:00Z",
             "description": null
           }
