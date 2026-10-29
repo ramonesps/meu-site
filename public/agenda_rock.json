@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-27T15:22:20.349Z",
-  "week_start": "2026-10-27",
+  "updated_at": "2026-10-29T16:05:53.139Z",
+  "week_start": "2026-10-29",
   "model": "gemini-2.5-flash",
   "venues": [
     {
@@ -23,20 +23,6 @@
           {
             "name": "Lady Die",
             "time": "22:30:00Z",
-            "description": null
-          }
-        ],
-        "2026-10-27": [
-          {
-            "name": "Dose in Blues Duo",
-            "time": "20:20:00Z",
-            "description": null
-          }
-        ],
-        "2026-10-28": [
-          {
-            "name": "Danni Distler Duo",
-            "time": "20:20:00Z",
             "description": null
           }
         ],
@@ -74,10 +60,41 @@
       "bairro": "Água Verde",
       "cat": "Gourmet",
       "events": {
+        "2026-10-29": [
+          {
+            "name": "Jazz & Classics com Décio Caetano Trio",
+            "time": "18:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-10-30": [
+          {
+            "name": "Rock a noite toda com Groove Qu�ntico, Sonora 4 e Pennyback",
+            "time": null,
+            "description": null
+          }
+        ],
         "2026-10-31": [
           {
-            "name": "Especial Cazuza - RPM - Capital Inicial",
+            "name": "Halloween no Cross com Drive True e Candyman Club",
+            "time": null,
+            "description": null
+          },
+          {
+            "name": "Halloween com Drive True e Candyman Club",
             "time": "20:00:00.000Z",
+            "description": null
+          },
+          {
+            "name": "Especial Cazuza, RPM e Capital Inicial",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-11-01": [
+          {
+            "name": "Pré-feriado com Bon Jovi Cover Brasil e Guns Cover Curitiba",
+            "time": null,
             "description": null
           }
         ]
@@ -103,25 +120,6 @@
           {
             "name": "Johaine",
             "time": "12:30:00Z",
-            "description": null
-          }
-        ],
-        "2026-10-27": [
-          {
-            "name": "Maiden Factor - Esquenta Iron Maiden",
-            "time": "19:30:00Z",
-            "description": null
-          }
-        ],
-        "2026-10-28": [
-          {
-            "name": "Scream for Maiden",
-            "time": "12:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Code Fire",
-            "time": "19:30:00Z",
             "description": null
           }
         ],
@@ -176,20 +174,6 @@
       "bairro": "Bom Retiro",
       "cat": "Gourmet",
       "events": {
-        "2026-10-27": [
-          {
-            "name": "Happy Hour",
-            "time": "18:00:00.000Z",
-            "description": null
-          }
-        ],
-        "2026-10-28": [
-          {
-            "name": "Happy Hour",
-            "time": "18:00:00.000Z",
-            "description": null
-          }
-        ],
         "2026-10-29": [
           {
             "name": "Happy Hour",
@@ -206,6 +190,13 @@
       "cat": "Gourmet",
       "events": {
         "2026-10-31": [
+          {
+            "name": "Almoço",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-11-01": [
           {
             "name": "Almoço",
             "time": null,
@@ -229,53 +220,74 @@
       "events": {
         "2026-10-31": [
           {
-            "name": "Halloween com rock",
+            "name": "Halloween",
             "time": null,
             "description": null
           },
           {
-            "name": "Halloween do Distrito 1340",
-            "time": "16:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Show Hawks",
+            "name": "Hawks",
             "time": "17:00:00Z",
             "description": null
           },
           {
-            "name": "Show Rádio Vinil",
+            "name": "Rádio Vinil",
             "time": "19:30:00Z",
             "description": null
           },
           {
-            "name": "Show Firecracker",
+            "name": "Firecracker",
             "time": "21:00:00Z",
             "description": null
           },
           {
-            "name": "DJs Rodrigo Farah e Tato Mueller",
+            "name": "DJs Rodrigo Farah e Tato Muller",
             "time": null,
             "description": null
           },
           {
-            "name": "Show Lenhadores",
+            "name": "Lenhadores",
             "time": "22:00:00Z",
             "description": null
           },
           {
-            "name": "Halloween do Distrito",
-            "time": "16:00:00Z",
-            "description": null
-          },
-          {
-            "name": "DJs Rodrigo Farah e Tato França",
-            "time": null,
-            "description": null
-          },
-          {
-            "name": "Show Backstage",
+            "name": "Backstage",
             "time": "00:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-10-29": [
+          {
+            "name": "Eddie Foster",
+            "time": "19:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Gibanela",
+            "time": "22:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Open pra mulherada",
+            "time": "19:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-10-30": [
+          {
+            "name": "Joe Crow",
+            "time": "21:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Syd Vinicius",
+            "time": "00:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-11-01": [
+          {
+            "name": "Offspring Cover Brasil",
+            "time": "21:00:00Z",
             "description": null
           }
         ]
@@ -286,15 +298,7 @@
       "ig": "https://www.instagram.com/barbariumpub/",
       "bairro": "Rebouças",
       "cat": "Gourmet",
-      "events": {
-        "2026-10-28": [
-          {
-            "name": "Esquenta e Pós Show Iron Maiden",
-            "time": "16:00:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Dobrucki",
@@ -303,11 +307,6 @@
       "cat": "Gourmet",
       "events": {
         "2026-10-31": [
-          {
-            "name": "Candyman Club",
-            "time": "15:00:00Z",
-            "description": null
-          },
           {
             "name": "Música ao vivo",
             "time": null,
@@ -339,14 +338,34 @@
       "events": {
         "2026-10-31": [
           {
-            "name": "FLASHBACK e Concurso de Fantasia",
+            "name": "TORK HALLOWEEN / FLASHBACK",
             "time": null,
+            "description": null
+          },
+          {
+            "name": "DJ GILBERTO",
+            "time": "19:00:00Z",
+            "description": null
+          },
+          {
+            "name": "NEGA FULÔ",
+            "time": "21:00:00Z",
+            "description": null
+          },
+          {
+            "name": "DELOREAN",
+            "time": "00:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Concurso de Fantasias",
+            "time": "23:15:00Z",
             "description": null
           }
         ],
-        "2026-10-27": [
+        "2026-10-30": [
           {
-            "name": "Esquenta Iron Maiden com The Metal Beast e Iron Clan",
+            "name": "Show Matanza",
             "time": null,
             "description": null
           }
@@ -380,7 +399,25 @@
       "ig": "https://www.instagram.com/sebas_rock_bar/",
       "bairro": "Boqueirão",
       "cat": "Palco e Show",
-      "events": {}
+      "events": {
+        "2026-10-30": [
+          {
+            "name": "Show Flashnback",
+            "time": null,
+            "description": null
+          },
+          {
+            "name": "Abertura Cleiton Valle",
+            "time": null,
+            "description": null
+          },
+          {
+            "name": "Open Food",
+            "time": "19:00:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Belvedere",
@@ -402,7 +439,15 @@
       "ig": "https://www.instagram.com/resistenciarock/",
       "bairro": "Bairro Alto",
       "cat": "Raiz",
-      "events": {}
+      "events": {
+        "2026-10-30": [
+          {
+            "name": "Vespera de Halloween com Violet's Trio e Geração Coca-Cola",
+            "time": null,
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Clay Highway",
@@ -458,7 +503,36 @@
       "ig": "https://www.instagram.com/armazemgaragem/",
       "bairro": "Santo Inácio",
       "cat": "Raiz",
-      "events": {}
+      "events": {
+        "2026-10-29": [
+          {
+            "name": "Ander Bodon (Rock Acústico)",
+            "time": "21:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-10-30": [
+          {
+            "name": "Garagem do Terror (G'old Times, Club Soda)",
+            "time": "18:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-10-31": [
+          {
+            "name": "Largada do Raid Rally & Trilha da Meia Noite (Gran Verano, Insight)",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-11-01": [
+          {
+            "name": "Rota 66 (Rock N Roll), Made in CWB (Cover Iron Maiden)",
+            "time": "16:30:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Old Jack",
@@ -466,13 +540,6 @@
       "bairro": "Novo Mundo",
       "cat": "Raiz",
       "events": {
-        "2026-10-28": [
-          {
-            "name": "Karaokê",
-            "time": "19:00:00Z",
-            "description": null
-          }
-        ],
         "2026-10-29": [
           {
             "name": "Country Music",
