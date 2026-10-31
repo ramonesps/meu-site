@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-29T16:05:53.139Z",
-  "week_start": "2026-10-29",
+  "updated_at": "2026-10-31T15:18:10.366Z",
+  "week_start": "2026-10-31",
   "model": "gemini-2.5-flash",
   "venues": [
     {
@@ -14,42 +14,6 @@
             "name": "Fiesta de los Muertos",
             "time": null,
             "description": null
-          },
-          {
-            "name": "El Cartel",
-            "time": "20:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Lady Die",
-            "time": "22:30:00Z",
-            "description": null
-          }
-        ],
-        "2026-10-29": [
-          {
-            "name": "Tiago Ribeiro Trio",
-            "time": "20:20:00Z",
-            "description": null
-          }
-        ],
-        "2026-10-30": [
-          {
-            "name": "Lenhadores da Antártida",
-            "time": "20:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Válvula Vapor",
-            "time": "22:30:00Z",
-            "description": null
-          }
-        ],
-        "2026-10-31": [
-          {
-            "name": "Os Caras Charlie Brown",
-            "time": "21:30:00Z",
-            "description": null
           }
         ]
       }
@@ -60,20 +24,6 @@
       "bairro": "Água Verde",
       "cat": "Gourmet",
       "events": {
-        "2026-10-29": [
-          {
-            "name": "Jazz & Classics com Décio Caetano Trio",
-            "time": "18:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-10-30": [
-          {
-            "name": "Rock a noite toda com Groove Qu�ntico, Sonora 4 e Pennyback",
-            "time": null,
-            "description": null
-          }
-        ],
         "2026-10-31": [
           {
             "name": "Halloween no Cross com Drive True e Candyman Club",
@@ -105,61 +55,7 @@
       "ig": "https://www.instagram.com/hrccuritiba/",
       "bairro": "Batel",
       "cat": "Gourmet",
-      "events": {
-        "2026-10-31": [
-          {
-            "name": "Uma Noite em Hollywood",
-            "time": "19:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Concurso de melhor fantasia",
-            "time": null,
-            "description": null
-          },
-          {
-            "name": "Johaine",
-            "time": "12:30:00Z",
-            "description": null
-          }
-        ],
-        "2026-10-29": [
-          {
-            "name": "Scream for Maiden",
-            "time": "12:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Brega Boys 2000",
-            "time": "19:30:00Z",
-            "description": null
-          }
-        ],
-        "2026-10-30": [
-          {
-            "name": "Code Fire",
-            "time": "19:30:00Z",
-            "description": null
-          }
-        ],
-        "2026-11-01": [
-          {
-            "name": "Gui Viana",
-            "time": "12:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Válvula Vapor",
-            "time": "19:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Almoço de domingo",
-            "time": null,
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Sheridans",
@@ -174,9 +70,23 @@
       "bairro": "Bom Retiro",
       "cat": "Gourmet",
       "events": {
-        "2026-10-29": [
+        "2026-11-03": [
           {
-            "name": "Happy Hour",
+            "name": "Happy Hour com 30% off",
+            "time": "18:00:00.000Z",
+            "description": null
+          }
+        ],
+        "2026-11-04": [
+          {
+            "name": "Happy Hour com 30% off",
+            "time": "18:00:00.000Z",
+            "description": null
+          }
+        ],
+        "2026-11-05": [
+          {
+            "name": "Happy Hour com 30% off",
             "time": "18:00:00.000Z",
             "description": null
           }
@@ -210,7 +120,50 @@
       "ig": "https://www.instagram.com/rockpizzaroll.bar/",
       "bairro": "Rebouças",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-11-01": [
+          {
+            "name": "Banda V\nRocker",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-11-02": [
+          {
+            "name": "Banda V\nRocker",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-11-03": [
+          {
+            "name": "Banda V\nRocker",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-11-04": [
+          {
+            "name": "Banda V\nRocker",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-11-05": [
+          {
+            "name": "Banda V\nRocker",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-11-06": [
+          {
+            "name": "Banda V\nRocker",
+            "time": null,
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Distrito 1340",
@@ -255,35 +208,6 @@
             "description": null
           }
         ],
-        "2026-10-29": [
-          {
-            "name": "Eddie Foster",
-            "time": "19:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Gibanela",
-            "time": "22:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Open pra mulherada",
-            "time": "19:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-10-30": [
-          {
-            "name": "Joe Crow",
-            "time": "21:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Syd Vinicius",
-            "time": "00:00:00Z",
-            "description": null
-          }
-        ],
         "2026-11-01": [
           {
             "name": "Offspring Cover Brasil",
@@ -298,7 +222,57 @@
       "ig": "https://www.instagram.com/barbariumpub/",
       "bairro": "Rebouças",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-10-31": [
+          {
+            "name": "Aberto Direto",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-11-01": [
+          {
+            "name": "Aberto Direto",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-11-02": [
+          {
+            "name": "Aberto Direto",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-11-03": [
+          {
+            "name": "Aberto Direto",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-11-04": [
+          {
+            "name": "Aberto Direto",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-11-05": [
+          {
+            "name": "Aberto Direto",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-11-06": [
+          {
+            "name": "Aberto Direto",
+            "time": null,
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Dobrucki",
@@ -323,8 +297,15 @@
       "events": {
         "2026-10-31": [
           {
-            "name": "Festa Fantasia Anos 80 com DJ Katarina, DJ Rogério e Banda Varal do Wando",
+            "name": "Feijoada",
             "time": null,
+            "description": null
+          }
+        ],
+        "2026-11-04": [
+          {
+            "name": "Feijoada",
+            "time": "11:30:00.000Z",
             "description": null
           }
         ]
@@ -362,13 +343,6 @@
             "time": "23:15:00Z",
             "description": null
           }
-        ],
-        "2026-10-30": [
-          {
-            "name": "Show Matanza",
-            "time": null,
-            "description": null
-          }
         ]
       }
     },
@@ -381,13 +355,13 @@
         "2026-11-01": [
           {
             "name": "NOCHE DE LOS MUERTOS com Double Deck e Candyman Club",
-            "time": "21:30:00Z",
+            "time": "21:30:00.000Z",
             "description": null
           }
         ],
         "2026-10-31": [
           {
-            "name": "Festa de Halloween",
+            "name": "Festa de Halloween com Deserta, Ozzstorm e KISS Experience",
             "time": null,
             "description": null
           }
@@ -399,55 +373,21 @@
       "ig": "https://www.instagram.com/sebas_rock_bar/",
       "bairro": "Boqueirão",
       "cat": "Palco e Show",
-      "events": {
-        "2026-10-30": [
-          {
-            "name": "Show Flashnback",
-            "time": null,
-            "description": null
-          },
-          {
-            "name": "Abertura Cleiton Valle",
-            "time": null,
-            "description": null
-          },
-          {
-            "name": "Open Food",
-            "time": "19:00:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Belvedere",
       "ig": "https://www.instagram.com/belvederecasadecultura/",
       "bairro": "São Francisco",
       "cat": "Palco e Show",
-      "events": {
-        "2026-11-01": [
-          {
-            "name": "Show H2O, Questionshc e Mustaphorius",
-            "time": null,
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Resistência",
       "ig": "https://www.instagram.com/resistenciarock/",
       "bairro": "Bairro Alto",
       "cat": "Raiz",
-      "events": {
-        "2026-10-30": [
-          {
-            "name": "Vespera de Halloween com Violet's Trio e Geração Coca-Cola",
-            "time": null,
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Clay Highway",
@@ -457,42 +397,8 @@
       "events": {
         "2026-10-31": [
           {
-            "name": "The Eurodance Tour Internacional com Taleesa, Nicki Frenck, Gottsha e DJ Jeison",
+            "name": "The Eurodance Tour Internacional",
             "time": null,
-            "description": null
-          }
-        ],
-        "2026-11-01": [
-          {
-            "name": "Festa de Los Muertos",
-            "time": "19:00:00Z",
-            "description": null
-          },
-          {
-            "name": "DJ Santiago",
-            "time": "19:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Banda Gold Times",
-            "time": "20:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Banda Gallo Jack Show",
-            "time": "22:30:00Z",
-            "description": null
-          }
-        ],
-        "2026-10-30": [
-          {
-            "name": "Especial 41 Natiruts",
-            "time": "21:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Banda Castanheira",
-            "time": "00:00:00Z",
             "description": null
           }
         ]
@@ -504,20 +410,6 @@
       "bairro": "Santo Inácio",
       "cat": "Raiz",
       "events": {
-        "2026-10-29": [
-          {
-            "name": "Ander Bodon (Rock Acústico)",
-            "time": "21:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-10-30": [
-          {
-            "name": "Garagem do Terror (G'old Times, Club Soda)",
-            "time": "18:00:00Z",
-            "description": null
-          }
-        ],
         "2026-10-31": [
           {
             "name": "Largada do Raid Rally & Trilha da Meia Noite (Gran Verano, Insight)",
@@ -540,29 +432,20 @@
       "bairro": "Novo Mundo",
       "cat": "Raiz",
       "events": {
-        "2026-10-29": [
-          {
-            "name": "Country Music",
-            "time": "20:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-10-30": [
-          {
-            "name": "Tributo ao Metallica",
-            "time": "20:30:00Z",
-            "description": null
-          }
-        ],
         "2026-10-31": [
           {
-            "name": "Halloween com Pop Rock",
+            "name": "Halloween com Pop Rock ao Vivo",
             "time": "20:30:00Z",
             "description": null
           },
           {
-            "name": "Halloween",
-            "time": "16:00:00Z",
+            "name": "Halloween com The Fabio Jr's",
+            "time": "20:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Festa de Halloween com Concurso de Fantasia e Música ao Vivo",
+            "time": null,
             "description": null
           }
         ],
