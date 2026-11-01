@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-31T15:18:10.366Z",
-  "week_start": "2026-10-31",
+  "updated_at": "2026-11-01T16:00:22.080Z",
+  "week_start": "2026-11-01",
   "model": "gemini-2.5-flash",
   "venues": [
     {
@@ -23,32 +23,7 @@
       "ig": "https://www.instagram.com/barcrossroads/",
       "bairro": "Água Verde",
       "cat": "Gourmet",
-      "events": {
-        "2026-10-31": [
-          {
-            "name": "Halloween no Cross com Drive True e Candyman Club",
-            "time": null,
-            "description": null
-          },
-          {
-            "name": "Halloween com Drive True e Candyman Club",
-            "time": "20:00:00.000Z",
-            "description": null
-          },
-          {
-            "name": "Especial Cazuza, RPM e Capital Inicial",
-            "time": "20:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-11-01": [
-          {
-            "name": "Pré-feriado com Bon Jovi Cover Brasil e Guns Cover Curitiba",
-            "time": null,
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Hard Rock",
@@ -99,14 +74,14 @@
       "bairro": "Cabral",
       "cat": "Gourmet",
       "events": {
-        "2026-10-31": [
+        "2026-11-01": [
           {
             "name": "Almoço",
             "time": null,
             "description": null
           }
         ],
-        "2026-11-01": [
+        "2026-11-07": [
           {
             "name": "Almoço",
             "time": null,
@@ -170,52 +145,7 @@
       "ig": "https://www.instagram.com/distrito.1340/",
       "bairro": "Seminário",
       "cat": "Gourmet",
-      "events": {
-        "2026-10-31": [
-          {
-            "name": "Halloween",
-            "time": null,
-            "description": null
-          },
-          {
-            "name": "Hawks",
-            "time": "17:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Rádio Vinil",
-            "time": "19:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Firecracker",
-            "time": "21:00:00Z",
-            "description": null
-          },
-          {
-            "name": "DJs Rodrigo Farah e Tato Muller",
-            "time": null,
-            "description": null
-          },
-          {
-            "name": "Lenhadores",
-            "time": "22:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Backstage",
-            "time": "00:30:00Z",
-            "description": null
-          }
-        ],
-        "2026-11-01": [
-          {
-            "name": "Offspring Cover Brasil",
-            "time": "21:00:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Barbarium",
@@ -223,13 +153,6 @@
       "bairro": "Rebouças",
       "cat": "Gourmet",
       "events": {
-        "2026-10-31": [
-          {
-            "name": "Aberto Direto",
-            "time": null,
-            "description": null
-          }
-        ],
         "2026-11-01": [
           {
             "name": "Aberto Direto",
@@ -280,10 +203,15 @@
       "bairro": "Rebouças",
       "cat": "Gourmet",
       "events": {
-        "2026-10-31": [
+        "2026-11-07": [
           {
             "name": "Música ao vivo",
             "time": null,
+            "description": null
+          },
+          {
+            "name": "Candyman Club e convidados",
+            "time": "15:00:00Z",
             "description": null
           }
         ]
@@ -295,13 +223,6 @@
       "bairro": "Centro",
       "cat": "Gourmet",
       "events": {
-        "2026-10-31": [
-          {
-            "name": "Feijoada",
-            "time": null,
-            "description": null
-          }
-        ],
         "2026-11-04": [
           {
             "name": "Feijoada",
@@ -316,35 +237,7 @@
       "ig": "https://www.instagram.com/torkandroll/",
       "bairro": "Rebouças",
       "cat": "Palco e Show",
-      "events": {
-        "2026-10-31": [
-          {
-            "name": "TORK HALLOWEEN / FLASHBACK",
-            "time": null,
-            "description": null
-          },
-          {
-            "name": "DJ GILBERTO",
-            "time": "19:00:00Z",
-            "description": null
-          },
-          {
-            "name": "NEGA FULÔ",
-            "time": "21:00:00Z",
-            "description": null
-          },
-          {
-            "name": "DELOREAN",
-            "time": "00:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Concurso de Fantasias",
-            "time": "23:15:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Blood Rock",
@@ -358,13 +251,6 @@
             "time": "21:30:00.000Z",
             "description": null
           }
-        ],
-        "2026-10-31": [
-          {
-            "name": "Festa de Halloween com Deserta, Ozzstorm e KISS Experience",
-            "time": null,
-            "description": null
-          }
         ]
       }
     },
@@ -373,7 +259,30 @@
       "ig": "https://www.instagram.com/sebas_rock_bar/",
       "bairro": "Boqueirão",
       "cat": "Palco e Show",
-      "events": {}
+      "events": {
+        "2026-11-01": [
+          {
+            "name": "Silvermoon",
+            "time": "21:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Delorean",
+            "time": "23:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Show Silvermoon",
+            "time": "21:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Show Delorean",
+            "time": "23:30:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Belvedere",
@@ -394,37 +303,14 @@
       "ig": "https://www.instagram.com/clayhighway/",
       "bairro": "Capão Raso",
       "cat": "Raiz",
-      "events": {
-        "2026-10-31": [
-          {
-            "name": "The Eurodance Tour Internacional",
-            "time": null,
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Armazém Garage",
       "ig": "https://www.instagram.com/armazemgaragem/",
       "bairro": "Santo Inácio",
       "cat": "Raiz",
-      "events": {
-        "2026-10-31": [
-          {
-            "name": "Largada do Raid Rally & Trilha da Meia Noite (Gran Verano, Insight)",
-            "time": null,
-            "description": null
-          }
-        ],
-        "2026-11-01": [
-          {
-            "name": "Rota 66 (Rock N Roll), Made in CWB (Cover Iron Maiden)",
-            "time": "16:30:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Old Jack",
@@ -432,23 +318,6 @@
       "bairro": "Novo Mundo",
       "cat": "Raiz",
       "events": {
-        "2026-10-31": [
-          {
-            "name": "Halloween com Pop Rock ao Vivo",
-            "time": "20:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Halloween com The Fabio Jr's",
-            "time": "20:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Festa de Halloween com Concurso de Fantasia e Música ao Vivo",
-            "time": null,
-            "description": null
-          }
-        ],
         "2026-11-01": [
           {
             "name": "Rock Clássico",
