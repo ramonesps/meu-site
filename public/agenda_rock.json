@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-01T16:00:22.080Z",
-  "week_start": "2026-11-01",
+  "updated_at": "2026-11-03T17:03:11.659Z",
+  "week_start": "2026-11-03",
   "model": "gemini-2.5-flash",
   "venues": [
     {
@@ -9,10 +9,48 @@
       "bairro": "Água Verde",
       "cat": "Gourmet",
       "events": {
-        "2026-11-01": [
+        "2026-11-04": [
           {
-            "name": "Fiesta de los Muertos",
+            "name": "Kid Abelha Cover",
             "time": null,
+            "description": null
+          },
+          {
+            "name": "Bastards Tracks Especial Kid Abelha",
+            "time": "20:20:00Z",
+            "description": null
+          }
+        ],
+        "2026-11-03": [
+          {
+            "name": "Dose In Blues Duo",
+            "time": "20:20:00Z",
+            "description": null
+          }
+        ],
+        "2026-11-05": [
+          {
+            "name": "Ochtop Trio",
+            "time": "20:20:00Z",
+            "description": null
+          }
+        ],
+        "2026-11-06": [
+          {
+            "name": "Folks Trio",
+            "time": "20:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Honey! R U Coming?",
+            "time": "22:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-11-07": [
+          {
+            "name": "DeLorean",
+            "time": "21:30:00Z",
             "description": null
           }
         ]
@@ -47,22 +85,63 @@
       "events": {
         "2026-11-03": [
           {
-            "name": "Happy Hour com 30% off",
-            "time": "18:00:00.000Z",
+            "name": "Happy Hour",
+            "time": "18:00:00Z",
+            "description": null
+          },
+          {
+            "name": "GOLDEN ROCK DUO",
+            "time": "19:30:00Z",
             "description": null
           }
         ],
         "2026-11-04": [
           {
-            "name": "Happy Hour com 30% off",
-            "time": "18:00:00.000Z",
+            "name": "Happy Hour",
+            "time": "18:00:00Z",
+            "description": null
+          },
+          {
+            "name": "TIAGO MARTINS",
+            "time": "19:30:00Z",
             "description": null
           }
         ],
         "2026-11-05": [
           {
-            "name": "Happy Hour com 30% off",
-            "time": "18:00:00.000Z",
+            "name": "Happy Hour",
+            "time": "18:00:00Z",
+            "description": null
+          },
+          {
+            "name": "BOULEVARD TRIO",
+            "time": "19:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-11-06": [
+          {
+            "name": "LADY DIE",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-11-07": [
+          {
+            "name": "NIKO & GIU",
+            "time": "16:00:00Z",
+            "description": null
+          },
+          {
+            "name": "VÁLVULA VAPOR",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-11-08": [
+          {
+            "name": "Feira de Discos Ruído Analógico",
+            "time": null,
             "description": null
           }
         ]
@@ -74,13 +153,6 @@
       "bairro": "Cabral",
       "cat": "Gourmet",
       "events": {
-        "2026-11-01": [
-          {
-            "name": "Almoço",
-            "time": null,
-            "description": null
-          }
-        ],
         "2026-11-07": [
           {
             "name": "Almoço",
@@ -96,45 +168,52 @@
       "bairro": "Rebouças",
       "cat": "Gourmet",
       "events": {
-        "2026-11-01": [
-          {
-            "name": "Banda V\nRocker",
-            "time": null,
-            "description": null
-          }
-        ],
-        "2026-11-02": [
-          {
-            "name": "Banda V\nRocker",
-            "time": null,
-            "description": null
-          }
-        ],
         "2026-11-03": [
           {
-            "name": "Banda V\nRocker",
-            "time": null,
+            "name": "ROCKOKE",
+            "time": "20:00:00Z",
             "description": null
           }
         ],
         "2026-11-04": [
           {
-            "name": "Banda V\nRocker",
-            "time": null,
+            "name": "QUARTA DO ROCK",
+            "time": "20:00:00Z",
             "description": null
           }
         ],
         "2026-11-05": [
           {
-            "name": "Banda V\nRocker",
-            "time": null,
+            "name": "QUINTA DO ROCK",
+            "time": "20:00:00Z",
             "description": null
           }
         ],
         "2026-11-06": [
           {
-            "name": "Banda V\nRocker",
-            "time": null,
+            "name": "Banda Rock N Roll All Night",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-11-07": [
+          {
+            "name": "Banda Rock N Roll All Night",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-11-08": [
+          {
+            "name": "DOMINGO DO ROCK",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-11-09": [
+          {
+            "name": "SEGUNDA DO ROCK",
+            "time": "20:00:00Z",
             "description": null
           }
         ]
@@ -153,44 +232,44 @@
       "bairro": "Rebouças",
       "cat": "Gourmet",
       "events": {
-        "2026-11-01": [
-          {
-            "name": "Aberto Direto",
-            "time": null,
-            "description": null
-          }
-        ],
-        "2026-11-02": [
-          {
-            "name": "Aberto Direto",
-            "time": null,
-            "description": null
-          }
-        ],
         "2026-11-03": [
           {
-            "name": "Aberto Direto",
+            "name": "Aberto Direto com Happy Hour",
             "time": null,
             "description": null
           }
         ],
         "2026-11-04": [
           {
-            "name": "Aberto Direto",
+            "name": "Aberto Direto com Happy Hour",
             "time": null,
             "description": null
           }
         ],
         "2026-11-05": [
           {
-            "name": "Aberto Direto",
+            "name": "Aberto Direto com Happy Hour",
             "time": null,
             "description": null
           }
         ],
         "2026-11-06": [
           {
-            "name": "Aberto Direto",
+            "name": "Aberto Direto com Happy Hour",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-11-07": [
+          {
+            "name": "Aberto Direto com Happy Hour",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-11-08": [
+          {
+            "name": "Aberto Direto com Happy Hour",
             "time": null,
             "description": null
           }
@@ -223,10 +302,10 @@
       "bairro": "Centro",
       "cat": "Gourmet",
       "events": {
-        "2026-11-04": [
+        "2026-11-03": [
           {
-            "name": "Feijoada",
-            "time": "11:30:00.000Z",
+            "name": "Prato do dia: Bife \\u00e0 cavalo",
+            "time": null,
             "description": null
           }
         ]
@@ -245,10 +324,17 @@
       "bairro": "São Francisco",
       "cat": "Palco e Show",
       "events": {
-        "2026-11-01": [
+        "2026-11-07": [
           {
-            "name": "NOCHE DE LOS MUERTOS com Double Deck e Candyman Club",
-            "time": "21:30:00.000Z",
+            "name": "Linkin Park Cover NEW DIVIDE Tribute Brazil",
+            "time": "22:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-11-06": [
+          {
+            "name": "Noite Indie com Tributo a Muse, Strokes e Arctic Monkeys",
+            "time": "21:30:00Z",
             "description": null
           }
         ]
@@ -259,30 +345,7 @@
       "ig": "https://www.instagram.com/sebas_rock_bar/",
       "bairro": "Boqueirão",
       "cat": "Palco e Show",
-      "events": {
-        "2026-11-01": [
-          {
-            "name": "Silvermoon",
-            "time": "21:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Delorean",
-            "time": "23:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Show Silvermoon",
-            "time": "21:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Show Delorean",
-            "time": "23:30:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Belvedere",
@@ -303,7 +366,20 @@
       "ig": "https://www.instagram.com/clayhighway/",
       "bairro": "Capão Raso",
       "cat": "Raiz",
-      "events": {}
+      "events": {
+        "2026-11-06": [
+          {
+            "name": "PARANOÍA RAUL SEIXAS BANDA",
+            "time": "20:30:00Z",
+            "description": null
+          },
+          {
+            "name": "VENTANIA & banda Hippie",
+            "time": "23:00:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Armazém Garage",
@@ -318,9 +394,37 @@
       "bairro": "Novo Mundo",
       "cat": "Raiz",
       "events": {
-        "2026-11-01": [
+        "2026-11-04": [
           {
-            "name": "Rock Clássico",
+            "name": "Confraria do Blues",
+            "time": "19:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-11-05": [
+          {
+            "name": "Country Night Live",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-11-06": [
+          {
+            "name": "Insight",
+            "time": "20:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-11-07": [
+          {
+            "name": "Tarja Blue",
+            "time": "20:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-11-08": [
+          {
+            "name": "Radio Waves",
             "time": "18:30:00Z",
             "description": null
           }
