@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-03T17:03:11.659Z",
-  "week_start": "2026-11-03",
+  "updated_at": "2026-11-05T17:19:36.205Z",
+  "week_start": "2026-11-05",
   "model": "gemini-2.5-flash",
   "venues": [
     {
@@ -9,25 +9,6 @@
       "bairro": "Água Verde",
       "cat": "Gourmet",
       "events": {
-        "2026-11-04": [
-          {
-            "name": "Kid Abelha Cover",
-            "time": null,
-            "description": null
-          },
-          {
-            "name": "Bastards Tracks Especial Kid Abelha",
-            "time": "20:20:00Z",
-            "description": null
-          }
-        ],
-        "2026-11-03": [
-          {
-            "name": "Dose In Blues Duo",
-            "time": "20:20:00Z",
-            "description": null
-          }
-        ],
         "2026-11-05": [
           {
             "name": "Ochtop Trio",
@@ -61,7 +42,29 @@
       "ig": "https://www.instagram.com/barcrossroads/",
       "bairro": "Água Verde",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-11-05": [
+          {
+            "name": "Vitrola Vintage - Rock Nacional e Internacional",
+            "time": "18:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-11-06": [
+          {
+            "name": "Shows com The Vedders, Sulround e Afoostic",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-11-07": [
+          {
+            "name": "Aniversário 20 Anos Acoustica",
+            "time": null,
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Hard Rock",
@@ -83,30 +86,6 @@
       "bairro": "Bom Retiro",
       "cat": "Gourmet",
       "events": {
-        "2026-11-03": [
-          {
-            "name": "Happy Hour",
-            "time": "18:00:00Z",
-            "description": null
-          },
-          {
-            "name": "GOLDEN ROCK DUO",
-            "time": "19:30:00Z",
-            "description": null
-          }
-        ],
-        "2026-11-04": [
-          {
-            "name": "Happy Hour",
-            "time": "18:00:00Z",
-            "description": null
-          },
-          {
-            "name": "TIAGO MARTINS",
-            "time": "19:30:00Z",
-            "description": null
-          }
-        ],
         "2026-11-05": [
           {
             "name": "Happy Hour",
@@ -159,6 +138,13 @@
             "time": null,
             "description": null
           }
+        ],
+        "2026-11-08": [
+          {
+            "name": "Almoço",
+            "time": null,
+            "description": null
+          }
         ]
       }
     },
@@ -168,20 +154,6 @@
       "bairro": "Rebouças",
       "cat": "Gourmet",
       "events": {
-        "2026-11-03": [
-          {
-            "name": "ROCKOKE",
-            "time": "20:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-11-04": [
-          {
-            "name": "QUARTA DO ROCK",
-            "time": "20:00:00Z",
-            "description": null
-          }
-        ],
         "2026-11-05": [
           {
             "name": "QUINTA DO ROCK",
@@ -224,7 +196,56 @@
       "ig": "https://www.instagram.com/distrito.1340/",
       "bairro": "Seminário",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-11-05": [
+          {
+            "name": "Eddie Foster (solo)",
+            "time": "19:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Syd Vinicius",
+            "time": "20:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Radiophonics",
+            "time": "23:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-11-06": [
+          {
+            "name": "Rock In Duo",
+            "time": "21:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-11-07": [
+          {
+            "name": "WillTupi (voz e violão)",
+            "time": "20:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Drive True",
+            "time": "21:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Rusty Cage",
+            "time": "00:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-11-08": [
+          {
+            "name": "Wilian Caverna (voz e violão)",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Barbarium",
@@ -232,20 +253,6 @@
       "bairro": "Rebouças",
       "cat": "Gourmet",
       "events": {
-        "2026-11-03": [
-          {
-            "name": "Aberto Direto com Happy Hour",
-            "time": null,
-            "description": null
-          }
-        ],
-        "2026-11-04": [
-          {
-            "name": "Aberto Direto com Happy Hour",
-            "time": null,
-            "description": null
-          }
-        ],
         "2026-11-05": [
           {
             "name": "Aberto Direto com Happy Hour",
@@ -289,7 +296,7 @@
             "description": null
           },
           {
-            "name": "Candyman Club e convidados",
+            "name": "Candyman Club, Minha Banda é uma Festa, Hus Cage, DJ Adriano",
             "time": "15:00:00Z",
             "description": null
           }
@@ -301,22 +308,27 @@
       "ig": "https://www.instagram.com/jokerspub/",
       "bairro": "Centro",
       "cat": "Gourmet",
-      "events": {
-        "2026-11-03": [
-          {
-            "name": "Prato do dia: Bife \\u00e0 cavalo",
-            "time": null,
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Tork n' Roll",
       "ig": "https://www.instagram.com/torkandroll/",
       "bairro": "Rebouças",
       "cat": "Palco e Show",
-      "events": {}
+      "events": {
+        "2026-11-07": [
+          {
+            "name": "Pinkpop banda",
+            "time": null,
+            "description": null
+          },
+          {
+            "name": "Infinity Tributo (One Direction e Harry Styles)",
+            "time": null,
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Blood Rock",
@@ -345,7 +357,72 @@
       "ig": "https://www.instagram.com/sebas_rock_bar/",
       "bairro": "Boqueirão",
       "cat": "Palco e Show",
-      "events": {}
+      "events": {
+        "2026-11-05": [
+          {
+            "name": "OPEN FOOD + THE SHADETTES NAZARETH TRIBUTO",
+            "time": "19:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Música ao vivo",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-11-06": [
+          {
+            "name": "Bon Jovi Cover Brasil e Goma Bass",
+            "time": null,
+            "description": null
+          },
+          {
+            "name": "Open Food",
+            "time": "19:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Música ao vivo",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-11-07": [
+          {
+            "name": "Música ao vivo",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-11-08": [
+          {
+            "name": "Música ao vivo",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-11-09": [
+          {
+            "name": "Música ao vivo",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-11-10": [
+          {
+            "name": "Música ao vivo",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-11-11": [
+          {
+            "name": "Música ao vivo",
+            "time": null,
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Belvedere",
@@ -394,13 +471,6 @@
       "bairro": "Novo Mundo",
       "cat": "Raiz",
       "events": {
-        "2026-11-04": [
-          {
-            "name": "Confraria do Blues",
-            "time": "19:00:00Z",
-            "description": null
-          }
-        ],
         "2026-11-05": [
           {
             "name": "Country Night Live",
@@ -436,7 +506,36 @@
       "ig": "https://www.instagram.com/theanimalspub/",
       "bairro": "Bacacheri",
       "cat": "Raiz",
-      "events": {}
+      "events": {
+        "2026-11-05": [
+          {
+            "name": "Quinta do Rock - The Animals",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-11-06": [
+          {
+            "name": "Sexta do Pop Rock - The Animals",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-11-07": [
+          {
+            "name": "Sábado do Classic Rock - The Animals",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-11-08": [
+          {
+            "name": "Domingo do Blues - The Animals",
+            "time": "18:00:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "92 Graus",
