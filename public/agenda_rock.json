@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-05T17:19:36.205Z",
-  "week_start": "2026-11-05",
+  "updated_at": "2026-11-07T15:39:22.778Z",
+  "week_start": "2026-11-07",
   "model": "gemini-2.5-flash",
   "venues": [
     {
@@ -9,29 +9,17 @@
       "bairro": "Água Verde",
       "cat": "Gourmet",
       "events": {
-        "2026-11-05": [
+        "2026-11-13": [
           {
-            "name": "Ochtop Trio",
-            "time": "20:20:00Z",
-            "description": null
-          }
-        ],
-        "2026-11-06": [
-          {
-            "name": "Folks Trio",
-            "time": "20:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Honey! R U Coming?",
-            "time": "22:30:00Z",
+            "name": "Folks Trio e Sonora 4",
+            "time": "18:00:00Z",
             "description": null
           }
         ],
         "2026-11-07": [
           {
-            "name": "DeLorean",
-            "time": "21:30:00Z",
+            "name": "Delorean",
+            "time": "18:00:00Z",
             "description": null
           }
         ]
@@ -43,20 +31,6 @@
       "bairro": "Água Verde",
       "cat": "Gourmet",
       "events": {
-        "2026-11-05": [
-          {
-            "name": "Vitrola Vintage - Rock Nacional e Internacional",
-            "time": "18:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-11-06": [
-          {
-            "name": "Shows com The Vedders, Sulround e Afoostic",
-            "time": null,
-            "description": null
-          }
-        ],
         "2026-11-07": [
           {
             "name": "Aniversário 20 Anos Acoustica",
@@ -86,41 +60,10 @@
       "bairro": "Bom Retiro",
       "cat": "Gourmet",
       "events": {
-        "2026-11-05": [
-          {
-            "name": "Happy Hour",
-            "time": "18:00:00Z",
-            "description": null
-          },
-          {
-            "name": "BOULEVARD TRIO",
-            "time": "19:30:00Z",
-            "description": null
-          }
-        ],
-        "2026-11-06": [
-          {
-            "name": "LADY DIE",
-            "time": "20:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-11-07": [
-          {
-            "name": "NIKO & GIU",
-            "time": "16:00:00Z",
-            "description": null
-          },
-          {
-            "name": "VÁLVULA VAPOR",
-            "time": "20:00:00Z",
-            "description": null
-          }
-        ],
         "2026-11-08": [
           {
-            "name": "Feira de Discos Ruído Analógico",
-            "time": null,
+            "name": "Feira de Discos",
+            "time": "11:00:00.000Z",
             "description": null
           }
         ]
@@ -154,37 +97,51 @@
       "bairro": "Rebouças",
       "cat": "Gourmet",
       "events": {
-        "2026-11-05": [
-          {
-            "name": "QUINTA DO ROCK",
-            "time": "20:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-11-06": [
-          {
-            "name": "Banda Rock N Roll All Night",
-            "time": "20:00:00Z",
-            "description": null
-          }
-        ],
         "2026-11-07": [
           {
-            "name": "Banda Rock N Roll All Night",
+            "name": "ACÚSTICO ROCK",
             "time": "20:00:00Z",
             "description": null
           }
         ],
         "2026-11-08": [
           {
-            "name": "DOMINGO DO ROCK",
+            "name": "ROCK CLASSIC",
             "time": "20:00:00Z",
             "description": null
           }
         ],
         "2026-11-09": [
           {
-            "name": "SEGUNDA DO ROCK",
+            "name": "ROCK NACIONAL",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-11-10": [
+          {
+            "name": "ROCK ANOS 80",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-11-11": [
+          {
+            "name": "ROCK INTERNACIONAL",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-11-12": [
+          {
+            "name": "ROCK BLUES",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-11-13": [
+          {
+            "name": "ROCK POP",
             "time": "20:00:00Z",
             "description": null
           }
@@ -197,30 +154,6 @@
       "bairro": "Seminário",
       "cat": "Gourmet",
       "events": {
-        "2026-11-05": [
-          {
-            "name": "Eddie Foster (solo)",
-            "time": "19:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Syd Vinicius",
-            "time": "20:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Radiophonics",
-            "time": "23:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-11-06": [
-          {
-            "name": "Rock In Duo",
-            "time": "21:00:00Z",
-            "description": null
-          }
-        ],
         "2026-11-07": [
           {
             "name": "WillTupi (voz e violão)",
@@ -253,30 +186,16 @@
       "bairro": "Rebouças",
       "cat": "Gourmet",
       "events": {
-        "2026-11-05": [
-          {
-            "name": "Aberto Direto com Happy Hour",
-            "time": null,
-            "description": null
-          }
-        ],
-        "2026-11-06": [
-          {
-            "name": "Aberto Direto com Happy Hour",
-            "time": null,
-            "description": null
-          }
-        ],
         "2026-11-07": [
           {
-            "name": "Aberto Direto com Happy Hour",
+            "name": "Aberto Direto / Happy Hour",
             "time": null,
             "description": null
           }
         ],
         "2026-11-08": [
           {
-            "name": "Aberto Direto com Happy Hour",
+            "name": "Aberto Direto / Happy Hour",
             "time": null,
             "description": null
           }
@@ -308,7 +227,22 @@
       "ig": "https://www.instagram.com/jokerspub/",
       "bairro": "Centro",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-11-07": [
+          {
+            "name": "Feijoada",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-11-11": [
+          {
+            "name": "Feijoada",
+            "time": "11:30:00.000Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Tork n' Roll",
@@ -339,14 +273,7 @@
         "2026-11-07": [
           {
             "name": "Linkin Park Cover NEW DIVIDE Tribute Brazil",
-            "time": "22:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-11-06": [
-          {
-            "name": "Noite Indie com Tributo a Muse, Strokes e Arctic Monkeys",
-            "time": "21:30:00Z",
+            "time": "22:00:00.000Z",
             "description": null
           }
         ]
@@ -358,35 +285,6 @@
       "bairro": "Boqueirão",
       "cat": "Palco e Show",
       "events": {
-        "2026-11-05": [
-          {
-            "name": "OPEN FOOD + THE SHADETTES NAZARETH TRIBUTO",
-            "time": "19:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Música ao vivo",
-            "time": null,
-            "description": null
-          }
-        ],
-        "2026-11-06": [
-          {
-            "name": "Bon Jovi Cover Brasil e Goma Bass",
-            "time": null,
-            "description": null
-          },
-          {
-            "name": "Open Food",
-            "time": "19:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Música ao vivo",
-            "time": null,
-            "description": null
-          }
-        ],
         "2026-11-07": [
           {
             "name": "Música ao vivo",
@@ -444,15 +342,20 @@
       "bairro": "Capão Raso",
       "cat": "Raiz",
       "events": {
-        "2026-11-06": [
+        "2026-11-07": [
           {
-            "name": "PARANOÍA RAUL SEIXAS BANDA",
+            "name": "Varal do Wando",
             "time": "20:30:00Z",
             "description": null
           },
           {
-            "name": "VENTANIA & banda Hippie",
-            "time": "23:00:00Z",
+            "name": "Club Soda",
+            "time": "22:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Boogie Night",
+            "time": "01:00:00Z",
             "description": null
           }
         ]
@@ -470,36 +373,7 @@
       "ig": "https://www.instagram.com/oldjackgaragebar/",
       "bairro": "Novo Mundo",
       "cat": "Raiz",
-      "events": {
-        "2026-11-05": [
-          {
-            "name": "Country Night Live",
-            "time": "20:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-11-06": [
-          {
-            "name": "Insight",
-            "time": "20:30:00Z",
-            "description": null
-          }
-        ],
-        "2026-11-07": [
-          {
-            "name": "Tarja Blue",
-            "time": "20:30:00Z",
-            "description": null
-          }
-        ],
-        "2026-11-08": [
-          {
-            "name": "Radio Waves",
-            "time": "18:30:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Animals Pub",
@@ -507,20 +381,6 @@
       "bairro": "Bacacheri",
       "cat": "Raiz",
       "events": {
-        "2026-11-05": [
-          {
-            "name": "Quinta do Rock - The Animals",
-            "time": "20:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-11-06": [
-          {
-            "name": "Sexta do Pop Rock - The Animals",
-            "time": "20:00:00Z",
-            "description": null
-          }
-        ],
         "2026-11-07": [
           {
             "name": "Sábado do Classic Rock - The Animals",
