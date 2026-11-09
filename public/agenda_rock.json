@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-07T15:39:22.778Z",
-  "week_start": "2026-11-07",
+  "updated_at": "2026-11-09T19:45:05.704Z",
+  "week_start": "2026-11-09",
   "model": "gemini-2.5-flash",
   "venues": [
     {
@@ -15,13 +15,6 @@
             "time": "18:00:00Z",
             "description": null
           }
-        ],
-        "2026-11-07": [
-          {
-            "name": "Delorean",
-            "time": "18:00:00Z",
-            "description": null
-          }
         ]
       }
     },
@@ -31,10 +24,10 @@
       "bairro": "Água Verde",
       "cat": "Gourmet",
       "events": {
-        "2026-11-07": [
+        "2026-11-15": [
           {
-            "name": "Aniversário 20 Anos Acoustica",
-            "time": null,
+            "name": "Thunderstruck Crossover",
+            "time": "15:00:00.000Z",
             "description": null
           }
         ]
@@ -59,37 +52,14 @@
       "ig": "https://www.instagram.com/bardafabricabastards/",
       "bairro": "Bom Retiro",
       "cat": "Gourmet",
-      "events": {
-        "2026-11-08": [
-          {
-            "name": "Feira de Discos",
-            "time": "11:00:00.000Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Maniacs",
       "ig": "https://www.instagram.com/bardamaniacs/",
       "bairro": "Cabral",
       "cat": "Gourmet",
-      "events": {
-        "2026-11-07": [
-          {
-            "name": "Almoço",
-            "time": null,
-            "description": null
-          }
-        ],
-        "2026-11-08": [
-          {
-            "name": "Almoço",
-            "time": null,
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Rock Pizza",
@@ -97,20 +67,6 @@
       "bairro": "Rebouças",
       "cat": "Gourmet",
       "events": {
-        "2026-11-07": [
-          {
-            "name": "ACÚSTICO ROCK",
-            "time": "20:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-11-08": [
-          {
-            "name": "ROCK CLASSIC",
-            "time": "20:00:00Z",
-            "description": null
-          }
-        ],
         "2026-11-09": [
           {
             "name": "ROCK NACIONAL",
@@ -153,54 +109,14 @@
       "ig": "https://www.instagram.com/distrito.1340/",
       "bairro": "Seminário",
       "cat": "Gourmet",
-      "events": {
-        "2026-11-07": [
-          {
-            "name": "WillTupi (voz e violão)",
-            "time": "20:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Drive True",
-            "time": "21:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Rusty Cage",
-            "time": "00:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-11-08": [
-          {
-            "name": "Wilian Caverna (voz e violão)",
-            "time": "20:00:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Barbarium",
       "ig": "https://www.instagram.com/barbariumpub/",
       "bairro": "Rebouças",
       "cat": "Gourmet",
-      "events": {
-        "2026-11-07": [
-          {
-            "name": "Aberto Direto / Happy Hour",
-            "time": null,
-            "description": null
-          }
-        ],
-        "2026-11-08": [
-          {
-            "name": "Aberto Direto / Happy Hour",
-            "time": null,
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Dobrucki",
@@ -208,14 +124,14 @@
       "bairro": "Rebouças",
       "cat": "Gourmet",
       "events": {
-        "2026-11-07": [
+        "2026-11-14": [
           {
             "name": "Música ao vivo",
             "time": null,
             "description": null
           },
           {
-            "name": "Candyman Club, Minha Banda é uma Festa, Hus Cage, DJ Adriano",
+            "name": "Candyman Club e convidados",
             "time": "15:00:00Z",
             "description": null
           }
@@ -228,13 +144,6 @@
       "bairro": "Centro",
       "cat": "Gourmet",
       "events": {
-        "2026-11-07": [
-          {
-            "name": "Feijoada",
-            "time": null,
-            "description": null
-          }
-        ],
         "2026-11-11": [
           {
             "name": "Feijoada",
@@ -250,15 +159,27 @@
       "bairro": "Rebouças",
       "cat": "Palco e Show",
       "events": {
-        "2026-11-07": [
+        "2026-11-13": [
           {
-            "name": "Pinkpop banda",
-            "time": null,
+            "name": "Rafael Witt",
+            "time": "20:00:00Z",
             "description": null
           },
           {
-            "name": "Infinity Tributo (One Direction e Harry Styles)",
-            "time": null,
+            "name": "THE WHITE BUFFALO",
+            "time": "21:00:00Z",
+            "description": null
+          },
+          {
+            "name": "HILLBILLY RAWHIDE",
+            "time": "00:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-11-12": [
+          {
+            "name": "Rogério Cordoni (Elvis Cover) e Skaravelhos do Lockdown",
+            "time": "19:00:00Z",
             "description": null
           }
         ]
@@ -269,15 +190,7 @@
       "ig": "https://www.instagram.com/bloodrockbar/",
       "bairro": "São Francisco",
       "cat": "Palco e Show",
-      "events": {
-        "2026-11-07": [
-          {
-            "name": "Linkin Park Cover NEW DIVIDE Tribute Brazil",
-            "time": "22:00:00.000Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Seb's Rock Bar",
@@ -285,38 +198,44 @@
       "bairro": "Boqueirão",
       "cat": "Palco e Show",
       "events": {
-        "2026-11-07": [
+        "2026-11-12": [
           {
-            "name": "Música ao vivo",
+            "name": "Coração Pirata Roupa Nova Cover",
             "time": null,
+            "description": null
+          },
+          {
+            "name": "Open Food Buffet à Vontade",
+            "time": "19:00:00Z",
             "description": null
           }
         ],
-        "2026-11-08": [
+        "2026-11-13": [
           {
-            "name": "Música ao vivo",
+            "name": "Show Club Soda e Fabinho Oliveira",
             "time": null,
+            "description": null
+          },
+          {
+            "name": "Open Food",
+            "time": "19:00:00Z",
             "description": null
           }
         ],
-        "2026-11-09": [
+        "2026-11-14": [
           {
-            "name": "Música ao vivo",
-            "time": null,
+            "name": "Delorean",
+            "time": "21:00:00Z",
             "description": null
-          }
-        ],
-        "2026-11-10": [
+          },
           {
-            "name": "Música ao vivo",
-            "time": null,
+            "name": "Boogie Night",
+            "time": "23:00:00Z",
             "description": null
-          }
-        ],
-        "2026-11-11": [
+          },
           {
-            "name": "Música ao vivo",
-            "time": null,
+            "name": "Silvermoon",
+            "time": "01:00:00Z",
             "description": null
           }
         ]
@@ -341,32 +260,22 @@
       "ig": "https://www.instagram.com/clayhighway/",
       "bairro": "Capão Raso",
       "cat": "Raiz",
-      "events": {
-        "2026-11-07": [
-          {
-            "name": "Varal do Wando",
-            "time": "20:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Club Soda",
-            "time": "22:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Boogie Night",
-            "time": "01:00:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Armazém Garage",
       "ig": "https://www.instagram.com/armazemgaragem/",
       "bairro": "Santo Inácio",
       "cat": "Raiz",
-      "events": {}
+      "events": {
+        "2026-11-13": [
+          {
+            "name": "Os Caras do Charlie Brown",
+            "time": "21:00:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Old Jack",
@@ -380,22 +289,7 @@
       "ig": "https://www.instagram.com/theanimalspub/",
       "bairro": "Bacacheri",
       "cat": "Raiz",
-      "events": {
-        "2026-11-07": [
-          {
-            "name": "Sábado do Classic Rock - The Animals",
-            "time": "20:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-11-08": [
-          {
-            "name": "Domingo do Blues - The Animals",
-            "time": "18:00:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "92 Graus",
