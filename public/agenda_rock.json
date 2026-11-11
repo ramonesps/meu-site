@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-09T19:45:05.704Z",
-  "week_start": "2026-11-09",
+  "updated_at": "2026-11-11T17:05:47.216Z",
+  "week_start": "2026-11-11",
   "model": "gemini-2.5-flash",
   "venues": [
     {
@@ -13,6 +13,47 @@
           {
             "name": "Folks Trio e Sonora 4",
             "time": "18:00:00Z",
+            "description": null
+          },
+          {
+            "name": "BANDA SUGAR BEAT",
+            "time": "20:00:00Z",
+            "description": null
+          },
+          {
+            "name": "BANDA LILITH",
+            "time": "22:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-11-14": [
+          {
+            "name": "Delorean",
+            "time": "18:00:00Z",
+            "description": null
+          },
+          {
+            "name": "JUKEBOXX",
+            "time": "20:00:00Z",
+            "description": null
+          },
+          {
+            "name": "BACKSTAGE",
+            "time": "22:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-11-11": [
+          {
+            "name": "TIAGO JUK DUO",
+            "time": "20:20:00Z",
+            "description": null
+          }
+        ],
+        "2026-11-12": [
+          {
+            "name": "MOONSHINE",
+            "time": "20:20:00Z",
             "description": null
           }
         ]
@@ -66,43 +107,7 @@
       "ig": "https://www.instagram.com/rockpizzaroll.bar/",
       "bairro": "Rebouças",
       "cat": "Gourmet",
-      "events": {
-        "2026-11-09": [
-          {
-            "name": "ROCK NACIONAL",
-            "time": "20:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-11-10": [
-          {
-            "name": "ROCK ANOS 80",
-            "time": "20:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-11-11": [
-          {
-            "name": "ROCK INTERNACIONAL",
-            "time": "20:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-11-12": [
-          {
-            "name": "ROCK BLUES",
-            "time": "20:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-11-13": [
-          {
-            "name": "ROCK POP",
-            "time": "20:00:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Distrito 1340",
@@ -144,10 +149,17 @@
       "bairro": "Centro",
       "cat": "Gourmet",
       "events": {
-        "2026-11-11": [
+        "2026-11-12": [
           {
-            "name": "Feijoada",
-            "time": "11:30:00.000Z",
+            "name": "Marty Friedman e Asterism",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-11-13": [
+          {
+            "name": "Especial The Cure e Joy Division com Live Transmission e DJ Rober Vinil",
+            "time": "18:00:00Z",
             "description": null
           }
         ]
@@ -190,7 +202,15 @@
       "ig": "https://www.instagram.com/bloodrockbar/",
       "bairro": "São Francisco",
       "cat": "Palco e Show",
-      "events": {}
+      "events": {
+        "2026-11-14": [
+          {
+            "name": "Ghost Cover BR",
+            "time": null,
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Seb's Rock Bar",
@@ -260,7 +280,25 @@
       "ig": "https://www.instagram.com/clayhighway/",
       "bairro": "Capão Raso",
       "cat": "Raiz",
-      "events": {}
+      "events": {
+        "2026-11-13": [
+          {
+            "name": "DJ Jeison Sales",
+            "time": "20:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Tributo Roxette UK",
+            "time": "22:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Roxette UK",
+            "time": "22:00:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Armazém Garage",
