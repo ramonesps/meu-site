@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-11T17:05:47.216Z",
-  "week_start": "2026-11-11",
+  "updated_at": "2026-11-13T17:08:06.821Z",
+  "week_start": "2026-11-13",
   "model": "gemini-2.5-flash",
   "venues": [
     {
@@ -42,20 +42,6 @@
             "time": "22:30:00Z",
             "description": null
           }
-        ],
-        "2026-11-11": [
-          {
-            "name": "TIAGO JUK DUO",
-            "time": "20:20:00Z",
-            "description": null
-          }
-        ],
-        "2026-11-12": [
-          {
-            "name": "MOONSHINE",
-            "time": "20:20:00Z",
-            "description": null
-          }
         ]
       }
     },
@@ -67,8 +53,70 @@
       "events": {
         "2026-11-15": [
           {
-            "name": "Thunderstruck Crossover",
+            "name": "Thunderstruck CrossOver",
+            "time": "15:00:00Z",
+            "description": null
+          },
+          {
+            "name": "AUDIOSTRADA",
+            "time": "16:00:00Z",
+            "description": null
+          },
+          {
+            "name": "CREEDENCE COVER CWB",
+            "time": "18:00:00Z",
+            "description": null
+          },
+          {
+            "name": "FIRECRACKER",
+            "time": "20:00:00Z",
+            "description": null
+          },
+          {
+            "name": "RIGHT BACK",
+            "time": "17:30:00Z",
+            "description": null
+          },
+          {
+            "name": "LADY DIE",
+            "time": "19:30:00Z",
+            "description": null
+          },
+          {
+            "name": "THE VELVETS",
+            "time": "18:00:00Z",
+            "description": null
+          },
+          {
+            "name": "THE ELDER",
+            "time": "20:00:00Z",
+            "description": null
+          },
+          {
+            "name": "SYD VINÍCIUS",
+            "time": "22:00:00Z",
+            "description": null
+          },
+          {
+            "name": "CAIO CANDIDO",
+            "time": "17:30:00Z",
+            "description": null
+          },
+          {
+            "name": "MURTA",
+            "time": "20:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Sorteio da Feirinha do Thunderstruck Crossover",
             "time": "15:00:00.000Z",
+            "description": null
+          }
+        ],
+        "2026-11-14": [
+          {
+            "name": "Festa de 19 anos da Candyman Club",
+            "time": null,
             "description": null
           }
         ]
@@ -114,7 +162,39 @@
       "ig": "https://www.instagram.com/distrito.1340/",
       "bairro": "Seminário",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-11-13": [
+          {
+            "name": "Marcela Juk | Voz e violão",
+            "time": "21:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-11-14": [
+          {
+            "name": "Older Boys",
+            "time": "20:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Fusão 80",
+            "time": "21:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Guns Cover CWB",
+            "time": "00:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-11-15": [
+          {
+            "name": "Pombo’s Day / Big Jam",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Barbarium",
@@ -131,13 +211,13 @@
       "events": {
         "2026-11-14": [
           {
-            "name": "Música ao vivo",
-            "time": null,
+            "name": "Candyman Club e convidados",
+            "time": "15:00:00Z",
             "description": null
           },
           {
-            "name": "Candyman Club e convidados",
-            "time": "15:00:00Z",
+            "name": "Música ao vivo",
+            "time": null,
             "description": null
           }
         ]
@@ -149,13 +229,6 @@
       "bairro": "Centro",
       "cat": "Gourmet",
       "events": {
-        "2026-11-12": [
-          {
-            "name": "Marty Friedman e Asterism",
-            "time": "20:00:00Z",
-            "description": null
-          }
-        ],
         "2026-11-13": [
           {
             "name": "Especial The Cure e Joy Division com Live Transmission e DJ Rober Vinil",
@@ -178,20 +251,30 @@
             "description": null
           },
           {
-            "name": "THE WHITE BUFFALO",
+            "name": "Buffaloco",
             "time": "21:00:00Z",
             "description": null
           },
           {
-            "name": "HILLBILLY RAWHIDE",
+            "name": "Hillbilly Rawhide",
             "time": "00:00:00Z",
             "description": null
           }
         ],
-        "2026-11-12": [
+        "2026-11-14": [
           {
-            "name": "Rogério Cordoni (Elvis Cover) e Skaravelhos do Lockdown",
-            "time": "19:00:00Z",
+            "name": "Rafael Witt",
+            "time": "20:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Buffaloco",
+            "time": "21:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Araucaria X",
+            "time": "00:00:00Z",
             "description": null
           }
         ]
@@ -218,44 +301,10 @@
       "bairro": "Boqueirão",
       "cat": "Palco e Show",
       "events": {
-        "2026-11-12": [
+        "2026-11-19": [
           {
-            "name": "Coração Pirata Roupa Nova Cover",
-            "time": null,
-            "description": null
-          },
-          {
-            "name": "Open Food Buffet à Vontade",
+            "name": "Vintage Lounge com DJ Jeison Salles",
             "time": "19:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-11-13": [
-          {
-            "name": "Show Club Soda e Fabinho Oliveira",
-            "time": null,
-            "description": null
-          },
-          {
-            "name": "Open Food",
-            "time": "19:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-11-14": [
-          {
-            "name": "Delorean",
-            "time": "21:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Boogie Night",
-            "time": "23:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Silvermoon",
-            "time": "01:00:00Z",
             "description": null
           }
         ]
@@ -273,7 +322,15 @@
       "ig": "https://www.instagram.com/resistenciarock/",
       "bairro": "Bairro Alto",
       "cat": "Raiz",
-      "events": {}
+      "events": {
+        "2026-11-13": [
+          {
+            "name": "Show da banda DOUBLE DECK",
+            "time": null,
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Clay Highway",
@@ -305,15 +362,7 @@
       "ig": "https://www.instagram.com/armazemgaragem/",
       "bairro": "Santo Inácio",
       "cat": "Raiz",
-      "events": {
-        "2026-11-13": [
-          {
-            "name": "Os Caras do Charlie Brown",
-            "time": "21:00:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Old Jack",
