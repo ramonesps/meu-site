@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-13T17:08:06.821Z",
-  "week_start": "2026-11-13",
+  "updated_at": "2026-11-15T16:17:23.417Z",
+  "week_start": "2026-11-15",
   "model": "gemini-2.5-flash",
   "venues": [
     {
@@ -9,37 +9,17 @@
       "bairro": "Água Verde",
       "cat": "Gourmet",
       "events": {
-        "2026-11-13": [
+        "2026-11-20": [
           {
             "name": "Folks Trio e Sonora 4",
-            "time": "18:00:00Z",
-            "description": null
-          },
-          {
-            "name": "BANDA SUGAR BEAT",
-            "time": "20:00:00Z",
-            "description": null
-          },
-          {
-            "name": "BANDA LILITH",
-            "time": "22:30:00Z",
+            "time": null,
             "description": null
           }
         ],
-        "2026-11-14": [
+        "2026-11-21": [
           {
             "name": "Delorean",
-            "time": "18:00:00Z",
-            "description": null
-          },
-          {
-            "name": "JUKEBOXX",
-            "time": "20:00:00Z",
-            "description": null
-          },
-          {
-            "name": "BACKSTAGE",
-            "time": "22:30:00Z",
+            "time": null,
             "description": null
           }
         ]
@@ -112,13 +92,6 @@
             "time": "15:00:00.000Z",
             "description": null
           }
-        ],
-        "2026-11-14": [
-          {
-            "name": "Festa de 19 anos da Candyman Club",
-            "time": null,
-            "description": null
-          }
         ]
       }
     },
@@ -141,7 +114,15 @@
       "ig": "https://www.instagram.com/bardafabricabastards/",
       "bairro": "Bom Retiro",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-11-15": [
+          {
+            "name": "Danni Distler Trio",
+            "time": "16:00:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Maniacs",
@@ -163,30 +144,6 @@
       "bairro": "Seminário",
       "cat": "Gourmet",
       "events": {
-        "2026-11-13": [
-          {
-            "name": "Marcela Juk | Voz e violão",
-            "time": "21:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-11-14": [
-          {
-            "name": "Older Boys",
-            "time": "20:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Fusão 80",
-            "time": "21:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Guns Cover CWB",
-            "time": "00:00:00Z",
-            "description": null
-          }
-        ],
         "2026-11-15": [
           {
             "name": "Pombo’s Day / Big Jam",
@@ -208,20 +165,7 @@
       "ig": "https://www.instagram.com/dobruckibar/",
       "bairro": "Rebouças",
       "cat": "Gourmet",
-      "events": {
-        "2026-11-14": [
-          {
-            "name": "Candyman Club e convidados",
-            "time": "15:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Música ao vivo",
-            "time": null,
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Jokers",
@@ -229,10 +173,10 @@
       "bairro": "Centro",
       "cat": "Gourmet",
       "events": {
-        "2026-11-13": [
+        "2026-11-21": [
           {
-            "name": "Especial The Cure e Joy Division com Live Transmission e DJ Rober Vinil",
-            "time": "18:00:00Z",
+            "name": "Feijoada",
+            "time": null,
             "description": null
           }
         ]
@@ -243,42 +187,7 @@
       "ig": "https://www.instagram.com/torkandroll/",
       "bairro": "Rebouças",
       "cat": "Palco e Show",
-      "events": {
-        "2026-11-13": [
-          {
-            "name": "Rafael Witt",
-            "time": "20:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Buffaloco",
-            "time": "21:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Hillbilly Rawhide",
-            "time": "00:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-11-14": [
-          {
-            "name": "Rafael Witt",
-            "time": "20:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Buffaloco",
-            "time": "21:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Araucaria X",
-            "time": "00:00:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Blood Rock",
@@ -286,9 +195,21 @@
       "bairro": "São Francisco",
       "cat": "Palco e Show",
       "events": {
-        "2026-11-14": [
+        "2026-11-19": [
+          {
+            "name": "Banda Double Deck (tributo a The Cure, Depeche Mode, The Smiths)",
+            "time": "22:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-11-21": [
           {
             "name": "Ghost Cover BR",
+            "time": null,
+            "description": null
+          },
+          {
+            "name": "Flash Night Tattoo Temática do Ghost",
             "time": null,
             "description": null
           }
@@ -315,22 +236,22 @@
       "ig": "https://www.instagram.com/belvederecasadecultura/",
       "bairro": "São Francisco",
       "cat": "Palco e Show",
-      "events": {}
+      "events": {
+        "2026-11-21": [
+          {
+            "name": "Mixtape 2000 | Summer Eletrohits",
+            "time": "21:00:00.000Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Resistência",
       "ig": "https://www.instagram.com/resistenciarock/",
       "bairro": "Bairro Alto",
       "cat": "Raiz",
-      "events": {
-        "2026-11-13": [
-          {
-            "name": "Show da banda DOUBLE DECK",
-            "time": null,
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Clay Highway",
@@ -338,20 +259,10 @@
       "bairro": "Capão Raso",
       "cat": "Raiz",
       "events": {
-        "2026-11-13": [
+        "2026-11-15": [
           {
-            "name": "DJ Jeison Sales",
+            "name": "Banda KD TEREZA - Rock Nacional",
             "time": "20:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Tributo Roxette UK",
-            "time": "22:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Roxette UK",
-            "time": "22:00:00Z",
             "description": null
           }
         ]
