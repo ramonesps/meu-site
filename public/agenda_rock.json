@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-15T16:17:23.417Z",
-  "week_start": "2026-11-15",
+  "updated_at": "2026-11-17T18:27:38.785Z",
+  "week_start": "2026-11-17",
   "model": "gemini-2.5-flash",
   "venues": [
     {
@@ -30,70 +30,7 @@
       "ig": "https://www.instagram.com/barcrossroads/",
       "bairro": "Água Verde",
       "cat": "Gourmet",
-      "events": {
-        "2026-11-15": [
-          {
-            "name": "Thunderstruck CrossOver",
-            "time": "15:00:00Z",
-            "description": null
-          },
-          {
-            "name": "AUDIOSTRADA",
-            "time": "16:00:00Z",
-            "description": null
-          },
-          {
-            "name": "CREEDENCE COVER CWB",
-            "time": "18:00:00Z",
-            "description": null
-          },
-          {
-            "name": "FIRECRACKER",
-            "time": "20:00:00Z",
-            "description": null
-          },
-          {
-            "name": "RIGHT BACK",
-            "time": "17:30:00Z",
-            "description": null
-          },
-          {
-            "name": "LADY DIE",
-            "time": "19:30:00Z",
-            "description": null
-          },
-          {
-            "name": "THE VELVETS",
-            "time": "18:00:00Z",
-            "description": null
-          },
-          {
-            "name": "THE ELDER",
-            "time": "20:00:00Z",
-            "description": null
-          },
-          {
-            "name": "SYD VINÍCIUS",
-            "time": "22:00:00Z",
-            "description": null
-          },
-          {
-            "name": "CAIO CANDIDO",
-            "time": "17:30:00Z",
-            "description": null
-          },
-          {
-            "name": "MURTA",
-            "time": "20:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Sorteio da Feirinha do Thunderstruck Crossover",
-            "time": "15:00:00.000Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Hard Rock",
@@ -114,15 +51,7 @@
       "ig": "https://www.instagram.com/bardafabricabastards/",
       "bairro": "Bom Retiro",
       "cat": "Gourmet",
-      "events": {
-        "2026-11-15": [
-          {
-            "name": "Danni Distler Trio",
-            "time": "16:00:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Maniacs",
@@ -144,10 +73,86 @@
       "bairro": "Seminário",
       "cat": "Gourmet",
       "events": {
-        "2026-11-15": [
+        "2026-11-19": [
           {
-            "name": "Pombo’s Day / Big Jam",
+            "name": "Open pra Mulherada",
+            "time": "19:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Fusão 80",
+            "time": "19:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Candyman Club",
+            "time": "21:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Radiophonics",
+            "time": "23:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-11-20": [
+          {
+            "name": "Mistyc Duo",
+            "time": "21:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-11-21": [
+          {
+            "name": "Fran Castelano",
             "time": "20:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Pennyback",
+            "time": "21:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Syd Vinicius",
+            "time": "00:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-11-22": [
+          {
+            "name": "Sonora 4",
+            "time": "16:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Os Caras do Charlie Brown",
+            "time": "19:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Specialites",
+            "time": "21:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Pir�mide em Marte",
+            "time": "23:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Califórnia Fest",
+            "time": "16:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Califórnia Fest Pré-Verão",
+            "time": null,
+            "description": null
+          },
+          {
+            "name": "Os Caras do CB",
+            "time": "19:00:00.000Z",
             "description": null
           }
         ]
@@ -165,7 +170,20 @@
       "ig": "https://www.instagram.com/dobruckibar/",
       "bairro": "Rebouças",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-11-21": [
+          {
+            "name": "Candyman Club e convidados",
+            "time": "15:00:00.000Z",
+            "description": null
+          },
+          {
+            "name": "Noite de sábado",
+            "time": null,
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Jokers",
@@ -187,7 +205,22 @@
       "ig": "https://www.instagram.com/torkandroll/",
       "bairro": "Rebouças",
       "cat": "Palco e Show",
-      "events": {}
+      "events": {
+        "2026-11-20": [
+          {
+            "name": "Encontro de Lendas Internacional: Tributos Guns N’ Roses, Aerosmith e Queen",
+            "time": "21:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-11-19": [
+          {
+            "name": "2000’s Rock Experience",
+            "time": "20:30:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Blood Rock",
@@ -224,8 +257,22 @@
       "events": {
         "2026-11-19": [
           {
-            "name": "Vintage Lounge com DJ Jeison Salles",
-            "time": "19:00:00Z",
+            "name": "Vintage Lounge com Jeison Sales",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-11-20": [
+          {
+            "name": "Flash'n'Back e Open Food com Will Vox Acústico",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-11-21": [
+          {
+            "name": "Embalos de Sebaldo com Cuto Loureiro e DJ Marquinhos Espinosa",
+            "time": null,
             "description": null
           }
         ]
@@ -251,29 +298,37 @@
       "ig": "https://www.instagram.com/resistenciarock/",
       "bairro": "Bairro Alto",
       "cat": "Raiz",
-      "events": {}
-    },
-    {
-      "nome": "Clay Highway",
-      "ig": "https://www.instagram.com/clayhighway/",
-      "bairro": "Capão Raso",
-      "cat": "Raiz",
       "events": {
-        "2026-11-15": [
+        "2026-11-20": [
           {
-            "name": "Banda KD TEREZA - Rock Nacional",
-            "time": "20:30:00Z",
+            "name": "Banda CZAR",
+            "time": null,
             "description": null
           }
         ]
       }
     },
     {
+      "nome": "Clay Highway",
+      "ig": "https://www.instagram.com/clayhighway/",
+      "bairro": "Capão Raso",
+      "cat": "Raiz",
+      "events": {}
+    },
+    {
       "nome": "Armazém Garage",
       "ig": "https://www.instagram.com/armazemgaragem/",
       "bairro": "Santo Inácio",
       "cat": "Raiz",
-      "events": {}
+      "events": {
+        "2026-11-19": [
+          {
+            "name": "Garage 90 - Uma Noite de Flashback",
+            "time": "20:00:00.000Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Old Jack",
