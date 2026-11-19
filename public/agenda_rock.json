@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-17T18:27:38.785Z",
-  "week_start": "2026-11-17",
+  "updated_at": "2026-11-19T18:14:33.615Z",
+  "week_start": "2026-11-19",
   "model": "gemini-2.5-flash",
   "venues": [
     {
@@ -8,22 +8,7 @@
       "ig": "https://www.instagram.com/wearebastardspub/",
       "bairro": "Água Verde",
       "cat": "Gourmet",
-      "events": {
-        "2026-11-20": [
-          {
-            "name": "Folks Trio e Sonora 4",
-            "time": null,
-            "description": null
-          }
-        ],
-        "2026-11-21": [
-          {
-            "name": "Delorean",
-            "time": null,
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Cross Roads",
@@ -37,7 +22,51 @@
       "ig": "https://www.instagram.com/hrccuritiba/",
       "bairro": "Batel",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-11-19": [
+          {
+            "name": "Radiophonics",
+            "time": "19:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-11-20": [
+          {
+            "name": "Gui Vianna",
+            "time": "12:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Banda Dejavu",
+            "time": "19:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-11-21": [
+          {
+            "name": "Digão Castellani",
+            "time": "12:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Banda Dejavu",
+            "time": "19:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-11-22": [
+          {
+            "name": "Johaine Droppa",
+            "time": "12:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Radiophonics",
+            "time": "19:30:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Sheridans",
@@ -51,7 +80,41 @@
       "ig": "https://www.instagram.com/bardafabricabastards/",
       "bairro": "Bom Retiro",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-11-19": [
+          {
+            "name": "Rusty Cage Trio",
+            "time": "19:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-11-20": [
+          {
+            "name": "Banda Vinil Velho",
+            "time": "18:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-11-21": [
+          {
+            "name": "Golden Rock Duo",
+            "time": "16:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Audiostrada",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-11-22": [
+          {
+            "name": "Crooked Trio",
+            "time": "16:00:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Maniacs",
@@ -65,7 +128,57 @@
       "ig": "https://www.instagram.com/rockpizzaroll.bar/",
       "bairro": "Rebouças",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-11-19": [
+          {
+            "name": "Acústico Rock",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-11-20": [
+          {
+            "name": "Classic Rock",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-11-21": [
+          {
+            "name": "Rock Anos 80",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-11-22": [
+          {
+            "name": "Blues & Soul",
+            "time": "19:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-11-23": [
+          {
+            "name": "Rock Nacional",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-11-24": [
+          {
+            "name": "Tributo Charlie Brown Jr.",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-11-25": [
+          {
+            "name": "Rock Internacional",
+            "time": "20:00:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Distrito 1340",
@@ -163,7 +276,29 @@
       "ig": "https://www.instagram.com/barbariumpub/",
       "bairro": "Rebouças",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-11-19": [
+          {
+            "name": "Ivan Rodrigues e Fábio Elias (rock acústico)",
+            "time": "20:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-11-20": [
+          {
+            "name": "Tiny Motion (rock e grunge acústico)",
+            "time": "21:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-11-21": [
+          {
+            "name": "Contrabando (rock n roll)",
+            "time": "21:00:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Dobrucki",
@@ -191,10 +326,10 @@
       "bairro": "Centro",
       "cat": "Gourmet",
       "events": {
-        "2026-11-21": [
+        "2026-11-20": [
           {
-            "name": "Feijoada",
-            "time": null,
+            "name": "John \"Mad Dog\" Watkins",
+            "time": "20:00:00Z",
             "description": null
           }
         ]
@@ -228,22 +363,22 @@
       "bairro": "São Francisco",
       "cat": "Palco e Show",
       "events": {
-        "2026-11-19": [
+        "2026-11-21": [
           {
-            "name": "Banda Double Deck (tributo a The Cure, Depeche Mode, The Smiths)",
-            "time": "22:00:00Z",
+            "name": "Evento Folk/Viking",
+            "time": "19:00:00Z",
             "description": null
           }
         ],
-        "2026-11-21": [
+        "2026-11-19": [
           {
-            "name": "Ghost Cover BR",
-            "time": null,
+            "name": "Banda Double Deck tocando The Cure, Smiths, Joy, Sisters of Mercy, The Mission,",
+            "time": "22:00:00Z",
             "description": null
           },
           {
-            "name": "Flash Night Tattoo Temática do Ghost",
-            "time": null,
+            "name": "Show Double Deck (tributo a The Cure, Depeche Mode, etc.)",
+            "time": "22:00:00Z",
             "description": null
           }
         ]
@@ -283,15 +418,7 @@
       "ig": "https://www.instagram.com/belvederecasadecultura/",
       "bairro": "São Francisco",
       "cat": "Palco e Show",
-      "events": {
-        "2026-11-21": [
-          {
-            "name": "Mixtape 2000 | Summer Eletrohits",
-            "time": "21:00:00.000Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Resistência",
@@ -313,7 +440,52 @@
       "ig": "https://www.instagram.com/clayhighway/",
       "bairro": "Capão Raso",
       "cat": "Raiz",
-      "events": {}
+      "events": {
+        "2026-11-21": [
+          {
+            "name": "MEGA DRIVE",
+            "time": "20:30:00Z",
+            "description": null
+          },
+          {
+            "name": "CANDYMAN CLUB",
+            "time": "22:30:00Z",
+            "description": null
+          },
+          {
+            "name": "CRAZY LITTLE QUEEN tributo",
+            "time": "01:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-11-19": [
+          {
+            "name": "Som mecanico",
+            "time": "20:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Bloco NACIONAL",
+            "time": "22:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Bloco FEMININO",
+            "time": "23:20:00Z",
+            "description": null
+          },
+          {
+            "name": "Bloco INTERNACIONAL",
+            "time": "00:40:00Z",
+            "description": null
+          },
+          {
+            "name": "Festival Cada Um Na Sua",
+            "time": "22:00:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Armazém Garage",
