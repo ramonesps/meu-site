@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-21T16:50:21.781Z",
-  "week_start": "2026-11-21",
+  "updated_at": "2026-11-23T21:11:09.265Z",
+  "week_start": "2026-11-23",
   "model": "gemini-2.5-flash",
   "venues": [
     {
@@ -15,47 +15,14 @@
       "ig": "https://www.instagram.com/barcrossroads/",
       "bairro": "Água Verde",
       "cat": "Gourmet",
-      "events": {
-        "2026-11-21": [
-          {
-            "name": "Programação de sábado",
-            "time": "20:00:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Hard Rock",
       "ig": "https://www.instagram.com/hrccuritiba/",
       "bairro": "Batel",
       "cat": "Gourmet",
-      "events": {
-        "2026-11-21": [
-          {
-            "name": "Digão Castellani",
-            "time": "12:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Banda Dejavu",
-            "time": "19:30:00Z",
-            "description": null
-          }
-        ],
-        "2026-11-22": [
-          {
-            "name": "Johaine Droppa",
-            "time": "12:30:00Z",
-            "description": null
-          },
-          {
-            "name": "Radiophonics",
-            "time": "19:30:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Sheridans",
@@ -69,27 +36,7 @@
       "ig": "https://www.instagram.com/bardafabricabastards/",
       "bairro": "Bom Retiro",
       "cat": "Gourmet",
-      "events": {
-        "2026-11-21": [
-          {
-            "name": "Golden Rock Duo",
-            "time": "16:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Audiostrada",
-            "time": "20:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-11-22": [
-          {
-            "name": "Crooked Trio",
-            "time": "16:00:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Maniacs",
@@ -103,43 +50,7 @@
       "ig": "https://www.instagram.com/rockpizzaroll.bar/",
       "bairro": "Rebouças",
       "cat": "Gourmet",
-      "events": {
-        "2026-11-21": [
-          {
-            "name": "Rock Anos 80",
-            "time": "20:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-11-22": [
-          {
-            "name": "Blues & Soul",
-            "time": "19:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-11-23": [
-          {
-            "name": "Rock Nacional",
-            "time": "20:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-11-24": [
-          {
-            "name": "Tributo Charlie Brown Jr.",
-            "time": "20:00:00Z",
-            "description": null
-          }
-        ],
-        "2026-11-25": [
-          {
-            "name": "Rock Internacional",
-            "time": "20:00:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Distrito 1340",
@@ -153,30 +64,14 @@
       "ig": "https://www.instagram.com/barbariumpub/",
       "bairro": "Rebouças",
       "cat": "Gourmet",
-      "events": {
-        "2026-11-21": [
-          {
-            "name": "Contrabando (rock n roll)",
-            "time": "21:00:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Dobrucki",
       "ig": "https://www.instagram.com/dobruckibar/",
       "bairro": "Rebouças",
       "cat": "Gourmet",
-      "events": {
-        "2026-11-21": [
-          {
-            "name": "Música ao vivo",
-            "time": null,
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Jokers",
@@ -190,15 +85,7 @@
       "ig": "https://www.instagram.com/torkandroll/",
       "bairro": "Rebouças",
       "cat": "Palco e Show",
-      "events": {
-        "2026-11-21": [
-          {
-            "name": "O Bloco do Eu Sozinho",
-            "time": "21:00:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Blood Rock",
@@ -206,10 +93,22 @@
       "bairro": "São Francisco",
       "cat": "Palco e Show",
       "events": {
-        "2026-11-21": [
+        "2026-11-28": [
           {
-            "name": "Evento Folk/Viking",
-            "time": "19:00:00Z",
+            "name": "HALLOWEEN com SLIPKNOT e AVENGED SEVENFOLD cover",
+            "time": "21:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Ressaca do Halloween com Snot e Avenged Cover Brasil",
+            "time": "21:30:00Z",
+            "description": null
+          }
+        ],
+        "2026-11-27": [
+          {
+            "name": "HELLSTAR Black Sabbath Cover, IRON CLAN Iron Maiden Cover, STORMGAZER Dio Cover",
+            "time": "21:00:00Z",
             "description": null
           }
         ]
@@ -220,20 +119,7 @@
       "ig": "https://www.instagram.com/sebas_rock_bar/",
       "bairro": "Boqueirão",
       "cat": "Palco e Show",
-      "events": {
-        "2026-11-21": [
-          {
-            "name": "Guto Loureiro + Marquinhos Espinosa | Back to Mix",
-            "time": "21:00:00Z",
-            "description": null
-          },
-          {
-            "name": "Guto Loureiro e Marquinhos Espinosa - Back to Mix",
-            "time": "21:00:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Belvedere",
@@ -254,25 +140,7 @@
       "ig": "https://www.instagram.com/clayhighway/",
       "bairro": "Capão Raso",
       "cat": "Raiz",
-      "events": {
-        "2026-11-21": [
-          {
-            "name": "MEGA DRIVE",
-            "time": "20:30:00Z",
-            "description": null
-          },
-          {
-            "name": "CANDYMAN CLUB",
-            "time": "22:30:00Z",
-            "description": null
-          },
-          {
-            "name": "CRAZY LITTLE QUEEN tributo",
-            "time": "01:00:00Z",
-            "description": null
-          }
-        ]
-      }
+      "events": {}
     },
     {
       "nome": "Armazém Garage",
