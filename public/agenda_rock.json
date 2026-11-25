@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-23T21:11:09.265Z",
-  "week_start": "2026-11-23",
+  "updated_at": "2026-11-25T19:10:14.919Z",
+  "week_start": "2026-11-25",
   "model": "gemini-2.5-flash",
   "venues": [
     {
@@ -15,7 +15,34 @@
       "ig": "https://www.instagram.com/barcrossroads/",
       "bairro": "Água Verde",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-11-26": [
+          {
+            "name": "Tony Caster & The BlackMouth Dogs: Tributo aos mestres do Blues",
+            "time": "18:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Blues And Classics com Tony Caster & The Black Mouth Dogs",
+            "time": "18:00:00.000000000Z",
+            "description": null
+          }
+        ],
+        "2026-11-27": [
+          {
+            "name": "Double Deck (80’s New Wave, Post Punk e Goth Rock), Disco Party (Clássicos da Di",
+            "time": null,
+            "description": null
+          }
+        ],
+        "2026-11-28": [
+          {
+            "name": "Flash n Back (especial flashback), Milk’n’Blues (especial blues, pop, rock, soul",
+            "time": null,
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Hard Rock",
@@ -71,7 +98,20 @@
       "ig": "https://www.instagram.com/dobruckibar/",
       "bairro": "Rebouças",
       "cat": "Gourmet",
-      "events": {}
+      "events": {
+        "2026-11-28": [
+          {
+            "name": "Candyman Club",
+            "time": "15:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Música ao vivo",
+            "time": null,
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Jokers",
@@ -85,7 +125,37 @@
       "ig": "https://www.instagram.com/torkandroll/",
       "bairro": "Rebouças",
       "cat": "Palco e Show",
-      "events": {}
+      "events": {
+        "2026-11-27": [
+          {
+            "name": "Geração Eurodance (Discotecagem)",
+            "time": "21:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Banda Flashnback",
+            "time": "00:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Discotecagem",
+            "time": "21:00:00Z",
+            "description": null
+          }
+        ],
+        "2026-11-28": [
+          {
+            "name": "Banda Flash n' Back",
+            "time": "00:30:00Z",
+            "description": null
+          },
+          {
+            "name": "Encontro de Lendas: Tributos a Raul Seixas, Cazuza e Legião Urbana",
+            "time": "21:30:00Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Blood Rock",
@@ -119,7 +189,20 @@
       "ig": "https://www.instagram.com/sebas_rock_bar/",
       "bairro": "Boqueirão",
       "cat": "Palco e Show",
-      "events": {}
+      "events": {
+        "2026-11-28": [
+          {
+            "name": "Os Embalos de Sebaldo a Noite - Summer Hits",
+            "time": "21:00:00Z",
+            "description": null
+          },
+          {
+            "name": "Os Embalos de Sebaldo a Noite SUMMER HITS especial anos 90 e 2000",
+            "time": "21:00:00.000Z",
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Belvedere",
@@ -133,7 +216,15 @@
       "ig": "https://www.instagram.com/resistenciarock/",
       "bairro": "Bairro Alto",
       "cat": "Raiz",
-      "events": {}
+      "events": {
+        "2026-11-28": [
+          {
+            "name": "Banda Matilda",
+            "time": null,
+            "description": null
+          }
+        ]
+      }
     },
     {
       "nome": "Clay Highway",
